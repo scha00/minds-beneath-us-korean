@@ -1,11 +1,12 @@
-# Minds Beneath Us 한글패치 (비공식)
+# Minds Beneath Us 한글패치
 
 Unity 게임 **Minds Beneath Us**(BearBone Studio)의 비공식 팬 한글패치 프로젝트입니다.
 공식 한국어 지원은 없으며, 이 프로젝트는 게임사와 무관합니다.
 
 ## 다운로드 / 설치
 
-최신 릴리즈는 [Releases](../../releases) 페이지에서 받을 수 있습니다.
+최신 패치 파일: [MindsBeneathUsKorean.zip 다운로드](../../releases/latest/download/MindsBeneathUsKorean.zip)
+(다른 이전 버전은 [Releases](../../releases) 페이지에서 확인 가능)
 설치 방법은 [`install/INSTALL.md`](install/INSTALL.md) 를 참고하세요.
 
 - `.dll`/`.exe` 등 실행 파일은 전혀 건드리지 않습니다. 데이터 파일(`.bundle`)만 교체합니다.
