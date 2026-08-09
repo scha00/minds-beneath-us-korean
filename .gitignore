@@ -1,0 +1,22 @@
+# Deny-by-default: only explicitly allow-listed paths below are tracked.
+# This repo must NEVER contain the original game's assets, decompiled game
+# source, or raw extracted game text (copyright). Releases attach locally-built
+# .bundle overlay files (install/) instead — never the original game files.
+/*
+
+!/.gitignore
+!/docs/
+!/install/
+# 빌드 산출물(patch.pat/korean.pat)은 git에 안 올림 — 100MB 넘어가면 GitHub push 자체가
+# 거부됨(LFS 없이는). 로컬 빌드 후 GitHub Release 에만 직접 첨부할 것.
+/install/*.pat
+!/scripts/
+!/translation/
+
+# translation/ 하위: 번역 결과물(translated/)과 용어집(glossary.md)만 공개.
+# dialogue/, workbook/ 은 게임 원문(저작권 있는 원본 텍스트) 그대로라 비공개.
+/translation/dialogue/
+/translation/workbook/
+
+!/*.md
+/CLAUDE.md

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minds Beneath Us 한글패치</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #0f1115;
+    --fg: #e8e8ea;
+    --muted: #9a9aa5;
+    --accent: #7c9eff;
+    --card: #171a21;
+    --border: #2a2e38;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f7f7f9;
+      --fg: #16171a;
+      --muted: #5b5d66;
+      --accent: #3358d4;
+      --card: #ffffff;
+      --border: #e2e3e8;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+    line-height: 1.6;
+  }
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 64px 24px 96px;
+  }
+  h1 {
+    font-size: 2rem;
+    margin: 0 0 8px;
+  }
+  .sub {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin: 0 0 40px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+  }
+  .card h2 {
+    font-size: 1.1rem;
+    margin: 0 0 12px;
+  }
+  .btn {
+    display: inline-block;
+    background: var(--accent);
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-right: 12px;
+  }
+  .btn.secondary {
+    background: transparent;
+    color: var(--fg);
+    border: 1px solid var(--border);
+  }
+  ul { padding-left: 20px; margin: 8px 0; }
+  li { margin-bottom: 6px; }
+  code {
+    background: var(--border);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+  footer {
+    margin-top: 48px;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Minds Beneath Us 한글패치</h1>
+  <p class="sub">BearBone Studio의 Minds Beneath Us를 위한 비공식 팬 한글패치입니다.</p>
+
+  <div class="card">
+    <h2>다운로드</h2>
+    <p>DLL/실행 파일은 건드리지 않고, 게임 데이터 파일만 교체하는 방식입니다.
+       설치 스크립트가 원본을 자동 백업하고, 언제든 제거(복원)할 수 있습니다.</p>
+    <a class="btn" href="https://github.com/scha00/minds-beneath-us-korean/releases">최신 릴리즈 받기</a>
+    <a class="btn secondary" href="https://github.com/scha00/minds-beneath-us-korean/blob/main/install/INSTALL.md">설치 방법</a>
+  </div>
+
+  <div class="card">
+    <h2>어떻게 작동하나요</h2>
+    <ul>
+      <li>게임 설정에서 언어를 <strong>English</strong>로 선택하면 한글이 나옵니다 (영어 슬롯을 대체).</li>
+      <li>일본어를 포함한 다른 언어는 전혀 손대지 않았습니다.</li>
+      <li>번역 원문은 일본어판을 기준으로 삼았습니다 (원작 번체중문보다 뉘앙스가 가깝다고 판단).</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>진행 상황 & 참여</h2>
+    <p>번역 진행률은 저장소의
+      <a href="https://github.com/scha00/minds-beneath-us-korean/blob/main/progress.md">progress.md</a>
+      에서 확인할 수 있습니다. 어색한 번역이나 버그는
+      <a href="https://github.com/scha00/minds-beneath-us-korean/issues">Issues</a>
+      로 제보해주세요.</p>
+  </div>
+
+  <footer>
+    이 프로젝트는 BearBone Studio와 무관한 비공식 팬 프로젝트입니다.
+  </footer>
+</div>
+</body>
+</html>

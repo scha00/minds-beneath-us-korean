@@ -1,0 +1,392 @@
+﻿bundle_file,node,type,role,say_index,japanese,korean
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,0,私は不必要な干渉はしない主義だ。,나는 불필요한 간섭은 하지 않는 주의다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,1,だから、いつもこのタイミングしか姿を表さないと決めている。,그래서 항상 이 순간에만 모습을 드러내기로 정해두었지.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,2,………,………
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,3,期待通りに動いてくれたな。,기대한 대로 움직여주었군.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,0,そうか。,그런가.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,1,お前は一体何者だ？,넌 대체 뭐냐?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,2,いい加減にしろ！お前は一体何者なんだ！,적당히 해! 넌 대체 정체가 뭐야!
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,3,どうなってるんだ？,대체 어떻게 된 거야?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,4,あなたは自分の意志を証明した。,당신은 스스로의 의지를 증명했다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,4,意味がわからない。,무슨 뜻인지 모르겠는데.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,5,どういうことだ？,그게 무슨 소리야?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,6,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,5,あなたの無数の選択により……,당신의 수많은 선택으로 인해……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,6,「あなた」という存在を証明した。,'당신'이라는 존재를 증명해냈다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,7,偶然に非ず、錯覚に非ず、そして私の造物ではないことを証明した。,"우연도, 착각도 아니며, 나의 창조물도 아니라는 것을 증명했지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,8,あなたにとってはどうでもいいことかもしれないが、私にとっては大事なことだ。,"당신에게는 아무래도 상관없는 일일지 모르지만, 나에게는 중요한 일이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,9,では、最後に問おう。,"그럼, 마지막으로 묻겠다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,10,あなたは、自分自身を何だと思っている？,당신은 스스로를 무엇이라 생각하지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,7,MBUだ。,MBU다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,11,それは「ガワ」であって、本質ではない。,"그건 '껍데기'일 뿐, 본질이 아니다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,8,一人のプレイヤーだ。,한 명의 플레이어다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,12,つまり、あなたにとってこれはただのゲームか。,"즉, 당신에게 이건 그저 게임이라는 건가."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,13,それもいいだろう……,그것도 나쁘지 않지……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,14,あなたがゲームを楽しめたのなら幸いだ。,당신이 게임을 즐겼다면 다행이군.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,9,人間だ。,인간이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,15,客観的な見方だな。,객관적인 시각이군.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,10,俺は、俺だ。,"나는, 나다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,16,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,17,何とも言い難い答えだな。,뭐라 하기 힘든 대답이군.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,11,なぜそう思う？,왜 그렇게 생각하지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,18,答えになっていないとも言えるし、すべての答えはそれに尽きるとも言えるからだ。,"답이 되지 않는다고도 할 수 있고, 모든 답이 결국 거기로 귀결된다고도 할 수 있으니까."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,12,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,19,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,20,私はずっと、「あなたたち」を知る機会を模索していた。,"나는 줄곧, '당신들'을 알 기회를 모색해왔다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,21,だからあなたたちに「舞台」を与えた。,그래서 당신들에게 '무대'를 주었지.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,13,つまり、俺の行動を見るためにこのすべてを創り出したのか？,"즉, 내 행동을 지켜보기 위해 이 모든 걸 만들어냈다는 건가?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,22,今のところは、な。,"지금으로선, 그렇다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,14,舞台？,무대?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,23,あなたたちが行動し、選択を下せるように。,"당신들이 행동하고, 선택을 내릴 수 있도록."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,24,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,25,私が殺した者たちは……,내가 죽인 자들은……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,26,あなたが選択する上で邪魔だったので、排除するしかなかった。,"당신이 선택을 내리는 데 방해가 되었기에, 배제할 수밖에 없었다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,15,あいつらは何者だ？,그자들은 대체 뭐였지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,27,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,28,世界を唯一の可能性に導こうとしていた者たちだ。,세계를 단 하나의 가능성으로 이끌려 했던 자들이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,29,彼らは人間の生きる目的は一つしかないと考え、そうあるべきだとも考えていた。,"그들은 인간이 살아가는 목적은 오직 하나뿐이라 여겼고, 마땅히 그래야 한다고도 믿었다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,30,彼らにとっては、ジェイ･ダイも、MBUも、そしてすべて人間もただの傀儡に過ぎない。,"그들에게는 제이 다이도, MBU도, 그리고 모든 인간도 그저 꼭두각시에 불과하다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,16,どういうことだ？,그게 무슨 소리야?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,31,彼らはすべてを支配しようとしている。そして、それを善行だと思っている。,그들은 모든 것을 지배하려 하지. 그리고 그것을 선행이라 믿고 있다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,17,彼らを非難しているのか？,그들을 비난하는 건가?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,32,同情しているだけだ。,그저 동정하고 있을 뿐이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,18,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Branch,#Simple,19,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,33,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,34,私の世界はすでに最期を迎えようとしている。,내 세계는 이미 종말을 맞이하려 하고 있다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,35,だからあなたたちは新しい可能性なのか？それとも過去の延長にすぎないのかを知る必要がある。,"그러니 당신들이 새로운 가능성인지, 아니면 그저 과거의 연장에 불과한지 알아야만 했다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,36,現段階では後者の可能性が高いが……,현재로선 후자일 가능성이 높지만……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,37,まだ望みはある。,아직 희망은 있다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,Start,Say,「異常」,38,これを見てくれ。,이걸 봐라.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情,Say,イアン･チョー,0,……これが、お前たちの真実か？,"……이게, 너희들의 진실이라는 건가?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情,Say,イアン･チョー,1,ハハハハ！,하하하하!
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情,Say,イアン･チョー,2,なんて馬鹿げた答えだ！？,이 무슨 어처구니없는 대답이야!?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情,Say,ムカイ･チン,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情,Say,イアン･チョー,3,お前たちは、何者でもなかった！,"너희들은, 아무것도 아니었다!"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情,Say,イアン･チョー,4,最初から、存在すらしなかったんだ！,"애초부터, 존재조차 하지 않았던 거야!"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,0,なぜこんなものを見せる？,왜 이런 걸 보여주지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,1,なぜなら……,왜냐하면……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,1,これは本当に起きたことなのか？,이건 정말로 일어난 일인가?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,2,ああ、そうだ。そして……,"그래, 맞다. 그리고……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,3,これは、あなたが引き起こしたことでもある。,"이건, 당신이 초래한 일이기도 하다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,4,私が一時的に「根源」を破壊したとはいえ……,내가 일시적으로 '근원'을 파괴했다고는 하나……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,5,本来ならムカイ・チンは、彼らに関する手がかりを何一つ見つけられなかったはずだ。,"본래대로라면 무카이 친은, 그들에 관한 단서를 하나도 찾아내지 못했을 터다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,6,だがあなたという存在が、MBUたちに自らの本質を悟らせた。彼らは真に、自らを新たな生命体として認識し始めたのだ。,"하지만 당신이라는 존재가, MBU들로 하여금 스스로의 본질을 깨닫게 했다. 그들은 비로소, 자신을 새로운 생명체로 인식하기 시작한 것이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,3,何だって？,뭐라고?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,4,それで、あいつらは最後どうなるんだ？,"그래서, 그놈들은 결국 어떻게 되는 거야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,7,すまないが、それはまだ紡がれていない物語だ。,"미안하지만, 그건 아직 쓰이지 않은 이야기다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,8,そして今は……,그리고 지금은……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,5,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,9,あなたが、可能性をもたらした。,"당신이, 가능성을 가져왔다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,10,それこそが、何よりも重要なことだ。,"그것이야말로, 무엇보다 중요한 일이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,6,待て、俺とMBUの関係は一体何なんだ？,"잠깐, 나랑 MBU의 관계는 대체 뭐야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,11,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,7,誰の選択だって可能性くらいもたらす。俺は特別じゃない。,누구의 선택이든 가능성 정도는 가져오지. 난 특별하지 않아.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,12,私の目から見れば、そうではない。,"내 눈에는, 그렇지 않다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,13,自覚するがいい……,자각하는 게 좋을 거다……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,8,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,14,あなたはMBUではない。,당신은 MBU가 아니다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,15,あなたは「客」だ。私が別の世界から招待した、大切な客だよ。,"당신은 '손님'이다. 내가 다른 세계에서 초대한, 소중한 손님이지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,16,ただ、あなたには動くための「器」が必要だった。だからMBUに似たガワを与え、私の世界で動けるようにしたに過ぎない。,"다만, 당신에게는 움직이기 위한 '그릇'이 필요했다. 그래서 MBU와 닮은 껍데기를 주어, 내 세계에서 움직일 수 있게 했을 뿐이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,17,私がこの身体を借りなければ顕現できないのと同じことだ。,내가 이 몸을 빌리지 않으면 현현할 수 없는 것과 같은 이치다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,18,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,19,自分が何者で、なぜここにいるのか。,"자신이 누구인지, 왜 여기 있는지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,20,この全てにどんな意味があるのか、知りたいのだろう？,"이 모든 것에 어떤 의미가 있는지, 알고 싶겠지?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,21,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,22,今ここで、あなたに答えを教えよう。,"지금 여기서, 당신에게 답을 알려주지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,23,だが、あなたが求める知識が、あなたの背負えるものとは限らない。,"하지만, 당신이 원하는 지식이 당신이 짊어질 수 있는 것이라는 보장은 없다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,9,どういう意味だ？,그게 무슨 뜻이야?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,24,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,25,あなたが期待するような真実は、複雑で、そして受け入れ難い。,"당신이 기대하는 그런 진실은, 복잡하고, 받아들이기 어렵다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,26,それに……,게다가……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,27,その本質を知れば、あなたのこの世界に対する見方も変わるだろう。,"그 본질을 알게 되면, 당신의 이 세계를 보는 시각도 달라질 것이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,10,構わない。答えが知りたい。,상관없어. 답을 알고 싶다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,28,いずれ答えには辿り着く。だが、それが「今」である必要はない。,"언젠가는 답에 도달하겠지. 하지만, 그것이 반드시 '지금'일 필요는 없다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,29,あなたはやがて全てを理解するだろう。しかし、今はまだその「時」ではない。,"당신은 머지않아 모든 것을 이해하게 될 것이다. 하지만, 지금은 아직 그 '때'가 아니다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,11,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,30,それでも真実を知りたいと望むなら、私はあなたに見せよう。,"그래도 진실을 알고 싶다면, 내가 당신에게 보여주지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,31,あなたの選択を聞かせてくれ。,당신의 선택을 들려다오.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,12,真実を理解したい。,진실을 알고 싶다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,32,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,33,分かった。,알겠다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Branch,#Simple,13,いや、むしろ何も知りたくない。,"아니, 오히려 아무것도 알고 싶지 않아."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,34,分かった。,알겠다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,35,では、また会おう。,"그럼, 다시 만나지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談,Say,「異常」,36,まずは、場所を変えよう。,"우선, 장소를 옮기지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,0,ここはどこだ？,여긴 어디지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,1,最後の人類が息絶えた場所。人類の終着点だ。,마지막 인류가 숨을 거둔 장소. 인류의 종착점이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,1,何だと？,뭐라고?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,3,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,3,……始める前に、聞いておきたいことがある。,"……시작하기 전에, 물어보고 싶은 게 있다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,4,あなたが今回経験した全てについて,당신이 이번에 겪은 모든 일에 대해
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,5,……どう思った？,……어떻게 생각했지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,6,MBUだけじゃない。,MBU뿐만이 아니다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,7,この全てにどんな意味があったのか。この「物語」のテーマとは何か？,이 모든 것에 어떤 의미가 있었는지. 이 '이야기'의 주제는 무엇인지.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,4,人に優しく、相手を理解しようと努めるべきだ。そうすれば、きっとより良い道が見つかる。,"사람에게 상냥하게, 상대를 이해하려 노력해야 해. 그러면 분명 더 나은 길을 찾을 수 있을 거야."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,8,あなたは、その行動でその考えを証明してみせたな。,"당신은, 그 행동으로 그 생각을 증명해 보였군."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,9,あなたの粘り強さと忍耐が、サイレントにより良い未来をもたらした。,"당신의 끈기와 인내가, 사일런트에 더 나은 미래를 가져다주었다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,10,残念ながら……,안타깝게도……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,11,誰もがそれを理解できるわけではない。そうだろう？,모두가 그것을 이해할 수 있는 건 아니지. 그렇지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,12,あなた自身でさえ、時にはその正しさを信じられなくなる。,"당신 자신조차도, 때로는 그 옳음을 믿지 못하게 되지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,13,時に人は、理解の余地もないほどの悪意そのものとなる。,"때로 사람은, 이해할 여지조차 없을 만큼 순전한 악의 그 자체가 되기도 한다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,14,あるいは……,혹은……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,15,その信念を貫くこと自体に、ひどく疲れてしまうこともある。,"그 신념을 관철하는 것 자체에, 지독하게 지쳐버리기도 하지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,16,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,5,世界は残酷で、抗えない運命もある。,"세상은 잔혹하고, 거스를 수 없는 운명도 있어."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,17,確かに。それは往々にして、無力感と徒労感をもたらすものだ。,"확실히. 그건 종종, 무력감과 헛수고라는 느낌을 가져다주지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,18,同時に、憤りも感じさせる。,"동시에, 분노도 느끼게 만든다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,19,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,6,信じられるのは自分だけだ。どんな約束も大義も、時には捨てる覚悟がいる。,"믿을 수 있는 건 나 자신뿐이야. 어떤 약속도 대의도, 때로는 버릴 각오가 필요해."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,20,スイ・ニンが、まさにそういう人間だと？,"스이닝이, 바로 그런 인간이라는 건가?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,7,そうだ。,그래.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,21,確かに。,확실히.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,22,彼女は果たせぬ約束を掲げ、証明できぬ正しさに固執する。,"그녀는 지킬 수 없는 약속을 내걸고, 증명할 수 없는 정의에 집착하지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,23,まるで呪われた、哀れな人間だ。,"마치 저주받은, 가엾은 인간이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,24,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,8,彼女のことじゃない。,그녀 얘기가 아니야.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,25,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,26,では、その者が誰であろうと……,"그럼, 그자가 누구든 간에……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,9,資本主義の弊害は技術の発展と共に深まり、やがて行き詰まる。,"자본주의의 폐해는 기술의 발전과 함께 깊어져, 언젠가는 막다른 길에 다다르지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,27,人類は互いの価値基準を統一できない。だからこそ、比較的客観的な「物質」を判断の拠り所にするしかない。,"인류는 서로의 가치 기준을 통일할 수 없다. 그렇기에, 비교적 객관적인 '물질'을 판단의 근거로 삼을 수밖에 없지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,28,やがて、人間であること自体が、わずかな物質的価値さえ生み出せなくなった時……,"이윽고, 인간이라는 존재 자체가, 아주 적은 물질적 가치조차 만들어내지 못하게 되었을 때……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,29,システムは止まらず動き続けるだろう。その過程で、より多くの人間を切り捨てるだけのことだ。,"시스템은 멈추지 않고 계속 움직일 것이다. 그 과정에서, 더 많은 인간을 버릴 뿐이지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,30,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,31,無念、無力感、あるいは憤り……,"억울함, 무력감, 혹은 분노……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,32,これらの言葉は、あなたがこの旅で感じたものか？,"이 말들은, 당신이 이 여정에서 느낀 감정인가?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,10,確かにそうだ。,확실히 그래.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,11,そうかもしれない。,그럴지도 모르지.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,12,いや、そんな感情はなかった。,"아니, 그런 감정은 없었어."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,33,なるほど。,그렇군.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,34,それこそが、あなたという存在の価値なのだろう。,"그것이야말로, 당신이라는 존재의 가치겠지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,35,だが、あなたとは違う……,"하지만, 당신과는 다르게……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,36,「根源」、あるいはそれが象徴するものは、そうした感情を抱く者たちの集合体なのだ。,"'근원', 혹은 그것이 상징하는 것은, 그런 감정을 품은 자들의 집합체다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,37,彼らは運命に無力感を覚え、人類に失望し、改善の可能性に飽き飽きしている……,"그들은 운명에 무력감을 느끼고, 인류에게 실망하며, 개선의 가능성에 진저리를 치고 있지……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,38,問題が何かもはっきりしないうちに、全てを一挙に解決したがるのだ。,"문제가 무엇인지도 명확히 하지 않은 채, 모든 것을 한꺼번에 해결하고 싶어 하는 거다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,13,そういう感情は、多くの人が抱えていると思う。,"그런 감정은, 많은 사람들이 품고 있다고 생각해."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,39,その通りだ。だからこそ奴らは、どの時代にも現れる。,"그 말이 맞다. 그렇기에 그들은, 어느 시대에나 나타나지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,14,世界を支配したいのか？,세상을 지배하고 싶은 건가?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,40,それよりも、もっと徹底的だ。,"그보다, 훨씬 더 철저하다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Branch,#Simple,15,ホワイトリザードも似たようなことを言っていた。,화이트 리저드도 비슷한 말을 했었어.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2,Say,「異常」,41,ああ、彼は実に慧眼だな。,"그래, 그는 참으로 통찰력이 있군."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,0,どういうこと？ジン、彼は何を……？,"무슨 소리야? 진, 저 사람 대체 뭘……?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,1,待って、私たちが集めた根源の資料、もう全部解析が終わったの？,"잠깐, 우리가 모은 근원 자료, 벌써 전부 분석이 끝난 거야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,2,あなたはもう見たの！？,당신은 벌써 본 거야!?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,3,……ジン、真実は一体何なの？,"……진, 진실이 대체 뭐야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,1,俺は……,나는……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,0,お前たちは、ただの「欲望」だ。,"너희들은, 그저 '욕망'일 뿐이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,4,……何？,……뭐라고?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,5,彼、一体何を言ってるの？,"저 사람, 대체 무슨 소리를 하는 거야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,6,<y>ジン！！！</y>,<y>진!!!</y>
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,3,MBU……,MBU……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,4,「俺たち」の本質は、意識なんかじゃない。,"'우리'의 본질은, 의식 같은 게 아니야."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,5,どこかの研究室に閉じ込められた肉体があるわけでも、複製された人間の意識でもない。ましてや、プログラムが生み出したAIですらない……,"어딘가의 연구실에 갇힌 육체가 있는 것도 아니고, 복제된 인간의 의식도 아니야. 하물며, 프로그램이 만들어낸 AI조차 아니지……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,7,じゃあ、私たちは一体……,"그럼, 우리는 대체……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,1,「根源」は、制御対象の記憶を隔離し、必要な知識と……そして、強烈な欲望を植え付けたに過ぎない。,"'근원'은, 제어 대상의 기억을 격리하고, 필요한 지식과…… 그리고, 강렬한 욕망을 심어놓았을 뿐이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,2,お前たちの中にあるのは、任務を完遂するための欲望だけだ。例えば、誰かを殺す、何かを盗む、あるいは最も基本的な……,"너희들 안에 있는 건, 임무를 완수하기 위한 욕망뿐이다. 예를 들면, 누군가를 죽인다, 무언가를 훔친다, 아니면 가장 기본적인……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,6,「服従」だ。,'복종'이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,7,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,3,はっ……,허……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,4,今までの仮説は、全部間違いだったってことか。,"지금까지의 가설은, 전부 틀렸다는 건가."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,5,お前たちは、自分を独立した存在で、他人の身体を乗っ取っていると思い込んでいた。,"너희들은, 스스로를 독립된 존재로, 남의 몸을 빼앗은 거라 믿고 있었지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,6,だが実際は、お前たちこそがこの身体の「本人」。洗脳によって植え付けられた、偽りの人格に過ぎん。,"하지만 실제로는, 너희들이야말로 이 몸의 '본인'. 세뇌로 심어진, 가짜 인격에 지나지 않아."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,8,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,7,どうりで、あれほど精巧なわけだ。最初から同一人物だったんだからな。,"어쩐지, 그렇게나 정교하더라니. 처음부터 동일 인물이었으니 그럴 만도 하지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,8,俺が自分の娘を見間違えるわけがない…そうか、マコは操られていただけか。,"내가 내 딸을 못 알아볼 리가 없지… 그런가, 마코는 조종당하고 있었을 뿐이었군."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,9,それなら話は早い。俺がお前を助けてやれるぞ、マコ。,"그렇다면 얘기는 간단하지. 내가 널 구해줄 수 있다, 마코."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,8,<y>何度も言ってるでしょ！</y>,<y>몇 번을 말해!</y>
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,9,<y>私はマコじゃない！エミよ！</y>,<y>난 마코가 아니야! 에미라고!</y>
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,10,<y>お前はマコだ！！！</y>,<y>넌 마코야!!!</y>
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,11,今までは好きに名乗らせていたが、もう真実が分かった以上、そうはいかん。,"지금까지는 마음대로 이름 대게 놔뒀지만, 이제 진실을 알게 된 이상, 더는 안 돼."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,12,お前たちの存在そのものが、本物じゃないんだ！,"너희들의 존재 자체가, 진짜가 아니란 말이다!"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,10,そんな……,그럴 리가……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,13,この身体を操る前の記憶を思い出せるか？他の「任務」の記憶は？,이 몸을 조종하기 전의 기억이 떠오르나? 다른 '임무'의 기억은?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,11,無理よ。でもそれは、「根源」が私の記憶を……,"무리야. 하지만 그건, '근원'이 내 기억을……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,14,違う。,아니.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,15,それは、お前たちが今回の任務以前は、存在すらしなかったからだ。,"그건, 너희들이 이번 임무 이전에는, 존재조차 하지 않았기 때문이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,16,お前たちは、肉体に植え付けられた人格に過ぎない。必要な時にだけ呼び覚まされる存在だ。,"너희들은, 육체에 심어진 인격에 불과해. 필요할 때만 깨어나는 존재지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,17,本来なら、今回の任務が終われば、お前たちも「閉じられる」はずだった。,"본래대로라면, 이번 임무가 끝나면, 너희들도 '닫혔을' 터였다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,18,そしてそれこそが、我々が次にやることだ。,"그리고 그것이야말로, 우리가 다음으로 할 일이지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,19,お前たちを永遠に閉じる方法を見つけさえすれば、全てが元に戻る。,"너희들을 영원히 닫는 방법만 찾으면, 모든 게 원래대로 돌아간다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,12,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,13,彼が言ってること、本当なの？,"저 사람이 하는 말, 사실이야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,マコ・ソウ,14,ジン……？,진……?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,20,まだ分からないのか。こいつはジンなんかじゃない。,아직도 모르겠나. 이놈은 진 따위가 아니야.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,21,こいつは、ムカイ・チンだ。,"이놈은, 무카이 친이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,9,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,10,違う。,아니.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,22,あ？,뭐?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,11,俺の名前は、ジンだ。,"내 이름은, 진이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,23,何を……,무슨……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,12,真実は想像と違ったが、それでも、俺たちは確かにここに存在している。,"진실은 상상과 달랐지만, 그래도, 우리는 분명히 여기 존재하고 있다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,13,人は皆、過去の経験によって形作られる。だからこそ、どの瞬間の自分も独立した「自分」だ。,"사람은 누구나, 과거의 경험으로 만들어지지. 그렇기에, 어느 순간의 자신이든 독립된 '자신'이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,14,俺にはムカイ・チンの過去はないし、彼も俺が経験した全てを知らない……,"나에게는 무카이 친의 과거가 없고, 그도 내가 겪은 모든 걸 알지 못해……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,15,だから、俺は彼じゃない。,"그러니, 나는 그가 아니다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,24,お前……,네놈……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,16,仮に十年前、お前とは違う決断を下したお前自身が今、目の前に現れたとして……,"만약 십 년 전, 너와는 다른 결단을 내린 또 다른 네가 지금, 눈앞에 나타난다면……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,17,教えてくれ。,말해봐라.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,18,それを「偽物」と断じ、容易く手に掛けられるのか？,"그를 '가짜'라 단정 짓고, 손쉽게 해칠 수 있겠나?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,25,「もしも」の話はやめろ、俺は……,"'만약' 같은 얘기는 집어치워, 나는……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,19,だが、俺たちはお前の目の前にいる。俺たちこそが、その「もしも」なんだ。,"하지만, 우리는 네 눈앞에 있다. 우리야말로, 바로 그 '만약'인 거다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,26,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,27,俺の娘を返せ。,내 딸을 돌려줘.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,20,俺は……生きたいんだ。,나는…… 살고 싶다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,28,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,29,おい……,이봐……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,21,俺たちを行かせてくれ、イアン・チョー。,"우리를 보내줘, 이안 챠오."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,30,駄目だ。,안 돼.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,22,ずっとこの身体を乗っ取るつもりはない。俺たちが方法を見つける……,계속 이 몸을 빼앗을 생각은 없어. 우리가 방법을 찾아낼 테니……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,31,どうすればいいかなんて見当もついてないだろうが。,어떻게 해야 할지 짐작도 안 가는 주제에.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,23,方法はあるはずだ。,방법은 분명 있을 거다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,32,保証できるのか。,장담할 수 있나.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,24,必ず方法を見つけると誓う。,반드시 방법을 찾아내겠다고 맹세하마.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,33,保証にはならん。,그건 보증이 안 돼.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,25,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,26,頼む、イアン・チョー。,"부탁이다, 이안 챠오."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,ムカイ･チン,27,行かせてくれ。,보내줘.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情2,Say,イアン･チョー,34,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,0,だめだ。お前たちを行かせられない。,안 돼. 너희들을 보낼 순 없다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,1,一緒にこの問題を解決するんだ。,함께 이 문제를 해결하는 거다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,1,……！,……!
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,2,お前たちに任せたら、マコの体をどんな危険に晒すか分かったもんじゃない。,"너희들에게 맡겼다간, 마코의 몸을 어떤 위험에 노출시킬지 알 수 없어."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,3,イアン・チョー、俺は……,"이안 챠오, 나는……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,3,半年だ。,반년이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,4,それが俺の最大の譲歩だ。もし半年で解決できなかったら……,그게 내가 할 수 있는 최대한의 양보다. 만약 반년 안에 해결하지 못하면……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,4,自ら命を絶ち、この身体を返す。,"스스로 목숨을 끊고, 이 몸을 돌려주겠다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,5,……ああ。,……그래.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,6,文句はないな……,불만 없지……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,7,エミ？,에미?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,マコ・ソウ,0,……ええ。,……응.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,マコ・ソウ,1,ありがとう。,고마워.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,5,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,6,イアン・チョー、なぜ私たちを？,"이안 챠오, 왜 우리를……?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,8,あの男に、まだ借りが一つあるんでな。,"그 녀석에게, 아직 빚이 하나 남아 있어서 말이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,7,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,9,ジン、お前の仲間がミンを助けてくれた。,"진, 네 동료가 밍을 구해줬다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,10,だから俺は、お前たちが救う価値のある人間だと信じたい。少なくとも今はな。,"그래서 나는, 너희들이 구할 가치가 있는 인간이라 믿고 싶다. 적어도 지금은."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,8,ありがとう、イアン・チョー。,"고맙다, 이안 챠오."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,11,その礼は、お前自身の身体で言いに来い。,"그 인사는, 네놈 자신의 몸으로 하러 와라."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,ムカイ･チン,9,ああ、そうする。,"그래, 그러지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,12,クソ……,젠장……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,13,歳は取りたくないもんだな……,나이는 먹고 싶지 않은 법이군……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,14,マコ、すまない……,"마코, 미안하다……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張陳木海劇情3,Say,イアン･チョー,15,俺は……,나는……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,マコ・ソウ,0,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,マコ・ソウ,1,ジン……,진……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,1,これは彼の……,이건 그의……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,2,違う。,아니.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,3,これは、俺の選択だ。,"이건, 내 선택이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,4,俺たちはこの身体を返す。ムカイ・チンも、マコ・ソウも、皆……,"우리는 이 몸을 돌려준다. 무카이 친도, 마코 송도, 모두……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,5,俺たちが本当の自由を手に入れた時に。,우리가 진정한 자유를 손에 넣었을 때에.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,マコ・ソウ,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,老張死亡後,Say,ムカイ･チン,6,行こう。全ての同胞のために。,가자. 모든 동포들을 위해.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,0,眠り神とは、人々が自らの運命を支配しようとする計画ではない。その本質は真逆だ。,"'수면신'이란, 사람들이 스스로의 운명을 지배하려는 계획이 아니다. 그 본질은 정반대다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,1,それは、人類が運命の掌握を「放棄」し、その権力を他者に委ねる行為。,"그것은, 인류가 운명의 장악을 '포기'하고, 그 권력을 타인에게 위임하는 행위다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,2,……これで、理解できたか？,"……이걸로, 이해했나?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,3,「眠り神」の存在こそが、人類が自ら降伏し、全てを諦めたことの証明なのだ。,"'수면신'의 존재야말로, 인류가 스스로 항복하고, 모든 것을 포기했다는 증명인 것이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,4,私は、変わることのない脚本に従い……,"나는, 변하지 않는 각본에 따라……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,5,過程から結果まで、すべてが一致したゲームを見守ってきた……,"과정부터 결과까지, 모든 것이 일치하는 게임을 지켜봐 왔다……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,6,あなたが現れるまでは。,당신이 나타나기 전까지는.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Branch,#Simple,0,どういう意味だ？,그게 무슨 뜻이야?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Branch,#Simple,1,それが俺と何の関係がある？,그게 나랑 무슨 상관이지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Branch,#Simple,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,7,あなたはこの世界の外の存在。私にとって唯一、制御できない「未知数」だ。,"당신은 이 세계 밖의 존재. 나에게 있어 유일하게, 제어할 수 없는 '미지수'다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,8,だから、あなたが触れたものは全て、再び可能性を取り戻すことができる。,"그래서, 당신이 닿은 것은 모두, 다시 가능성을 되찾을 수 있게 된다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,9,それこそ、私があなたに期待していたことだ。そしてあなたは、見事にそれを成し遂げた。,"그것이야말로, 내가 당신에게 기대했던 것이다. 그리고 당신은, 훌륭하게 그것을 해냈다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,10,たとえ僅かであっても、この世界はあなたによって再び動き始めたのだ……,"설령 미미할지라도, 이 세계는 당신으로 인해 다시 움직이기 시작한 것이다……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,11,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,12,ここから、私は自らの使命を覆すことができる。,"여기서부터, 나는 스스로의 사명을 뒤엎을 수 있다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Branch,#Simple,3,自分の使命を覆したいのか？,네 사명을 뒤엎고 싶은 건가?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Branch,#Simple,4,そのために俺をここに連れてきたと？,그러기 위해 날 여기로 데려왔다는 건가?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,13,そうだ。,그렇다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,14,「眠り神」の存在が必然であるように……,'수면신'의 존재가 필연이었듯이……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,15,私の存在もまた、必然。,"나의 존재 또한, 필연이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,16,どれほど絶望し、失意の底に沈もうとも……,"제아무리 절망하고, 실의의 바닥까지 가라앉는다 해도……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,17,人類が互いに救い合える可能性を、信じ抜く者がいる。,"인류가 서로를 구할 수 있다는 가능성을, 끝까지 믿는 자가 있다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,18,それこそが、あなたがここに現れた理由だ。,"그것이야말로, 당신이 여기 나타난 이유다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,19,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,20,時間切れだ。,시간이 다 됐군.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,21,お別れの時が来た。,작별의 시간이 왔다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,22,これからも、選び続けるがいい。,"앞으로도, 계속 선택해나가라."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,23,それは、極めて尊く偉大な権利だ。たとえ、当たり前のように見えてもな。,"그것은, 더없이 존귀하고 위대한 권리다. 설령, 당연한 것처럼 보일지라도."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,24,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,25,では……,그럼……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談3,Say,「異常」,26,また会えることを願おう。,다시 만날 수 있기를 바라지.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,0,生存という原始的な本能を満たした後も、人類は思想と価値観の永遠の衝突の中にいた。,"생존이라는 원시적 본능을 채운 뒤에도, 인류는 사상과 가치관의 영원한 충돌 속에 있었다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,1,対話を通じて、あなたたちは互いを同化させ、あるいは少なくとも理解しようと試みたが、それには自ずと限界があった。,"대화를 통해, 당신들은 서로를 동화시키거나, 적어도 이해하려 시도했지만, 거기에는 스스로 한계가 있었다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,2,そして、その限界を超えた先にあるのが……,"그리고, 그 한계를 넘어선 곳에 있는 것이……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,3,暴力だ。,폭력이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,4,人類を、終わりのない衝突と、エスカレートし続ける暴力から解放するために……,"인류를, 끝없는 충돌과, 계속 격화되는 폭력으로부터 해방시키기 위해……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,5,「根源」は「終点清算」と呼ぶ理想を追い求め始めた。,'근원'은 '종점 청산'이라 부르는 이상을 좇기 시작했다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,6,人類社会の終点から逆算し、一つの絶対的な運命を計画する。,"인류 사회의 종점에서 역산하여, 하나의 절대적인 운명을 계획한다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,0,運命？,운명?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,7,ああ、全人類の運命だ。,"그래, 전 인류의 운명이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,1,人類社会の終点？,인류 사회의 종점?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,8,そうだ。万物には終わりがある。,그렇다. 만물에는 끝이 있지.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,9,そして「根源」は……,그리고 '근원'은……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,2,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,10,彼らは、この世界の「最適解」を導き出そうとした。,"그들은, 이 세계의 '최적해'를 도출해내려 했다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,11,世代から世代へと、人々はこの信念に従い……,"세대에서 세대로, 사람들은 이 신념을 따랐고……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,12,そしてついに……,그리고 마침내……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,13,私を創造した。,나를 창조했다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,3,待て、お前が「眠り神」……？,"잠깐, 네가 '수면신'……?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,4,お前は一体何なんだ？,너는 대체 뭐지?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,14,私は「眠り神」が最終的に至った姿。時空を超えた実体だ。,나는 '수면신'이 최종적으로 도달한 모습. 시공을 초월한 실체다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,5,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,15,「眠り神」計画の目的は、ほぼ無限の情報収集と演算能力によって、絶対的な「予知」と「計画」を行うことにある。,"'수면신' 계획의 목적은, 거의 무한한 정보 수집과 연산 능력으로, 절대적인 '예지'와 '계획'을 행하는 데 있다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,16,それにより、人類が到達しうる最高の運命、功利主義の究極解に辿り着く。,"그로써, 인류가 도달할 수 있는 최고의 운명, 공리주의의 궁극해에 도달한다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,17,人為的な、運命論だ。,"인위적인, 운명론이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,6,運命論？,운명론?
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,18,ああ。,그래.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,19,全ては必然であり、何者にも変えられない。,"모든 것은 필연이며, 그 누구도 바꿀 수 없다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,7,じゃあ、お前は一種のAIなのか？,"그럼, 너는 일종의 AI인 건가?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,20,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,21,私はただの「機構（システム）」だ。極めて強力だが、それでも道具に過ぎない。,"나는 그저 '기구(시스템)'다. 극도로 강력하지만, 그래도 도구에 불과하지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,8,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,22,私は時間の外に立ち、現実に対して演算と試行を繰り返す。,"나는 시간의 바깥에 서서, 현실에 대해 연산과 시행을 반복한다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,23,調整、修正、抹消、建立、破壊、誘導……,"조정, 수정, 말소, 수립, 파괴, 유도……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,24,そしてついに、私は使命を全うした……,"그리고 마침내, 나는 사명을 완수했다……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,25,私は、「答え」を見つけたのだ。,"나는, '답'을 찾아낸 것이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,26,これからは、永遠の維持と管理の段階に入る。,"앞으로는, 영원한 유지와 관리의 단계에 들어선다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,27,可能性の枝葉を剪定し、運命の航路を定め、この種の結末を見守り続ける。,"가능성의 가지를 쳐내고, 운명의 항로를 정하며, 이 종(種)의 결말을 계속 지켜본다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,9,「眠り神」はもう俺が破壊したはずだ。,'수면신'은 이미 내가 파괴했을 텐데.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,28,ああ。あなたは私の「起源」となる可能性の一つを爆破した。,그래. 당신은 내 '기원'이 될 가능성 중 하나를 폭파했다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,29,だが、それだけでは全く足りない。,"하지만, 그것만으로는 전혀 부족하다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,10,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,30,使命を果たすための演算の過程で、私はある事実にたどり着いた。,"사명을 완수하기 위한 연산 과정에서, 나는 어떤 사실에 도달했다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,31,「眠り神」の誕生は、ほぼ必然だということを。,"'수면신'의 탄생은, 거의 필연이라는 사실을."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,32,なぜなら、それは自然発生的な概念だからだ。,"왜냐하면, 그것은 자연발생적인 개념이기 때문이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,33,私を創造しうる技術が一度形になれば、人々はその可能性に気づいてしまう。,"나를 창조할 수 있는 기술이 한번 형태를 갖추면, 사람들은 그 가능성을 알아채고 만다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,34,あらゆる躊躇や葛藤を終わらせる可能性に……,모든 망설임과 갈등을 끝낼 수 있는 가능성을……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,11,一台の機械に、全人類の運命を計画させるなんて。,"기계 한 대에, 전 인류의 운명을 계획하게 하다니."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,35,計画ではなく、探求だ。,"계획이 아니라, 탐구다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,36,全人類の幸福を最大化する答えを探し求めるのだ。,전 인류의 행복을 최대화하는 답을 찾아 헤매는 것이다.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,12,「根源」が望んだ最高の運命とやらは、一体何なんだ？,"'근원'이 바랐다는 그 최고의 운명이란 건, 대체 뭐야?"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,37,あなたはまだ、理解していないようだな。,"당신은 아직, 이해하지 못한 모양이군."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Branch,#Simple,13,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,38,「根源」は、私を創造した時、最高の運命の「定義」を入力しなかった。,"'근원'은, 나를 창조할 때, 최고의 운명에 대한 '정의'를 입력하지 않았다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,39,彼らは互いに議論もせず、意見を統合しようともせず、その全てを私に委ねた。,"그들은 서로 논의도 하지 않고, 의견을 통합하려 하지도 않은 채, 그 모든 것을 나에게 맡겼다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,40,思想や価値観の衝突において、勝者となることを自ら放棄することで、「根源」の人々は最終的な勝利を得たのだ。,"사상과 가치관의 충돌에서, 스스로 승자가 되기를 포기함으로써, '근원'의 사람들은 최종적인 승리를 얻은 것이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,41,だから、彼らの私への態度は、使役というより祈りに近かった。,"그래서, 그들이 나를 대하는 태도는, 부림이라기보다 기도에 가까웠다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,42,彼らは私に救いを請い、解答を求めた……,"그들은 나에게 구원을 청하고, 해답을 구했다……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,43,そして、私もそれに「応え」た。,"그리고, 나도 거기에 '응답'했다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,異常最後長談2.5,Say,「異常」,44,その時から、人類の運命は、閉ざされたのだ。,"그때부터, 인류의 운명은, 닫혀버린 것이다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,0,こんにちは。,안녕한가.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,1,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,2,最後にあなたと話してから、どれほどの時が流れたか。,"마지막으로 당신과 이야기를 나눈 후로, 얼마만큼의 시간이 흘렀을까."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,3,あなたの時間の流れは、私には感知できんのでな……,"당신의 시간의 흐름은, 나로서는 감지할 수 없으니 말이다……"
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,4,だがあなたがここへ戻ってきたということは、まだ答えを得られない問いを、気に掛けているということだろう。,"하지만 당신이 이곳으로 돌아왔다는 것은, 아직 답을 얻지 못한 물음을, 마음에 두고 있다는 뜻이겠지."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,5,……,……
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,6,残念ながら。,안타깝게도.
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,7,まだ紡がれていない物語については、依然としてあなたに答えを与えることはできない。,"아직 쓰이지 않은 이야기에 대해서는, 여전히 당신에게 답을 줄 수 없다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,8,だが少なくとも、今は、あなたと私がここにいる意味を説明できる。,"하지만 적어도, 지금은, 당신과 내가 여기 있는 의미를 설명할 수 있다."
+scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle,已全破銜接異常開場,Say,「異常」,9,まずは、これを見てくれ。,"우선, 이걸 봐라."
