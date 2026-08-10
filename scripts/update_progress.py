@@ -38,17 +38,20 @@ def scan_workbook():
 
 
 def scan_dialogue():
-    files = []  # (filename, total, done)
+    files = []  # (filename, total, done, bundle_file)
     for path in sorted(glob.glob(os.path.join(DIALOGUE_DIR, "*.csv"))):
         total = 0
         done = 0
+        bundle_file = ""
         with open(path, encoding="utf-8-sig") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 total += 1
                 if row["korean"].strip():
                     done += 1
-        files.append((os.path.basename(path), total, done))
+                if not bundle_file:
+                    bundle_file = row.get("bundle_file", "")
+        files.append((os.path.basename(path), total, done, bundle_file))
     return files
 
 
@@ -66,8 +69,8 @@ def main():
     wb_total = sum(t for t, _ in sheets.values())
     wb_done = sum(d for _, d in sheets.values())
 
-    dlg_total = sum(t for _, t, _ in dialogue_files)
-    dlg_done = sum(d for _, _, d in dialogue_files)
+    dlg_total = sum(t for _, t, _, _ in dialogue_files)
+    dlg_done = sum(d for _, _, d, _ in dialogue_files)
 
     grand_total = wb_total + dlg_total
     grand_done = wb_done + dlg_done
@@ -86,6 +89,11 @@ def main():
     lines.append("")
     lines.append(f"{wb_done} / {wb_total} ({wb_done/wb_total*100:.1f}%)")
     lines.append("")
+    lines.append(
+        "리소스 번들 파일: `globalset_assets_all_14f5b55c4c055b061135896f7409af81.bundle` "
+        "(경로: `StreamingAssets/aa/StandaloneWindows64/`, 오브젝트 `m_Name` = `翻譯對照表`)"
+    )
+    lines.append("")
     lines.append("| 시트 | 완료 | 전체 | 진행률 |")
     lines.append("|---|---:|---:|---|")
     # 원본 워크북 시트 순서 고정
@@ -102,12 +110,25 @@ def main():
     lines.append("")
     lines.append(f"{dlg_done} / {dlg_total} ({dlg_done/dlg_total*100:.1f}%)")
     lines.append("")
-    lines.append("| 챕터 파일 | 완료 | 전체 | 진행률 |")
-    lines.append("|---|---:|---:|---|")
-    for fname, total, done in dialogue_files:
+    lines.append("| 챕터 파일 | 완료 | 전체 | 진행률 | 리소스 번들 파일 (Addressables) |")
+    lines.append("|---|---:|---:|---|---|")
+    for fname, total, done, bundle_file in dialogue_files:
         mark = " ✅" if done == total else ""
         short = fname.replace(".csv", "")
-        lines.append(f"| {short}{mark} | {done} | {total} | `{bar(total, done)}` |")
+        lines.append(f"| {short}{mark} | {done} | {total} | `{bar(total, done)}` | `{bundle_file}` |")
+    lines.append("")
+    lines.append(
+        "번들 경로: `StreamingAssets/aa/StandaloneWindows64/<위 파일명>` (게임 버전이 바뀌면 "
+        "해시 파일명도 바뀔 수 있음 — 재탐색 방법은 CLAUDE.md 참고). 이 표는 다른 언어로 패치를 "
+        "만들려는 사람이 어떤 챕터가 어느 번들 파일에 들어있는지 바로 찾을 수 있도록 정리한 것."
+    )
+    lines.append("")
+    lines.append(
+        "캐릭터 이름을 가리키는 원본(繁體中文) 키와 각 언어별 표기 대응표는 "
+        "[`translation/character-keys.md`](translation/character-keys.md) 참고 "
+        "(대사 시스템이 캐릭터 이름을 내부적으로 이 키로 조회하는 방식이라, 다른 언어 패치를 "
+        "만들 때도 이 매핑을 그대로 알아둬야 함)."
+    )
     lines.append("")
 
     lines.append("## 참고")
