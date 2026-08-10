@@ -32,7 +32,12 @@ def package_bundles():
     bundle_paths = sorted(glob.glob(os.path.join(INSTALL_DIR, "*.bundle")))
 
     if not bundle_paths:
-        print("install/ 안에 .bundle 파일이 없음 — 먼저 patch_workbook.py / patch_dialogue.py 실행할 것.")
+        if os.path.exists(PAT_PATH):
+            print("install/ 안에 낱개 .bundle이 없지만 korean.pat이 이미 있음 — 번들 내용은 그대로 두고 dist zip만 다시 묶음")
+            print("(install.ps1/INSTALL.md 등 스크립트만 바뀌었을 때 이 경로를 탐. 번들 내용 자체를 바꾸려면")
+            print(" patch_workbook.py / patch_dialogue.py 를 먼저 실행할 것.)")
+            return True
+        print("install/ 안에 .bundle 파일도 korean.pat도 없음 — 먼저 patch_workbook.py / patch_dialogue.py 실행할 것.")
         return False
 
     with zipfile.ZipFile(PAT_PATH, "w", zipfile.ZIP_DEFLATED) as zf:

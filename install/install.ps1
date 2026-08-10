@@ -48,6 +48,7 @@ $targetDir = Join-Path $gameRoot "MindsBeneathUs_Data\StreamingAssets\aa\Standal
 if (-not (Test-Path $targetDir)) {
     Write-Host "오류: 대상 폴더를 찾을 수 없습니다: $targetDir" -ForegroundColor Red
     Write-Host "게임 설치 경로가 맞는지 확인해주세요."
+    Read-Host "이 창을 닫으려면 Enter 키를 누르세요"
     exit 1
 }
 
@@ -61,6 +62,7 @@ $patPath = Join-Path $scriptDir "korean.pat"
 if (-not (Test-Path $patPath)) {
     Write-Host "오류: korean.pat 을 찾을 수 없습니다 ($patPath)." -ForegroundColor Red
     Write-Host "이 스크립트를 korean.pat 과 같은 폴더에 두고 실행해주세요."
+    Read-Host "이 창을 닫으려면 Enter 키를 누르세요"
     exit 1
 }
 
@@ -81,6 +83,7 @@ $bundleFiles = Get-ChildItem -Path $tempExtractDir -Filter "*.bundle"
 if ($bundleFiles.Count -eq 0) {
     Write-Host "오류: korean.pat 안에 .bundle 파일이 없습니다." -ForegroundColor Red
     Remove-Item -Path $tempExtractDir -Recurse -Force
+    Read-Host "이 창을 닫으려면 Enter 키를 누르세요"
     exit 1
 }
 
@@ -97,6 +100,7 @@ Write-Host ""
 
 $backedUp = 0
 $installed = 0
+$skipped = @()
 
 foreach ($file in $bundleFiles) {
     $originalPath = Join-Path $targetDir $file.Name
@@ -104,6 +108,7 @@ foreach ($file in $bundleFiles) {
 
     if (-not (Test-Path $originalPath)) {
         Write-Host "  [건너뜀] 원본에 없는 파일: $($file.Name)" -ForegroundColor Yellow
+        $skipped += $file.Name
         continue
     }
 
@@ -128,6 +133,31 @@ if (-not $hadExistingInstall) {
     Write-Host "완료: 기존 설치를 업데이트했습니다. ($installed 개 파일 중 $backedUp 개는 이번에 새로 추가되어 처음 백업됨)" -ForegroundColor Green
 }
 Write-Host "백업 위치: $backupDir"
+
+# 설치 결과를 파일로도 남겨서, 콘솔 창이 바로 닫히거나 스크롤을 놓쳐도 나중에 확인할 수 있게 함.
+$logPath = Join-Path $scriptDir "install_log.txt"
+$logLines = @(
+    "설치 시각: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+    "게임 폴더: $gameRoot"
+    "설치됨: $installed 개"
+    "건너뜀: $($skipped.Count) 개"
+)
+if ($skipped.Count -gt 0) {
+    $logLines += "건너뛴 파일 목록 (게임이 패치 제작 당시와 다른 버전이면 발생할 수 있음 — 이 파일들은 패치가 적용되지 않음):"
+    $logLines += ($skipped | ForEach-Object { "  - $_" })
+}
+$logLines | Out-File -FilePath $logPath -Encoding UTF8
+Write-Host "설치 로그 저장됨: $logPath"
+
+if ($skipped.Count -gt 0) {
+    Write-Host ""
+    Write-Host "⚠경고: $($skipped.Count)개 파일이 건너뛰어졌습니다 — 해당 부분은 패치가 적용되지 않아 원문(중국어 등)이 그대로 나올 수 있습니다." -ForegroundColor Red
+    Write-Host "  게임이 패치 제작 당시와 다른 버전으로 업데이트되어 리소스 파일명이 바뀌었을 가능성이 있습니다."
+    Write-Host "  install_log.txt 파일을 개발자에게 보내주시면 도움이 됩니다."
+}
+
 Write-Host ""
 Write-Host "게임 실행 후 설정 > 언어 > English 로 변경하면 한글이 나옵니다."
 Write-Host "제거하려면 uninstall.ps1 을 실행하세요."
+Write-Host ""
+Read-Host "이 창을 닫으려면 Enter 키를 누르세요"
