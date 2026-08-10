@@ -5,9 +5,32 @@ translation/translated/dialogue/*.csv 의 korean 컬럼을 읽어서
 - 매칭 방식: extract_translation.py 와 동일한 순서로 Nodes -> Lines -> Units 를 순회하면서
   나온 순서(행 순서)를 그대로 CSV 행과 1:1 매칭한다. (같은 챕터의 모든 언어는 노드/유닛 구조가 동일하다는
   전제 - 검증을 위해 개수가 안 맞으면 에러를 내고 중단한다.)
-- YarnSayUnit: Line 필드만 교체 (Body는 런타임에 다시 읽히지 않는 원본 소스 토큰이라 안 건드림)
+- YarnSayUnit: Line 필드 교체 (Body는 런타임에 다시 읽히지 않는 원본 소스 토큰이라 안 건드림)
 - YarnBranchUnit: Selection 필드만 교체 (Condition은 스크립트 변수 조건이라 절대 건드리면 안 됨)
 - japanese 컬럼은 번역 소스 참고용일 뿐, 실제로 쓰는 슬롯은 항상 en-US (일본어 YarnAsset은 안 건드림)
+
+## Role 필드 교정 (중요 — 실제 플레이 중 발견된 버그의 수정)
+
+게임 엔진(Creation.Yarn.Playing)은 대사를 표시할 때 이런 순서로 동작한다:
+1. 원본(중국어, LanguageCode="") 유닛의 `Role`(예: "蔡明翰")을 가져온다.
+2. 그 Role을 키로 Workbook "角色" 시트에서 목표 언어(en-US) 번역명을 찾는다 (예: "밍차이").
+3. en-US YarnAsset 안에서 `Role`이 그 번역명("밍차이")과 **똑같은** Say 유닛을 찾아서 그걸 재생한다.
+
+문제: 우리는 대사 Line은 번역했지만 Role 필드는 원본 그대로(en-US 원본 값, 예: "Albert Tsai") 뒀다.
+Workbook 角色 시트의 en-US 슬롯은 한글 이름("밍차이")으로 번역해놨기 때문에, 2번에서 찾은 이름("밍차이")과
+3번에서 en-US 유닛이 가진 Role("Albert Tsai")이 서로 달라서 매칭에 실패 → 게임이 통째로 원본(중국어) 유닛으로
+폴백해버린다 (Line도 Role도 전부 원본 중국어로 보임). `#Simple`(주인공 대사/선택지)만 이 이름 매칭 단계를
+건너뛰기 때문에 정상 동작했던 것.
+
+해결책: en-US YarnAsset의 각 YarnSayUnit Role도, 같은 위치의 원본(zh-TW) 유닛 Role을 키로 Workbook 角色
+시트에서 찾은 한글 번역명으로 맞춰준다. (`#Simple`은 특수 마커라 번역 대상이 아니므로 그대로 둠.)
+
+## 번들 하나에 같은 씬(scene)의 YarnAsset이 여러 벌 들어있는 경우
+
+Addressables 패키징 때문에, 같은 씬의 YarnAsset(같은 Node 구성)이 여러 물리 .bundle 파일에 중복으로
+박혀 있는 경우가 있다 (예: 教學關(튜토리얼)이 자기 전용 번들 말고도 다른 번들 안에 통째로 한 번 더 들어있음).
+어느 사본이 실제로 게임에서 로드되는지 확신할 수 없으므로, 안전하게 "발견되는 모든 사본"을 전부 패치한다 —
+Node 제목 목록(시그니처)으로 어느 CSV가 그 사본에 해당하는지 식별한다.
 
 한 번에 하나의 번들만 처리하고 싶으면 --bundle 인자로 파일명을 넘기면 된다.
 기본은 DIALOGUE_BUNDLES 전체를 순회.
@@ -23,7 +46,9 @@ PROJECT_ROOT = "/Users/sahncha/Projects/MindsBeneathUsKorean"
 # resource/ 에 파일이 없으면: SSD($DATA/StreamingAssets/aa/StandaloneWindows64/)에서 다시 복사할 것.
 BUNDLE_DIR = os.path.join(PROJECT_ROOT, "resource")
 TRANSLATED_DIR = os.path.join(PROJECT_ROOT, "translation/translated/dialogue")
+WORKBOOK_CSV = os.path.join(PROJECT_ROOT, "translation/translated/workbook.csv")
 OUT_DIR = os.path.join(PROJECT_ROOT, "install")
+DEV_LANG_CODE = ""  # zh-TW, 원본/개발 언어 슬롯
 
 DIALOGUE_BUNDLES = [
     "scene_finalerrortalk_scenes_all_08f3f0c373758b208d1d446a3d2309d3.bundle",
@@ -47,30 +72,108 @@ DIALOGUE_BUNDLES = [
 TARGET_LANG_CODE = "en-US"
 
 
-def find_csv_for_bundle(bundle_filename):
-    for path in glob.glob(os.path.join(TRANSLATED_DIR, "*.csv")):
-        with open(path, encoding="utf-8-sig") as f:
-            reader = csv.DictReader(f)
-            first = next(reader, None)
-            if first and first["bundle_file"] == bundle_filename:
-                return path
-    return None
+def load_role_name_map():
+    """Workbook 角色 시트: 중국어 원본 이름(key) -> 한글 번역명(korean)."""
+    mapping = {}
+    with open(WORKBOOK_CSV, encoding="utf-8-sig") as f:
+        for row in csv.DictReader(f):
+            if row["sheet"] != "角色":
+                continue
+            ko = row["korean"].strip()
+            if ko:
+                mapping[row["key"]] = ko
+    return mapping
 
 
-def patch_bundle(bundle_filename):
-    csv_path = find_csv_for_bundle(bundle_filename)
-    if csv_path is None:
-        print(f"  [건너뜀] 매칭되는 번역 CSV 없음: {bundle_filename}")
-        return 0
+ROLE_NAME_MAP = load_role_name_map()
 
-    with open(csv_path, encoding="utf-8-sig") as f:
-        rows = list(csv.DictReader(f))
 
-    translated_rows = [r for r in rows if r["korean"].strip()]
-    if not translated_rows:
-        print(f"  [건너뜀] 번역된 행 없음: {os.path.basename(csv_path)}")
-        return 0
+def collect_units(tree):
+    """Nodes -> Lines -> Units 순서로 (YarnSayUnit/YarnBranchUnit) ref 리스트를 만든다."""
+    ref_map = {r["rid"]: r for r in tree["references"]["RefIds"]}
+    ordered = []
+    for node in tree["Nodes"]:
+        for line in node.get("Lines", []):
+            for unit_ref in line.get("Units", []):
+                rid = unit_ref.get("rid")
+                ref = ref_map.get(rid)
+                if ref is None:
+                    continue
+                cls = ref["type"]["class"]
+                if cls in ("YarnSayUnit", "YarnBranchUnit"):
+                    ordered.append(ref)
+    return ordered
 
+
+def node_signature(tree):
+    return tuple(n["Title"] for n in tree["Nodes"])
+
+
+def csv_node_titles(rows):
+    """CSV의 node 컬럼에서, 처음 등장한 순서대로 고유 노드 제목 목록을 뽑는다.
+    (CSV에는 번역 대상 유닛이 없는 빈 노드는 안 나오므로, 이건 완전한 Node 시그니처의
+    부분집합/부분수열이다 - 그래도 en-US 쪽 후보를 후보군으로 좁히는 데는 충분하다.)"""
+    seen = []
+    seen_set = set()
+    for r in rows:
+        n = r["node"]
+        if n not in seen_set:
+            seen_set.add(n)
+            seen.append(n)
+    return seen
+
+
+def build_signature_table():
+    """translation/translated/dialogue/ 안의 모든 CSV를 훑어서, 각 CSV가 실제로 어느
+    en-US YarnAsset(Node 제목 시퀀스)에 해당하는지 찾아 시그니처 -> (rows, csv 파일명) 테이블을 만든다.
+
+    한 물리 .bundle 파일 안에 여러 씬의 YarnAsset이 같이 들어있을 수 있어서(예: 05번 파일과
+    17번 파일이 같은 번들 안에 같이 있음), bundle_file 컬럼만으로는 어떤 CSV가 어떤 씬인지
+    특정할 수 없다. 그래서 후보(같은 bundle_file을 쓰는 en-US 오브젝트들) 중에서
+    (a) 번역 대상 유닛 개수가 CSV 행수와 일치하고, (b) 후보의 Node 제목 목록이 CSV의 node
+    컬럼에 나온 노드들을 전부 포함하는지를 보고 짝을 찾는다.
+    """
+    table = {}
+    bundle_cache = {}  # bundle_filename -> list[(tree, unit_count, node_titles_set)]
+
+    for csv_path in sorted(glob.glob(os.path.join(TRANSLATED_DIR, "*.csv"))):
+        with open(csv_path, encoding="utf-8-sig") as f:
+            rows = list(csv.DictReader(f))
+        if not rows or not any(r["korean"].strip() for r in rows):
+            continue
+        bundle_filename = rows[0]["bundle_file"]
+
+        if bundle_filename not in bundle_cache:
+            candidates = []
+            path = os.path.join(BUNDLE_DIR, bundle_filename)
+            env = UnityPy.load(path)
+            for obj in env.objects:
+                if obj.type.name != "MonoBehaviour":
+                    continue
+                try:
+                    tree = obj.read_typetree()
+                except Exception:
+                    continue
+                if tree.get("LanguageCode") == TARGET_LANG_CODE and "Nodes" in tree:
+                    candidates.append((tree, len(collect_units(tree)), set(node_signature(tree))))
+            bundle_cache[bundle_filename] = candidates
+
+        candidates = bundle_cache[bundle_filename]
+        wanted_nodes = set(csv_node_titles(rows))
+        matches = [
+            tree for tree, unit_count, node_titles in candidates
+            if unit_count == len(rows) and wanted_nodes <= node_titles
+        ]
+        if len(matches) != 1:
+            print(f"  [경고] {os.path.basename(csv_path)} <-> {bundle_filename} 매칭 실패 (후보 {len(matches)}개) — 건너뜀")
+            continue
+
+        sig = node_signature(matches[0])
+        table[sig] = (rows, os.path.basename(csv_path))
+    return table
+
+
+def patch_bundle(bundle_filename, signature_table):
     path = os.path.join(BUNDLE_DIR, bundle_filename)
     if not os.path.exists(path):
         raise FileNotFoundError(
@@ -81,8 +184,9 @@ def patch_bundle(bundle_filename):
         )
     env = UnityPy.load(path)
 
-    target_obj = None
-    target_tree = None
+    # 이 번들 안의 en-US YarnAsset을 전부 모으고 (중복 사본 포함), 원본(zh-TW) 후보도 전부 모은다.
+    en_objs = []
+    dev_candidates = []
     for obj in env.objects:
         if obj.type.name != "MonoBehaviour":
             continue
@@ -90,54 +194,91 @@ def patch_bundle(bundle_filename):
             tree = obj.read_typetree()
         except Exception:
             continue
+        if "Nodes" not in tree or "LanguageCode" not in tree:
+            continue
         if tree.get("LanguageCode") == TARGET_LANG_CODE:
-            target_obj = obj
-            target_tree = tree
-            break
+            en_objs.append((obj, tree))
+        elif tree.get("LanguageCode") == DEV_LANG_CODE:
+            dev_candidates.append(tree)
 
-    assert target_obj is not None, f"{TARGET_LANG_CODE} YarnAsset을 못 찾음: {bundle_filename}"
-
-    ref_map = {r["rid"]: r for r in target_tree["references"]["RefIds"]}
-
-    # extract_translation.py 와 동일한 순서로 순회하며 (rid, class) 리스트를 만든다.
-    ordered_units = []
-    for node in target_tree["Nodes"]:
-        for line in node.get("Lines", []):
-            for unit_ref in line.get("Units", []):
-                rid = unit_ref.get("rid")
-                ref = ref_map.get(rid)
-                if ref is None:
-                    continue
-                cls = ref["type"]["class"]
-                if cls in ("YarnSayUnit", "YarnBranchUnit"):
-                    ordered_units.append(ref)
-
-    if len(ordered_units) != len(rows):
-        print(f"  [경고] 구조 불일치! CSV 행수={len(rows)} vs en-US 유닛수={len(ordered_units)} : {bundle_filename}")
-        print(f"         이 번들은 건너뜁니다. 수동 확인 필요.")
+    if not en_objs:
+        print(f"  [건너뜀] en-US YarnAsset 없음: {bundle_filename}")
         return 0
 
-    patched = 0
-    for row, ref in zip(rows, ordered_units):
-        ko = row["korean"].strip()
-        if not ko:
-            continue
-        data = ref["data"]
-        if ref["type"]["class"] == "YarnSayUnit":
-            data["Line"] = ko
-        elif ref["type"]["class"] == "YarnBranchUnit":
-            data["Selection"] = ko
-        patched += 1
+    total_patched = 0
+    total_role_fixed = 0
+    role_missing = set()
+    matched_any = False
 
-    target_obj.save_typetree(target_tree)
+    for target_obj, target_tree in en_objs:
+        sig = node_signature(target_tree)
+        entry = signature_table.get(sig)
+        if entry is None:
+            continue  # 이 시그니처에 해당하는 번역 CSV 없음(=번역 대상 아닌 씬) - 건드리지 않음
+        matched_any = True
+        rows, home_bundle = entry
+
+        ordered_units = collect_units(target_tree)
+        if len(ordered_units) != len(rows):
+            print(f"  [경고] 구조 불일치! CSV 행수={len(rows)} vs en-US 유닛수={len(ordered_units)} : {bundle_filename} (원 소속: {home_bundle})")
+            continue
+
+        patched = 0
+        for row, ref in zip(rows, ordered_units):
+            ko = row["korean"].strip()
+            if not ko:
+                continue
+            data = ref["data"]
+            if ref["type"]["class"] == "YarnSayUnit":
+                data["Line"] = ko
+            elif ref["type"]["class"] == "YarnBranchUnit":
+                data["Selection"] = ko
+            patched += 1
+        total_patched += patched
+
+        # Role 필드 교정: 같은 시그니처를 가진 원본(zh-TW) 후보를 찾아 1:1 대조.
+        dev_tree = None
+        for cand in dev_candidates:
+            if node_signature(cand) == sig:
+                dev_tree = cand
+                break
+        if dev_tree is None:
+            print(f"  [경고] 원본(zh-TW) 짝을 못 찾음, Role 교정 건너뜀: {bundle_filename} (시그니처 소속: {home_bundle})")
+        else:
+            dev_units = collect_units(dev_tree)
+            if len(dev_units) == len(ordered_units):
+                for dev_ref, en_ref in zip(dev_units, ordered_units):
+                    if en_ref["type"]["class"] != "YarnSayUnit":
+                        continue
+                    dev_role = dev_ref["data"].get("Role", "")
+                    if not dev_role or dev_role == "#Simple":
+                        continue
+                    ko_name = ROLE_NAME_MAP.get(dev_role)
+                    if ko_name is None:
+                        role_missing.add(dev_role)
+                        continue
+                    if en_ref["data"].get("Role") != ko_name:
+                        en_ref["data"]["Role"] = ko_name
+                        total_role_fixed += 1
+            else:
+                print(f"  [경고] 원본 유닛수({len(dev_units)}) != en-US 유닛수({len(ordered_units)}), Role 교정 건너뜀: {bundle_filename}")
+
+        target_obj.save_typetree(target_tree)
+
+    if role_missing:
+        print(f"  [주의] Workbook 角色 시트에 없는 Role {len(role_missing)}개 (교정 못함): {sorted(role_missing)[:10]}{'...' if len(role_missing) > 10 else ''}")
+
+    if not matched_any:
+        print(f"  [건너뜀] 매칭되는 번역 CSV 없음: {bundle_filename}")
+        return 0
 
     os.makedirs(OUT_DIR, exist_ok=True)
     out_path = os.path.join(OUT_DIR, bundle_filename)
     with open(out_path, "wb") as f:
         f.write(env.file.save(packer="lz4"))
 
-    print(f"  -> {bundle_filename}: {patched}줄 패치, 저장: {out_path}")
-    return patched
+    print(f"  -> {bundle_filename}: {total_patched}줄 패치, Role {total_role_fixed}개 교정, 저장: {out_path}")
+    return total_patched
 
 
 def main():
@@ -145,10 +286,15 @@ def main():
     if len(sys.argv) > 1 and sys.argv[1] == "--bundle":
         targets = [sys.argv[2]]
 
+    print("시그니처 테이블 구성 중...")
+    signature_table = build_signature_table()
+    print(f"  {len(signature_table)}개 씬 시그니처 등록됨")
+    print()
+
     total = 0
     for i, b in enumerate(targets, start=1):
         print(f"[{i}/{len(targets)}] {b}")
-        total += patch_bundle(b)
+        total += patch_bundle(b, signature_table)
 
     print()
     print(f"총 패치된 줄 수: {total}")
