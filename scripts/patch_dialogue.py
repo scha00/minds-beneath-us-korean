@@ -9,21 +9,33 @@ translation/translated/dialogue/*.csv 의 korean 컬럼을 읽어서
 - YarnBranchUnit: Selection 필드만 교체 (Condition은 스크립트 변수 조건이라 절대 건드리면 안 됨)
 - japanese 컬럼은 번역 소스 참고용일 뿐, 실제로 쓰는 슬롯은 항상 en-US (일본어 YarnAsset은 안 건드림)
 
-## Role 필드 교정 (중요 — 실제 플레이 중 발견된 버그의 수정)
+## Role / TranslationID.characterName 교정 (중요 — 실제 플레이 중 발견된 버그의 수정)
 
 게임 엔진(Creation.Yarn.Playing)은 대사를 표시할 때 이런 순서로 동작한다:
-1. 원본(중국어, LanguageCode="") 유닛의 `Role`(예: "蔡明翰")을 가져온다.
-2. 그 Role을 키로 Workbook "角色" 시트에서 목표 언어(en-US) 번역명을 찾는다 (예: "밍차이").
-3. en-US YarnAsset 안에서 `Role`이 그 번역명("밍차이")과 **똑같은** Say 유닛을 찾아서 그걸 재생한다.
+1. 원본(중국어, LanguageCode="") 유닛의 `Role`(예: "蔡明翰")을 키로 Workbook "角色" 시트에서
+   목표 언어(en-US) 번역명을 찾는다 (예: "밍차이").
+2. en-US YarnAsset 안에서, 각 유닛이 가진 `TranslationID.characterName`이 그 번역명("밍차이")과
+   **똑같은** Say 유닛을 찾아서 그걸 재생한다 (`YarnAssetCollection.TryGetTranslation` →
+   `YarnAsset.TryGetTranslatedUnit`, `TranslationIDInfo.Equals`가 `nodeName`+`characterName`+
+   `sayIndex` 세 개를 전부 비교).
 
-문제: 우리는 대사 Line은 번역했지만 Role 필드는 원본 그대로(en-US 원본 값, 예: "Albert Tsai") 뒀다.
-Workbook 角色 시트의 en-US 슬롯은 한글 이름("밍차이")으로 번역해놨기 때문에, 2번에서 찾은 이름("밍차이")과
-3번에서 en-US 유닛이 가진 Role("Albert Tsai")이 서로 달라서 매칭에 실패 → 게임이 통째로 원본(중국어) 유닛으로
-폴백해버린다 (Line도 Role도 전부 원본 중국어로 보임). `#Simple`(주인공 대사/선택지)만 이 이름 매칭 단계를
-건너뛰기 때문에 정상 동작했던 것.
+**핵심 함정**: `TranslationID`는 `Role`과는 별개로 직렬화된 필드다. `YarnSayUnit.ParseTranslation()`이
+원본 yarn 스크립트를 최초로 컴파일할 때 `TranslationID.characterName = TranslationRole (= Role)`로
+한 번 "굳혀서" 저장해두는 방식이라, 이후 `Role` 필드 값만 바꿔도 `TranslationID.characterName`은
+자동으로 따라오지 않는다 — 완전히 독립된 값으로 남는다.
 
-해결책: en-US YarnAsset의 각 YarnSayUnit Role도, 같은 위치의 원본(zh-TW) 유닛 Role을 키로 Workbook 角色
-시트에서 찾은 한글 번역명으로 맞춰준다. (`#Simple`은 특수 마커라 번역 대상이 아니므로 그대로 둠.)
+처음엔 `Role`만 en-US 원본 값(예: "Albert Tsai")에서 번역명("밍차이")으로 고쳤는데, 이것만으로는
+안 됐다: `TranslationID.characterName`이 여전히 "Albert Tsai"로 남아있어서 위 1번에서 찾은
+번역명("밍차이")과 매칭에 실패 → 게임이 통째로 원본(중국어) 유닛으로 폴백해버렸다 (Line도 Role도
+전부 원본 중국어로 보임 — 화면에 표시되는 `Role` 텍스트를 고쳤는데도 매칭 자체는 여전히 실패하는,
+겉으로는 "패치가 씹히는" 것처럼 보이는 증상이었다). `#Simple`(주인공 대사/선택지)의
+`TranslationID.characterName`은 항상 상수 `"#Simple"`이라 이 이름 매칭 단계 자체를 타지 않기
+때문에(`TranslationIDInfo.IsSimple`) 처음부터 정상 동작했던 것.
+
+해결책: en-US YarnAsset의 각 YarnSayUnit마다, 같은 위치의 원본(zh-TW) 유닛 Role을 키로 Workbook
+角色 시트에서 찾은 한글 번역명을 **`Role`(화면 표시용)과 `TranslationID.characterName`(매칭용) 둘
+다에** 똑같이 써넣는다. 하나라도 빠지면 이 버그가 재발한다. (`#Simple`은 특수 마커라 번역 대상이
+아니므로 그대로 둠.)
 
 ## 번들 하나에 같은 씬(scene)의 YarnAsset이 여러 벌 들어있는 경우
 
@@ -257,8 +269,19 @@ def patch_bundle(bundle_filename, signature_table):
                     if ko_name is None:
                         role_missing.add(dev_role)
                         continue
+                    changed = False
                     if en_ref["data"].get("Role") != ko_name:
                         en_ref["data"]["Role"] = ko_name
+                        changed = True
+                    # TranslationID.characterName은 Role과 별개로 직렬화된 필드라, 이것도
+                    # 같이 안 맞춰주면 게임의 TryGetTranslatedUnit 매칭(TranslationID 전체
+                    # 일치 비교)이 실패해서 화면엔 원본(중국어)으로 폴백된다 — 실제로 겪은 버그,
+                    # Role만 고쳤을 때 이 필드를 놓쳐서 재발함. 반드시 같이 고칠 것.
+                    translation_id = en_ref["data"].get("TranslationID")
+                    if translation_id is not None and translation_id.get("characterName") != ko_name:
+                        translation_id["characterName"] = ko_name
+                        changed = True
+                    if changed:
                         total_role_fixed += 1
             else:
                 print(f"  [경고] 원본 유닛수({len(dev_units)}) != en-US 유닛수({len(ordered_units)}), Role 교정 건너뜀: {bundle_filename}")
