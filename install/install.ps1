@@ -1,4 +1,4 @@
-# Minds Beneath Us 한글패치 설치 스크립트
+﻿# Minds Beneath Us 한글패치 설치 스크립트
 #
 # 이 스크립트와 같은 폴더에 있는 korean.pat(내용물은 zip, 탐색기에서 실수로 못 풀게 확장자만
 # 다르게 한 것)을 임시 폴더에 풀고, 그 안의 .bundle 파일들을 게임의
@@ -10,6 +10,13 @@
 #         게임 설치 경로를 자동으로 못 찾으면 직접 입력하라고 물어봄.
 
 $ErrorActionPreference = "Stop"
+
+# 콘솔이 한글을 깨진 문자로 표시하는 걸 막기 위해 출력 인코딩을 UTF-8로 강제.
+try {
+    [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+    $OutputEncoding = [System.Text.Encoding]::UTF8
+    chcp 65001 > $null
+} catch {}
 
 function Find-GameRoot {
     $candidates = @(

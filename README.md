@@ -3,6 +3,8 @@
 Unity 게임 **Minds Beneath Us**(BearBone Studio)의 비공식 팬 한글패치 프로젝트입니다.
 공식 한국어 지원은 없으며, 이 프로젝트는 게임사와 무관합니다.
 
+**번역 100% 완료** — 대사·UI 텍스트 42,187줄 전부 번역되었습니다.
+
 ## 다운로드 / 설치
 
 최신 패치 파일: [MindsBeneathUsKorean.zip 다운로드](../../releases/latest/download/MindsBeneathUsKorean.zip)
@@ -16,7 +18,7 @@ Unity 게임 **Minds Beneath Us**(BearBone Studio)의 비공식 팬 한글패치
 
 ## 진행 상황
 
-번역 진행률은 [`progress.md`](progress.md) 에서 확인할 수 있습니다.
+항목별 진행률은 [`progress.md`](progress.md) 에서 확인할 수 있습니다 (자동 생성 파일).
 
 ## 번역 원칙
 

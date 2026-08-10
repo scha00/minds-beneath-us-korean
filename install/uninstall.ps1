@@ -1,9 +1,16 @@
-# Minds Beneath Us 한글패치 제거 스크립트
+﻿# Minds Beneath Us 한글패치 제거 스크립트
 #
 # install.ps1 이 만들어둔 _originals_backup\ 폴더의 원본 파일들을 다시 복원하고,
 # 백업 폴더를 정리한다.
 
 $ErrorActionPreference = "Stop"
+
+# 콘솔이 한글을 깨진 문자로 표시하는 걸 막기 위해 출력 인코딩을 UTF-8로 강제.
+try {
+    [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+    $OutputEncoding = [System.Text.Encoding]::UTF8
+    chcp 65001 > $null
+} catch {}
 
 function Find-GameRoot {
     $candidates = @(

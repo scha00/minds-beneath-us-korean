@@ -1,502 +1,502 @@
 ﻿bundle_file,node,type,role,say_index,japanese,korean
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,心の声,0,うっ……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,0,着替え終わった？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,0,ああ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,1,リンの方も用意できたのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,1,うん。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,2,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,2,何を見ているんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,3,お隣さん家の猫。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,4,ベランダに止まったスズメを捕まえたいみたいなんだけど、窓が邪魔で手こずってるみたいなの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,3,捕まえられたか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,5,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,6,捕まえちゃったら…,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,7,見る価値がないでしょう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,4,リンは捕まえて欲しいのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,8,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,9,……わからない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,5,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,6,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,10,あれ？誰かがインターホンが鳴らしてる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,0,ジェイの兄貴は、会社まで電車っすよね？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,1,僕はバイクをあっちに止めてるから、工場でまた合流しましょう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Branch,#Simple,0,ああ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Branch,#Simple,1,本当に乗せてくれないのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,2,ハハハ！だめっすよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Branch,#Simple,2,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,3,僕はバイクで行くから、兄貴より先に着くと思うっす……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,4,工場に着いたら、僕の席で落ち合いましょう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,5,じゃ、また後で！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,0,こんばんはっす！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,0,こんばんは。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,1,あんたとスイニンは鳴らさなくとも、俺の家に入れるはずだろう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,1,いや、でも勝手に入るのは失礼かなって……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,2,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,2,スイ姉が今日の作戦について話し合いたいみたいっす。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,3,わかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,4,結果はどうなんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,3,結果？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,5,オペレーションコアの解析はもう終わったんだろう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,6,俺らが昨日持ち帰ったデータのことだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,4,それが……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,5,解析は終わってるみたいけど、僕には何も教えてくれなくて。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,6,多分、後で説明してくれると思うっす。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,7,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,7,じゃ、僕らは向こうで待ってるっすね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,0,誰だったの？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,0,リュウセイ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,1,呼びに来てくれたのね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,1,そろそろスイ･ニンのところに来てほしいそうだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,2,そう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,3,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,2,リン？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,3,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,4,ジェイ、実は言っておきたいことが一つあるの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,5,私、一晩中考えたんだけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,6,その……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,7,サイレントに関わるのは、今日で最後にすると約束してほしいの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,心の声,0,いきなりどうしたんだ……？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,8,実は昨日、スイさんとも話してたんだけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,9,あなたがこれ以上サイレントにいるのは危ないと思うの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,10,昨日は無事に逃げられたけど、あなたは傭兵たちに顔を見られたのよ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,11,スイさんも私と同じ意見よ。彼女なら……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,12,あなたをこれ以上サイレントに行かせないと思う。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,4,なら、なぜ彼女はそう指示しないんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,13,この件は、私たちで決めるべきだって……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,5,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,14,ジェイ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,15,今はまだ安全だと思うし、万象も堂々とサイレントに傭兵を送り込んで、あなたを探したりはしないと思うけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,16,時間が経過すればするほど、あなたの身は危なくなる……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,17,昨日の言ったとおり、この件を調べるのを止めるつもりはないけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,18,ここまでのリスクを冒してまで、サイレントに行く意味はないと思うの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,19,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,20,だからジェイ、約束してくれる？今日で最後にするって。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,6,わかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,21,ありがとう、ジェイ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,7,他に手はないわけだしな。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,22,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,23,それとも、ジェイはサイレントに残りたいと思ってるの？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,8,ああ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,9,そういうわけじゃない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,24,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,25,ごめんね、ジェイ。私、この件だけは譲れない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,26,だから、私の願いを聞いてほしい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,27,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,28,行きましょう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,29,スイさんのところに。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,0,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,1,ムカイ･チン……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,0,やぁ、同胞。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,2,……気のせいか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,3,落ち込んでるように見える……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,0,イアン･チョーとの間に何か問題があったのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,1,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,2,いや、順調だった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,1,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,3,俺はイアン･チョーと情報を交換し合った。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,4,しかし、お前に教えられることは……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,5,根源がどのような状況に置かれているかは、まだ分からない。それと、我々の今の自由は一時的なものだということだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,6,俺たちはいつ回収され、停止されてもおかしくない状況なのかもしれない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,2,つまり？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,7,つまり今の身体とおさらばってことだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,8,身体を失った俺らがどうなるかは誰も知らない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,3,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,9,会うのは……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,10,これで最後だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,4,待ってくれ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,11,……なんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,5,なぜ今日で最後になんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,12,俺がこの件から手を引くつもりだからだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,13,停止される、または回収されるまでの時間を使って、この世界を楽しみたいんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,14,お前もそうするといい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,6,イアン･チョーから一体何を聞いた？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,15,言ったはずだろう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,16,お前にどれだけの情報を伝えるかは俺が決めると。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,17,お前に教えられる情報はさっきので全部だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,18,この話はもうやめよう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,7,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,19,同胞よ、残りの時間を悔いの残らないように生きよう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,0,やっほー、ジェイ！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,0,23号。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,1,任務中じゃなかったのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,1,そうだけど、急に思い出したことがあって……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,2,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,2,実は、気になってることがあってね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,3,昨日私たちがデータを全部解析した後、コードネーム「眠り神」で検索をかけたんだけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,4,有益な情報は見つからなかったのよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,5,まあ、これはレッドボックスの機密計画だからね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,6,眠り神に関する情報のやり取りは、全て秘密裏に交わされていたはずだから無理もない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,7,でもね、発見があったのよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,8,レッドボックスとサイレントの通信記録の中に、何回か「眠り神」という単語が使われていたの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,9,もちろん「眠り神」に関する情報は得られなかったけど、少なくともサイレント内部に、この計画を知っている人が存在するってことは証明された。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,10,そこでね、私はひらめいたのよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,11,レッドボックスのデータバンクにハッキングすることはできないけど……まあ、正確には見つからずにハッキングするのが不可能ってことなんだけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,12,でも、サイレントのデータバンクなら難易度がぐーんと下がる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,13,もしその人物を見つけることさえできれば、私たちはもっと情報を手に入れられると思う。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,14,でも問題なのは、レッドボックスと繋がっている人物が誰なのかわからないってことよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,15,サイレントの全職員の資料を調べるわけにもいかないし……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,16,だからダメ元で聞きたいんだけど、怪しい人とかいない？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,3,いるかもしれない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,17,ほんと？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,18,どこの組の人？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,4,選別組だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,19,名前は？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,5,チキョウ･リョウ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,6,ジーン･ヨウ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,7,イー･テイ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,8,シンホン･ゴウ,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,9,操作組だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,20,名前は？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,10,ジュジュ･ライ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,11,シュン･ゴ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,12,カエ･チン。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,13,パン･ロウ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,14,修築組だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,21,名前は？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,15,ジソ･ソン。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,16,レイカ･ホウ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,17,サン･チョウ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,18,シー･リー。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,22,はぁ？本当にそんな名前の人がいるの？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,23,わかった。調べてみる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,24,結果がわかったら、すぐ知らせるから。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,25,ありがとうね、ジェイ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,19,いないな。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,26,そう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,27,それじゃ仕方ないね、この件は忘れて。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,20,あんたは他人のプライベートを探りたくないのでは？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,28,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,29,そうだけど。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,30,私だって、何を優先すべきかくらいわかってる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,31,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,32,とは言え、罪悪感はあるけどね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,33,……それで、誰か心当たりのある人いない？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,34,じゃ、また後で。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,0,君らもか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,0,また沈没予定エリアね……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,1,スイ、どうする？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,0,また緊急招集か？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,2,うん。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,1,何があったのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,2,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,3,北区西エリアで待機してるエージェントに招集命令が出たの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,0,何があったのかを詳しく教えて？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,0,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,1,「清掃員」が殺された。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,3,あんたたちは行かないといけないのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,2,ええ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,4,「清掃員」？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,3,フクロウに協力している秘密組織だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,4,主に現場の「掃除」を担当している。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,5,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,1,「清掃員」に手を出すってことは、明らかに挑発だ。これは大ごとだぞ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,2,相手は誰だと思う？竜威会か？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,0,そんな！竜威会はこんなこと……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,3,何だ？君は竜威会の関係者なのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,5,リュウセイ、やめなさい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,4,ハハハ、スイ･ニン。君は本当に面白い。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,5,まさか竜威会の小僧を拾っていたとは……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,6,黙れ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,7,私たちはもう行く。任務は一旦中止だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,8,ジェイ、リュウセイ、サイレントで待機してくれ。すぐ戻る。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,6,どれくらい時間がかかるんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,9,わからない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,4,すぐは無理でしょうね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,7,わかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,8,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,1,もしあなたたちが作戦時間までに戻らなかったら？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,10,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,5,スイ……？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,11,その場合の作戦は考えておく。とりあえずサイレントに向かってくれ。進展があったら知らせる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,12,23号、ブツは？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,6,中にあるけど、スイがいつも使ってるやつしか残ってないよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,13,それで十分だ。私は準備があるから、彼と先に向かってくれ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,7,嫌。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,14,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,15,わかった。あなたは先に向かっててくれ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,6,いやーだぁー。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,16,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,17,リュウセイ、ジェイ、先にサイレントに向かってくれ。別々で行動することを忘れるな。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,1,じゃ、僕はバイクで行くから、選別組のオフィスで落ち合いましょう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,9,わかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,10,乗せてくれないのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,2,スイ姉から別々で行動するように、言われたばっかりっすよ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,11,そうだな、すまない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,12,わかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,13,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,14,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,3,じゃ、先に行くっす。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,2,ジェイ、気をつけて。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,15,わかってる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,16,心配ないさ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,3,うん！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,17,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,7,頑張れ～。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,0,23号。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,0,昨日リュウセイとジェイが持ち帰ったデータを調べてみたけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,1,サイレントから産出された演算力は確かに規定値を超えている。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,2,それにサイレントが停止した後も、演算力の減少はほとんど見られなかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,0,黒確定ってこと？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,3,この件についてはね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,4,でもこれらの演算力はサイレントで生産されたものではなく、どこからか運び込まれてきたものなの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,5,簡単に言えば、サイレントはただの中継地点なの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,6,本当の演算力の生産元を隠すためのカモフラージュ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,7,ジェイの昨日の推理は正しかったかもしれない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,8,万象が演算力の生産元を隠している事実は、このデータを見るに、ほぼ間違いないと思う。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,心の声,0,しかし、そこまでの労力をかける必要は万象にはないと、あの時は言ってたはずだ……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,0,万象が生産元を隠す理由がないと言ってたはずだが？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,1,その通りだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,2,万象が生産元を隠す理由を我々はまだ知らない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,1,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,1,万象は、本当に別の場所で演算力を生産していたのね……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,2,よかった……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,0,え、どういう意味っすか？これって良いことっすか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,0,君たちの最初の推理はすべて間違っていたってことだ。つまり、さすがの万象もマイナーの命を搾取するほどのアホじゃなかったってことさ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,1,彼らはただ、未知の方法で演算力を生産し、それをサイレントの名を借りて供給していただけ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,3,私たちが心配していたセラーにいる十数万人の命は、安全だってことだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,1,そ、そうっすね！確かによかったっす……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,2,正直に言うと、君らの最初の推理はかなり馬鹿馬鹿しいものだった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,3,君たちは本当に万象が十数万人もの人間を犠牲にするとでも「思った」のか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,4,可能性は0ではない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,4,ハハハ、君たちさ。反政府、反企業思考すぎて、頭がパッパラパーになったんじゃないか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,5,あいつらの目的は金儲けだ。そんな本末転倒なことをしてどうする。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,心の声,1,メイ･ジョにも同じことを言われたな……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,6,それとも何だ？全ての企業を悪の組織か何かだと思ってるのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,2,そんなの当たり前っすよ！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,7,ハハハハ！君、面白いね！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,8,スイ･ニン、どこでこんな面白いやつを拾ったんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,3,なめやがって……！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,5,もういい。黙れ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,6,リュウセイもこの程度のことで動揺するな。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,4,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,9,フッ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,2,万象は悪事を働いていないってことは、全て振り出しに戻ったってことか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,7,彼らは、私たちが「予想していた」悪事は働いていなかっただけだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,9,より酷いことを行っているのは確かよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,3,ならどうしてリンが狙われているんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,8,それも我々がこれから調べることだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,4,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,9,まずは万象がどこで余分な演算力を生産しているかを調べる必要がある。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,10,そして、それを隠す理由もだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,5,何か手がかりはないのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,10,ある。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,6,それは俺とリンとは関係のないことじゃないのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,11,関係はあるわ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,11,彼らが何を隠しているかはわからないが、その秘密のためにリン･テイを殺そうとしたのは確かだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,12,真相が明らかにならない限り、万象は彼女の命を狙い続けるはずだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,7,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,12,実は、オペレーションコアのデータを探る上で、一つ発見があったの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,13,レッドボックスラボの通信記録の中に、ある単語が何度も出てくるの。それは……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,14,<f>「眠り神」</f>。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,3,眠り神……？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,15,多分、万象内部の大型機密研究プロジェクトのコードネームだと思う。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,16,そして、このプロジェクトは規定値を超える演算力と関係していると思うの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,17,つまり、私たちが追い求めている「真相」である可能性が高い。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,13,だが……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,14,データを調べる中で、より深刻な問題を発見した。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,15,この通信記録によると、万象は「眠り神」計画のために、タイゴウエリアで何人もの子どもを「購入」している。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,4,子どもを……！？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,8,なぜ子どもを？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,16,それはわからない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,9,スラム街で子どもが売られているのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,17,そこまで多い事例ではないが、確かに人身売買は存在している。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,10,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,5,待ってくれ……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,18,リュウセイ、どうしたんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,6,その口振りだと、これからその子どもたちを探しに行く流れになってないっすか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,19,……その予定だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,7,で、でも、子どもたちはもうすでに売られてるっすよね？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,20,ええ、私たちがこの事実に気づく以前から、多くの子どもが被害を受けているのは確かだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,21,だが調査した結果、一部の子どもが万象の「受取」を待つために、ギャングに監禁されていることがわかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,22,だから、その子どもたちを助けに行くのが先だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,8,で、でも……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,9,もう僕らの手元に沢山の証拠があるっすよね。リンさんの映像記録、オペレーションコアのデータ、助っ人が持ってた証拠……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,10,こんだけあれば、万象が人殺しや人身売買をしているって証拠になるはずっすよ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,11,今日はもうセイワ･ゲンと万象の上層部を逮捕しに行くもんだと思ってたっす……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,23,今、優先すべきものはそれじゃないだけだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,12,あの犯罪者たちを豚箱にぶち込むことが何より最優すべきことっすよ！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,24,リュウセイ、自分が何を言っているのか、わかっているのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,13,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,25,この子たちは今まさに、君と同じ経験をしているかもしれないんだ。だから……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,14,だからこそ、彼らの仇を取るために、全ての黒幕を逮捕して……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,26,仇を取る？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,15,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,27,子どもたちが死んでいるとは限らないのに、もう復讐をする気なのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,28,それは本当に彼らのための仇討ちなのか？君自身の復讐のためなんじゃないか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,16,僕は……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,29,リュウセイ、君が初めて作戦に参加した時に、私は言ったはずだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,30,常に正しくありなさい。復讐心だけで行動するな。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,17,違う！僕は……！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,10,犬の躾けを見ててもしょうがないし、俺は外にでも出てようかな。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,31,彼は犬ではない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,18,それはどうっすかね。スイ姉にとって、僕はただの犬も同然じゃないっすか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,32,リュウセイ……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,11,あのね、君らはいつも物事をややこしく考えすぎているんだよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,12,無駄なこだわりだの、正しいとは何かだの、間違いとは何かだのって……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,13,そんなこと気にせず、もっと自由に生きろよ。自分中心で考えようぜ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,18,皆があんたみたいな考えになったら、世界が滅びるのは間違いないわね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,14,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,15,へぇ？だったら君の恋人ちゃんみたいになればいいのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,19,あんたよりはマシよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,20,あんたはフクロウの情報を自分の上司に流している。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,16,……！？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,21,それが祖母に知られたら、あんたどうなるんでしょうね？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,17,……それは脅しか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,18,スイ･ニン、こいつへの躾けも足りないんじゃないか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,33,彼女は自分の判断で行動できる。それに、その行動の責任も自分自身で取れる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,34,彼女が私の命令に従う必要はないし、私も彼女の選択を尊重している。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,19,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,22,あんたはどうなのよ？さっきの発言の責任を取る準備はできたわけ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,20,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,21,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,22,わかったよ。謝ればいいんだろう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,23,さっきのは俺が言い過ぎた。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,24,すまなかったな。これでいいか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,23,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,35,一つ忠告するが……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,36,私たちが君を必要とする以上に、君は私たちを必要としている。それを理解した上で発言しなさい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,25,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,26,はいはい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,37,それと、リュウセイ･チョウ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,38,理性的に事の優先順位を判断できないなら……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,39,今回の作戦から外す。わかったな？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,19,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,20,はい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,40,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,41,では、今日の作戦について説明する。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,42,先程言ったとおり、万象は「ゴミ溜め」で子どもを何人も購入していた。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,43,そして、それを隠すために、彼らは子どもをヤクザに預けていた。だが幸いなことに、その子どもは今ヤクザの元にいる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,44,今ある問題は、取引された子どもの数や身元、万象が雇っているヤクザの正体を我々が知らないと言うことだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,45,だが、だからこそ助っ人が必要なんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,46,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,27,お？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,28,じゃ、もう話してもよろしいですかな、スイ殿？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,47,ええ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,29,ゴホン！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,30,俺は数週間前に、定期的に「ゴミ溜め」で行う情報収集任務を受けた。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,31,調査を進めるうちに、子どもの人身売買の噂がゴミ溜めで流れていることに気づいた。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,32,例えゴミ溜めであっても、人身売買は非常に珍しい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,33,だから俺は、この件を調査すべきだと報告した。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,34,だが俺が報告した次の日、ゴミ溜めでの情報収集任務が急に中止された。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,35,フクロウのメンバーなら、すぐにピンとくるだろうが……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,36,この件は企業が関わっていたんだ。もちろん万象様のね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,37,それでだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,38,俺は調査を中止される前に、二つの情報を手にすることができた。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,39,一つは買われた子どものリスト。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,40,もう一つは、万象がその子どもたちをヤクザに預けていて、まだ受け取る前だってことだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,41,残念ながら、万象に「取引」を任されたヤクザの正体は不明だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,48,我々は子どもたちを助けるために……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,49,自分の子どもをヤクザに売ろうとしている者を見つけ出し、そこからそのヤクザの正体を突き止める。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,50,そして、子どもたちの監禁場所を割り出すんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,11,俺は参加しなくていいのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,12,あんたたちが「ゴミ溜め」に行くってことか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,51,いいえ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,13,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,52,ジェイとリュウセイはサイレントに戻り、子どもを売ろうとしている「親」に会ってほしい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,14,なぜ親たちがサイレントにいるとわかるんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,42,彼らが自分の子どもを万象に売る一番の理由は金がないからだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,43,そういうやつらの大体は、薬の問題を抱えている。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,44,だから子どもを売って金を得ても、より多くの金を求めて、最終的には演算工場に駆け込むんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,15,俺たちがサイレントに戻っても本当に大丈夫なのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,24,大丈夫よ。あんたのお友達さんが昨日の騒ぎをもみ消してくれたから。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,25,だからジェイはまだ万象に狙われてない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,16,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,53,私たちはリストに乗っている子どもの親を今日の面談に入れるつもりだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,54,君たちはその中から協力してくれそうなターゲットを選んで、契約室に連れてきてほしい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,55,契約室に連れてきたら、そこでターゲットから詳しい話を聞く。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,17,なぜ全員を契約室に連れてこないんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,26,選別組に人員の制限があるからよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,18,どうやって選べばいいんだ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,27,面談の時に誘導尋問をしてくれればいいの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,28,詳細はその時になったら伝えるから。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,19,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,29,それともう一つ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,30,リュウセイは元々、今日のスケジュールに面談が入ってたから問題ないけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,31,ジェイの正式な配属日はまだだから、誰かにシフトを代わってもらう必要があるの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,32,どう？大丈夫そう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,20,もし誰もシフトを代わってくれなかったら？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,33,その時は、ジェイの人選は諦めるしかないね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,34,リュウセイが選んだ人だけを頼ることになる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,35,他に質問は？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,21,転送機のハッキングで何とかできないのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,36,無理。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,37,できない事はないけど、唐突にシフトが変更になった人がきっとあんたを疑うはずよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,38,他に質問は？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,22,もう大丈夫だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,39,ジェイは操作組だから、面談を担当できないのよね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,40,でも、少しでも協力してくれそうな人を見つけるためにも、今日のリュウセイの面談をジェイに代わってもらおうと思うの。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,21,……でもそれじゃ、結局一人からしか話を聞けない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,41,だからリュウセイは、選別組の誰かとシフトを代わってもらってちょうだい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,22,えっ？何で僕が……？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,23,はぁ？操作組の人が選別組の仕事を代わってもらえるわけないでしょう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,42,ちょっと考えればわかることでしょ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,56,面談はあくまでも第一関門だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,57,ターゲットを契約室に連れてきた後は、私が担当する。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,心の声,2,23号が信じられないという顔をしている……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,23,サイレントの契約室に潜入するのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,58,ええ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,24,23号は納得してないようだが。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,25,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,43,またサイレントに潜入する気なの？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,44,前も言ったけど、もしフクロウにバレたら……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,59,今回は子どもの命が関わっている。失敗は許されない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,45,そんな……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,24,僕たちだけで、話を聞き出されるかもしれないっすよ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,60,失敗する可能性の方が高い。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,45,ひぇー、手厳しい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,25,……結局は、僕たちを信用してないってことっすね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,61,そういう意味ではない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,46,スイ、私たちが彼らに指示を出せば、それで十分よ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,62,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,63,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,64,わかった。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,46,はぁー！やっと作戦会議終了か。長かった、長かった！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,65,以上が今日の作戦だが、何か質問は？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,5,はい。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,66,どうぞ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,6,どうして直接「ゴミ溜め」に行って、親と会わないの？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,67,この助っ人が反対するからだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,47,おいおい、俺が悪いみたいな言い方はやめてくれよ……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,48,反対したのには理由があるんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,49,人身売買の件を報告した後、誰かが調べているとに気づいた万象は、子どもを売った親たちに監視をつけたんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,50,そんな状況で無闇に親たちと接触すれば捕まり、逆にこちらの目的を知るために拷問されるだけだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,7,そんな……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,47,監視に気づかれないように接触する手もあるけど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,48,失敗すれば……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,49,万象へ報告が行き、フクロウにもその全てが明るみになる。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,68,つまり、サイレントで彼らと話すしかないということだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,69,面談、契約に部外者が立ち入ることはできないから、監視の目は届かない。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,51,さて、説明はこんなところでいいかな？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,52,さっそく作戦開始と行こう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,0,おっと。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,0,来たか。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,0,やあ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,1,彼は何者だ？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,2,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,1,どうも。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,1,紹介する。こちらは……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,2,助っ人だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,3,助っ人？それは名前なのか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,4,コードネームか何かか？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,2,そうだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,5,……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,3,申し訳ないが、本当の名前を名乗るつもりはない。俺は彼女たちほど……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,4,度胸がないんでね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,3,私が呼んだフクロウのエージェントだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,4,今、調査している事件が、ちょうど彼が過去に関わっていた調査と関わりがあるんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リュウセイ･チョウ,0,あれ？スイ姉たちはフクロウに内緒で調査してたっすよね……？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,5,ええ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リュウセイ･チョウ,1,じゃ、彼は……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,5,単刀直入に言うと、うちのボスは万象が倒れることを望んでいるんだ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,6,だから、君たちのグループに参加させてもらった。利益が一致しているからな！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,6,助っ人の使い道は後で説明する。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,7,酷いな、まるで道具みたいな言い方だ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,23,0,リンリン、足の調子はどう？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リン･テイ,0,うん、おかげさまで治ってきてるよ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,23,1,そっか～、よかった！,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,23,2,痛み止めがあるから、痛い時はいつでも言ってね。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リン･テイ,1,うん、ありがとう。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,8,えっと……,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,9,そろそろ始めてもいいかな？,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,7,ええ。,
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,8,ジェイ、そこに座って。,
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,心の声,0,うっ……,윽……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,0,着替え終わった？,옷 갈아입는 거 끝났어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,0,ああ。,그래.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,1,リンの方も用意できたのか？,린 쪽도 준비 다 됐어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,1,うん。,응.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,2,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,2,何を見ているんだ？,뭘 보고 있어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,3,お隣さん家の猫。,옆집 고양이.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,4,ベランダに止まったスズメを捕まえたいみたいなんだけど、窓が邪魔で手こずってるみたいなの。,"베란다에 앉은 참새를 잡고 싶은가 본데, 창문이 방해돼서 애먹고 있는 것 같아."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,3,捕まえられたか？,잡았어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,5,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,6,捕まえちゃったら…,잡아버리면……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,7,見る価値がないでしょう？,볼 가치가 없잖아?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,4,リンは捕まえて欲しいのか？,린은 잡았으면 좋겠어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,8,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,9,……わからない。,……모르겠어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,5,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Branch,#Simple,6,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,start,Say,リン･テイ,10,あれ？誰かがインターホンが鳴らしてる。,어라? 누가 인터폰을 누르고 있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,0,ジェイの兄貴は、会社まで電車っすよね？,"제이 형은, 회사까지 전철이죠?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,1,僕はバイクをあっちに止めてるから、工場でまた合流しましょう。,"저는 오토바이를 저쪽에 세워놔서, 공장에서 다시 합류해요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Branch,#Simple,0,ああ。,그래.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Branch,#Simple,1,本当に乗せてくれないのか？,정말 안 태워주는 거냐?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,2,ハハハ！だめっすよ。,하하하! 안 돼요.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Branch,#Simple,2,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,3,僕はバイクで行くから、兄貴より先に着くと思うっす……,"저는 오토바이로 갈 거니까, 형보다 먼저 도착할 것 같아요……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,4,工場に着いたら、僕の席で落ち合いましょう。,"공장에 도착하면, 제 자리에서 만나요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟隆生分別去公司,Say,リュウセイ･チョウ,5,じゃ、また後で！,"그럼, 이따 봐요!"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,0,こんばんはっす！,안녕하세요!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,0,こんばんは。,안녕.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,1,あんたとスイニンは鳴らさなくとも、俺の家に入れるはずだろう？,너랑 스이 닝은 안 눌러도 우리 집에 들어올 수 있을 텐데?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,1,いや、でも勝手に入るのは失礼かなって……,"아뇨, 근데 마음대로 들어가는 건 실례일까 싶어서……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,2,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,2,スイ姉が今日の作戦について話し合いたいみたいっす。,스이 누나가 오늘 작전에 대해 얘기하고 싶어 하는 것 같아요.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,3,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,4,結果はどうなんだ？,결과는 어떻게 됐지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,3,結果？,결과요?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,5,オペレーションコアの解析はもう終わったんだろう？,오퍼레이션 코어 분석은 이미 끝났잖아?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,6,俺らが昨日持ち帰ったデータのことだ。,우리가 어제 가져온 데이터 말이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,4,それが……,그게……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,5,解析は終わってるみたいけど、僕には何も教えてくれなくて。,"분석은 끝난 것 같은데, 저한테는 아무것도 안 알려주셔서요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,6,多分、後で説明してくれると思うっす。,"아마, 나중에 설명해주실 것 같아요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,7,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,7,じゃ、僕らは向こうで待ってるっすね。,"그럼, 저희는 저기서 기다리고 있을게요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,0,誰だったの？,누구였어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,0,リュウセイ。,류세이.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,1,呼びに来てくれたのね。,부르러 와줬구나.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,1,そろそろスイ･ニンのところに来てほしいそうだ。,슬슬 스이 닝한테 와줬으면 한대.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,2,そう。,그래.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,3,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,2,リン？,린?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,3,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,4,ジェイ、実は言っておきたいことが一つあるの。,"제이, 실은 말해두고 싶은 게 하나 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,5,私、一晩中考えたんだけど……,"나, 밤새 생각했는데……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,6,その……,그……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,7,サイレントに関わるのは、今日で最後にすると約束してほしいの。,"사일런트 관련된 일은, 오늘로 마지막이라고 약속해줬으면 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,心の声,0,いきなりどうしたんだ……？,갑자기 왜 그러지……?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,8,実は昨日、スイさんとも話してたんだけど……,"실은 어제, 스이 씨랑도 얘기했었는데……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,9,あなたがこれ以上サイレントにいるのは危ないと思うの。,당신이 더 이상 사일런트에 있는 건 위험하다고 생각해.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,10,昨日は無事に逃げられたけど、あなたは傭兵たちに顔を見られたのよ？,"어제는 무사히 도망쳤지만, 당신 얼굴을 용병들한테 보였잖아?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,11,スイさんも私と同じ意見よ。彼女なら……,스이 씨도 나랑 같은 의견이야. 그 사람이라면……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,12,あなたをこれ以上サイレントに行かせないと思う。,당신을 더 이상 사일런트에 못 가게 할 거라고 생각해.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,4,なら、なぜ彼女はそう指示しないんだ？,"그럼, 왜 그 사람은 그렇게 지시하지 않은 거지?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,13,この件は、私たちで決めるべきだって……,"이 건은, 우리끼리 정해야 한다면서……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,5,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,14,ジェイ。,제이.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,15,今はまだ安全だと思うし、万象も堂々とサイレントに傭兵を送り込んで、あなたを探したりはしないと思うけど……,"지금은 아직 안전하다고 생각하고, 완샹도 대놓고 사일런트에 용병을 보내서 당신을 찾거나 하진 않을 거라고 생각하지만……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,16,時間が経過すればするほど、あなたの身は危なくなる……,"시간이 지나면 지날수록, 당신 신변이 위험해질 거야……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,17,昨日の言ったとおり、この件を調べるのを止めるつもりはないけど……,"어제 말한 대로, 이 일을 조사하는 걸 그만둘 생각은 없지만……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,18,ここまでのリスクを冒してまで、サイレントに行く意味はないと思うの。,"이렇게까지 위험을 무릅쓰면서, 사일런트에 갈 의미는 없다고 생각해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,19,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,20,だからジェイ、約束してくれる？今日で最後にするって。,"그러니까 제이, 약속해줄래? 오늘로 마지막이라고."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,6,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,21,ありがとう、ジェイ。,"고마워, 제이."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,7,他に手はないわけだしな。,다른 방법이 있는 것도 아니고.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,22,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,23,それとも、ジェイはサイレントに残りたいと思ってるの？,"아니면, 제이는 사일런트에 남고 싶은 거야?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,8,ああ。,그래.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,9,そういうわけじゃない。,그런 건 아니야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,24,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,25,ごめんね、ジェイ。私、この件だけは譲れない。,"미안해, 제이. 나, 이 건만큼은 양보 못 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,26,だから、私の願いを聞いてほしい。,"그러니까, 내 부탁을 들어줬으면 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,27,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,28,行きましょう。,갑시다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,29,スイさんのところに。,스이 씨한테 가자.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,0,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,1,ムカイ･チン……,무카이 친……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,0,やぁ、同胞。,"야, 동포."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,2,……気のせいか？,……내 착각인가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,心の声,3,落ち込んでるように見える……,풀 죽어 보이는데……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,0,イアン･チョーとの間に何か問題があったのか？,이안 챠오랑 무슨 문제라도 있었나?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,1,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,2,いや、順調だった。,"아니, 순조로웠다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,1,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,3,俺はイアン･チョーと情報を交換し合った。,나는 이안 챠오랑 정보를 교환했다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,4,しかし、お前に教えられることは……,"하지만, 너한테 알려줄 수 있는 건……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,5,根源がどのような状況に置かれているかは、まだ分からない。それと、我々の今の自由は一時的なものだということだ。,"근원이 어떤 상황에 놓여 있는지는, 아직 모른다. 그리고, 우리의 지금 자유는 일시적인 것이라는 거다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,6,俺たちはいつ回収され、停止されてもおかしくない状況なのかもしれない。,"우리는 언제 회수되고, 정지당해도 이상하지 않은 상황일지도 몰라."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,2,つまり？,그러니까요?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,7,つまり今の身体とおさらばってことだ。,즉 지금 몸이랑 작별이라는 거지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,8,身体を失った俺らがどうなるかは誰も知らない。,몸을 잃은 우리가 어떻게 될지는 아무도 몰라.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,3,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,9,会うのは……,만나는 건……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,10,これで最後だ。,이걸로 마지막이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,4,待ってくれ。,잠깐.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,11,……なんだ？,……뭐냐?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,5,なぜ今日で最後になんだ？,왜 오늘로 마지막인 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,12,俺がこの件から手を引くつもりだからだ。,내가 이 건에서 손을 뗄 생각이기 때문이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,13,停止される、または回収されるまでの時間を使って、この世界を楽しみたいんだ。,"정지되거나, 회수될 때까지의 시간을 써서, 이 세상을 즐기고 싶다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,14,お前もそうするといい。,너도 그렇게 하는 게 좋아.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,6,イアン･チョーから一体何を聞いた？,이안 챠오한테서 대체 뭘 들은 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,15,言ったはずだろう？,말했을 텐데?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,16,お前にどれだけの情報を伝えるかは俺が決めると。,너한테 얼마만큼 정보를 전할지는 내가 정한다고.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,17,お前に教えられる情報はさっきので全部だ。,너한테 알려줄 수 있는 정보는 아까 그게 전부다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,18,この話はもうやめよう。,이 얘기는 이제 그만하자.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Branch,#Simple,7,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,沒去麵店捷運陳木海,Say,ムカイ･チン,19,同胞よ、残りの時間を悔いの残らないように生きよう。,"동포여, 남은 시간을 후회 없이 살자."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,0,やっほー、ジェイ！,"야호, 제이!"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,0,23号。,23호.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,1,任務中じゃなかったのか？,임무 중 아니었어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,1,そうだけど、急に思い出したことがあって……,"그렇긴 한데, 갑자기 생각난 게 있어서……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,2,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,2,実は、気になってることがあってね。,"실은, 신경 쓰이는 게 있어서 말이야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,3,昨日私たちがデータを全部解析した後、コードネーム「眠り神」で検索をかけたんだけど……,"어제 우리가 데이터를 전부 분석한 후에, 코드네임 '수면신'으로 검색해봤는데……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,4,有益な情報は見つからなかったのよ。,쓸 만한 정보는 못 찾았어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,5,まあ、これはレッドボックスの機密計画だからね。,"뭐, 이건 레드박스의 기밀 계획이니까."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,6,眠り神に関する情報のやり取りは、全て秘密裏に交わされていたはずだから無理もない。,"수면신에 관한 정보 교환은, 전부 비밀리에 오갔을 테니 당연하지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,7,でもね、発見があったのよ。,"근데 말이야, 발견한 게 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,8,レッドボックスとサイレントの通信記録の中に、何回か「眠り神」という単語が使われていたの。,"레드박스랑 사일런트의 통신 기록 안에, 몇 번이나 '수면신'이라는 단어가 쓰여 있었어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,9,もちろん「眠り神」に関する情報は得られなかったけど、少なくともサイレント内部に、この計画を知っている人が存在するってことは証明された。,"물론 '수면신'에 관한 정보는 못 얻었지만, 적어도 사일런트 내부에, 이 계획을 아는 사람이 존재한다는 건 증명됐어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,10,そこでね、私はひらめいたのよ。,"그래서 말이야, 나 번뜩였거든."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,11,レッドボックスのデータバンクにハッキングすることはできないけど……まあ、正確には見つからずにハッキングするのが不可能ってことなんだけど……,"레드박스 데이터뱅크는 해킹할 수 없지만……뭐, 정확히는 안 들키고 해킹하는 게 불가능하다는 거지만……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,12,でも、サイレントのデータバンクなら難易度がぐーんと下がる。,"근데, 사일런트 데이터뱅크라면 난이도가 확 낮아지거든."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,13,もしその人物を見つけることさえできれば、私たちはもっと情報を手に入れられると思う。,"만약 그 인물만 찾아낼 수 있으면, 우리는 더 많은 정보를 손에 넣을 수 있을 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,14,でも問題なのは、レッドボックスと繋がっている人物が誰なのかわからないってことよ。,"근데 문제는, 레드박스랑 연결된 인물이 누군지 모른다는 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,15,サイレントの全職員の資料を調べるわけにもいかないし……,사일런트 전 직원 자료를 뒤질 수도 없고……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,16,だからダメ元で聞きたいんだけど、怪しい人とかいない？,"그러니까 밑져야 본전으로 물어보고 싶은데, 수상한 사람 없어?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,3,いるかもしれない。,있을지도 모르지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,17,ほんと？,진짜?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,18,どこの組の人？,어느 조 사람인데?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,4,選別組だ。,선별조야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,19,名前は？,이름은?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,5,チキョウ･リョウ。,치쿄 료.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,6,ジーン･ヨウ。,진 요.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,7,イー･テイ。,이웨이.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,8,シンホン･ゴウ,신홍 고우
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,9,操作組だ。,조작조야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,20,名前は？,이름은?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,10,ジュジュ･ライ。,쥬쥬 라이.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,11,シュン･ゴ。,슌 고.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,12,カエ･チン。,카에 친.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,13,パン･ロウ。,팡 로우.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,14,修築組だ。,수축조야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,21,名前は？,이름은?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,15,ジソ･ソン。,지소 손.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,16,レイカ･ホウ。,레이카 호.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,17,サン･チョウ。,산 챠오.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,18,シー･リー。,시 리.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,22,はぁ？本当にそんな名前の人がいるの？,허? 진짜 그런 이름인 사람이 있어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,23,わかった。調べてみる。,알았어. 조사해볼게.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,24,結果がわかったら、すぐ知らせるから。,"결과 나오면, 바로 알려줄 테니까."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,25,ありがとうね、ジェイ。,"고마워, 제이."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,19,いないな。,없는데.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,26,そう。,그래.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,27,それじゃ仕方ないね、この件は忘れて。,"그럼 어쩔 수 없네, 이 건은 잊어버려."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Branch,#Simple,20,あんたは他人のプライベートを探りたくないのでは？,너 남의 사생활 캐고 싶지 않은 거 아니었어?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,28,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,29,そうだけど。,그렇긴 한데.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,30,私だって、何を優先すべきかくらいわかってる。,"나도, 뭘 우선해야 할지 정도는 알아."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,31,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,32,とは言え、罪悪感はあるけどね。,"그렇다곤 해도, 죄책감은 있지만."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,33,……それで、誰か心当たりのある人いない？,"……그래서, 짚이는 사람 없어?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,23問主角有沒有猜到誰是內鬼,Say,23,34,じゃ、また後で。,"그럼, 나중에 또 봐."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,0,君らもか？,너희도야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,0,また沈没予定エリアね……,또 침몰 예정 구역이네……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,1,スイ、どうする？,"스이, 어떻게 할까?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,0,また緊急招集か？,또 긴급 소집인가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,2,うん。,응.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,1,何があったのか？,무슨 일이 있었지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,2,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,3,北区西エリアで待機してるエージェントに招集命令が出たの。,북구 서쪽 구역에서 대기 중인 요원한테 소집 명령이 떨어졌어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,0,何があったのかを詳しく教えて？,무슨 일이 있었는지 자세히 말해줄래?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,0,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,1,「清掃員」が殺された。,'청소부'가 살해당했다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,3,あんたたちは行かないといけないのか？,너희는 가야만 하는 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,2,ええ。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,4,「清掃員」？,'청소부'?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,3,フクロウに協力している秘密組織だ。,부엉이한테 협력하는 비밀 조직이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,4,主に現場の「掃除」を担当している。,주로 현장 '청소'를 담당하고 있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,5,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,1,「清掃員」に手を出すってことは、明らかに挑発だ。これは大ごとだぞ。,"'청소부'한테 손을 댔다는 건, 명백한 도발이야. 이거 큰일인데."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,2,相手は誰だと思う？竜威会か？,상대가 누굴 것 같아? 용위회인가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,0,そんな！竜威会はこんなこと……,그럴 리가! 용위회는 이런 짓……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,3,何だ？君は竜威会の関係者なのか？,뭐야? 너 용위회 관계자야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,5,リュウセイ、やめなさい。,"류세이, 그만해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,4,ハハハ、スイ･ニン。君は本当に面白い。,"하하하, 스이 닝. 너 정말 재밌네."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,5,まさか竜威会の小僧を拾っていたとは……,설마 용위회 애송이를 주웠을 줄이야……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,6,黙れ。,닥쳐.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,7,私たちはもう行く。任務は一旦中止だ。,우리는 이제 간다. 임무는 일단 중지야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,8,ジェイ、リュウセイ、サイレントで待機してくれ。すぐ戻る。,"제이, 류세이, 사일런트에서 대기해라. 금방 돌아온다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,6,どれくらい時間がかかるんだ？,얼마나 시간이 걸리는 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,9,わからない。,모르겠어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,4,すぐは無理でしょうね。,금방은 무리겠지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,7,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,8,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,1,もしあなたたちが作戦時間までに戻らなかったら？,만약 당신들이 작전 시간까지 안 돌아오면?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,10,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,5,スイ……？,스이……?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,11,その場合の作戦は考えておく。とりあえずサイレントに向かってくれ。進展があったら知らせる。,그럴 경우의 작전은 생각해두겠다. 일단 사일런트로 향해라. 진전이 있으면 알리마.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,12,23号、ブツは？,"23호, 물건은?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,6,中にあるけど、スイがいつも使ってるやつしか残ってないよ。,"안에 있긴 한데, 스이가 늘 쓰는 것밖에 안 남았어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,13,それで十分だ。私は準備があるから、彼と先に向かってくれ。,"그거면 충분해. 나는 준비할 게 있으니까, 저 사람이랑 먼저 가."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,7,嫌。,싫어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,14,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,15,わかった。あなたは先に向かっててくれ。,알았다. 당신 먼저 가 있어라.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,6,いやーだぁー。,시이러어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,16,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,17,リュウセイ、ジェイ、先にサイレントに向かってくれ。別々で行動することを忘れるな。,"류세이, 제이, 먼저 사일런트로 향해라. 따로따로 행동하는 거 잊지 말고."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,1,じゃ、僕はバイクで行くから、選別組のオフィスで落ち合いましょう。,"그럼, 저는 오토바이로 갈 테니까, 선별조 사무실에서 만나요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,9,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,10,乗せてくれないのか？,안 태워주는 거야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,2,スイ姉から別々で行動するように、言われたばっかりっすよ？,스이 누나한테 따로 행동하라고 방금 들었잖아요?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,11,そうだな、すまない。,"그렇지, 미안하다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,12,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,13,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,14,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,3,じゃ、先に行くっす。,"그럼, 먼저 갈게요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,2,ジェイ、気をつけて。,"제이, 조심해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,15,わかってる。,알고 있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,16,心配ないさ。,걱정 마.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,3,うん！,응!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,17,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･コン,7,頑張れ～。,힘내라~.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,0,23号。,23호.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,0,昨日リュウセイとジェイが持ち帰ったデータを調べてみたけど……,어제 류세이랑 제이가 가져온 데이터를 조사해봤는데……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,1,サイレントから産出された演算力は確かに規定値を超えている。,사일런트에서 산출된 연산력은 확실히 규정값을 초과했어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,2,それにサイレントが停止した後も、演算力の減少はほとんど見られなかった。,"게다가 사일런트가 정지한 후에도, 연산력 감소는 거의 보이지 않았어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,0,黒確定ってこと？,블랙 확정이라는 거야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,3,この件についてはね。,이 건에 대해서는.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,4,でもこれらの演算力はサイレントで生産されたものではなく、どこからか運び込まれてきたものなの。,"근데 이 연산력들은 사일런트에서 생산된 게 아니라, 어딘가에서 운반돼 들어온 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,5,簡単に言えば、サイレントはただの中継地点なの。,"간단히 말하면, 사일런트는 그냥 중계지점이었던 거지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,6,本当の演算力の生産元を隠すためのカモフラージュ。,진짜 연산력 생산처를 숨기기 위한 위장.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,7,ジェイの昨日の推理は正しかったかもしれない。,제이가 어제 한 추리가 맞았을지도 몰라.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,8,万象が演算力の生産元を隠している事実は、このデータを見るに、ほぼ間違いないと思う。,"완샹이 연산력 생산처를 숨기고 있다는 사실은, 이 데이터를 보면 거의 틀림없다고 생각해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,心の声,0,しかし、そこまでの労力をかける必要は万象にはないと、あの時は言ってたはずだ……,"하지만, 그렇게까지 수고를 들일 필요는 완샹한테 없다고, 그때는 말했었을 텐데……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,0,万象が生産元を隠す理由がないと言ってたはずだが？,완샹이 생산처를 숨길 이유가 없다고 하지 않았나?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,1,その通りだ。,맞는 말이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,2,万象が生産元を隠す理由を我々はまだ知らない。,완샹이 생산처를 숨기는 이유를 우리는 아직 몰라.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,1,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,1,万象は、本当に別の場所で演算力を生産していたのね……,"완샹은, 정말로 다른 곳에서 연산력을 생산하고 있었구나……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,2,よかった……,다행이다……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,0,え、どういう意味っすか？これって良いことっすか？,"어, 그게 무슨 뜻이에요? 이거 좋은 일이에요?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,0,君たちの最初の推理はすべて間違っていたってことだ。つまり、さすがの万象もマイナーの命を搾取するほどのアホじゃなかったってことさ。,"너희들 처음 추리가 전부 틀렸다는 뜻이지. 즉, 아무리 완샹이라도 마이너의 목숨을 착취할 만큼 멍청하진 않았다는 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,1,彼らはただ、未知の方法で演算力を生産し、それをサイレントの名を借りて供給していただけ。,"그들은 그냥, 미지의 방법으로 연산력을 생산해서, 그걸 사일런트 이름을 빌려 공급하고 있었을 뿐이야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,3,私たちが心配していたセラーにいる十数万人の命は、安全だってことだ。,"우리가 걱정했던, 셀러에 있는 십수만 명의 목숨은 안전하다는 뜻이지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,1,そ、そうっすね！確かによかったっす……,"그, 그렇네요! 확실히 다행이에요……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,2,正直に言うと、君らの最初の推理はかなり馬鹿馬鹿しいものだった。,"솔직히 말하면, 너희들 처음 추리는 꽤 어이없는 거였어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,3,君たちは本当に万象が十数万人もの人間を犠牲にするとでも「思った」のか？,너희는 정말로 완샹이 십수만 명이나 되는 인간을 희생시킬 거라고 '생각'한 거야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,4,可能性は0ではない。,가능성이 0은 아니지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,4,ハハハ、君たちさ。反政府、反企業思考すぎて、頭がパッパラパーになったんじゃないか？,"하하하, 너희들 말이야. 반정부, 반기업 사고가 너무 심해서 머리가 어떻게 된 거 아냐?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,5,あいつらの目的は金儲けだ。そんな本末転倒なことをしてどうする。,그놈들 목적은 돈벌이야. 그런 본말전도한 짓을 해서 뭐 하게.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,心の声,1,メイ･ジョにも同じことを言われたな……,메이 조한테도 같은 말을 들었었지……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,6,それとも何だ？全ての企業を悪の組織か何かだと思ってるのか？,아니면 뭐야? 모든 기업을 악의 조직 같은 걸로 생각하는 거야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,2,そんなの当たり前っすよ！,그거야 당연하죠!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,7,ハハハハ！君、面白いね！,"하하하하! 너, 재밌네!"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,8,スイ･ニン、どこでこんな面白いやつを拾ったんだ？,"스이 닝, 어디서 이런 재밌는 녀석을 주웠어?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,3,なめやがって……！,얕보고 있어……!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,5,もういい。黙れ。,됐어. 조용히 해.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,6,リュウセイもこの程度のことで動揺するな。,류세이도 이 정도 일로 동요하지 마.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,4,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,9,フッ。,훗.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,2,万象は悪事を働いていないってことは、全て振り出しに戻ったってことか？,"완샹이 나쁜 짓을 안 했다는 건, 전부 원점으로 돌아갔다는 건가?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,7,彼らは、私たちが「予想していた」悪事は働いていなかっただけだ。,"그들은, 우리가 '예상했던' 나쁜 짓을 안 했을 뿐이야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,9,より酷いことを行っているのは確かよ。,더 심한 짓을 하고 있는 건 확실해.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,3,ならどうしてリンが狙われているんだ？,그럼 왜 린이 노려지고 있는 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,8,それも我々がこれから調べることだ。,그것도 우리가 이제부터 조사할 일이야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,4,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,9,まずは万象がどこで余分な演算力を生産しているかを調べる必要がある。,우선 완샹이 어디서 남는 연산력을 생산하는지 조사할 필요가 있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,10,そして、それを隠す理由もだ。,"그리고, 그걸 숨기는 이유도."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,5,何か手がかりはないのか？,뭔가 단서는 없나?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,10,ある。,있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,6,それは俺とリンとは関係のないことじゃないのか？,그건 나랑 린이랑은 상관없는 일 아닌가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,11,関係はあるわ。,상관있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,11,彼らが何を隠しているかはわからないが、その秘密のためにリン･テイを殺そうとしたのは確かだ。,"그들이 뭘 숨기고 있는지는 모르지만, 그 비밀 때문에 린 팅을 죽이려 한 건 확실해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,12,真相が明らかにならない限り、万象は彼女の命を狙い続けるはずだ。,"진상이 밝혀지지 않는 한, 완샹은 계속 그녀의 목숨을 노릴 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,7,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,12,実は、オペレーションコアのデータを探る上で、一つ発見があったの。,"실은, 오퍼레이션 코어 데이터를 파헤치다가, 한 가지 발견한 게 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,13,レッドボックスラボの通信記録の中に、ある単語が何度も出てくるの。それは……,"레드박스 랩 통신 기록 안에, 어떤 단어가 몇 번이나 나와. 그건……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,14,<f>「眠り神」</f>。,<f>'수면신'</f>.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,3,眠り神……？,수면신……?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,15,多分、万象内部の大型機密研究プロジェクトのコードネームだと思う。,"아마, 완샹 내부의 대형 기밀 연구 프로젝트 코드네임인 것 같아."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,16,そして、このプロジェクトは規定値を超える演算力と関係していると思うの。,"그리고, 이 프로젝트가 규정값을 초과하는 연산력이랑 관계있다고 생각해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,17,つまり、私たちが追い求めている「真相」である可能性が高い。,"즉, 우리가 쫓고 있는 '진상'일 가능성이 높아."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,13,だが……,하지만……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,14,データを調べる中で、より深刻な問題を発見した。,"데이터를 조사하는 중에, 더 심각한 문제를 발견했다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,15,この通信記録によると、万象は「眠り神」計画のために、タイゴウエリアで何人もの子どもを「購入」している。,"이 통신 기록에 따르면, 완샹은 '수면신' 계획을 위해, 타이고 지구에서 여러 명의 아이를 '구입'하고 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,4,子どもを……！？,아이를……!?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,8,なぜ子どもを？,왜 아이를?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,16,それはわからない。,그건 몰라.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,9,スラム街で子どもが売られているのか？,빈민가에서 아이가 팔리고 있는 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,17,そこまで多い事例ではないが、確かに人身売買は存在している。,"그렇게 많은 사례는 아니지만, 확실히 인신매매는 존재해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,10,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,5,待ってくれ……,잠깐만……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,18,リュウセイ、どうしたんだ？,"류세이, 무슨 일이야?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,6,その口振りだと、これからその子どもたちを探しに行く流れになってないっすか？,"그 말투 보니까, 이제 그 아이들을 찾으러 가는 흐름 아니에요?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,19,……その予定だ。,……그럴 예정이야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,7,で、でも、子どもたちはもうすでに売られてるっすよね？,"그, 근데, 아이들은 벌써 팔려간 거잖아요?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,20,ええ、私たちがこの事実に気づく以前から、多くの子どもが被害を受けているのは確かだ。,"그래, 우리가 이 사실을 알아채기 이전부터, 많은 아이들이 피해를 입고 있었던 건 확실해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,21,だが調査した結果、一部の子どもが万象の「受取」を待つために、ギャングに監禁されていることがわかった。,"하지만 조사한 결과, 일부 아이들이 완샹의 '인수'를 기다리느라, 갱단한테 감금되어 있다는 걸 알아냈어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,22,だから、その子どもたちを助けに行くのが先だ。,"그러니까, 그 아이들을 구하러 가는 게 먼저야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,8,で、でも……,"그, 근데……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,9,もう僕らの手元に沢山の証拠があるっすよね。リンさんの映像記録、オペレーションコアのデータ、助っ人が持ってた証拠……,"이미 우리 손에 증거가 많이 있잖아요. 린 씨 영상 기록, 오퍼레이션 코어 데이터, 조력자가 갖고 있던 증거……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,10,こんだけあれば、万象が人殺しや人身売買をしているって証拠になるはずっすよ？,"이 정도면, 완샹이 사람을 죽이고 인신매매를 하고 있다는 증거가 되지 않아요?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,11,今日はもうセイワ･ゲンと万象の上層部を逮捕しに行くもんだと思ってたっす……,오늘은 이미 세이와 겐이랑 완샹 상층부를 체포하러 가는 줄 알았어요……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,23,今、優先すべきものはそれじゃないだけだ。,지금 우선해야 할 게 그게 아닐 뿐이야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,12,あの犯罪者たちを豚箱にぶち込むことが何より最優すべきことっすよ！,그 범죄자들을 감방에 처넣는 게 뭐보다도 최우선이라고요!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,24,リュウセイ、自分が何を言っているのか、わかっているのか？,"류세이, 자기가 무슨 말을 하고 있는지, 알고는 있는 거야?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,13,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,25,この子たちは今まさに、君と同じ経験をしているかもしれないんだ。だから……,"이 아이들은 지금 바로, 너랑 같은 경험을 하고 있을지도 몰라. 그러니까……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,14,だからこそ、彼らの仇を取るために、全ての黒幕を逮捕して……,"그러니까 더더욱, 이 아이들의 원수를 갚기 위해, 모든 배후를 체포해서……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,26,仇を取る？,원수를 갚는다고?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,15,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,27,子どもたちが死んでいるとは限らないのに、もう復讐をする気なのか？,"아이들이 죽었다고 단정할 수도 없는데, 벌써 복수할 생각이야?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,28,それは本当に彼らのための仇討ちなのか？君自身の復讐のためなんじゃないか？,그게 정말로 그 아이들을 위한 복수야? 너 자신의 복수를 위한 거 아니야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,16,僕は……,나는……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,29,リュウセイ、君が初めて作戦に参加した時に、私は言ったはずだ。,"류세이, 네가 처음 작전에 참가했을 때, 내가 말했을 텐데."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,30,常に正しくありなさい。復讐心だけで行動するな。,항상 옳게 행동해. 복수심만으로 행동하지 마.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,17,違う！僕は……！,아니에요! 저는……!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,10,犬の躾けを見ててもしょうがないし、俺は外にでも出てようかな。,"개 훈육하는 거 봐도 어쩔 수 없으니, 나는 밖에나 나가 있을까."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,31,彼は犬ではない。,그는 개가 아니야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,18,それはどうっすかね。スイ姉にとって、僕はただの犬も同然じゃないっすか？,"그건 글쎄요. 스이 누나한테, 저는 그냥 개나 마찬가지 아니에요?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,32,リュウセイ……,류세이……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,11,あのね、君らはいつも物事をややこしく考えすぎているんだよ。,"있잖아, 너희들은 항상 일을 너무 복잡하게 생각한다니까."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,12,無駄なこだわりだの、正しいとは何かだの、間違いとは何かだのって……,"쓸데없는 집착이라든가, 뭐가 옳은가라든가, 뭐가 틀렸는가라든가……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,13,そんなこと気にせず、もっと自由に生きろよ。自分中心で考えようぜ？,"그런 거 신경 쓰지 말고, 좀 더 자유롭게 살라고. 자기중심적으로 생각해보자고?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,18,皆があんたみたいな考えになったら、世界が滅びるのは間違いないわね。,"다들 너처럼 생각하게 되면, 세상이 망하는 건 틀림없겠네."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,14,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,15,へぇ？だったら君の恋人ちゃんみたいになればいいのか？,허? 그럼 네 애인님처럼 되면 되는 거야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,19,あんたよりはマシよ。,너보다는 낫지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,20,あんたはフクロウの情報を自分の上司に流している。,너는 부엉이 정보를 자기 상사한테 흘리고 있잖아.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,16,……！？,……!?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,21,それが祖母に知られたら、あんたどうなるんでしょうね？,"그게 할머니한테 알려지면, 너 어떻게 될까?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,17,……それは脅しか？,……그거 협박인가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,18,スイ･ニン、こいつへの躾けも足りないんじゃないか？,"스이 닝, 이 녀석 훈육도 부족한 거 아니야?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,33,彼女は自分の判断で行動できる。それに、その行動の責任も自分自身で取れる。,"그녀는 자기 판단으로 행동할 수 있어. 게다가, 그 행동의 책임도 스스로 질 수 있고."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,34,彼女が私の命令に従う必要はないし、私も彼女の選択を尊重している。,"그녀가 내 명령을 따를 필요는 없고, 나도 그녀의 선택을 존중하고 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,19,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,22,あんたはどうなのよ？さっきの発言の責任を取る準備はできたわけ？,너는 어떤데? 아까 그 발언 책임질 준비는 됐고?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,20,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,21,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,22,わかったよ。謝ればいいんだろう？,알았어. 사과하면 되는 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,23,さっきのは俺が言い過ぎた。,아까 건 내가 말이 심했어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,24,すまなかったな。これでいいか？,미안했다. 이거면 됐지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,23,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,35,一つ忠告するが……,한 가지 충고하지만……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,36,私たちが君を必要とする以上に、君は私たちを必要としている。それを理解した上で発言しなさい。,"우리가 너를 필요로 하는 것 이상으로, 너는 우리를 필요로 하고 있어. 그걸 이해하고 발언해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,25,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,26,はいはい。,네네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,37,それと、リュウセイ･チョウ。,"그리고, 류세이 챠오."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,38,理性的に事の優先順位を判断できないなら……,이성적으로 일의 우선순위를 판단할 수 없다면……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,39,今回の作戦から外す。わかったな？,이번 작전에서 뺄 거야. 알았지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,19,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,20,はい。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,40,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,41,では、今日の作戦について説明する。,"그럼, 오늘 작전에 대해 설명하겠다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,42,先程言ったとおり、万象は「ゴミ溜め」で子どもを何人も購入していた。,"아까 말한 대로, 완샹은 '쓰레기 더미'에서 아이를 여러 명 구입했다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,43,そして、それを隠すために、彼らは子どもをヤクザに預けていた。だが幸いなことに、その子どもは今ヤクザの元にいる。,"그리고, 그걸 숨기기 위해, 그들은 아이들을 야쿠자한테 맡겼다. 하지만 다행히도, 그 아이들은 지금 야쿠자 밑에 있다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,44,今ある問題は、取引された子どもの数や身元、万象が雇っているヤクザの正体を我々が知らないと言うことだ。,"지금 있는 문제는, 거래된 아이들의 수와 신원, 완샹이 고용한 야쿠자의 정체를 우리가 모른다는 거다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,45,だが、だからこそ助っ人が必要なんだ。,"하지만, 그러니까 조력자가 필요한 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,46,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,27,お？,오?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,28,じゃ、もう話してもよろしいですかな、スイ殿？,"그럼, 이제 말씀드려도 되겠습니까, 스이 님?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,47,ええ。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,29,ゴホン！,흠흠!
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,30,俺は数週間前に、定期的に「ゴミ溜め」で行う情報収集任務を受けた。,"나는 몇 주 전에, 정기적으로 '쓰레기 더미'에서 하는 정보 수집 임무를 받았다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,31,調査を進めるうちに、子どもの人身売買の噂がゴミ溜めで流れていることに気づいた。,"조사를 진행하다가, 아이 인신매매 소문이 쓰레기 더미에서 돌고 있다는 걸 알아챘지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,32,例えゴミ溜めであっても、人身売買は非常に珍しい。,"아무리 쓰레기 더미라도, 인신매매는 상당히 드물어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,33,だから俺は、この件を調査すべきだと報告した。,"그래서 나는, 이 건을 조사해야 한다고 보고했다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,34,だが俺が報告した次の日、ゴミ溜めでの情報収集任務が急に中止された。,"근데 내가 보고한 다음 날, 쓰레기 더미 정보 수집 임무가 갑자기 중지됐어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,35,フクロウのメンバーなら、すぐにピンとくるだろうが……,"부엉이 멤버라면, 바로 감이 오겠지만……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,36,この件は企業が関わっていたんだ。もちろん万象様のね。,이 건은 기업이 관련되어 있었던 거야. 물론 완샹님이지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,37,それでだ。,그래서 말이지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,38,俺は調査を中止される前に、二つの情報を手にすることができた。,"나는 조사가 중지되기 전에, 두 가지 정보를 손에 넣을 수 있었어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,39,一つは買われた子どものリスト。,하나는 팔려간 아이들의 리스트.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,40,もう一つは、万象がその子どもたちをヤクザに預けていて、まだ受け取る前だってことだ。,"또 하나는, 완샹이 그 아이들을 야쿠자한테 맡겨놓고, 아직 인수 전이라는 거고."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,41,残念ながら、万象に「取引」を任されたヤクザの正体は不明だ。,"안타깝게도, 완샹한테 '거래'를 맡은 야쿠자의 정체는 불명이야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,48,我々は子どもたちを助けるために……,우리는 아이들을 구하기 위해……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,49,自分の子どもをヤクザに売ろうとしている者を見つけ出し、そこからそのヤクザの正体を突き止める。,"자기 아이를 야쿠자한테 팔려는 자를 찾아내서, 거기서 그 야쿠자의 정체를 밝혀낸다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,50,そして、子どもたちの監禁場所を割り出すんだ。,"그리고, 아이들이 감금된 장소를 알아내는 거다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,11,俺は参加しなくていいのか？,나는 참가 안 해도 되는 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,12,あんたたちが「ゴミ溜め」に行くってことか？,당신들이 '쓰레기 더미'에 간다는 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,51,いいえ。,아니.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,13,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,52,ジェイとリュウセイはサイレントに戻り、子どもを売ろうとしている「親」に会ってほしい。,"제이랑 류세이는 사일런트로 돌아가서, 아이를 팔려는 '부모'를 만나줬으면 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,14,なぜ親たちがサイレントにいるとわかるんだ？,왜 부모들이 사일런트에 있다는 걸 아는 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,42,彼らが自分の子どもを万象に売る一番の理由は金がないからだ。,그들이 자기 아이를 완샹한테 파는 가장 큰 이유는 돈이 없기 때문이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,43,そういうやつらの大体は、薬の問題を抱えている。,"그런 놈들 대부분은, 약물 문제를 안고 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,44,だから子どもを売って金を得ても、より多くの金を求めて、最終的には演算工場に駆け込むんだ。,"그러니까 아이를 팔아서 돈을 얻어도, 더 많은 돈을 바라서, 결국엔 연산공장으로 뛰어드는 거지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,15,俺たちがサイレントに戻っても本当に大丈夫なのか？,우리가 사일런트로 돌아가도 정말 괜찮은 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,24,大丈夫よ。あんたのお友達さんが昨日の騒ぎをもみ消してくれたから。,괜찮아. 네 친구분이 어제 소동을 무마해줬으니까.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,25,だからジェイはまだ万象に狙われてない。,그래서 제이는 아직 완샹한테 노려지고 있지 않아.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,16,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,53,私たちはリストに乗っている子どもの親を今日の面談に入れるつもりだ。,우리는 리스트에 오른 아이의 부모를 오늘 면담에 넣을 생각이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,54,君たちはその中から協力してくれそうなターゲットを選んで、契約室に連れてきてほしい。,"너희는 그중에서 협력해줄 것 같은 타깃을 골라서, 계약실로 데려와 줬으면 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,55,契約室に連れてきたら、そこでターゲットから詳しい話を聞く。,"계약실로 데려오면, 거기서 타깃한테서 자세한 얘기를 듣는다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,17,なぜ全員を契約室に連れてこないんだ？,왜 전원을 계약실로 데려오지 않는 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,26,選別組に人員の制限があるからよ。,선별조에 인원 제한이 있으니까.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,18,どうやって選べばいいんだ？,어떻게 고르면 되는 거지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,27,面談の時に誘導尋問をしてくれればいいの。,면담할 때 유도 심문을 해주면 돼.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,28,詳細はその時になったら伝えるから。,자세한 건 그때 되면 전달할 테니까.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,19,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,29,それともう一つ。,그리고 하나 더.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,30,リュウセイは元々、今日のスケジュールに面談が入ってたから問題ないけど……,"류세이는 원래, 오늘 스케줄에 면담이 들어가 있어서 문제없는데……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,31,ジェイの正式な配属日はまだだから、誰かにシフトを代わってもらう必要があるの。,"제이의 정식 배속일은 아직이라서, 누군가한테 시프트를 바꿔달라고 해야 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,32,どう？大丈夫そう？,어때? 될 것 같아?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,20,もし誰もシフトを代わってくれなかったら？,만약 아무도 시프트를 안 바꿔주면?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,33,その時は、ジェイの人選は諦めるしかないね。,"그때는, 제이 인선은 포기할 수밖에 없겠지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,34,リュウセイが選んだ人だけを頼ることになる。,류세이가 고른 사람한테만 의지하게 되는 거고.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,35,他に質問は？,다른 질문은요?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,21,転送機のハッキングで何とかできないのか？,전송기 해킹으로 어떻게 안 되는 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,36,無理。,무리야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,37,できない事はないけど、唐突にシフトが変更になった人がきっとあんたを疑うはずよ。,"못 하는 건 아닌데, 갑자기 시프트가 바뀐 사람이 분명 너를 의심할 거야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,38,他に質問は？,다른 질문은요?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,22,もう大丈夫だ。,이제 됐다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,39,ジェイは操作組だから、面談を担当できないのよね。,"제이는 조작조니까, 면담을 담당할 수 없단 말이지."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,40,でも、少しでも協力してくれそうな人を見つけるためにも、今日のリュウセイの面談をジェイに代わってもらおうと思うの。,"근데, 조금이라도 협력해줄 것 같은 사람을 찾기 위해서라도, 오늘 류세이 면담을 제이한테 대신 맡기려고 해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,21,……でもそれじゃ、結局一人からしか話を聞けない。,"……근데 그러면, 결국 한 명한테서밖에 얘기를 못 듣잖아요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,41,だからリュウセイは、選別組の誰かとシフトを代わってもらってちょうだい。,"그러니까 류세이는, 선별조 누군가랑 시프트를 바꿔줘."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,22,えっ？何で僕が……？,네? 왜 제가……?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,23,はぁ？操作組の人が選別組の仕事を代わってもらえるわけないでしょう？,네? 조작조 사람이 선별조 일을 대신할 수 있을 리가 없잖아요?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,42,ちょっと考えればわかることでしょ。,조금만 생각하면 알 일이잖아.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,56,面談はあくまでも第一関門だ。,면담은 어디까지나 첫 번째 관문이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,57,ターゲットを契約室に連れてきた後は、私が担当する。,"타깃을 계약실로 데려온 후에는, 내가 담당한다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,心の声,2,23号が信じられないという顔をしている……,23호가 믿을 수 없다는 얼굴을 하고 있다……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,23,サイレントの契約室に潜入するのか？,사일런트 계약실에 잠입하는 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,58,ええ。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,24,23号は納得してないようだが。,23호는 납득 못 한 것 같은데.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,25,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,43,またサイレントに潜入する気なの？,또 사일런트에 잠입할 생각이야?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,44,前も言ったけど、もしフクロウにバレたら……,"저번에도 말했지만, 만약 부엉이한테 들키면……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,59,今回は子どもの命が関わっている。失敗は許されない。,이번엔 아이의 목숨이 걸려 있어. 실패는 용납되지 않아.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,45,そんな……,그럴 수가……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,24,僕たちだけで、話を聞き出されるかもしれないっすよ？,"저희끼리도, 얘기 캐낼 수 있을지도 몰라요?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,60,失敗する可能性の方が高い。,실패할 가능성이 더 높아.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,45,ひぇー、手厳しい。,"히에, 매섭네."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,25,……結局は、僕たちを信用してないってことっすね。,"……결국은, 저희를 못 믿는다는 거네요."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,61,そういう意味ではない。,그런 뜻이 아니야.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,46,スイ、私たちが彼らに指示を出せば、それで十分よ。,"스이, 우리가 그들한테 지시만 내리면, 그걸로 충분해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,62,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,63,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,64,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,46,はぁー！やっと作戦会議終了か。長かった、長かった！,"하아! 드디어 작전 회의 끝인가. 길었다, 길었어!"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,65,以上が今日の作戦だが、何か質問は？,"이상이 오늘 작전인데, 뭔가 질문은?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,5,はい。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,66,どうぞ。,말씀하세요.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,6,どうして直接「ゴミ溜め」に行って、親と会わないの？,"왜 직접 '쓰레기 더미'에 가서, 부모랑 안 만나는 거야?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,67,この助っ人が反対するからだ。,이 조력자가 반대해서다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,47,おいおい、俺が悪いみたいな言い方はやめてくれよ……,"어이어이, 내가 나쁜 것처럼 말하지 말라고……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,48,反対したのには理由があるんだ。,반대한 데는 이유가 있어.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,49,人身売買の件を報告した後、誰かが調べているとに気づいた万象は、子どもを売った親たちに監視をつけたんだ。,"인신매매 건을 보고한 후, 누군가 조사하고 있다는 걸 눈치챈 완샹은, 아이를 판 부모들한테 감시를 붙였어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,50,そんな状況で無闇に親たちと接触すれば捕まり、逆にこちらの目的を知るために拷問されるだけだ。,"그런 상황에서 함부로 부모들이랑 접촉하면 잡혀서, 오히려 우리 목적을 알아내려고 고문당할 뿐이야."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リン･テイ,7,そんな……,그럴 수가……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,47,監視に気づかれないように接触する手もあるけど……,감시한테 안 들키게 접촉할 방법도 있긴 한데……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,48,失敗すれば……,실패하면……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,49,万象へ報告が行き、フクロウにもその全てが明るみになる。,"완샹한테 보고가 가고, 부엉이한테도 그 전부가 드러나게 돼."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,68,つまり、サイレントで彼らと話すしかないということだ。,"즉, 사일런트에서 그들이랑 얘기할 수밖에 없다는 거다."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,スイ･ニン,69,面談、契約に部外者が立ち入ることはできないから、監視の目は届かない。,"면담이나 계약에는 외부인이 들어올 수 없으니까, 감시의 눈이 안 닿아."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,51,さて、説明はこんなところでいいかな？,"자, 설명은 이 정도면 됐으려나?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,カイ･コン,52,さっそく作戦開始と行こう。,곧바로 작전 개시로 가지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,0,おっと。,어이쿠.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,0,来たか。,왔나.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,0,やあ。,안녕.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,1,彼は何者だ？,이 사람은 누구지?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,2,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,1,どうも。,안녕하세요.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,1,紹介する。こちらは……,소개하지. 이쪽은……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,2,助っ人だ。,조력자다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,3,助っ人？それは名前なのか？,조력자? 그게 이름인가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,4,コードネームか何かか？,코드네임 같은 건가?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,2,そうだ。,그렇다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Branch,#Simple,5,……,……
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,3,申し訳ないが、本当の名前を名乗るつもりはない。俺は彼女たちほど……,"미안하지만, 진짜 이름을 밝힐 생각은 없어. 나는 저 여자들만큼……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,4,度胸がないんでね。,배짱이 없어서 말이지.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,3,私が呼んだフクロウのエージェントだ。,내가 부른 부엉이 요원이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,4,今、調査している事件が、ちょうど彼が過去に関わっていた調査と関わりがあるんだ。,"지금 조사 중인 사건이, 마침 이 사람이 과거에 관여했던 조사랑 관련이 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リュウセイ･チョウ,0,あれ？スイ姉たちはフクロウに内緒で調査してたっすよね……？,어라? 스이 누나들은 부엉이 몰래 조사하고 있던 거잖아요……?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,5,ええ。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リュウセイ･チョウ,1,じゃ、彼は……,"그럼, 이 사람은……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,5,単刀直入に言うと、うちのボスは万象が倒れることを望んでいるんだ。,"단도직입적으로 말하면, 우리 보스는 완샹이 무너지는 걸 바라고 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,6,だから、君たちのグループに参加させてもらった。利益が一致しているからな！,"그래서, 너희 그룹에 참가시켜 달라고 했지. 이해관계가 일치하니까!"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,6,助っ人の使い道は後で説明する。,조력자를 어떻게 쓸지는 나중에 설명하겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,7,酷いな、まるで道具みたいな言い方だ。,"너무하네, 완전히 도구 같은 말투잖아."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,23,0,リンリン、足の調子はどう？,"린린, 다리 상태는 어때?"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リン･テイ,0,うん、おかげさまで治ってきてるよ。,"응, 덕분에 나아지고 있어."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,23,1,そっか～、よかった！,"그렇구나~, 다행이다!"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,23,2,痛み止めがあるから、痛い時はいつでも言ってね。,"진통제 있으니까, 아플 때는 언제든지 말해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,リン･テイ,1,うん、ありがとう。,"응, 고마워."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,8,えっと……,"그, 그게……"
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,カイ･コン,9,そろそろ始めてもいいかな？,슬슬 시작해도 될까?
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,7,ええ。,네.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,進到司徒基地_2,Say,スイ･ニン,8,ジェイ、そこに座って。,"제이, 거기 앉아."
