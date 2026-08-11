@@ -1,0 +1,127 @@
+﻿bundle_file,node,type,role,say_index,japanese,korean
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,0,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,1,本当に、大丈夫なの？,"정말로, 괜찮은 거야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,2,この新しい仕事、ジェイがやりたいとはどうしても思えないけど。,"이 새 일, 제이가 하고 싶어 하는 거라고는 아무리 봐도 안 보이는데."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,心の声,0,でも、俺は仕事が必要なんだ。,"그래도, 난 일이 필요해."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,3,やりたくないなら無理しなくていいからね。,하기 싫으면 무리 안 해도 되니까.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,心の声,1,このまま無職で家にいちゃだめだ。リンの負担を減らさないと。,이대로 백수로 집에 있으면 안 돼. 린 부담을 줄여야지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,4,私はもうマネージャーだから、二人分くらいなら余裕よ。,"나는 이제 매니저니까, 둘 몫 정도는 여유 있어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,心の声,2,でもリンは実家にも仕送りしてるし……,그래도 린은 본가에도 돈 보내고 있고……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,5,仕事というのはね、ちゃんと時間をかけてぴったりなものを探すべきよ。,"일이란 건 말이야, 시간을 제대로 들여서 딱 맞는 걸 찾아야 하는 거야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,0,俺ははやくリンを支えたいんだ。,난 빨리 린을 뒷받침해주고 싶어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,6,ずっと支えてくれてるよ。,계속 뒷받침해주고 있는걸.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,7,ジェイはいつでもどこでも、無条件に支えてくれてる。,"제이는 언제 어디서든, 무조건으로 지지해주고 있어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,8,私にとって、とても大事なことなの。,"나한테는, 정말 중요한 일이야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,9,本当だよ。,진짜야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,心の声,3,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,1,そんな気楽な話じゃないだろう？,그렇게 편하게 말할 일이 아니잖아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,10,私――,나――
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,11,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,12,別にそういう意味じゃないけど。,딱히 그런 뜻은 아니었는데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,13,……ごめん。,……미안.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,14,ジェイが焦ってたのは分かってるよ。,제이가 조급해했던 거 알아.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,2,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,15,でも……,그래도……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,16,仕事とは関係なく、私はずっとジェイを応援してるから。,"일이랑 상관없이, 나는 계속 제이를 응원하고 있으니까."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,17,私に気を遣って、働かないといけないとかは思わないで欲しいの。,"나 때문에, 일해야 한다는 생각은 안 했으면 좋겠어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,18,ジェイが私のせいで苦しんでほしくないの。,제이가 나 때문에 힘들어하는 거 싫어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,19,ジェイ、私は本気で言ってるよ。,"제이, 나 진심으로 하는 말이야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,3,分かってる。,알고 있어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,20,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,4,大丈夫、リンのために苦しむことはないよ。,"괜찮아, 린 때문에 힘들어하는 거 아니야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,21,……うん。,……응.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,22,ならいいけど！,그럼 됐고!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,5,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,23,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,24,バス、来ないね。,"버스, 안 오네."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,25,市がまた算力を別のエリアに集中させたのかな。,시에서 또 연산력을 다른 구역에 몰아준 건가.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,26,エーガーエリアはいつもそういうことされるよね！,에가 구역은 맨날 그런 일 당하잖아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,6,算力集中？,연산력 집중?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,7,それはバスが来ないのと何の関係があるんだ？,그게 버스 안 오는 거랑 무슨 상관인데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,27,えっ？,어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,28,えっと、つまり……,"그러니까, 그게……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,29,ほら、北区のすべてのシステムは<color=#88D8E3>AIが管理している</color>でしょう？,"봐봐, 북구의 모든 시스템은 <color=#88D8E3>AI가 관리하잖아</color>?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,30,公共交通、エネルギー、通信、物流……,"대중교통, 에너지, 통신, 물류……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,31,……もちろん監視システムも。,……물론 감시 시스템도.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,32,アルゴリズムと町の至る処にあるセンサーで私たちの生活に関わる複雑な作業をしてくれているのに。,알고리즘이랑 마을 곳곳에 있는 센서로 우리 생활에 관련된 복잡한 작업을 처리해주고 있는데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,33,でもいくらアルゴリズムを最適化しようと、私たちは<color=#E7D6A9>大きな算力</color>でデータを処理する必要があるの。,"그래도 아무리 알고리즘을 최적화해도, 우리는 <color=#E7D6A9>큰 연산력</color>으로 데이터를 처리해야 해."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,34,例えばラッシュの時、市は優先的に算力を交通量が大きいエリアに割り当てるの……,"예를 들면 러시아워 때, 시에서는 우선적으로 연산력을 교통량 많은 구역에 배정하는데……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,35,エーガーみたいなエリアだと、算力を失って交通効率が下がるの。,"에가 같은 구역은, 연산력을 뺏겨서 교통 효율이 떨어지는 거야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,36,これで分かったかな？,이러면 이해됐어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,8,うん、分かった。,"응, 알았어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,37,よろしい！,좋아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,9,あまり分かってない。,잘 모르겠는데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,38,つまり政府はタイアンエリアのラッシュを緩和するために、私たちのバスを遅らせたの。,"그러니까 정부가 타이안 구역의 러시아워를 완화하려고, 우리 버스를 늦춘 거야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,39,そう考えばいいの。もー。,그렇게 생각하면 돼. 진짜.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,10,俺をバカにしてんのか？,나 무시하는 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,40,べ･つ･に！,아·니·거·든!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,41,まあ、ちょっとは！,"뭐, 조금은!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,42,だっていつも私の料理が下手って言うんだもん！,맨날 내 요리 못한다고 하잖아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,43,ちょっとした仕返しよ！,약간의 복수야!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,11,なるほど。,그렇구나.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,12,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Branch,#Simple,13,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,44,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,等公車話題,Say,リン･テイ,45,あ！バスが来た！,아! 버스 온다!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,主角停下來,Say,リン･テイ,0,えっ？,어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,主角停下來,Say,リン･テイ,1,どうして来ないの？,왜 안 오는 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,主角停下來,Say,リン･テイ,2,……何か用事があるなら、ここで待ってるけど？,"……뭔가 볼일 있으면, 여기서 기다릴까?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,主角小跑,Say,リン･テイ,0,ちょっと、走らないでよ！,"야, 뛰지 좀 마!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,主角小跑,Say,リン･テイ,1,ゆっくり歩こう！,천천히 걷자!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,主角小跑,Say,リン･テイ,2,まだ時間はあるから！,아직 시간 있으니까!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,0,あれは<color=#88D8E3>ビッグウェイ</color>の貨物船だ……,저건 <color=#88D8E3>빅웨이</color>의 화물선이네……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,1,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,2,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,3,こんな大きな町にいると、自分を小さく感じるね。,"이렇게 큰 도시에 있으면, 내가 작게 느껴지네."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Branch,#Simple,0,そうだな。,그러네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,4,……だからこそ、私たちは自分の特別さを頑張って証明しないと。,"……그러니까 더, 우리는 스스로의 특별함을 열심히 증명해야 하는 거야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Branch,#Simple,1,そうは思わないけど。,난 그렇게 생각 안 하는데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,5,そう……,그래……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,6,多分……いいことだと思うよ。,아마……좋은 거라고 생각해.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,鏡頭拉遠對話,Say,リン･テイ,7,行こう、バスが来たよ。,"가자, 버스 왔어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,0,はあ……,하아……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,1,家から出ると会社に行きたくなくなるよな！,집에서 나오면 회사 가기 싫어지지!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,心の声,0,リンは来なくてもいいのに、家で休んだ方がいい……,"린은 안 와도 되는데, 집에서 쉬는 게 나을 텐데……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,2,彼氏のためなら、しょうがない。,"남자친구를 위해서라면, 어쩔 수 없지."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Branch,#Simple,0,家で休んでもいいんだよ？,집에서 쉬어도 되는데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,3,冗談だよ。,농담이야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,4,一緒に行くって約束したから！,같이 가기로 약속했으니까!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,5,それに、私だって工場に用事があるし……,"게다가, 나도 공장에 볼일이 있고……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,6,はあ、人生って大変だね……,"하아, 인생 참 힘드네……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,7,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,8,やるべきことをやらなきゃ！,할 일은 해야지!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Branch,#Simple,1,ありがとう。,고마워.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,9,ん……！,응……!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,10,今日は素直だね！,오늘은 순순하네!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,11,普段なら家で待ってろとか必ず言うのに。,평소라면 집에서 기다리라고 꼭 말할 텐데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,12,ふふん、一人で半日も苦しむより……,"흐음, 혼자 반나절이나 끙끙 앓는 것보다……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,13,素直に私に礼を言った方が気持ちいいでしょう？,순순히 나한테 고맙다고 하는 게 마음 편하지?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,14,そっちの方がいいよ。,그쪽이 더 좋아.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,心の声,1,俺は……,나는……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,15,ふふ、いいから。,"후후, 됐으니까."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,16,うん！今日は良い天気ね！,응! 오늘 날씨 좋다!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,17,涼しいし、運がいいよ。,"선선하고, 운이 좋네."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,Start,Say,リン･テイ,18,うん、大丈夫なら歩いて行こう。,"응, 괜찮으면 걸어가자."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,叫住主角,Say,リン･テイ,0,ちょっと待って！,잠깐만!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,叫住主角,Say,リン･テイ,1,この音は……,이 소리는……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,叫住主角,Say,リン･テイ,2,あっちを見て！,저쪽 봐!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,叫住主角,Say,リン･テイ,3,もうすぐで来ると思う……,곧 올 것 같아……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久,Say,リン･テイ,0,うっ……,으……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久,Say,リン･テイ,1,ハロー？,여보세요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久,Say,リン･テイ,2,ぼーっとしてるの？,멍하니 있는 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久,Say,リン･テイ,3,……？,……?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,0,よっ！,야!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,1,ジェイ？,제이?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,2,いるの？,있어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,3,あなた、やっと壊れた？,"너, 드디어 고장 났어?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,4,行くよ！,간다!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,5,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,原地等太久2,Say,リン･テイ,6,じゃここであなたが来るまで待ってるから。,그럼 여기서 네가 올 때까지 기다릴게.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走,Say,リン･テイ,0,バス停は反対方向だよ？そこで何をしてるの？,버스 정류장은 반대 방향인데? 거기서 뭐 해?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走,Branch,#Simple,0,そっちを見てみたくて。,그쪽을 좀 보고 싶어서.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走,Say,リン･テイ,1,……そう？,……그래?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走,Branch,#Simple,1,別に何も。,딱히 아무것도.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走,Say,リン･テイ,2,そ……そうなの？,"그, 그래?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走2,Say,リン･テイ,0,まだ行かないの……？,아직 안 가는 거야……?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走2,Say,リン･テイ,1,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,往反方向走2,Say,リン･テイ,2,じゃ、私もここで待つしかないな……,"그럼, 나도 여기서 기다릴 수밖에 없네……"

@@ -1,0 +1,290 @@
+﻿bundle_file,node,type,role,say_index,japanese,korean
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,0,お願いだ！,제발 부탁이야!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,1,もう愚痴を言うのはやめてくれ……,이제 그만 좀 투덜대……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,0,私のせい？あんたの腕が落ちたのが悪いんでしょ！,내 탓이라고? 당신 실력이 떨어진 게 잘못이잖아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,心の声,0,ん？大将が戻ったのか？,응? 사장님이 돌아온 건가?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,心の声,1,そういえば、しばらく顔を見てなかったな。,"그러고 보니, 한동안 얼굴 못 봤었지."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,2,思い出す時間が必要なだけだ。,그냥 생각할 시간이 필요했던 것뿐이야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,1,そんなの……,그런 게……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,2,あんたがいつも店を空けてるからでしょう！,당신이 맨날 가게를 비우니까 그렇지!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,3,あら？ジェイさん！,어라? 제이 씨!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,4,もうご飯は食べました？,밥은 드셨어요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Branch,#Simple,0,こんばんは。,안녕하세요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,5,こんばんは。,안녕하세요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Branch,#Simple,1,これから仕事なんです。,지금부터 일하러 가요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Branch,#Simple,2,もう食べました。,이미 먹었어요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,6,あら、そうですか。,"아, 그러세요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,3,もう解放してあげなさい。,이제 그만 놔줘라.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,7,何よ！常連さんだから話かけただけよ！,뭐야! 단골이니까 말 붙인 것뿐이잖아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,8,あ、ジェイさん。こちらは私の夫、フウコ･チョーです。,"아, 제이 씨. 이쪽은 제 남편, 후코 챠오예요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,4,俺を紹介してどうするんだ？,날 왜 소개하는 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,9,あんたはいつも無愛想すぎるのよ。挨拶くらいしなさい。,당신은 맨날 너무 무뚝뚝하다니까. 인사 정도는 해.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,5,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,6,4卓、麺がまだだろ。,"4번 테이블, 면 아직이잖아."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,10,はいはい。,네네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,ミン･ツァイ,0,いい。4卓には俺が出す。,됐어요. 4번 테이블은 제가 낼게요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,7,お前はもう退勤時間だろ。食ったらさっさと帰んな。,너 이제 퇴근 시간이잖아. 먹었으면 얼른 가라.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,11,ちょっと、ミンに当たらないでよ！,"잠깐, 밍한테 화풀이하지 마!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,8,フンッ。,흥.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,12,ジェイさんも、仕事頑張ってくださいね。,"제이 씨도, 일 힘내세요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Branch,#Simple,3,はい、ありがとうございます。,"네, 감사합니다."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Branch,#Simple,4,また食べに来ます。,또 먹으러 올게요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,13,あら、ご丁寧にありがとう。,"어머, 예의 바르게 고마워요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,14,うちの夫とは大違いね。,우리 남편이랑은 완전 다르네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,イアン･チョー,9,何だって！,뭐라고!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Say,シュウリン･キュウ,15,それじゃ、またね！,"그럼, 또 봐요!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_老張登場爭吵,Branch,#Simple,5,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,0,すみません！,저기요!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,1,ちょっと手伝ってもらえませんか？,잠깐 좀 도와주실 수 있어요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,0,何をだ？,뭘?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,1,なぜ俺に？,왜 나한테?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,2,人が良さそうだからだよ！,사람 좋아 보여서요!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,2,ああ。,그래.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,3,バイクの後ろから煙りが出てないかを見てくれる？,오토바이 뒤에서 연기 나는지 좀 봐줄래요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,4,ちょっと変なんだよね。,좀 이상해서요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,3,わかった。,알았어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,5,ありがとう！一人じゃ見れないからさ。,고마워요! 혼자서는 못 보니까요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,4,断る。,거절할게.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,6,え？でも手伝ってくれるって……,네? 근데 도와주신다고……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,5,そんな面倒だとは思わなかったからだ。,그렇게 귀찮을 줄 몰라서 그랬어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,7,わかったよ。他の人に頼むからいいさ！,알겠어요. 다른 사람한테 부탁할게요!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,6,わかった、手伝う。,"알았어, 도와줄게."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,8,ありがとう！一人じゃ見れないからさ。,고마워요! 혼자서는 못 보니까요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,9,……わかった。,……알겠어요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,10,自分でなんとかするよ。,혼자 어떻게든 해볼게요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,11,どう？煙出てる？,어때요? 연기 나요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,7,出てない。,안 나.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,12,よかった！,다행이다!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,8,多分出てないと思う。,아마 안 나는 것 같아.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,13,多分？本当に大丈夫？,아마요? 진짜 괜찮은 거예요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,14,あれ？,어라?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,15,なんか直ったっぽい。多分浮遊エンジンに小石が引っかかってたのかな。,뭔가 고쳐진 것 같은데. 아마 부유 엔진에 자갈이 끼어 있었나 봐요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,9,浮遊？,부유?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,10,このバイク、浮遊するのか？,"이 오토바이, 뜨는 거야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,16,おいおい、馬鹿にしないでくれよ。古いバイクだけど浮遊エンジンくらい搭載してるよ。,"아이참, 무시하지 마세요. 오래된 오토바이긴 해도 부유 엔진 정도는 달려 있다고요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,17,最近は道が再舗装されたから、どこでも使えるようになったんだ。,"요즘 도로가 재포장돼서, 어디서든 쓸 수 있게 됐거든요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,18,ガソリン代も大分節約できる。,기름값도 꽤 절약돼요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,11,再舗装されたから浮遊できるのか？,재포장돼서 뜰 수 있는 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,12,なぜガソリン代が節約できるんだ？,왜 기름값이 절약되는 거지?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,19,え、バイク乗らない人？,"어, 오토바이 안 타는 사람이에요?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,20,もしかして何も知らないの…？,혹시 아무것도 모르는 거예요…?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,21,助けてくれたお礼に説明してあげるよ。,도와준 보답으로 설명해드릴게요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,22,政府は何年も前から、道路の自動化工事を始めていたんだ！,"정부가 몇 년 전부터, 도로 자동화 공사를 시작했거든요!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,23,再舗装された道であれば、床が自動で浮き上がって、AIが勝手に移動させてくれる。,"재포장된 도로라면, 바닥이 자동으로 떠올라서, AI가 알아서 이동시켜줘요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,24,目的地に最短で行けるから便利なんだ。,목적지까지 최단으로 갈 수 있어서 편리하거든요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,25,エネルギーはすべて道路から供給されるから、ガソリンは不要なんだ。,"에너지는 전부 도로에서 공급되니까, 기름이 필요 없어요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,26,とはいえ、まだこういった道が敷かれていない場所はたくさんある。裏道とかね。,"그렇다고 해도, 아직 이런 도로가 안 깔린 곳도 많아요. 뒷골목 같은 데요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,27,だから普通は車やバイクに二つのモードが搭載されている。このバイクも、今は通常モードだから車輪が降りている。,"그래서 보통 차나 오토바이엔 두 가지 모드가 달려 있어요. 이 오토바이도, 지금은 일반 모드라서 바퀴가 내려와 있는 거고요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,28,わかった？,이해됐어요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,13,ああ。,그래.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,29,俺って説明上手いな～！,나 설명 진짜 잘하네~!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,14,あまりわからなかった。,잘 모르겠던데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,30,だったら自分で調べるんだな！,그럼 직접 찾아보세요!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,31,かなり詳しく説明したつもりだぞ！,꽤 자세히 설명한 거라고요!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,15,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Branch,#Simple,16,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,32,ふむ、バイク自体に問題はなさそうだな。,"흠, 오토바이 자체엔 문제없어 보이네요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,33,エンジンをかけてみるよ……,시동 한번 걸어볼게요……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,34,よし！上手くいったぞ！,좋아! 잘 됐다!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,35,手伝ってくれてありがとう。,도와줘서 고마워요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_修車,Say,ケンホ･チョウ,36,じゃあな。,그럼 이만.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シエ･キュウ,0,弟さんのSNSを見たけど、就職したの？,"동생분 SNS 봤는데, 취직했어요?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シンテイ･ゴ,0,なんと、あのビッグウェイだよ。,"글쎄, 그 빅웨이라니까."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シエ･キュウ,1,国内の半分以上の家を建てた、あのビッグウェイに！？,"국내 절반 이상의 집을 지은, 그 빅웨이에!?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シンテイ･ゴ,1,まあ、ヤクザの兄貴分が入れてくれたんだけどね。,"뭐, 야쿠자 형님뻘 되는 사람이 넣어준 거지만."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シエ･キュウ,2,もしかして仕事が見つからなくて焦ってるの？,혹시 일자리 못 구해서 조급한 거예요?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シエ･キュウ,3,弟さんに紹介してもらえばいいじゃん。,동생분한테 소개받으면 되잖아요.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_巨威,Say,シンテイ･ゴ,2,いやいや、あんなヤクザまがいの会社には行きたくない。,"아니아니, 그런 야쿠자 같은 회사엔 가고 싶지 않아."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,0,また外れた！！！,또 꽝이야!!!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,0,また？,또?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,1,いくらすったの？,얼마나 날린 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,1,50000……,5만……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,2,はあ！？,뭐!?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,3,ガチャガチャに50000円！？,뽑기에 5만 엔을!?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,2,そんなこと言える立場か？,그런 말 할 처지냐?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,3,お前は昨日いくら課金したんだ？,너는 어제 얼마나 과금했는데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,4,俺のは嫁を手に入れるための課金だ。そっちただのガチャガチャだろう。レベルが違うぜ。,내 건 마누라 얻으려고 하는 과금이야. 그쪽은 그냥 뽑기잖아. 급이 다르지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,4,スマホゲームの分際で偉そうに言いやがって！,폰겜 주제에 잘난 척은!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,5,偉そうとはなんだ！,잘난 척이라니!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,5,こうなったら、出るまでやるから……,"이렇게 된 이상, 나올 때까지 한다……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,6,何でそこまで執着するんだ？,왜 그렇게까지 집착하는 건데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,6,昨日、ユウがこのクサコの話をしてたから、プレゼントしたいんだ。,"어제, 유가 이 쿠사코 얘기를 했었어서, 선물해주고 싶어서."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテキ･キュウ,7,本物の嫁のためかよ！,진짜 마누라를 위해서였냐!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_扭蛋抽卡,Say,シュウテイ･チョウ,7,別にいいだろ。,뭐 어때서.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,シュンジュ･シェ,0,俺の新しい彼女、見た？,"내 새 여자친구, 봤어?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,セイジュ･チョウ,0,見るも何も、お前写真上げまくってたくせに。,"보고 자시고, 네가 사진 도배해놨잖아."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,シュンジュ･シェ,1,胸がかなりデカいんだ！だが言っておくが、俺は彼女の中身に惚れたんだ！,"가슴이 엄청 크다니까! 근데 말해두는데, 난 그녀의 내면에 반한 거야!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,セイジュ･チョウ,1,でも、沈没予定エリアに住んでるんだろう……？,"근데, 침몰 예정 구역에 산다며……?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,シュンジュ･シェ,2,沈没予定エリアだからって、犯罪者だって決めつけるつもりか？,"침몰 예정 구역이라고 해서, 범죄자라고 단정 짓는 거야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,セイジュ･チョウ,2,そういうわけじゃないが、美人局に気をつけろよ。,"그런 건 아니지만, 꽃뱀 조심해."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_預沒區,Say,シュンジュ･シェ,3,嫉妬は醜いぞ。,질투는 추한 거야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,0,ユウ、そろそろ諦めなよ。,"유, 이제 그만 포기해."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,1,何を狙ってるの？,뭘 노리는 건데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シャオカン･コウ,0,クサコ。,쿠사코.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,2,え？昨日話してた、あれ？,"어? 어제 얘기했던, 그거?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,3,でも不細工だって言ってたよね？,근데 못생겼다고 하지 않았어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シャオカン･コウ,1,でも、昨日シュウがこれのガチャを回してるのを見たの！,"그치만, 어제 슈가 이거 뽑기 돌리는 거 봤단 말이야!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,4,ああ、だからか。,"아, 그래서구나."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シャオカン･コウ,2,な、何よ！何か言いたげね！,"뭐, 뭐야! 뭔가 하고 싶은 말 있어 보이는데!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,5,別に～,딱히~
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シャオカン･コウ,3,正直に言いなさい！,솔직히 말해!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_扭蛋抽卡,Say,シテイ･カン,6,羨ましいなと思っただけだよ。,그냥 부럽다고 생각했을 뿐이야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_雞蛋糕,Say,ハク･ヨウ,0,私のカステラ、まだ？,"내 카스텔라, 아직이야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_雞蛋糕,Say,ケンシ･ヨウ,0,もうすぐだよ。出前の二つが終わったら、あんたのね。,"곧 돼. 배달 두 개 끝나면, 그다음이 네 거야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_雞蛋糕,Say,ハク･ヨウ,1,出前？先に来たのは私でしょう？,배달? 먼저 온 건 나잖아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_雞蛋糕,Say,ケンシ･ヨウ,1,出前の方が先だった。,배달이 먼저였어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_雞蛋糕,Say,ハク･ヨウ,2,そんな……,그런……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,0,今週台風が来るって。,이번 주에 태풍 온대.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,0,マジで？休みになるのかな？,진짜? 쉬는 날 되려나?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,1,さあな、でも結構大型の台風らしい。,"글쎄, 근데 꽤 큰 태풍이라던데."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,1,本当か？,진짜야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,2,前回もその前も休みにならなかっただろ！,저번에도 그 전에도 안 쉬었잖아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,2,警報を出さないなんて、市長も酷いよな。,"경보를 안 내리다니, 시장도 참 너무하네."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,3,だけど今回は絶対に休みだ。,그치만 이번엔 무조건 쉰다.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,3,賭けるか？,내기할래?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,4,何を？,뭘?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,4,朝食三回分！,아침 세 끼!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,5,何でもいいのか？,뭐든 상관없어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,5,もちろん。,물론이지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,6,乗った！,콜!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,7,勝ったら高い店にしてやろう。,이기면 비싼 집으로 데려가주지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,シンユウ･チョウ,6,お好きにどうぞ。,마음대로 하셔.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_颱風,Say,ペイジュン･ヨウ,8,さすが金持ち。,역시 부자네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,0,まさに社会のクズだな。,이거 완전 사회의 쓰레기네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,0,食事中にスマホをいじるのやめなさい。,밥 먹을 때 휴대폰 좀 그만 만져.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,1,はーい……,네에……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,1,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,2,昨日の沈没予定エリアの話？,어제 그 침몰 예정 구역 얘기야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,2,うん、オーキッドってやつ。あれじゃ、ただのテロ行為だ。,"응, 오키드라는 애들. 저건 그냥 테러 행위야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,3,何でまだ警察に捕まらないんだ！？,왜 아직도 경찰한테 안 잡히는 거야!?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,3,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,4,とはいえ、彼らはネットでよく政府の汚職事件を暴露したりしてるでしょ？,"그래도, 걔네 인터넷에서 정부 비리 사건 자주 폭로하잖아?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,5,少し過激だけど、蘭花運動の精神を受け継いでるのだと思う。,"좀 과격하긴 해도, 난화 운동의 정신을 이어받은 거라고 생각해."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,4,蘭花運動の精神を受け継いでるだって？,난화 운동의 정신을 이어받았다고?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,5,あれはただの爆破事件だ！どう見てもやり過ぎだろ！,그건 그냥 폭파 사건이잖아! 누가 봐도 도가 지나쳤다고!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,6,オーキッドが犯行を認めたの？,오키드가 범행을 인정했어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,6,まだだけど、警察はオーキッドの犯行の可能性が高いって。,"아직은 아닌데, 경찰이 오키드 소행일 가능성이 높다고 했어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,7,それに彼らは昔、爆破事件を起こしてただろう？,게다가 걔네 예전에도 폭파 사건 일으켰었잖아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,7,でも、証拠もない状態で決めつけるのは、どうかと思うね。,"그래도, 증거도 없는데 단정 짓는 건, 좀 아닌 것 같은데."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,8,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,9,かあさん、何であんな奴らの肩を持つの？,"엄마, 왜 저런 애들 편을 드는 거야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,8,それは……,그건……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,ホウリン･リュウ,9,別の話にしましょう！ね！,다른 얘기 하자! 응?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_蘭花黨,Say,イジュン･コウ,10,はーい。,네에.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,心の声,0,可愛い犬だな……,귀여운 개네……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,心の声,1,触りたい……,만지고 싶다……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,0,ちょっと、触るのは有料よ。,"잠깐, 만지는 건 유료야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,0,なに？,뭐?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,1,あんたの犬なのか？,네 개야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,1,ハハ、冗談よ。,"하하, 농담이야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,2,コウちゃんは元野良犬なの。昔は近所の皆からご飯を貰って生活してた。,코짱은 원래 길강아지였어. 예전엔 동네 사람들한테 밥 얻어먹고 살았어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,3,そして今は私が飼い主。,그리고 지금은 내가 주인이야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,4,ご飯をあげたいなら、ちゃんと美味しいものをあげてね。,"밥 주고 싶으면, 제대로 맛있는 걸로 줘."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,5,近所の皆のせいで、この子グルメだから。,"동네 사람들 때문에, 이 애 입맛 까다로워졌거든."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,6,そういえば、見ない顔ね。,"그러고 보니, 못 보던 얼굴이네."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,7,近くに住んでるの？,이 근처 살아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,2,ああ。,그래.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,8,そう。,그렇구나.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,3,そんな感じだ。,뭐 그런 셈이지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,9,ハハハ、何よそれ！,"하하하, 그게 뭐야!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,10,また店に来てよ。,또 가게 놀러 와.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,11,あ、そうだ。ちなみに私、独身よ。,"아, 참고로 나, 싱글이야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,4,これから通うよ。,앞으로 자주 올게.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,12,やった！待ってるわね！,좋아! 기다리고 있을게!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,5,ちなみに俺には彼女がいる。,참고로 나 여자친구 있어.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,13,あら、ごめんなさい！,"어머, 미안해!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,14,今の忘れてね。,방금 건 잊어줘.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,6,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Say,シンセン･ジョ,15,じゃ、またね。,"그럼, 또 봐."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,7,ああ、また。,"그래, 또 보자."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,8,ああ。,그래.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_摸狗,Branch,#Simple,9,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,0,全部でいくらだ？,전부 다 해서 얼마야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,0,1500円。,1500엔.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,1,マジで、高すぎないか？,"진짜, 너무 비싼 거 아니야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,1,ボーボーさんの店だから仕方ないさ。,보보 씨네 가게니까 어쩔 수 없지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,2,ボーボーって誰だ？,보보가 누군데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,2,有名なYouTuberだよ！知らないのか？,유명한 유튜버잖아! 몰라?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,3,誰だ、そいつ？,"누군데, 그게?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,3,通行人にいたずらをする動画を撮って、訴えられたやつだよ。,"행인들 상대로 몰카 찍다가, 고소당한 사람이야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,4,つまりこの金額は、店長が有名人だからってことか？,"그러니까 이 가격은, 사장이 유명인이라서 그런 거야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,4,いや、良い材料を使ってるからだよ。,"아니, 좋은 재료를 써서 그래."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,5,ボーボーさんの動画を見ればわかるさ。,보보 씨 영상 보면 알아.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,5,こんな高い飲み物を買わされて、しかも動画まで見ているのか……？,"이렇게 비싼 음료를 사면서, 게다가 영상까지 보고 있는 거야……?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,6,文句が多いな。嫌ならそれくれよ。,불만이 많네. 싫으면 그거 나 줘.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,6,買い取るってことなら構わないぜ。,사겠다는 거면 상관없지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,ショウジェイ･リン,7,なら遠慮しとく～,그럼 사양할게~
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_網紅飲料店,Say,カンユウ･ソン,7,クソッ！,젠장!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_放任小孩,Say,イエンテイ･チン,0,やった！僕の勝ちだ！,됐다! 내가 이겼다!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_放任小孩,Say,ユエン･チン,0,それはズルだよ！,그건 반칙이야!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_放任小孩,Say,ジキョウ･リ,0,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_放任小孩,Say,ジキョウ･リ,1,子ども二人だけで泥遊びさせるなよ。,애들 둘만 놔두고 진흙 놀이 시키지 마.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_放任小孩,Say,ジキョウ･リ,2,人に見られるだろう……,남들이 보잖아……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_放任小孩,Say,ミンシュウ･チン,0,酒の邪魔だし、別に大丈夫だろ！,"술 마시는데 방해되니까, 뭐 어때!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_抱怨運費,Say,ユウテイ･コウ,0,まあまあじゃない。騙されてないと思うよ。,그럭저럭 괜찮잖아. 속은 건 아닌 것 같은데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_抱怨運費,Say,ユウテイ･コウ,1,これは多分、配達中にできた傷ね。,"이건 아마, 배달 중에 생긴 흠집이겠지."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_抱怨運費,Say,ユウテイ･コウ,2,今度は別の配達会社にしなよ。,다음엔 다른 배송업체로 해.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_抱怨運費,Say,ユウテイ･コウ,3,そっちが使ってる配達会社のドローンってよく事故ってるよね？,그쪽이 쓰는 배송업체 드론이 사고 자주 내지 않아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_抱怨運費,Say,ユウテイ･コウ,4,送料が安すぎるとそうなるんだよな。,배송비가 너무 싸면 그렇게 되는 거지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_點餐點多久,Say,カユエ･チン,0,何でよ……,왜 이래……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_點餐點多久,Say,カユエ･チン,1,このQRコードをスキャンすればいいのよね？何でメニューが出ないの……？,이 QR코드를 스캔하면 되는 거지? 왜 메뉴가 안 뜨는 거야……?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_點餐點多久,Say,ケミン･ソ,0,あ、あの、口頭で頼んでも大丈夫ですよ。,"저, 저기, 말로 주문하셔도 괜찮아요."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_點餐點多久,Say,カユエ･チン,2,だ、大丈夫。これで頼むから……,"괘, 괜찮아요. 이걸로 주문할 거니까……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第二日_點餐點多久,Say,ケミン･ソ,1,そうですか……,그러세요……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_偷看西施,Say,ソウハン･シュウ,0,いい加減やめなよ。,적당히 좀 해.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_偷看西施,Say,イェサン･コウ,0,急に何？,갑자기 뭔데?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_偷看西施,Say,ソウハン･シュウ,1,ずっとあの娘を覗いてただろう？,계속 저 여자애 훔쳐보고 있었잖아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_偷看西施,Say,イェサン･コウ,1,よくわかったね。,잘 알아챘네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_偷看西施,Say,ソウハン･シュウ,2,別に隠すつもりもないくせに！この変態が……,숨길 생각도 없으면서! 이 변태가……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_是要點多久,Say,ケミン･ソ,0,あの、私に直接頼めば大丈夫ですから！,"저, 저한테 직접 말씀하시면 돼요!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_是要點多久,Say,シュンエン･オウ,0,待って、もうすぐで見つかるから。,"기다려봐, 곧 찾을 거니까."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_是要點多久,Say,シュンエン･オウ,1,単品……揚げ物……何で追加できないんだ……,단품……튀김……왜 추가가 안 되는 거야……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_是要點多久,Say,シュンエン･オウ,2,おっと、閉じてしまった。悪いけど、もう一回スキャンさせてくれ。,"어이쿠, 닫혀버렸네. 미안한데, 한 번만 더 스캔하게 해줘."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_是要點多久,Say,ケミン･ソ,1,お願いです。もう私に直接言ってください……,부탁이에요. 그냥 저한테 직접 말씀해주세요……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_兩女抽菸,Say,アンキ･チョウ,0,それ、どこのタバコ？,"그거, 어디 담배야?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_兩女抽菸,Say,シシュウ･リ,0,見たことないでしょう？,본 적 없지?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_兩女抽菸,Say,シシュウ･リ,1,「ゴミ溜め」で買ったんだ。,'쓰레기장'에서 산 거야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_兩女抽菸,Say,アンキ･チョウ,1,何か入ってたりしないよね？,뭐 이상한 거 안 들었겠지?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_兩女抽菸,Say,シシュウ･リ,2,道の真ん中でそんなの吸うわけないでしょう！,길 한복판에서 그런 걸 피울 리가 없잖아!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,0,カップ麺を買いに行くけど、何がいい？,"컵라면 사러 가는데, 뭐가 좋아?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,1,何でってなんだよ。明日は台風だぞ？,뭐가 왜야. 내일 태풍 온다고?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,2,レストランも開かないし、デリバリーの配達だって来ないさ。,"식당도 안 열고, 배달도 안 올 테니까."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,3,はあ？別にカップ麺でいいだろう？,뭐? 그냥 컵라면이면 되잖아?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,4,添加物って、いつの時代の話だよ！,"첨가물이라니, 그게 언제 적 얘기야!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,5,おい……！？,야……!?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_買泡麵,Say,リョウイ･チョウ,6,切られた……,끊겼다……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,シショウ･ゴ,0,上、上のレーンだ。,"위, 위쪽 라인이야."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,ハクゴウ･コウ,0,バカ、そこは危ないって。,"바보야, 거긴 위험하다니까."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,ユウコウ･リン,0,ちょっと、ベースが……,"잠깐, 베이스가……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,シショウ･ゴ,1,クソ、襲われた！,"젠장, 습격당했어!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,ハクゴウ･コウ,1,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,シショウ･ゴ,2,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,ユウコウ･リン,1,……,……
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,シショウ･ゴ,3,……つ、次、頑張ろう！,"다, 다음엔, 잘해보자!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_打遊戲,Say,ユウコウ･リン,2,まだやってんの？もうご飯だよ。,아직도 하는 거야? 벌써 밥 먹을 시간이야.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_吉他背書,Say,ケンコウ･リョウ,0,来週テストだろ？勉強しなくていいのか？,다음 주 시험이잖아? 공부 안 해도 돼?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_吉他背書,Say,シュンジェイ･リ,0,いいよ。今更やってもしょうがないし。,됐어. 이제 와서 해봤자 소용없고.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_吉他背書,Say,シュンジェイ･リ,1,醜く足掻くくらいなら、運命を受け入れる。,"추하게 발버둥 칠 바엔, 운명을 받아들일래."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_吉他背書,Say,ケンコウ･リョウ,1,……救いようがないな。,……답이 없네.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_吉他背書,Say,シュンジェイ･リ,2,もしもの時は、救ってくれるでしょ？,"만약의 때는, 구해줄 거잖아?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_吉他背書,Say,ケンコウ･リョウ,2,断る。,거절할게.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,カリン･コウ,0,姉貴、竜威会に知り合いいない？,"누나, 용위회에 아는 사람 없어?"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,セイエイ･リュウ,0,竜威会はとっくの昔に解散してるでしょう？知り合いなんているわけないじゃん。,용위회는 진작에 해체됐잖아? 아는 사람이 있을 리가 없지.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,カリン･コウ,1,え？でもまだ活動してるって聞いたよ。,어? 근데 아직 활동한다고 들었는데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,セイエイ･リュウ,1,どこからの情報？,어디서 들은 정보야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,カリン･コウ,2,彼女から聞いたんだ。顔に入れ墨をした人を見たって。,여자친구한테 들었어. 얼굴에 문신한 사람을 봤다고.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,セイエイ･リュウ,2,入れ墨が入ってるからって、竜威会とは限らないでしょう。,"문신했다고 해서, 용위회라는 법은 없잖아."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_廖幫,Say,カリン･コウ,3,そうかな。姉貴なら興味を持ちそうだと思ったんだけどな。,그런가. 누나라면 관심 가질 것 같았는데.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ホウユウ･リン,0,来た？,왔어?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ミンキ･リ,0,まだ。,아직.
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ホウユウ･リン,1,はぁ、暑いし、遅すぎる……,"하아, 덥고, 너무 늦네……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ミンキ･リ,1,12月なのに、暑いってどういうことなんだ……,"12월인데, 덥다니 이게 무슨 일이야……"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ホウユウ･リン,2,新陳代謝がいいから汗だくだよ！,신진대사가 좋아서 땀범벅이라니까!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ホウユウ･リン,3,一体いつになったら、来るんだ。あー、クーラーの下で涼みたい！,"대체 언제쯤 오는 거야. 아, 에어컨 밑에서 시원하게 있고 싶다!"
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第三日_等車老夫婦,Say,ミンキ･リ,2,文句をやめれば、涼しくなるよ。,"불평을 그만하면, 시원해질걸."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_抱怨同事,Say,ジェイホウ･サイ,0,私は将来性がほしいんだ！,난 미래성이 있는 게 좋다고!
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_抱怨同事,Say,ジェイホウ･サイ,1,サイレントみたいな、いつ閉鎖されてもおかしくないような場所は嫌だ。,"사일런트처럼, 언제 문 닫아도 이상하지 않을 곳은 싫어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_抱怨同事,Say,ジェイホウ･サイ,2,もしかして知らないのか？,혹시 모르는 거야?
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_抱怨同事,Say,ジェイホウ･サイ,3,ああ、近々発表されるはずだ。本社はもう皆知ってるよ。,"그래, 조만간 발표될 거야. 본사는 이미 다들 알고 있어."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_抱怨同事,Say,ジェイホウ･サイ,4,おいおい、そんなに情報が遅いんじゃ、信用できないな。,"야야, 그렇게 정보가 느리면, 못 믿겠는데."
+scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle,第四日_抱怨同事,Say,ジェイホウ･サイ,5,ああ、わかってるよ……あんたを信用するしかないんだろ……,"그래, 알고 있어……널 믿을 수밖에 없잖아……"

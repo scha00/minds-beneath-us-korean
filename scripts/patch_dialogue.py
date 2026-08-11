@@ -79,6 +79,9 @@ DIALOGUE_BUNDLES = [
     "c4f0ca6f4417db6f22428c1b717f0ae1.bundle",
     "fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle",
     "7b045b2493718179159f5373a04bd670.bundle",
+    # 2026-08-11 전수 스캔으로 새로 발견 (18~20번 CSV 원본). 상세 경위는 CLAUDE.md 참고.
+    "scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle",
+    "scene_sv_scenes_mbu_s1_sv_logic_c211782c0a3a66a35be6aceaf340b94e.bundle",
 ]
 
 TARGET_LANG_CODE = "en-US"
@@ -255,8 +258,20 @@ def patch_bundle(bundle_filename, signature_table):
                 dev_tree = cand
                 break
         if dev_tree is None:
-            print(f"  [경고] 원본(zh-TW) 짝을 못 찾음, Role 교정 건너뜀: {bundle_filename} (시그니처 소속: {home_bundle})")
-        else:
+            # 시그니처가 정확히 안 맞는 경우가 있다 (예: 19번/20번 CSV 소속 번들에서
+            # en-US 쪽에만 빈 노드 "終止對話"가 하나 더 있어서 dev 쪽 Node 목록과 개수가
+            # 1개 어긋남 — 실제로 겪은 케이스, 원본 게임 데이터 자체의 언어별 비대칭).
+            # 이럴 때 Role 교정을 그냥 건너뛰면 그 씬 전체가 매칭 실패로 중국어 원문
+            # 폴백되는 원래 버그가 재발하므로, 폴백으로 "유닛 개수가 유일하게 일치하는
+            # 후보"를 찾아 대신 쓴다 (같은 번들 안의 다른 씬과 개수가 겹치지 않는 한 안전).
+            same_count = [cand for cand in dev_candidates if len(collect_units(cand)) == len(ordered_units)]
+            if len(same_count) == 1:
+                dev_tree = same_count[0]
+                print(f"  [주의] 시그니처 불일치, 유닛 개수({len(ordered_units)})로 대체 매칭: {bundle_filename} (시그니처 소속: {home_bundle})")
+            else:
+                print(f"  [경고] 원본(zh-TW) 짝을 못 찾음, Role 교정 건너뜀: {bundle_filename} (시그니처 소속: {home_bundle})")
+
+        if dev_tree is not None:
             dev_units = collect_units(dev_tree)
             if len(dev_units) == len(ordered_units):
                 for dev_ref, en_ref in zip(dev_units, ordered_units):
