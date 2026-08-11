@@ -3,28 +3,34 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Minds Beneath Us(BearBone Studio) 비공식 팬 한글패치. 대사·UI 텍스트 번역 100% 완료.">
 <title>Minds Beneath Us 한글패치</title>
 <style>
   :root {
     color-scheme: light dark;
-    --bg: #0f1115;
-    --fg: #e8e8ea;
+    --bg: #0b0c10;
+    --fg: #eceef2;
     --muted: #9a9aa5;
     --accent: #7c9eff;
+    --accent-dim: rgba(124, 158, 255, 0.15);
     --card: #171a21;
     --border: #2a2e38;
+    --shadow: rgba(0, 0, 0, 0.45);
   }
   @media (prefers-color-scheme: light) {
     :root {
-      --bg: #f7f7f9;
+      --bg: #f4f5f8;
       --fg: #16171a;
       --muted: #5b5d66;
       --accent: #3358d4;
+      --accent-dim: rgba(51, 88, 212, 0.1);
       --card: #ffffff;
       --border: #e2e3e8;
+      --shadow: rgba(20, 24, 40, 0.12);
     }
   }
   * { box-sizing: border-box; }
+  html, body { overflow-x: hidden; }
   body {
     margin: 0;
     background: var(--bg);
@@ -33,29 +39,88 @@
     line-height: 1.6;
   }
   .wrap {
-    max-width: 720px;
+    max-width: 760px;
     margin: 0 auto;
-    padding: 64px 24px 96px;
+    padding: 0 24px 96px;
   }
-  h1 {
-    font-size: 2rem;
+
+  /* ---- Hero ---- */
+  .hero {
+    position: relative;
+    width: 100%;
+    min-height: 340px;
+    display: flex;
+    align-items: flex-end;
+    background: #000 center 30% / cover no-repeat;
+    isolation: isolate;
+  }
+  .hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background: linear-gradient(180deg, rgba(5,6,10,0.15) 0%, rgba(5,6,10,0.55) 55%, rgba(5,6,10,0.94) 100%);
+  }
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 760px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 120px 24px 32px;
+    color: #f4f5f8;
+  }
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .badge {
+    display: inline-block;
+    background: rgba(124, 158, 255, 0.18);
+    color: #b9caff;
+    border: 1px solid #7c9eff;
+    border-radius: 999px;
+    padding: 4px 12px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    backdrop-filter: blur(4px);
+  }
+  .badge.warn {
+    background: rgba(255, 179, 71, 0.18);
+    color: #ffcf8a;
+    border-color: #ffb347;
+  }
+  .hero h1 {
+    font-size: clamp(1.7rem, 5vw, 2.5rem);
     margin: 0 0 8px;
+    letter-spacing: -0.01em;
+    text-shadow: 0 2px 16px rgba(0,0,0,0.5);
   }
-  .sub {
-    color: var(--muted);
+  .hero .sub {
+    color: #d3d6e0;
     font-size: 1.05rem;
-    margin: 0 0 40px;
+    margin: 0;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.5);
   }
+
+  /* ---- Body content ---- */
+  .content { padding-top: 28px; }
   .card {
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 12px;
     padding: 24px;
     margin-bottom: 20px;
+    box-shadow: 0 1px 2px var(--shadow);
   }
   .card h2 {
     font-size: 1.1rem;
     margin: 0 0 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
   .btn {
     display: inline-block;
@@ -65,36 +130,12 @@
     padding: 12px 20px;
     border-radius: 8px;
     font-weight: 600;
-    margin-right: 12px;
+    margin: 0 12px 12px 0;
   }
   .btn.secondary {
     background: transparent;
     color: var(--fg);
     border: 1px solid var(--border);
-  }
-  .badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 20px;
-  }
-  .badge {
-    display: inline-block;
-    background: rgba(124, 158, 255, 0.15);
-    color: var(--accent);
-    border: 1px solid var(--accent);
-    border-radius: 999px;
-    padding: 4px 12px;
-    font-size: 0.85rem;
-    font-weight: 600;
-  }
-  .badge.warn {
-    background: rgba(255, 179, 71, 0.15);
-    color: #d98c1f;
-    border-color: #d98c1f;
-  }
-  @media (prefers-color-scheme: dark) {
-    .badge.warn { color: #ffb347; border-color: #ffb347; }
   }
   .notice {
     background: rgba(255, 179, 71, 0.1);
@@ -112,61 +153,173 @@
     border-radius: 4px;
     font-size: 0.9em;
   }
+
+  /* ---- Screenshot gallery ---- */
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .gallery a {
+    display: block;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    line-height: 0;
+  }
+  .gallery img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.25s ease;
+  }
+  .gallery a:hover img { transform: scale(1.06); }
+  @media (max-width: 560px) {
+    .gallery { grid-template-columns: 1fr; }
+  }
+
+  /* ---- Cross-promo card ---- */
+  .promo-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px 22px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
+    box-shadow: 0 1px 2px var(--shadow);
+    transition: border-color 0.2s ease, transform 0.2s ease;
+  }
+  .promo-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .promo-icon {
+    flex: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    background: var(--accent-dim);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+  }
+  .promo-text { flex: 1; min-width: 0; }
+  .promo-card .label {
+    color: var(--muted);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    margin: 0 0 2px;
+  }
+  .promo-card .title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin: 0;
+    color: var(--fg);
+  }
+  .promo-card .desc {
+    color: var(--muted);
+    font-size: 0.88rem;
+    margin: 2px 0 0;
+  }
+  .promo-arrow {
+    flex: none;
+    color: var(--accent);
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+
   footer {
     margin-top: 48px;
     color: var(--muted);
-    font-size: 0.9rem;
+    font-size: 0.85rem;
+    text-align: center;
   }
   a { color: var(--accent); }
 </style>
 </head>
 <body>
+
+<div class="hero" style="background-image: url('mbu-banner.jpg');">
+  <div class="hero-inner">
+    <div class="badges">
+      <div class="badge">v0.1-alpha</div>
+      <div class="badge">✅ 번역 100% 완료</div>
+      <div class="badge warn">⚠ 검수 전 (alpha)</div>
+    </div>
+    <h1>Minds Beneath Us 한글패치</h1>
+    <p class="sub">BearBone Studio의 Minds Beneath Us를 위한 비공식 팬 한글패치입니다.</p>
+  </div>
+</div>
+
 <div class="wrap">
-  <div class="badges">
-    <div class="badge">v0.1-alpha</div>
-    <div class="badge">✅ 번역 100% 완료</div>
-    <div class="badge warn">⚠ 검수 전 (alpha)</div>
-  </div>
-  <h1>Minds Beneath Us 한글패치</h1>
-  <p class="sub">BearBone Studio의 Minds Beneath Us를 위한 비공식 팬 한글패치입니다.</p>
+  <div class="content">
 
-  <div class="notice">
-    <strong>⚠ v0.1-alpha 안내:</strong> 전체 텍스트 번역은 100% 완료되었지만,
-    아직 인게임 검수(오탈자·줄바꿈 깨짐·용어 일관성 확인 등)를 거치지 않은 알파 버전입니다.
-    플레이 중 어색한 부분을 보시면 <a href="https://github.com/scha00/minds-beneath-us-korean/issues">Issues</a>로
-    제보해주시면 큰 도움이 됩니다.
-  </div>
+    <div class="notice">
+      <strong>⚠ v0.1-alpha 안내:</strong> 전체 텍스트 번역은 100% 완료되었지만,
+      아직 인게임 검수(오탈자·줄바꿈 깨짐·용어 일관성 확인 등)를 거치지 않은 알파 버전입니다.
+      플레이 중 어색한 부분을 보시면 <a href="https://github.com/scha00/minds-beneath-us-korean/issues">Issues</a>로
+      제보해주시면 큰 도움이 됩니다.
+    </div>
 
-  <div class="card">
-    <h2>다운로드</h2>
-    <p>DLL/실행 파일은 건드리지 않고, 게임 데이터 파일만 교체하는 방식입니다.
-       설치 스크립트가 원본을 자동 백업하고, 언제든 제거(복원)할 수 있습니다.</p>
-    <a class="btn" href="https://github.com/scha00/minds-beneath-us-korean/releases/latest/download/MindsBeneathUsKorean.zip">⬇ 패치 다운로드 (.zip)</a>
-    <a class="btn secondary" href="https://github.com/scha00/minds-beneath-us-korean">GitHub 저장소</a>
-    <a class="btn secondary" href="https://github.com/scha00/minds-beneath-us-korean/blob/main/install/INSTALL.md">설치 방법</a>
-  </div>
+    <div class="card">
+      <h2>⬇ 다운로드</h2>
+      <p>DLL/실행 파일은 건드리지 않고, 게임 데이터 파일만 교체하는 방식입니다.
+         설치 스크립트가 원본을 자동 백업하고, 언제든 제거(복원)할 수 있습니다.</p>
+      <a class="btn" href="https://github.com/scha00/minds-beneath-us-korean/releases/latest/download/MindsBeneathUsKorean.zip">⬇ 패치 다운로드 (.zip)</a>
+      <a class="btn secondary" href="https://github.com/scha00/minds-beneath-us-korean">GitHub 저장소</a>
+      <a class="btn secondary" href="https://github.com/scha00/minds-beneath-us-korean/blob/main/install/INSTALL.md">설치 방법</a>
+    </div>
 
-  <div class="card">
-    <h2>어떻게 작동하나요</h2>
-    <ul>
-      <li>게임 설정에서 언어를 <strong>English</strong>로 선택하면 한글이 나옵니다 (영어 슬롯을 대체).</li>
-      <li>일본어를 포함한 다른 언어는 전혀 손대지 않았습니다.</li>
-      <li>번역 원문은 일본어판을 기준으로 삼았습니다 (원작 번체중문보다 뉘앙스가 가깝다고 판단).</li>
-    </ul>
-  </div>
+    <div class="card">
+      <h2>🖼 스크린샷</h2>
+      <div class="gallery">
+        <a href="mbu-screenshot-1.jpg" target="_blank" rel="noopener"><img src="mbu-screenshot-1.jpg" alt="한글로 번역된 대화 선택지 화면" loading="lazy"></a>
+        <a href="mbu-screenshot-2.jpg" target="_blank" rel="noopener"><img src="mbu-screenshot-2.jpg" alt="한글로 번역된 전자 잡지 텍스트" loading="lazy"></a>
+        <a href="mbu-screenshot-3.jpg" target="_blank" rel="noopener"><img src="mbu-screenshot-3.jpg" alt="한글로 번역된 엘리베이터 층 선택 UI" loading="lazy"></a>
+      </div>
+    </div>
 
-  <div class="card">
-    <h2>진행 상황 & 참여</h2>
-    <p>대사·UI 텍스트 번역이 전부 완료되었습니다 (53,539줄, 100%). 자세한 항목별 진행률은 저장소의
-      <a href="https://github.com/scha00/minds-beneath-us-korean/blob/main/progress.md">progress.md</a>
-      에서 확인할 수 있습니다. 어색한 번역이나 버그는
-      <a href="https://github.com/scha00/minds-beneath-us-korean/issues">Issues</a>
-      로 제보해주세요.</p>
-  </div>
+    <div class="card">
+      <h2>⚙ 어떻게 작동하나요</h2>
+      <ul>
+        <li>게임 설정에서 언어를 <strong>English</strong>로 선택하면 한글이 나옵니다 (영어 슬롯을 대체).</li>
+        <li>일본어를 포함한 다른 언어는 전혀 손대지 않았습니다.</li>
+        <li>번역 원문은 일본어판을 기준으로 삼았습니다 (원작 번체중문보다 뉘앙스가 가깝다고 판단).</li>
+      </ul>
+    </div>
 
-  <footer>
-    이 프로젝트는 BearBone Studio와 무관한 비공식 팬 프로젝트입니다.
-  </footer>
+    <div class="card">
+      <h2>📊 진행 상황 & 참여</h2>
+      <p>대사·UI 텍스트 번역이 전부 완료되었습니다 (53,539줄, 100%). 자세한 항목별 진행률은 저장소의
+        <a href="https://github.com/scha00/minds-beneath-us-korean/blob/main/progress.md">progress.md</a>
+        에서 확인할 수 있습니다. 어색한 번역이나 버그는
+        <a href="https://github.com/scha00/minds-beneath-us-korean/issues">Issues</a>
+        로 제보해주세요.</p>
+    </div>
+
+    <h2 style="font-size: 1rem; color: var(--muted); margin: 40px 0 12px; font-weight: 600;">다른 한글패치도 만들고 있어요</h2>
+    <a class="promo-card" href="https://scha00.github.io/thimbleweed-park-korean/">
+      <div class="promo-icon">🗿</div>
+      <div class="promo-text">
+        <p class="label">비공식 팬 한글패치</p>
+        <p class="title">씸블위드 파크 한글패치</p>
+        <p class="desc">Thimbleweed Park (Terrible Toybox)</p>
+      </div>
+      <div class="promo-arrow">→</div>
+    </a>
+
+    <footer>
+      이 프로젝트는 BearBone Studio와 무관한 비공식 팬 프로젝트입니다.
+    </footer>
+  </div>
 </div>
 </body>
 </html>
