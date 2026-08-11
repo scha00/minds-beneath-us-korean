@@ -118,7 +118,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,14,リンのお願�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,15,でも否定されて、確かにと少しへこんだ。,"근데 부정당해서, 확실히 조금 풀 죽었다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,16,気にしないで。,신경 쓰지 마.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,48,そう？よかった！,그래? 다행이다!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,17,ちょっとは……,조금은요……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,17,ちょっとは……,조금은……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,49,うん、ごめん……,"응, 미안……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,50,後で埋め合わせするから！,나중에 보상할 테니까!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,18,……,……
@@ -142,7 +142,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,0
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,0,大丈夫。,괜찮아.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,5,あら、いつも通り冷静ね。,"어라, 평소랑 똑같이 냉정하네."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,6,きっと上手く行くよ！,분명 잘될 거야!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,1,ちょっとは……,조금은요……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,1,ちょっとは……,조금은……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,7,大丈夫よ、いつもの感じで臨めばいいの。,"괜찮아, 평소 느낌으로 임하면 돼."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,8,システムがあなたを選んだのよ。マネージャーだって落とすのは難しいんだから。,시스템이 너를 뽑은 거야. 매니저라도 떨어뜨리기는 어려워.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,9,きっと上手く行くから！頑張って！,분명 잘될 테니까! 힘내!
