@@ -1382,7 +1382,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,パン･ロウ,10,彼�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Branch,#Simple,19,何も知らないくせに、しゃしゃり出てくるな。,"아무것도 모르는 주제에, 나서지 마."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,パン･ロウ,11,<y>何だと！？</y>,<y>뭐라고!?</y>
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,ジュジュ･ライ,28,<y>いい加減にしなさい！！！</y>,<y>적당히 좀 해!!!</y>
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,ジュジュ･ライ,29,パン･ロウ、ジェイは私と話しているの。,"팡 로우, 제이는 나랑 얘기하고 있어."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,ジュジュ･ライ,29,パン･ロウ、ジェイは私と話しているの。,"팡, 제이는 나랑 얘기하고 있어."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,ジュジュ･ライ,30,邪魔するなら、どっか行きなさい。,"방해할 거면, 어디 가버려."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,パン･ロウ,12,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔,Say,パン･ロウ,13,フンッ……,흥……
@@ -1482,7 +1482,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Branch,#Simple,14,言え
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Say,シュン･ゴ,28,操作組の誰かですか？,조작조의 누군가인가요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Say,シュン･ゴ,29,なんてことを……,이럴 수가……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Say,心の声,2,……かなり怒っているようだ。,……꽤 화가 난 것 같다.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Branch,#Simple,15,ジュジュ･ライです。,쥬쥬 라이예요.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Branch,#Simple,15,ジュジュ･ライです。,쥬쥬예요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Branch,#Simple,16,確かにそうですね。,확실히 그렇네요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Say,シュン･ゴ,30,ならどうして工場を存続させたいのですか？,그럼 왜 공장을 존속시키고 싶어 하는 건가요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,遇到吳俊恩,Branch,#Simple,17,彼はジュジュから意見をもらってました。,그는 쥬쥬한테서 의견을 받고 있었어요.
@@ -1625,14 +1625,14 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,シンカ･シェ,1
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,イエホン･キュウ,4,ふーん……,흐음……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,シンカ･シェ,12,行きましょう、ジェイ。,"가시죠, 제이."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,0,あれは……,저건……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,1,……パン･ロウ？,……팡 로우?
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,1,……パン･ロウ？,……팡?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,0,<y>うわぁああ！？</y>,<y>우와아아!?</y>
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,1,ジェ、ジェイ･ダイ！？,"제, 제이 다이!?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,2,驚きすぎじゃないか？,너무 놀라는 거 아니야?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,0,よっ、パンちゃん。,"야, 팡."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,2,な、なんだよ……？,"뭐, 뭐야……?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,3,俺にあだ名で呼ばれるのが、慣れてないみたいだ。,"나한테 별명으로 불리는 게, 익숙하지 않은 모양이다."
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,1,こんにちは、パン･ロウ。,"안녕, 팡 로우."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,1,こんにちは、パン･ロウ。,"안녕, 팡."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,3,えっと、どうしたんだ……？,"그, 무슨 일이야……?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,2,こんなところで何をしているんですか？,이런 데서 뭘 하고 있는 거예요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,4,あっ、これは、小腹が空いたから……！,"아, 이건, 출출해서……!"
@@ -1710,7 +1710,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,27,大丈
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,50,ハハ……,하하……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,51,ありがとう、ジェイ。,"고마워, 제이."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,5,あだ名で呼ぶのを許してもらえたみたいだな。,별명으로 부르는 걸 허락받은 모양이다.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,28,別に気にしてないさ、パン･ロウ。,"딱히 신경 안 써, 팡 로우."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,28,別に気にしてないさ、パン･ロウ。,"딱히 신경 안 써, 팡."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,52,うん。,응.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Branch,#Simple,29,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,パン･ロウ,53,……,……
@@ -1909,7 +1909,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,到頂樓遇到吳俊恩,Say,シュン�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到頂樓遇到吳俊恩,Say,シュン･ゴ,112,彼は私を信用していない。専門家である我々の意見なんてどうでもいいと思っています。,그는 저를 안 믿어요. 전문가인 저희 의견 따위 아무래도 상관없다고 생각하고 있어요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Say,アイ･チン,0,ん？あなたは……,응? 당신은……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Say,アイ･チン,1,えっと……,"그, 그게……"
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Say,アイ･チン,2,リュウセイ･チョウですか？,류세이 챠오 씨인가요?
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Say,アイ･チン,2,リュウセイ･チョウですか？,류성 씨인가요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Branch,#Simple,0,はい、そうっす。,"네, 맞거든요."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Say,アイ･チン,3,わかりました。,알겠습니다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,進面談大廳有人攔下說話,Branch,#Simple,1,どうしましたか？,무슨 일이세요?
@@ -6298,7 +6298,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,1,イー･
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,8,違う。,아니.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,9,イー･テイとの協力はもう少し考えたいと思う。,이웨이랑 협력하는 건 좀 더 생각해보고 싶어.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,10,でも今は、あんたから何を聞いても、逆効果にしかならないから。,"근데 지금은, 너한테 뭘 들어도, 역효과밖에 안 되니까."
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,2,私がパン･ロウと喧嘩をしたからですか？,제가 팡 로우랑 다퉈서 그런 건가요?
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,2,私がパン･ロウと喧嘩をしたからですか？,제가 팡이랑 다퉈서 그런 건가요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,11,そう。,그래.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,3,わかりました。,알겠습니다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,心の声,0,無駄足になってしまった……,헛걸음이 돼버렸다……
@@ -6435,7 +6435,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,93,私が思うに……,내 생각엔……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,94,多分、どっかに隠れて一人で悩んでいるでしょうね。,"아마, 어딘가에 숨어서 혼자 고민하고 있을 거야."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,95,彼、かなりの偏屈だから……,"걔, 꽤 옹고집이니까……"
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,48,さっきのパン･ロウとの言い合いが、喧嘩に見えたんですか？,"아까 팡 로우랑 말다툼한 게, 싸움으로 보였나요?"
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,48,さっきのパン･ロウとの言い合いが、喧嘩に見えたんですか？,"아까 팡이랑 말다툼한 게, 싸움으로 보였나요?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,96,聞くまでもないでしょう！,물어볼 필요도 없잖아!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Say,ジュジュ･ライ,97,なに？今更、後悔してるの？,"뭐야? 이제 와서, 후회하는 거야?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服賴潔2,Branch,#Simple,49,いえ、ただ確認しただけです。,"아뇨, 그냥 확인했을 뿐이에요."
@@ -8264,7 +8264,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,リュウセイ･チョウ,2,私たちはあなたについて詳しく知る必要があります。それにここまで話したのなら、最後まで言った方が楽ではありませんか？,"저희는 당신에 대해 자세히 알 필요가 있습니다. 게다가 여기까지 말씀하신 이상, 끝까지 말씀하시는 게 편하지 않을까요?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･ラク,11,……私も知らないのよ。借金をしたのは元彼だから。,……나도 몰라. 빚을 진 건 전 남자친구니까.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･ラク,12,私は借金を回収しに来たやつの名前しか知らない。,나는 빚 받으러 온 놈 이름밖에 몰라.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･ラク,13,そいつはチシュン･ソウっていうヤクザよ。,그놈은 치슌 소우라는 야쿠자야.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･ラク,13,そいつはチシュン･ソウっていうヤクザよ。,그놈은 치슌 소라는 야쿠자야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･ラク,14,白いマークのようなものを付けているけど、詳しくは説明できない……,"하얀 마크 같은 걸 달고 있었는데, 자세히는 설명 못 해……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,リュウセイ･チョウ,3,そうですか、わかりました。,"그렇군요, 알겠습니다."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,簽約駱思敏(成功),Say,シミン･ラク,15,け、警察に通報すべきかな……？,"겨, 경찰에 신고해야 하나……?"
