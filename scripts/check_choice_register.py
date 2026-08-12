@@ -202,7 +202,7 @@ def main():
                 continue
             rows, csv_name = entry
 
-            # (node, branch_index) -> korean text, Branch 행만
+            # (node, branch_index) -> (korean, japanese), Branch 행만
             lookup = {}
             counters = {}
             for row in rows:
@@ -211,26 +211,27 @@ def main():
                 key_node = row["node"]
                 idx = counters.get(key_node, 0)
                 counters[key_node] = idx + 1
-                lookup[(key_node, idx)] = row["korean"].strip()
+                lookup[(key_node, idx)] = (row["korean"].strip(), row["japanese"].strip())
 
             groups_by_node = collect_branch_groups(tree)
             for node_title, groups in groups_by_node.items():
                 for group in groups:
-                    korean_texts = []
+                    pairs = []
                     for idx, _jp_text in group:
-                        ko = lookup.get((node_title, idx))
-                        if ko:
-                            korean_texts.append(ko)
-                    if len(korean_texts) < 2:
+                        entry2 = lookup.get((node_title, idx))
+                        if entry2 and entry2[0]:
+                            pairs.append(entry2)
+                    if len(pairs) < 2:
                         continue
                     total_groups_checked += 1
-                    classes = {classify_register(t) for t in korean_texts}
+                    classes = {classify_register(ko) for ko, jp in pairs}
                     classes.discard("neutral")
                     if len(classes) >= 2:
                         total_flagged += 1
                         print(f"[의심] {csv_name} / 노드 '{node_title}'")
-                        for t in korean_texts:
-                            print(f"    ({classify_register(t)}) {t}")
+                        for ko, jp in pairs:
+                            print(f"    ({classify_register(ko)}) {ko}")
+                            print(f"        JP: {jp}")
                         print()
 
     print(f"총 {total_groups_checked}개 선택지 묶음 검사, {total_flagged}개 의심 사례 발견")
