@@ -26,7 +26,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,9,ほう、
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,10,こちらは……？,이쪽은……?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,2,ジェイだ。どうも。,제이다. 안녕.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,11,こんにちは！僕は――,안녕하세요! 저는――
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,3,ユウ･ショウ……,유 쇼……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,3,ユウ･ショウ……,소명훈……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,12,……！？,……!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,8,どうして彼の名前を知ってるの？,어떻게 그 사람 이름을 아는 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,4,確かに、彼とは初対面のはずだ……,"확실히, 그와는 초면일 텐데……"
@@ -54,8 +54,8 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,23,いえ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,24,覚えていない自分が悪いんです。今度こそちゃんと覚えておきます！,기억 못 하는 제가 나쁜 거예요. 이번엔 제대로 기억해둘게요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,25,改めてもう一度自己紹介させてください！,다시 한번 자기소개하게 해주세요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,8,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,26,ユウ･ショウと言います。,유 쇼라고 합니다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,27,ユウと呼んでください。,유라고 불러주세요.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,26,ユウ･ショウと言います。,소명훈이라고 합니다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,27,ユウと呼んでください。,명훈이라고 불러주세요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,ユウ･ショウ,28,ジェイさん、お会いできて嬉しいです。,"제이 씨, 만나서 반갑습니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,9,こちらこそ。,나도 반갑다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,10,……,……
@@ -82,11 +82,11 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,13,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,19,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,20,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,21,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,22,ショウさんが覚えてなかったことに怒ってるの？,쇼 씨가 기억 못 한 거 때문에 화난 거야?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,22,ショウさんが覚えてなかったことに怒ってるの？,소 씨가 기억 못 한 거 때문에 화난 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,23,さっきのジェイは、ちょっと険悪だった……,"아까 제이는, 좀 험악했어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,24,まさかこんなことで感情的になるとは、知らなかったよ。,"설마 이런 걸로 감정적이 될 줄은, 몰랐네."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,25,こういうのは鈍感だと思ってた……,이런 건 둔감할 거라고 생각했었는데……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,26,まさかショウさんを知ってたとはね。,설마 쇼 씨를 알고 있었을 줄이야.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,26,まさかショウさんを知ってたとはね。,설마 소 씨를 알고 있었을 줄이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,27,でも……そっか！,근데……아 맞다!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,28,前は同じセキュリティ会社に勤めてたから、知ってても不思議じゃないか！,"전에는 같은 보안 회사에 다녔었으니까, 알아도 이상할 게 없지!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,29,……,……
@@ -102,7 +102,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,37,私の悩�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,11,彼女を困らせたようだ……,그녀를 곤란하게 한 모양이다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,14,ごめん、ヤキモチ焼いてた。,"미안, 질투했었다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,38,……！？,……!?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,39,そ、そうなの？,"그, 그런가요?"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,39,そ、そうなの？,"그, 그런 거야?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,12,……リンが、嬉しそう？,"……린이, 기뻐 보이는 건가?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,15,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,40,……,……
@@ -130,8 +130,8 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,55,全然覚�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,56,はぁ……,하아……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,57,まあいいや！今考えてもしょうがないよね！,뭐 됐어! 지금 생각해봤자 소용없지!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,58,仕事、仕事！,"일하자, 일!"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,59,さっきジェイも私たちがチョウアンに住んでることを言ったよね！,아까 제이도 우리가 창안에 산다고 말했었지!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,60,ショウさんはいい人だね。,쇼 씨는 좋은 사람이네.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,59,さっきジェイも私たちがチョウアンに住んでることを言ったよね！,아까 제이도 우리가 쵸안에 산다고 말했었지!
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,60,ショウさんはいい人だね。,소 씨는 좋은 사람이네.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,61,よっし、仕事、仕事！,"좋아, 일하자, 일!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,0,そんな急がないで。,그렇게 서두르지 마.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,1,興奮してるの？,흥분한 거야?
@@ -154,7 +154,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,14,昔の北区はほとんど万象システムに頼ってたけど、今では少しずつ需要を他の集団に任せるようになったの。,"예전 북구는 대부분 완상 시스템에 의존했었지만, 지금은 조금씩 수요를 다른 집단한테 맡기게 됐어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,15,本社が、一度この工場を閉鎖しようとしたの……,"본사가, 한 번은 이 공장을 폐쇄하려고 했었어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,1,俺は沈みかかった船に乗ったのか……,나는 침몰하려던 배에 탄 건가……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,16,でもマネージャーのヨウさんが来て、工場の生産効率を何倍にも上げたの！,"근데 매니저 요 씨가 와서, 공장 생산 효율을 몇 배나 올렸어!"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,16,でもマネージャーのヨウさんが来て、工場の生産効率を何倍にも上げたの！,"근데 매니저 여 씨가 와서, 공장 생산 효율을 몇 배나 올렸어!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,3,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,17,とりあえず、とてもやり手のリーダーなんだよ。,"아무튼, 굉장히 유능한 리더야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,4,彼女はどんな人なんだ？,그 사람은 어떤 사람이지?
@@ -217,7 +217,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,5,せっかくのチャンスだ……,모처럼의 기회다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,6,必ずこの仕事をものにしなくちゃ。,반드시 이 일을 손에 넣어야 한다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,7,リンは働かなくてもいいって言ってたけど、彼女の負担を減らしたいんだ。,"린은 일 안 해도 된다고 말했지만, 그녀의 부담을 줄여주고 싶다."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,8,マネージャーのイファ･ヨウに認められれば、この仕事が手に入る。,"매니저 이화 요한테 인정받으면, 이 일을 얻을 수 있다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,8,マネージャーのイファ･ヨウに認められれば、この仕事が手に入る。,"매니저 여이화한테 인정받으면, 이 일을 얻을 수 있다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,9,まずは彼女のオフィスを見つけないと。,우선은 그녀의 사무실을 찾아야 한다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問吳晉峰阿姨在哪？,Say,シンホン･ゴ,0,えっと？誰だ？,저기? 누구지?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問吳晉峰阿姨在哪？,Say,シンホン･ゴ,1,制服も着てないし、仕事終わりか？,"제복도 안 입었고, 일 끝난 건가?"
@@ -307,7 +307,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,カイ･キュウ,1
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,カイ･キュウ,2,クライアントは柔軟な対応が大好きでしょう？私たちは柔軟な対応を提供できます！,고객은 유연한 대응을 아주 좋아하잖아요? 저희는 유연한 대응을 제공할 수 있습니다!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,0,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,1,話は終わり？,얘기 끝났어?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,2,<y>カイ･キュウ、私の話をよく聞きなさい！</y>,"<y>카이 큐, 내 말 잘 들어!</y>"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,2,<y>カイ･キュウ、私の話をよく聞きなさい！</y>,"<y>서구현, 내 말 잘 들어!</y>"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,3,<y>私は金を稼ぐ以外にも、皆の権利と利益を守らなければならない！</y>,"<y>나는 돈을 버는 것 말고도, 모두의 권리와 이익을 지켜야 한다고!</y>"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,カイ･キュウ,3,会社の職員は――,회사 직원은――
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,4,会社の職員は会社のために最大限の利益を取る。そんなことは言われなくてもわかっている！,회사 직원은 회사를 위해서 최대한의 이익을 취한다. 그런 건 말 안 해도 알아!
@@ -339,7 +339,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,カイ･キュウ,1
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,17,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,カイ･キュウ,17,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,18,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,19,カイ･キュウ。,카이 큐.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,19,カイ･キュウ。,서구현.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,20,他人に無関心な事以外は、私は貴方を賢い若者だと思っている。,"남한테 무관심한 것 빼고는, 나는 당신을 똑똑한 젊은이라고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,イファ･ヨウ,21,貴方に明るい未来が待っていると信じている……,당신한테 밝은 미래가 기다리고 있다고 믿고 있어……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨初登場,Say,カイ･キュウ,18,……,……
@@ -394,7 +394,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イフ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,心の声,0,後ろにイスがあるのに……,뒤에 의자가 있는데……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,3,制服に着替えたようで、よろしい。,"제복으로 갈아입은 모양이군, 좋아."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,4,私に注意される前に用意するとは。私は機転の利く人が好きよ。,내가 주의를 주기 전에 준비하다니. 나는 눈치 빠른 사람을 좋아해.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,心の声,1,カイ･キュウに感謝すべきか……,카이 큐한테 감사해야 하나……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,心の声,1,カイ･キュウに感謝すべきか……,서구현한테 감사해야 하나……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,5,では、本題に入ろう。,"그럼, 본론으로 들어가지."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,6,貴方は、ここで働きたいと思っている。,"당신은, 여기서 일하고 싶어 하고 있어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,7,私は、仕事をちゃんと熟せる人を探している。,"나는, 일을 제대로 해낼 수 있는 사람을 찾고 있고."
@@ -473,7 +473,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イフ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,57,しかもブラックハウス？確か彼らの人材募集もこのパターンだったはず……,게다가 블랙하우스? 분명 거기도 인재 모집이 이런 패턴이었을 텐데……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,58,とりあえず……,일단……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,17,自分の、過去が分かるんですか？,"제, 과거를 아시는 겁니까?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,59,ええ。,네.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,59,ええ。,그래.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,60,軍に服役していたこと、服役中多くのトラブルを起こしたこと、全て知っているよ。,"군 복무했던 것, 복무 중 많은 트러블을 일으켰던 것, 전부 알고 있어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,61,おや？,어라?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,62,退役後は警備会社に？しかもブラックハウス……,퇴역 후에는 경비 회사에? 게다가 블랙하우스……
@@ -524,7 +524,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イフ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,心の声,13,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,29,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,93,これだけは覚えておいて。貴方の雇用は、貴方の今日と明日の働きにかかっている。,"이것만은 기억해둬. 당신 고용은, 당신의 오늘과 내일 성과에 달려 있어."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,94,では、選別組のオフィスに行って。チーフのイー･テイが今日の仕事を教えてくれるはず。,"그럼, 선별조 사무실로 가. 팀장 이웨이가 오늘 할 일을 알려줄 거야."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,94,では、選別組のオフィスに行って。チーフのイー･テイが今日の仕事を教えてくれるはず。,"그럼, 선별조 사무실로 가. 팀장 정원임이 오늘 할 일을 알려줄 거야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,95,他に質問があるなら、今ここで聞いておいて。,"다른 질문이 있으면, 지금 여기서 물어봐."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,30,この二日間の研修に、給料は出ますか？,"이 이틀간의 연수에, 급여는 나오나요?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,96,もちろん。給料なら弾むよ。,물론이지. 급여는 후하게 줄게.
@@ -559,7 +559,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イフ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,118,マネージャーの前で優秀な一面を装うのは簡単だ。,매니저 앞에서 우수한 면모를 꾸며내는 건 쉽지.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,119,本当の力は、実際の仕事にならないとわからない。,"진짜 실력은, 실제 일을 시켜봐야 알 수 있는 거야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,35,質問はありません。,질문은 없습니다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,120,他に質問は？,다른 질문은요?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,120,他に質問は？,다른 질문은?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,121,待ちなさい。選別組の場所は聞かなくていいのかい？,잠깐. 선별조 위치는 안 물어봐도 되는 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,36,場所はわかっています。,위치는 알고 있습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,122,おや？,어라?
@@ -583,14 +583,14 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イフ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,134,私のオフィスから出て、右側よ。,"내 사무실에서 나가서, 오른쪽이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,135,よろしい、もう行っていいよ。,"좋아, 이제 가도 돼."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,136,もう行っていいよ。,이제 가도 돼.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イエホン･キュウ,0,おや！イーチャン、お帰り。,"어라! 이웨이, 왔어."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イエホン･キュウ,0,おや！イーチャン、お帰り。,"어라! 이짱, 왔어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,シンカ･シェ,0,今はチーフって呼ばないと！,지금은 팀장님이라고 불러야지!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イー･テイ,0,はぁ、はぁ……だ、大丈夫。,"하아, 하아…… 괘, 괜찮아."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イエホン･キュウ,1,ゼェゼェしすぎ。階段を駆け上がったのか？,너무 헐떡이는데. 계단으로 뛰어 올라왔어?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イー･テイ,1,そ、その……,"그, 그게……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イエホン･キュウ,2,新入りを探してる？,신입 찾고 있어?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イー･テイ,2,そ、そうだ……！,"마, 맞아……!"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イエホン･キュウ,3,今来たよ。姉貴がカエ･ツァイの席だった場所に案内してた。,방금 왔어. 누나가 카에 차이 자리였던 곳으로 안내해줬어.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イエホン･キュウ,3,今来たよ。姉貴がカエ･ツァイの席だった場所に案内してた。,방금 왔어. 누나가 최나연 자리였던 곳으로 안내해줬어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イー･テイ,3,あ……ありがとう、ボーちゃん。,"아…… 고마워, 보."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,チキョウ･リョウ,0,じゃ、席に戻るね。チーフ。,"그럼, 자리로 돌아갈게요. 팀장님."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿緯第一次見面,Say,イー･テイ,4,あ、ありがとう……,"아, 고마워……"
@@ -610,11 +610,11 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,9,ああ！だぁって、キミはここの職員じゃないし！,"아! 그야, 당신은 여기 직원도 아니고!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Branch,#Simple,4,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,10,疑わしい――,수상하잖――
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,0,リュウセイ、失礼よ！,"류세이, 실례잖아!"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,0,リュウセイ、失礼よ！,"유성, 실례잖아!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,1,サイレントが入れたってことは、システムが権限を与えたってことなのよ。,"사일런트가 들여보냈다는 건, 시스템이 권한을 줬다는 거야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,11,サイレントだって間違える可能性あるでしょ。もし彼がクラッカーとかだったら……,사일런트도 실수할 가능성 있잖아요. 만약 이 사람이 해커라거나 하면……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,2,あなた、応募者のジェイ･ダイね？,"당신, 지원자 제이 다이지?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,3,私はジーン･ヨウ。,나는 진 요.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,2,あなた、応募者のジェイ･ダイね？,"당신, 지원자 최제이지?"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,3,私はジーン･ヨウ。,나는 임정은.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,4,選別組の秘書官よ。,선별조 비서관이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,心の声,0,秘書官、重要そうな立場だ。彼女からの評価を気にした方が良さそうか？,"비서관, 중요해 보이는 자리다. 이 사람 평가를 신경 쓰는 게 좋으려나?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,5,そう緊張する必要はないよ。あなたが思ってるほど重要なポジションじゃないから。,그렇게 긴장할 필요 없어. 네가 생각하는 만큼 중요한 자리는 아니니까.
@@ -622,7 +622,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,心の声,1,考�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,6,私はね、ばあさんの雑務係なの。,"나는 있잖아, 할머니 잡무 담당이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,イエホン･キュウ,0,雑務？前回ばあさんのオフィスから人を運び出してたくせに。,잡무요? 지난번엔 할머니 사무실에서 사람을 실어 나르셨으면서.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,タイミン･ソウ,0,ゴホン！,흠흠!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,タイミン･ソウ,1,12月2日、カエ･ツァイが四度目の賃上げをマネージャーに求めました。,"12월 2일, 카에 차이가 네 번째 임금 인상을 매니저한테 요구했습니다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,タイミン･ソウ,1,12月2日、カエ･ツァイが四度目の賃上げをマネージャーに求めました。,"12월 2일, 최나연이 네 번째 임금 인상을 매니저한테 요구했습니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,イエホン･キュウ,1,ああ……だからか……,아……그래서였나……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,7,まあ……確かにばあさんは手強いよね……,뭐……확실히 할머니는 만만치 않지……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,12,物理的にも強いけど。,물리적으로도 세지만.
@@ -650,25 +650,25 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,イエホン･キュウ,14,え、じゃだめだ。怒られてないならノーカン！,"어, 그럼 안 되지. 안 혼났으면 노카운트!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,イエホン･キュウ,15,ばあさんに怒られる、それが僕らの入隊儀式だよ。ハハハ！,"할머니한테 혼나는 거, 그게 우리 입대 의식이야. 하하하!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,0,入隊入隊って、別にそんなのに入らなくていいですから。,"입대 입대 하는데, 딱히 그런 거 안 들어도 되니까요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,1,ジェイさん、私はシンカ･シェ、ここのエンジニアです。,"제이 씨, 저는 신카 셰, 여기 엔지니어예요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,16,シンカちゃんは超すごいから、何でも直してくれるぞ。,"신카는 완전 대단해서, 뭐든 고쳐준다고."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,1,ジェイさん、私はシンカ･シェ、ここのエンジニアです。,"제이 씨, 저는 하채은, 여기 엔지니어예요."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,16,シンカちゃんは超すごいから、何でも直してくれるぞ。,"채은이는 완전 대단해서, 뭐든 고쳐준다고."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,17,昨日コーラをモニターにこぼしたのも、パパパっと直してくれた！,"어제 콜라를 모니터에 쏟았던 것도, 뚝딱 고쳐줬다니까!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,2,修築組に新しいモニターを申請しただけで、技術的なことは何もしてません。,"수축조한테 새 모니터를 신청했을 뿐이지, 기술적인 건 아무것도 안 했어요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,3,それに、その申請はボーちゃんの仕事です。次はボーちゃんに頼んでください。,"게다가, 그 신청은 보 오빠 일이에요. 다음엔 보 오빠한테 부탁하세요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,18,またまたご謙遜を！,또 또 겸손하시긴!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,4,費用はリュウセイさんの給料から引かれるので、ジーンさん、後で申請履歴の確認をお願いします。,"비용은 류세이 씨 급여에서 빠지니까, 진 씨, 나중에 신청 이력 확인 부탁드려요."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,シンカ･シェ,4,費用はリュウセイさんの給料から引かれるので、ジーンさん、後で申請履歴の確認をお願いします。,"비용은 유성 씨 급여에서 빠지니까, 정은 씨, 나중에 신청 이력 확인 부탁드려요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,10,はいはい。,네네.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,19,え？初耳なんだけど？,어? 처음 듣는 얘긴데?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,20,ハハハ、冗談だよね？,"하하하, 농담이지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,21,僕、ここに就職したばかりだよ？,"나, 여기 취직한 지 얼마 안 됐는데?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,22,ええええ！？シンカちゃん、本気で言ってる！？,"에에엑!? 신카, 진심으로 하는 말이야!?"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,22,ええええ！？シンカちゃん、本気で言ってる！？,"에에엑!? 채은아, 진심으로 하는 말이야!?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,23,修理すれば何とかなるもんじゃないの！？,수리하면 어떻게든 되는 거 아니었어!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,リュウセイ･チョウ,24,ええええええ！！！！！,에에에에엑!!!!!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,11,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,12,……とりあえず、ようこそ選別組へ。,"……아무튼, 선별조에 온 걸 환영해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,13,そうだ。ばあさんから新人指導はチーフが担当するって聞いたでしょ？,맞다. 할머니한테서 신입 지도는 팀장님이 담당한다고 들었지?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Branch,#Simple,9,ええ、そうですね。,"네, 그렇겠죠."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Branch,#Simple,10,確かイー･テイという人でした。,분명 이웨이라는 분이었습니다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Branch,#Simple,10,確かイー･テイという人でした。,분명 정원임이라는 분이었습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,14,そうか。でもね……,그렇구나. 근데 있잖아……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,15,申し訳ないけど、チーフがまだ帰ってきてないの……,"미안하지만, 팀장님이 아직 안 돌아오셨어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,初次進辦公室,Say,ジーン･ヨウ,16,急にピンチヒッターとして駆り出されたみたい。,갑자기 대타로 불려나간 것 같아.
@@ -684,9 +684,9 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,3,なんだと……！,뭐라고……!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,4,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,5,確かに先に自己紹介をするのが礼儀か。,확실히 먼저 자기소개를 하는 게 예의겠지.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,6,カイ･キュウ、早番勤務だ。,"카이 큐, 조조 근무다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,6,カイ･キュウ、早番勤務だ。,"서구현, 조조 근무다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,7,こんな時間に来たってことは、あんたが面接を受ける新人か？,"이런 시간에 왔다는 건, 네가 면접 보는 신입인가?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Branch,#Simple,2,はい、ジェイ･ダイと申します。,"네, 제이 다이라고 합니다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Branch,#Simple,2,はい、ジェイ･ダイと申します。,"네, 최제이라고 합니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Branch,#Simple,3,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,8,マネージャーに会いに来たんだろう？,매니저 만나러 온 거지?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱第一次對話叫你買飲料,Say,カイ･キュウ,9,会議から戻ってきた彼女がこの先にいるはずだ。,회의에서 돌아온 그녀가 이 앞에 있을 거다.
@@ -830,7 +830,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Branch,#Simple,5,……,
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,25,わかった。わかったよ！,알았다. 알았어!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,26,じゃ、こうしよう。,"그럼, 이렇게 하자."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,27,君が代わりに選んでくれ！,네가 대신 골라줘!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,0,確かカイ･キュウはThe Wordを買ってこいと……,분명 카이 큐는 더 워드를 사오라고……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,0,確かカイ･キュウはThe Wordを買ってこいと……,분명 서구현은 더 워드를 사오라고……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,28,さあ！選べ選べー！The WildとThe Word、君はどっちだー！,"자! 골라 골라~! 더 와일드랑 더 워드, 너는 어느 쪽이냐~!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Branch,#Simple,6,The Wild。,더 와일드.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,29,ふーん……,흐음……
@@ -863,9 +863,9 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,51,こっちは君に譲るよ。,이건 너한테 양보할게.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,52,ごめんね、時間を取らせちゃって。,"미안해, 시간 뺏어서."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,イエホン･キュウ,53,じゃ。,그럼.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,1,カイ･キュウが嫌がっていたThe Wildしか残ってない……,카이 큐가 싫어하던 더 와일드밖에 안 남았다……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,1,カイ･キュウが嫌がっていたThe Wildしか残ってない……,서구현이 싫어하던 더 와일드밖에 안 남았다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,2,……買うべきか？,……사야 하나?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,3,カイ･キュウが飲みたがっていたThe Wordだけ残ってる……,카이 큐가 마시고 싶어했던 더 워드만 남았다……
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,3,カイ･キュウが飲みたがっていたThe Wordだけ残ってる……,서구현이 마시고 싶어했던 더 워드만 남았다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,飲料機對話,Say,心の声,4,……彼のために買うべきか？,……그를 위해서 사야 하나?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱問主角有沒有飲料,Say,カイ･キュウ,0,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,邱書凱問主角有沒有飲料,Say,心の声,0,彼が怒られるのを見て、すっきりした。,"그가 혼나는 걸 보니, 속이 시원했다."
@@ -948,7 +948,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,心の�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,イエホン･キュウ,2,まじかよ……,진짜냐……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,38,まあ、今回の面接研修の人選は、事前に用意された人たちだから。,"뭐, 이번 면접 연수 인선은, 사전에 준비된 사람들이니까."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Branch,#Simple,14,用意、とは？,준비라는 건요?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,5,つまりあなたがこれから面接する人は、全て確認済ってこと。,"즉 네가 이제부터 면접할 사람들은, 전부 확인이 끝났다는 거야."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,5,つまりあなたがこれから面接する人は、全て確認済ってこと。,"즉 제이 씨가 이제부터 면접할 사람들은, 전부 확인이 끝났다는 거예요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,6,ばあさんが事前にチェックしています。,할머니가 사전에 체크했습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Branch,#Simple,15,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,7,つまり、今から行う面接の采配は明暗を分けるってことです。,"즉, 지금부터 할 면접의 재량이 성패를 가른다는 겁니다."
@@ -956,7 +956,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,39,タイミン、あまり驚かさないで。,"타이밍, 너무 겁주지 마."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,9,別に間違ったことは言っていません。,딱히 틀린 말은 안 했습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,40,……そうね。,……그렇지.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,10,気をつけて、ばあさんはよく誘導尋問するから。,"조심해, 할머니는 유도 심문을 자주 하니까."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,10,気をつけて、ばあさんはよく誘導尋問するから。,"조심하세요, 할머니는 유도 심문을 자주 하니까요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,11,何か質問があれば自分に聞いてください。,질문 있으면 저한테 물어보세요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,41,あら？そんなに暇人なの？まだ未提出の資料がいくつもあるけど？,어라? 그렇게 한가한 거야? 아직 제출 안 한 자료가 몇 개나 있는데?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,12,それは……,그건……
@@ -977,7 +977,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジー�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:工作流程指示,Say,心の声,0,AIのハードウェアの代替として、人の脳を繋げる……,"AI 하드웨어의 대체로, 사람의 뇌를 연결한다……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:工作流程指示,Say,心の声,1,一見、ふざけた話に聞こえるが、今じゃ当たり前のように行われている……,"언뜻, 말도 안 되는 얘기처럼 들리지만, 지금은 당연하다는 듯이 이뤄지고 있다……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:工作流程指示,Say,心の声,2,俺でさえ、こんなとこの職員に……,"나조차, 이런 곳의 직원이 되다니……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,0,その……ちょっといい？,저……잠깐 괜찮아요?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,0,その……ちょっといい？,그…… 잠깐 괜찮아?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,1,ちょっと話がしたくて……,잠깐 얘기 좀 하고 싶어서……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,心の声,0,こいつ、急にどうしたんだ？,"이놈, 갑자기 왜 이러지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,0,どうしました？,무슨 일이에요?
@@ -996,20 +996,20 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,4,次は気をつけて。,다음엔 조심해.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,9,本当にごめん。僕、思った事が口に出ちゃうタイプなんだ。,"정말 미안. 나, 생각한 게 그대로 입 밖으로 나오는 타입이라."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,10,これからは気をつけまーす。,앞으로는 조심할게요~
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,11,そうだ。僕はリュウセイ･チョウ。,맞다. 나는 류성.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,11,そうだ。僕はリュウセイ･チョウ。,맞다. 나는 장유성.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,12,先週ここに入ったばかりなんだ！,지난주에 막 여기 들어왔어!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,13,名前は？,이름은?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,5,ジェイ･ダイ。,제이 다이.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,14,ジェイ･ダイ？,제이 다이?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,6,ダイ。,다이.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,5,ジェイ･ダイ。,최제이.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,14,ジェイ･ダイ？,최제이?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,6,ダイ。,최.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,15,え？フルネームで教えてよ。,어? 풀네임으로 알려줘.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,16,確かジェイ･ダイだったよね？,분명 제이 다이였지?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,16,確かジェイ･ダイだったよね？,분명 최제이였지?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,7,知ってるならなぜ聞いたんですか？,알고 있으면서 왜 물어본 거예요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,17,改めて確認しようと思ってね、ハハ！,"다시 한번 확인하려고, 하하!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,18,そっちの方が礼儀正しそうじゃん？,그쪽이 더 예의 바를 것 같잖아?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,8,なぜ自分の名前を？,왜 제 이름을?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,19,僕は情報収集が得意なんだ。,나는 정보 수집이 특기거든.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,20,まあ、さっきジーンの姉さんが呼んだのを聞いてただけなんだけど。ハハハッ！,"뭐, 아까 진 누나가 부르는 거 들었을 뿐이지만. 하하핫!"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,20,まあ、さっきジーンの姉さんが呼んだのを聞いてただけなんだけど。ハハハッ！,"뭐, 아까 정은 누나가 부르는 거 들었을 뿐이지만. 하하핫!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,9,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,10,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,21,ありゃ、僕の方が年下か！じゃ、今後はジェイの兄貴と呼ばせてもらうっす！,"어라, 내가 더 어린가! 그럼, 앞으로는 제이 형님이라고 부를게요!"
@@ -1021,7 +1021,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,心の声,3,金�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,13,給料がいいから。,월급이 좋아서.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,24,それもそうかー！,그것도 그렇네~!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,25,そのストレートな発言いいっすね！,그 직설적인 발언 좋네요!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,14,リュウセイはどうしてここに？,류세이는 왜 여기 있는 거야?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,14,リュウセイはどうしてここに？,유성은 왜 여기 있는 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,15,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,16,あんたこそ、どうしてここに？,"당신이야말로, 왜 여기 있는 거지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,26,え？ぼ、僕っすか？,"네? 저, 저요?"
@@ -1061,7 +1061,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Branch,#Simple,5,この仕事が楽ではないことくらいわかってます。,이 일이 편하지 않다는 것쯤은 알고 있습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,8,ならよろしい。,그럼 됐다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Branch,#Simple,6,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,9,イー･テイは若くしてチーフになったが、まだ下を教育する術を知らない。,"이웨이는 젊은 나이에 팀장이 됐지만, 아직 부하를 교육하는 법을 모른다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,9,イー･テイは若くしてチーフになったが、まだ下を教育する術を知らない。,"정원임은 젊은 나이에 팀장이 됐지만, 아직 부하를 교육하는 법을 모른다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,心の声,1,また年齢のことを……,또 나이 얘기를……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Branch,#Simple,7,チーフは今いくつですか？,팀장님은 지금 몇 살인가요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,10,あんたとそう変わらないだろう。,너랑 그렇게 다르지 않을 거다.
@@ -1117,7 +1117,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Branch,#Simple,21,つまりは自分も？,즉 저도요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,41,いいや、あんたは含まれていない。,"아니, 너는 포함 안 된다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,42,あんたはまだ、雇われてないからな。,"너는 아직, 고용된 게 아니니까."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,43,他に質問は？,다른 질문은요?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Say,チキョウ･リョウ,43,他に質問は？,다른 질문은?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問廖哥問題,Branch,#Simple,22,大丈夫です。,괜찮습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,0,どうも。,안녕하세요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,1,……,……
@@ -1132,10 +1132,10 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,6,あっ、待って！,"아, 잠깐만!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,7,最後のWildを買ったの、君だよね？,"마지막 와일드 산 거, 너 맞지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,8,しかも僕を誘導して、もう片方を選ばせた！,"게다가 나를 유도해서, 다른 쪽을 고르게 했잖아!"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,9,さっき、カイ･キュウが外で吐いてるのが見えたよ……？,"아까, 카이 큐가 밖에서 토하는 거 봤는데……?"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,9,さっき、カイ･キュウが外で吐いてるのが見えたよ……？,"아까, 서구현이 밖에서 토하는 거 봤는데……?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,2,吐いてる？なんで教えてくれなかったんだ？,토했다고? 왜 안 알려준 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,10,後で話そうと思って。,나중에 얘기하려고 했지.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,11,まさか、カイ･キュウにパシリを頼まれて……,"설마, 카이 큐한테 심부름 부탁받아서……"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,11,まさか、カイ･キュウにパシリを頼まれて……,"설마, 서구현한테 심부름 부탁받아서……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,12,The Wildを買ったの？,더 와일드를 산 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,13,でも彼はThe Wildが大嫌いだし、それを言わないわけないよね。君、わざと？,"근데 걔는 더 와일드를 엄청 싫어하는데, 그걸 말 안 했을 리가 없잖아. 너, 일부러 그랬어?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,2,彼の態度にムカついたから。,그놈 태도가 짜증 나서.
@@ -1143,30 +1143,30 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,3,ただの事故です。,그냥 사고입니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,15,ふーん。,흐음.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,16,まあ、結果的にざまあみろってとこだね。ガハハハ！,"뭐, 결과적으로 꼴좋다는 거지. 가하하하!"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,0,カイ･キュウの話ですか？もう皆さん知っているんですね。,카이 큐 얘기예요? 벌써 다들 알고 계시네요.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,0,カイ･キュウの話ですか？もう皆さん知っているんですね。,서구현 얘기예요? 벌써 다들 알고 계시네요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,3,何がですか？,뭐가요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,1,彼、クビにされました。,"그 사람, 잘렸어요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,4,そういうことか。,그런 거였군.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,4,そういうことか。,그런 거였군요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,17,やっとだね！,드디어네!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,4,彼は嫌われているんですか？,그 사람 미움받고 있나요?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,18,君はカイが好きかい？,너는 카이가 좋아?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,18,君はカイが好きかい？,너는 구현이 좋아?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,5,いや、ざまあみろって感じです。,"아니, 꼴좋다는 느낌입니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,19,そそ！間違いない。,그치 그치! 틀림없어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,6,好きじゃないけど、大変だなって。,"좋진 않지만, 안됐다 싶어서."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,5,このご時世、クビにされたら再就職は難しいですからね。,"요즘 같은 시대에, 잘리면 재취업이 힘드니까요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,7,でも、ばあさんはちゃんと職を手配していた。,"근데, 할머니는 제대로 일자리를 마련해뒀었다."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,6,じゃ前言撤回ですな。カイは自業自得だ。,그럼 방금 한 말은 취소하죠. 카이는 자업자득이네.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,6,じゃ前言撤回ですな。カイは自業自得だ。,그럼 방금 한 말은 취소하죠. 구현은 자업자득이네요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,8,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,9,嫌いってほどでも。,싫어할 정도는 아니고요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,20,マジで？彼と話して、嫌いにならない人間はかなり珍しいよ？,"진짜로? 걔랑 얘기하고, 안 싫어지는 사람은 꽤 드문데?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,2,私は別に、彼に対して何も思っていませんが……,"저는 딱히, 그에 대해서 아무 생각 없는데요……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,21,それは彼と仕事をしたことがないからだよ！彼は自己中で陰湿な奴なんだよ！,그건 걔랑 같이 일해본 적이 없어서 그래! 걔는 이기적이고 음흉한 놈이라고!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,3,そんなことありません。前回シュンさんに頼まれて、カイさんのためにリスト管理システムを作りました。,"그렇지 않아요. 지난번에 준 씨 부탁으로, 카이 씨를 위해서 리스트 관리 시스템을 만들었어요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,22,何でシュンがシンカちゃんに？,왜 준이 신카한테?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,3,そんなことありません。前回シュンさんに頼まれて、カイさんのためにリスト管理システムを作りました。,"그렇지 않아요. 지난번에 준 씨 부탁으로, 구현 씨를 위해서 리스트 관리 시스템을 만들었어요."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,22,何でシュンがシンカちゃんに？,왜 준이 채은한테?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,心の声,0,かなり不安げな口振りだ。機嫌が悪いのか？,꽤 불안한 말투다. 기분이 안 좋은 건가?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,4,それは……このオフィスで作れるのが私だけだから？,그건……이 사무실에서 만들 수 있는 게 저뿐이라서요?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,5,まあ、最終的にカイ･キュウは私のシステムを使いませんでしたけど、別に大したトラブルはなかったですよ。,"뭐, 결국 카이 큐는 제 시스템을 안 썼지만, 딱히 큰 트러블은 없었어요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,7,これのこと？カイは自分で作ったと言ってましたよ。今送りますね。,이거 말이야? 카이는 자기가 만들었다고 했었는데. 지금 보낼게.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,5,まあ、最終的にカイ･キュウは私のシステムを使いませんでしたけど、別に大したトラブルはなかったですよ。,"뭐, 결국 서구현은 제 시스템을 안 썼지만, 딱히 큰 트러블은 없었어요."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,7,これのこと？カイは自分で作ったと言ってましたよ。今送りますね。,이거요? 구현은 자기가 만들었다고 했었는데요. 지금 보낼게요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,6,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,7,まさか私、騙された！？,"설마 저, 속은 거예요!?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,8,じゃ、クビは自業自得ですね！,"그럼, 해고는 자업자득이네요!"
@@ -1191,8 +1191,8 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,38,会社の出入り管理は鬼だからね！,회사 출입 관리가 엄청 빡세니까!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,13,もう少し詳しく聞きたい。,좀 더 자세히 듣고 싶다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,39,それはできませーん！だって僕も行ったことないから。カッカッカ！,그건 못 해요~! 왜냐면 나도 가본 적 없거든. 카카카!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,40,シンカちゃんなら何回か行ってると思うけど。,신카라면 몇 번 가봤을 텐데.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,8,でも、あんまりシンカさんからそっちの話を聞きませんね。,"근데, 신카 씨한테서 그쪽 얘기는 별로 안 듣네요."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,40,シンカちゃんなら何回か行ってると思うけど。,채은이라면 몇 번 가봤을 텐데.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,8,でも、あんまりシンカさんからそっちの話を聞きませんね。,"근데, 채은 씨한테서 그쪽 얘기는 별로 안 듣네요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,9,あまり、言うことがなくて。,"별로, 할 말이 없어서요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,10,とても気分の悪い場所なんです。,굉장히 기분 나쁜 곳이에요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,シンカ･シェ,11,広い場所なのに、息がしづらくて圧迫感があるというか……,"넓은 곳인데도, 숨쉬기 힘들고 압박감이 있다고 할까요……"
@@ -1290,12 +1290,12 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,36,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,37,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Branch,#Simple,38,質問は以上です。,질문은 이상입니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,102,そう。,그래.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,103,他に質問は？,다른 질문은요?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,103,他に質問は？,다른 질문은?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,タイミン･ソウ,0,どうも、何か質問ですか？,"안녕하세요, 뭔가 질문 있나요?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Branch,#Simple,0,なぜ、選別が必要なんですか？,"왜, 선별이 필요한 건가요?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,タイミン･ソウ,1,誰もが契約対象に相応しいわけではないからです。,누구나 다 계약 대상에 적합한 건 아니니까요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,タイミン･ソウ,2,例えば、身体的に相応しくなかったりとか。,"예를 들면, 신체적으로 부적합하다든가요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,タイミン･ソウ,3,先程ジーンさんも言ってましたが、薬物中毒の人が演算力供給をすると、半身不随になるリスクがあります。,"아까 진 씨도 말씀하셨지만, 약물 중독자가 연산력 공급을 하면, 반신불수가 될 위험이 있습니다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,タイミン･ソウ,3,先程ジーンさんも言ってましたが、薬物中毒の人が演算力供給をすると、半身不随になるリスクがあります。,"아까 정은 씨도 말씀하셨지만, 약물 중독자가 연산력 공급을 하면, 반신불수가 될 위험이 있습니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,心の声,0,医者じゃないのに、どうやって身体の状況を？,"의사도 아닌데, 어떻게 신체 상태를?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Branch,#Simple,1,まさか、俺たちは医師免許も取る必要が？,"설마, 우리도 의사 면허가 필요한 건가?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問穩哥問題,Say,タイミン･ソウ,4,ハハハ、そんなことはありません。大丈夫です。,"하하하, 그런 건 아닙니다. 괜찮습니다."
@@ -1366,7 +1366,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:新人報到通知,Say,心�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:新人報到通知,Say,心の声,6,万象は一体どうやって俺がこの仕事に適していると判断したんだ……？,완샹은 도대체 어떻게 내가 이 일에 적합하다고 판단한 거지……?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Branch,#Simple,0,どうも。,안녕하세요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Branch,#Simple,1,始めてください。,시작해주세요.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,0,はい、名前はユウセイ･ダイと申します。,"네, 이름은 유세이 다이라고 합니다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,0,はい、名前はユウセイ･ダイと申します。,"네, 이름은 최정용이라고 합니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,心の声,0,かなり狼狽えているようだ。,꽤 당황하고 있는 것 같다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,1,ふぅ。それにしてもここは熱いですね。,후우. 그건 그렇고 여긴 덥네요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,心の声,1,……向こう側にエアコンはないのか。,……저쪽에는 에어컨이 없는 건가.
@@ -1493,7 +1493,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,85,兄ちゃんはやはりいい人だ。,형씨는 역시 좋은 사람이네요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Branch,#Simple,33,どうでしょうね。,"글쎄, 어떨까."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,86,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,87,そうか。,그런가.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,87,そうか。,그런가요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Branch,#Simple,34,そうですね。,그러네요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,88,そいつは、すみません。,"그거, 죄송합니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,89,つい口から出てしまったんです、どうか許してください……,"그만 입 밖으로 나와버렸네요, 부디 용서해주세요……"
@@ -1555,7 +1555,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Branch,#Simple,38,苦境の中を必死に生きる人。,역경 속에서 필사적으로 사는 사람입니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Branch,#Simple,39,精一杯頑張ってる人。,최선을 다해 애쓰고 있는 사람입니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,141,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,142,ありがとう。,고마워.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,142,ありがとう。,고마워요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,143,理解してくれて、ありがとう。,"이해해줘서, 고마워요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,144,そんな扱いを受けたのは、久しぶりだ。,"그런 대접을 받은 건, 오랜만이네요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ･ダイ,145,今の私はただ……,지금 저는 그냥……
@@ -1595,7 +1595,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,ユウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,面談_對象戴勇誠,Say,心の声,9,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:輪班表,Say,心の声,0,勤務時間は八時間？こんなの本当にありえるのか？,근무 시간이 8시간? 이런 게 진짜 가능한 건가?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,調查物件:輪班表,Say,心の声,1,今じゃこんな待遇はほとんど見ないぞ。,요즘 이런 대우는 거의 못 본다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,主角第一次使用電腦對話,Say,コンピューター,0,使用者：ジェイ･ダイ、ようこそ。,"사용자: 제이 다이 님, 환영합니다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,主角第一次使用電腦對話,Say,コンピューター,0,使用者：ジェイ･ダイ、ようこそ。,"사용자: 최제이 님, 환영합니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,主角第一次使用電腦對話,Say,コンピューター,1,何をご覧になりますか？,무엇을 보시겠습니까?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,主角第一次使用電腦對話,Branch,#Simple,0,「仕事について」,「업무에 대해서」
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,主角第一次使用電腦對話,Say,コンピューター,2,Todoリストに「面接」が残っています。選別組チーフの指示をお待ちください。,할 일 목록에 「면접」이 남아있습니다. 선별조 팀장의 지시를 기다려주세요.
