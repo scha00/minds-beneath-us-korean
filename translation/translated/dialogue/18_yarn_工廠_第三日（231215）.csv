@@ -3703,20 +3703,20 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,1,お前、こんなところで何をしているんだ！？,"너, 이런 데서 뭘 하고 있는 거야!?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,心の声,2,いつも以上に声を荒げているな……,평소보다 더 언성을 높이는군……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Branch,#Simple,0,操作組に入ったので、挨拶をしに来ました。,"조작조에 들어와서, 인사드리러 왔어요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,2,そうか、確かにシュン･ゴが言っていたな……,"그런가, 확실히 슌 고가 그랬었지……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,2,そうか、確かにシュン･ゴが言っていたな……,"그런가, 확실히 오준이 그랬었지……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,3,だが今日は操作組が休みだってことを知らなかったのか？,근데 오늘 조작조가 휴무라는 걸 몰랐나?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Branch,#Simple,1,知ってますが、少し様子を見たくて。,"알고 있는데, 좀 상황을 보고 싶어서요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,4,様子？,상황?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Branch,#Simple,2,わかりません。,모르겠어요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,5,シュン･ゴのやつ、伝えてなかったのか？,"슌 고 이 녀석, 얘기 안 했던 건가?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,5,シュン･ゴのやつ、伝えてなかったのか？,"오준 이 녀석, 얘기 안 했던 건가?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,6,嘘言うな！,거짓말하지 마!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,7,お前は選別組を選んだとシュン･ゴが言っていたぞ。,네가 선별조를 선택했다고 슌 고가 그랬어.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,7,お前は選別組を選んだとシュン･ゴが言っていたぞ。,네가 선별조를 선택했다고 오준이 그랬어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,8,なぜ嘘をついた！,왜 거짓말을 한 거지!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Branch,#Simple,3,あなたにそんな反応をされたくなかったからです。,당신한테 그런 반응 받고 싶지 않아서였어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,9,フンッ、それもそうだな。,"흥, 그것도 그렇군."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,10,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Branch,#Simple,4,何か誤解があったのかもしれません。私は操作組を選びましたよ。,뭔가 오해가 있었던 걸지도 몰라요. 저는 조작조를 선택했어요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,11,あの真面目なシュン･ゴが間違えたっていうのか？ありえん！,그 성실한 슌 고가 착각했다는 거냐? 있을 수 없다!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,11,あの真面目なシュン･ゴが間違えたっていうのか？ありえん！,그 성실한 오준이 착각했다는 거냐? 있을 수 없다!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,12,彼から直接聞いたんだ。お前を採用しなかったってことを。,그 사람한테 직접 들었다. 너를 채용하지 않았다는 걸.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Say,セラ･キョウ,13,なぜ嘘をついた！,왜 거짓말을 한 거지!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,許大哥入侵事件,Branch,#Simple,5,昨日ここに忘れ物をしたので取りに来ました。,어제 여기 물건을 두고 가서 가지러 왔어요.
