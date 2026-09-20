@@ -2,8 +2,8 @@
 
 ## 설치
 
-1. 다운로드한 zip 을 **폴더째로 통째로** 아무 곳에나 압축 해제합니다(`install.ps1`, `patches\`, `tools\` 가
-   같은 위치에 있어야 합니다). 게임 폴더 안에 넣을 필요는 없습니다.
+1. 다운로드한 zip 을 **통째로** 아무 곳에나 압축 해제합니다(`install.ps1` 과 `korean.pat` 이
+   같은 폴더에 있어야 합니다. `korean.pat` 은 그대로 두세요). 게임 폴더 안에 넣을 필요는 없습니다.
 2. `install.ps1` 을 우클릭 → **"PowerShell로 실행"** 을 선택합니다.
    - 게임 설치 경로를 자동으로 찾고, 못 찾으면 직접 입력하라고 물어봅니다 (`MindsBeneathUs.exe` 가 있는 폴더).
    - 이 패치는 게임 파일을 통째로 배포하지 않고 "달라진 부분(diff)"만 담고 있어서, 설치 PC의 원본 게임 파일에
@@ -31,7 +31,7 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 ## 주의사항
 
 - 게임의 `.dll`/`.exe` 는 전혀 건드리지 않습니다. 오직 데이터 파일(`.bundle`)만 교체합니다.
-- `tools\xdelta3.exe` 는 diff 적용용 오픈소스 도구(xdelta3)입니다. 라이선스는 `tools\` 폴더를 참고하세요.
+- `tools\xdelta3.exe` 는 diff 적용용 오픈소스 도구(xdelta3)입니다. GPL v2 라이선스이며, 출처와 라이선스 전문은 `korean.pat` 안의 `tools` 폴더(저장소의 `install/tools/`)를 참고하세요.
 - 알려진 문제: 게임 시작 직후 나오는 타이틀 화면의 일부 버튼(New Game/Continue/Settings 등)은
   한글이 아닌 영어 원문으로 고정되어 나올 수 있습니다. 인게임(ESC 메뉴 등) 텍스트와 대사는 정상 작동합니다.
 - 게임이 업데이트되면 이 패치가 안 맞을 수 있습니다. 그런 경우 게임 실행이 안 되거나 이상해지면
