@@ -323,6 +323,7 @@ Log ""
 $installed = 0
 $failed = @()
 $skipped = @()
+$notOriginal = @()
 $idx = 0
 
 foreach ($metaFile in $metas) {
@@ -366,11 +367,12 @@ foreach ($metaFile in $metas) {
         $srcHash = Get-Sha256 $srcPath
         if ($srcHash -ne $meta["orig_sha256"]) {
             if ($srcPath -eq $targetPath) {
-                Log "  [건너뜀] 원본 파일이 아닙니다 (이미 다른 패치가 적용됐거나 게임 버전이 다름). uninstall.ps1 로 원본 복원 후 다시 시도하세요." "Yellow"
+                Log "  [건너뜀] 원본 파일이 아닙니다 (이미 다른 패치가 적용됐거나 게임 버전이 다름)." "Yellow"
             } else {
-                Log "  [건너뜀] 백업 파일이 원본과 다릅니다. 게임 무결성 검사(Steam)로 원본 복구 후 _originals_backup 폴더를 지우고 다시 시도하세요." "Yellow"
+                Log "  [건너뜀] 백업 파일이 원본과 다릅니다." "Yellow"
             }
             $skipped += $bundleName
+            $notOriginal += $bundleName
             continue
         }
 
@@ -434,6 +436,16 @@ if ($failed.Count -eq 0 -and $skipped.Count -eq 0) {
     foreach ($f in $skipped) { Log "  건너뜀: $f" }
     foreach ($f in $failed) { Log "  실패: $f" }
     Log "일부 파일에 패치가 적용되지 않아 해당 부분은 원문이 나올 수 있습니다. install_log.txt 를 개발자에게 보내주세요." "Red"
+}
+if ($notOriginal.Count -gt 0) {
+    Log ""
+    Log "※ 원본이 아닌 파일이 $($notOriginal.Count)개 있어서 패치를 적용하지 못했습니다." "Yellow"
+    Log "  이전 버전 패치나 다른 패치가 이미 적용되어 있거나, 게임이 업데이트되었을 수 있습니다." "Yellow"
+    Log "  1) uninstall.ps1 로 원본을 복원한 뒤 install.ps1 을 다시 실행해보세요." "Yellow"
+    Log "  2) 그래도 같은 메시지가 나오면 Steam에서 게임 파일 무결성 검사를 한 뒤," "Yellow"
+    Log "     게임 폴더의 _originals_backup 폴더(StreamingAssets\aa\StandaloneWindows64 안)와" "Yellow"
+    Log "     MindsBeneathUs_Data\_originals_backup_player 폴더를 지우고 다시 실행해보세요." "Yellow"
+    Log "  3) 게임이 업데이트된 경우라면 새 게임 버전에 맞는 패치가 나올 때까지 기다려야 합니다." "Yellow"
 }
 Log "백업 위치: $backupDir"
 Log ""
