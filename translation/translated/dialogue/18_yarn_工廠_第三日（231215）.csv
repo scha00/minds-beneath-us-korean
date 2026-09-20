@@ -4,8 +4,8 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,1,わかった。,알았어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Branch,#Simple,1,どうしてそれを？,그걸 어떻게?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,2,ああ、そろそろかなと思って。,"아, 슬슬 도착할 때가 됐나 싶어서."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,3,まずは契約室に行ってくれる？シュン･ゴが待ってるから。,먼저 계약실로 가줄래? 슌 고가 기다리고 있으니까.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,4,契約室にいるから来てもらっていいかな？ハン･リュウと契約した部屋ね。,계약실에 있으니까 와줄 수 있을까? 한류랑 계약했던 그 방이야.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,3,まずは契約室に行ってくれる？シュン･ゴが待ってるから。,먼저 계약실로 가줄래? 오준이 기다리고 있으니까.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,4,契約室にいるから来てもらっていいかな？ハン･リュウと契約した部屋ね。,계약실에 있으니까 와줄 수 있을까? 류한명이랑 계약했던 그 방이야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,イー･テイ,5,制服に着替えるのを忘れないでね。,제복으로 갈아입는 거 잊지 말고.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Branch,#Simple,2,何かあったんですか？,무슨 일 있었어요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Branch,#Simple,3,今すぐにですか？,지금 바로요?
@@ -14,7 +14,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,心の声,0,切られた……,끊겼다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛到工廠啊偉打電話來聯絡,Say,心の声,1,一体何のようだ？俺の不採用を伝えるためとか？,대체 무슨 일이지? 내 채용 탈락을 알리려는 건가?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,0,ジェイ、聞こえる？,"제이, 들려?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,0,スイ･ニン？,스이 닌?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,0,スイ･ニン？,주은영?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,1,そうだ。,맞아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,1,聞こえる。,들려.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,2,よし。,좋아.
@@ -23,16 +23,16 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,4,ああ。,아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,23,0,終わらないでしょ。レポートがあるし！それにあんたは……,안 끝나지. 보고서도 있고! 게다가 당신은……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,3,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,5,私たちはもうアジトに戻っている。リュウセイも今工場へ向かった。,우리는 이미 아지트로 돌아와 있다. 류세이도 지금 공장으로 향했다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,5,私たちはもうアジトに戻っている。リュウセイも今工場へ向かった。,우리는 이미 아지트로 돌아와 있다. 유성도 지금 공장으로 향했다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,6,そっちの状況は？,그쪽 상황은?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,4,選別組のチーフに呼び出された。,선별조 팀장한테 불려갔다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,5,制服に着替えたところだ。これから仕事をしに向かう。,제복으로 막 갈아입은 참이다. 이제부터 일하러 갈 거다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,7,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,7,了解。,알겠다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,8,確か今日君は配属が決まる日だったね。,확실히 오늘 네 배치가 정해지는 날이었지.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,6,そうだ。,맞아.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,9,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,9,了解。,알겠다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,7,どうしてそれを？,그걸 어떻게?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,10,リン･テイから聞いた。,린 테이한테 들었다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,10,リン･テイから聞いた。,차린한테 들었다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,11,そうだな……,그러게……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,12,配属された組によって、調査の仕方が変わってくるはずだ。,"배치된 조에 따라, 조사 방식이 달라질 거다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,8,どっちの組を選んだ方が調査しやすいとかあるのか？,어느 조를 선택하는 게 조사하기 쉽다든가 하는 게 있나?
@@ -47,7 +47,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,23,2,ハハハ！こっちがちゃんとミュートするからご心配なく！,하하하! 이쪽에서 제대로 음소거할 테니까 걱정 마!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,心の声,0,そうだな……,그러게……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Branch,#Simple,12,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,17,リュウセイがサイレントに着いたら、彼から連絡がくるはずだ。,"류세이가 사일런트에 도착하면, 그쪽에서 연락이 올 거다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,17,リュウセイがサイレントに着いたら、彼から連絡がくるはずだ。,"유성이 사일런트에 도착하면, 그쪽에서 연락이 올 거다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,18,彼が来たら作戦を開始してくれ。,그가 오면 작전을 개시해줘.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,換完衣服司徒來了,Say,スイ･ニン,19,以上だ。,이상이다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,0,かなり重々しい空気だ……,꽤 무거운 분위기네……
@@ -65,17 +65,17 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,5,わかりません。,모르겠어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,6,君が選別組と操作組、どちらに行くかを決める。,"네가 선별조랑 조작조, 어디로 갈지 정하는 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,7,正しくは君に決めてもらうんだけどね。,정확히는 네가 정하는 거지만.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,0,そうだ。,맞아.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,0,そうだ。,맞습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,8,この数日間でいろんな事が起きたけど、二日間の研修は一応終わったからね。,"요 며칠 사이 여러 일이 있었지만, 이틀간의 연수는 일단 끝났으니까."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,9,本題に入る前に、まずはこの工場について話したい。,"본론에 들어가기 전에, 먼저 이 공장에 대해 얘기하고 싶어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,10,まずイファマネージャーだけど、少しトラブルがあったようで、当分は会社に来られないそうだ。,"우선 이화 매니저인데, 약간 문제가 있었던 것 같아서, 당분간 회사에 못 나온다더라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,1,当分ではなく、永遠に来られないだろうな……,"당분간이 아니라, 영원히 못 오겠지……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,2,この二人はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 두 사람은 이화 요에 대해, 얼마나 전해 들었을까……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,2,この二人はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 두 사람은 여이화에 대해, 얼마나 전해 들었을까……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,11,現在サイレントは会社の規定により、各組のチーフが管理している。,"현재 사일런트는 회사 규정에 따라, 각 조의 팀장이 관리하고 있어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,1,でも操作組のチーフはとある事故により、会社に来れない状況です。そのため今は私が代理で管理しています。,"그런데 조작조 팀장은 어떤 사고로 인해, 회사에 못 나오는 상황이에요. 그래서 지금은 제가 대신 관리하고 있습니다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,3,シュンが苦笑いを浮かべている……,슌이 쓴웃음을 짓고 있다……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,4,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세라 씨가 팀장을 때렸었지.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,12,結論を言うと、君を採用するかどうかの決定権は僕とシュン･ゴに移された。,"결론부터 말하면, 너를 채용할지 말지의 결정권이 나랑 슌 고한테 넘어왔어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,3,シュンが苦笑いを浮かべている……,준이 쓴웃음을 짓고 있다……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,4,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세훈 씨가 팀장을 때렸었지.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,12,結論を言うと、君を採用するかどうかの決定権は僕とシュン･ゴに移された。,"결론부터 말하면, 너를 채용할지 말지의 결정권이 나랑 오준한테 넘어왔어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,13,こっからがややこしい話なんだけど、僕たちは二人とも君を採用したいと思っている。,"여기부터가 좀 복잡한 얘기인데, 우리 둘 다 너를 채용하고 싶어 해."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,14,だから話し合った結果、君自身に決めてもらうという流れになったんだ。,"그래서 상의한 결과, 너 스스로 정하게 하는 걸로 얘기가 됐어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,15,急な話だし、この場で少し考えてもいい。決定権は君が持っているわけだしね,"갑작스러운 얘기니까, 이 자리에서 좀 생각해봐도 돼. 결정권은 네가 갖고 있는 거니까"
@@ -112,12 +112,12 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,14,手間暇かけて、あなたたちに教える責任はこちらにないはずです。我々プロを信じればいいだけの話です。,"수고를 들여서, 당신들한테 가르칠 책임은 우리한테 없어요. 그냥 우리 전문가들을 믿으면 되는 얘기예요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,29,君の言うプロはただ上からものを言うだけだ。,네가 말하는 전문가는 그냥 위에서 내려다보고 말하는 것뿐이야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,15,よくも……,잘도……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,16,もう何とでも言ってください。ジェイ･ダイはあなたと違って、操作組の現状を見ました。,"이제 뭐라고 하든 말든 하세요. 제이 다이는 당신과 달리, 조작조의 현 상황을 봤어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,16,もう何とでも言ってください。ジェイ･ダイはあなたと違って、操作組の現状を見ました。,"이제 뭐라고 하든 말든 하세요. 최제이는 당신과 달리, 조작조의 현 상황을 봤어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,17,彼なら、私たちがどういう状況なのか知っています。,"그 사람이라면, 우리가 어떤 상황인지 알고 있어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,30,それを言うなら、選別組にもいた。僕たちの頑張りを彼なら知っているはずさ。,"그렇게 말하면, 선별조에도 있었어. 우리가 얼마나 애쓰는지 그 사람이라면 알고 있을 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,18,じゃ、彼に選ばせればいいでしょう。,"그럼, 그 사람이 고르게 하면 되잖아요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,31,ああ、本来そういう話だろう？,"그래, 원래 그런 얘기였잖아?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,19,ジェイ･ダイ、あなたはどっちを選ぶのですか？,"제이 다이, 당신은 어느 쪽을 고를 건가요?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,19,ジェイ･ダイ、あなたはどっちを選ぶのですか？,"최제이, 당신은 어느 쪽을 고를 건가요?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,5,二人が俺を睨んでくる……,두 사람이 나를 노려본다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,11,もう少し、質問をしても？,"좀 더, 질문해도 될까요?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,32,ああ、なんでも聞いて。,"그래, 뭐든 물어봐."
@@ -137,11 +137,11 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,39,信じないだろうけど、君が言っていたそういう仕組みは存在しないんだよ。,"안 믿기겠지만, 네가 말한 그런 시스템은 존재하지 않아."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,13,選別組はただ、そういう人を助けたいだけだと思います。,"선별조는 그냥, 그런 사람들을 돕고 싶은 것뿐이라고 생각해요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,40,ほらね。,거 봐.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,6,シュン･ゴはこれ以上、口を挟む気はなさそうだ……,"슌 고는 더 이상, 끼어들 생각이 없어 보인다……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,6,シュン･ゴはこれ以上、口を挟む気はなさそうだ……,"오준은 더 이상, 끼어들 생각이 없어 보인다……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,14,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,41,他に質問は？,다른 질문은?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,15,操作組は本当に工場閉鎖に賛成ですか？,조작조는 정말 공장 폐쇄에 찬성인가요?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,26,そうだ。,맞아.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,26,そうだ。,맞습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,27,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,7,理由を説明する気はなさそうだ……,이유를 설명할 생각은 없어 보인다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,16,じゃ、私は失業者になるのですか？,"그럼, 저는 실업자가 되는 건가요?"
@@ -165,7 +165,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,46,でも……,하지만……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,47,そうか。現実的な理由だね。,그렇구나. 현실적인 이유네.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,48,ちゃんと考えた上で決めたなら、僕も言うことはないよ。,"제대로 생각하고 정한 거라면, 나도 더 할 말은 없어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,49,じゃ僕はここで。後はシュン･ゴが説明するから。,그럼 나는 여기까지. 나머지는 슌 고가 설명해줄 테니까.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,49,じゃ僕はここで。後はシュン･ゴが説明するから。,그럼 나는 여기까지. 나머지는 오준이 설명해줄 테니까.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,50,そうだ。この機会に二人に伝えておきたいことがある。,맞다. 이 기회에 두 사람한테 전해두고 싶은 게 있어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,51,選別組全体の決定権があるうちに、現状を少し変えたいと思っている。,"선별조 전체 결정권이 있는 동안, 지금 상황을 좀 바꾸고 싶어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,32,どういうことです？,무슨 말씀이시죠?
@@ -175,7 +175,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,54,僕は何年もこの計画を推し進めていた。それにこの件について本社は、各工場の判断で決めていいと同意をもらっている。,"나는 몇 년째 이 계획을 추진해왔어. 게다가 이 건에 대해서 본사한테서, 각 공장 판단에 맡겨도 된다는 동의를 받았고."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,55,ただイファマネージャーがずっとそれを止めていただけだ。彼女は本社の怒りに触れるのを恐れたんだろうけど、僕は臆したりはしない。,"그저 이화 매니저가 계속 그걸 막고 있었을 뿐이야. 그 사람은 본사의 노여움을 사는 게 두려웠던 거겠지만, 나는 겁먹지 않아."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,34,よくも……,잘도……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,56,シュン、僕は君と話していた目標を達成させたい。そうなれば、二つの組は協力関係を築けるはずだ。,"슌, 나는 너랑 얘기했던 목표를 이루고 싶어. 그렇게 되면, 두 조가 협력 관계를 쌓을 수 있을 거야."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,56,シュン、僕は君と話していた目標を達成させたい。そうなれば、二つの組は協力関係を築けるはずだ。,"준, 나는 너랑 얘기했던 목표를 이루고 싶어. 그렇게 되면, 두 조가 협력 관계를 쌓을 수 있을 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,57,僕はずっとあの日の言葉を忘れず、尽力してきたが君はどうなんだ？,"나는 계속 그날의 말을 잊지 않고, 힘써왔는데 너는 어때?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,35,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,58,みんなが君を歓迎していると言ったのは本当だよ、ジェイ。,"다들 너를 환영한다고 한 건 진심이야, 제이."
@@ -207,12 +207,12 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,35,大きな会社ならよくあることかなと思って。,큰 회사면 흔히 있는 일이지 않을까 싶어서요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,47,なるほど、しかしこういった事が頻繁に起きたりはしませんよ。,"그렇군요, 하지만 이런 일이 자주 일어나지는 않아요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,48,正直に言って、彼女の行動が未だに信じられません……,"솔직히 말해서, 그 사람 행동이 아직도 믿기지 않아요……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,49,それとイー･テイが言っていた、イファが本社の怒りに触れないために組間の交流を制限してた話ですが……,"그리고 이웨이가 말했던, 이화가 본사의 노여움을 사지 않으려고 조 간 교류를 제한했다는 얘기 말인데요……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,49,それとイー･テイが言っていた、イファが本社の怒りに触れないために組間の交流を制限してた話ですが……,"그리고 정원임이 말했던, 이화가 본사의 노여움을 사지 않으려고 조 간 교류를 제한했다는 얘기 말인데요……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,10,彼は困惑と怒りが入り交じっているようだ……？,"이 사람, 당혹감과 분노가 뒤섞여 있는 것 같다……?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,50,はぁ……,하아……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,51,私には理解できない他の理由があったのでしょう。,저로서는 이해 못 할 다른 이유가 있었겠죠.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,36,了解。,알겠습니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,52,よし。,좋아.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,52,よし。,좋습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,37,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,53,多分この状況は来週の月曜日まで続くと思います。月曜日以降に正式に配属されるはずです。,아마 이 상황은 다음 주 월요일까지 계속될 거예요. 월요일 이후에 정식으로 배치될 거고요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,54,配属は先になりますが、それまでに工場での生活に慣れておくのがいいかもしれません。,"배치는 나중이지만, 그때까지 공장 생활에 익숙해지시는 게 좋을지도 몰라요."
@@ -226,21 +226,21 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,59,あなたは工場内部へのアクセス権限を持ってはいますが、仕事は来週からになります。,"당신은 공장 내부 접근 권한은 있지만, 업무는 다음 주부터예요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,60,空いたこの時間を有効に使ってください。選別組に行きたいのでしたら、それも構いません。,"빈 시간을 유용하게 쓰세요. 선별조에 가고 싶으시다면, 그것도 상관없고요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,11,選別組の話になると、彼は露骨に嫌な顔をするな。,"선별조 얘기만 나오면, 이 사람 노골적으로 싫은 티를 내는군."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,41,あなたとイー･テイのことは、もったいないと思います。,"당신이랑 이웨이 사이, 아깝다고 생각해요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,41,あなたとイー･テイのことは、もったいないと思います。,"당신이랑 정원임 사이, 아깝다고 생각해요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,61,そうですね……,그러게요……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,62,昔の彼は、私の判断を信頼してくれてましたが、今は何を話しても証拠をくれと言うのです。,"예전의 그 사람은, 제 판단을 믿어줬는데, 지금은 무슨 말을 해도 증거를 달라고 해요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,63,でも説明を求められるより、私が我慢ならないのは……,"그런데 설명을 요구받는 것보다, 제가 못 참겠는 건……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,42,彼からの不信感ですか。,그쪽의 불신감인가요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,64,そうだ。,맞아.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,64,そうだ。,맞습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,65,なかなか鋭いですね。,꽤 예리하시네요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,66,昨日も、イー･テイの私への考えを言い当てていましたね。,"어제도, 이웨이가 저를 어떻게 생각하는지 정확히 맞히셨었죠."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,66,昨日も、イー･テイの私への考えを言い当てていましたね。,"어제도, 정원임이 저를 어떻게 생각하는지 정확히 맞히셨었죠."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,43,彼が自ら学ぼうとしないからですか？,그 사람이 스스로 배우려 하지 않아서인가요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,67,いいえ、そんなことはありません。ただ……,"아뇨, 그런 건 아니에요. 그냥……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,68,何故か私に突っかかってくるのです。,왜인지 저한테 자꾸 시비를 걸어와요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,44,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,69,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,70,とにかく、私はもう彼のことがわかりません……,"아무튼, 저는 이제 그 사람을 모르겠어요……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,45,何を言ってもイー･テイには無駄、ということですか？,무슨 말을 해도 이웨이한테는 소용없다는 건가요?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,45,何を言ってもイー･テイには無駄、ということですか？,무슨 말을 해도 정원임한테는 소용없다는 건가요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,71,そうですね……,그러게요……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,72,聞く耳を持ちません。,귀담아듣질 않아요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,46,……,……
@@ -255,7 +255,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,49,選別組に入りたいです。,선별조에 들어가고 싶습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,62,やった！,됐다!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,78,わかりました。良いと思います。,알겠습니다. 좋다고 생각해요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,50,シュン、すみません。,"슌, 죄송해요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,50,シュン、すみません。,"준, 죄송해요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,79,謝る必要はありませんよ。,사과할 필요 없어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,51,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,80,他を選んでも構わないと言ったはずですよ？,다른 걸 골라도 상관없다고 말했을 텐데요?
@@ -364,13 +364,13 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,118,でもその前に、この工場について話したい。,"근데 그 전에, 이 공장에 대해서 얘기하고 싶어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,119,まずイファマネージャーだけど、少しトラブルがあったようで、当分は会社に来られないそうだ。,"우선 이화 매니저인데, 약간 문제가 있었던 것 같아서, 당분간 회사에 못 나온다더라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,20,当分ではなく、永遠に来られないだろうな……,"당분간이 아니라, 영원히 못 오겠지……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,21,彼はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 사람은 이화 요에 대해, 얼마나 전해 들었을까……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,21,彼はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 사람은 여이화에 대해, 얼마나 전해 들었을까……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,120,現在サイレントは会社の規定により、各組のチーフが管理している。,"현재 사일런트는 회사 규정에 따라, 각 조의 팀장이 관리하고 있어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,121,でも操作組のチーフはとある事故により、会社に来れない状況だ。あっちは今シュン･ゴが代理で管理している。,"그런데 조작조 팀장은 어떤 사고 때문에, 회사에 못 나오는 상황이야. 거긴 지금 슌 고가 대신 관리하고 있어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,121,でも操作組のチーフはとある事故により、会社に来れない状況だ。あっちは今シュン･ゴが代理で管理している。,"그런데 조작조 팀장은 어떤 사고 때문에, 회사에 못 나오는 상황이야. 거긴 지금 오준이 대신 관리하고 있어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,22,事故？,사고?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,23,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세라 씨가 팀장을 때렸었지.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,122,結論を言うと、君を採用するかどうかの決定権は僕とシュン･ゴに移された。,"결론부터 말하면, 너를 채용할지 말지의 결정권이 나랑 슌 고한테 넘어왔어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,123,残念ながら、シュンは君を採用しないようだ。,"안타깝게도, 슌은 너를 채용 안 할 것 같아."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,23,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세훈 씨가 팀장을 때렸었지.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,122,結論を言うと、君を採用するかどうかの決定権は僕とシュン･ゴに移された。,"결론부터 말하면, 너를 채용할지 말지의 결정권이 나랑 오준한테 넘어왔어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,123,残念ながら、シュンは君を採用しないようだ。,"안타깝게도, 준은 너를 채용 안 할 것 같아."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,24,それは昨日、本人から聞いたな……,"그건 어제, 본인한테 직접 들었었지……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,124,落ち込む必要はないよ！良いニュースだ！,낙심할 필요 없어! 좋은 소식이야!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,125,僕は君を採用しようと思う！,나는 너를 채용하려고 해!
@@ -462,16 +462,16 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,86,でもその前に、この工場について話したい。,"근데 그 전에, 이 공장에 대해서 얘기하고 싶어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,87,まずイファマネージャーだけど、少しトラブルがあったようで、当分は会社に来られないそうだ。,"우선 이화 매니저인데, 약간 문제가 있었던 것 같아서, 당분간 회사에 못 나온다더라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,33,当分ではなく、永遠に来られないだろうな……,"당분간이 아니라, 영원히 못 오겠지……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,34,彼はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 사람은 이화 요에 대해, 얼마나 전해 들었을까……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,34,彼はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 사람은 여이화에 대해, 얼마나 전해 들었을까……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,88,現在サイレントは会社の規定により、各組のチーフが管理している。,"현재 사일런트는 회사 규정에 따라, 각 조의 팀장이 관리하고 있어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,89,ですが操作組のチーフはとある事故により、会社に来れない状況のため、私が代理で管理しています。,"다만 조작조 팀장은 어떤 사고로 인해, 회사에 못 나오는 상황이라, 제가 대신 관리하고 있어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,35,事故？,사고?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,36,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세라 씨가 팀장을 때렸었지.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,90,結論として、あなたを採用するかどうかの決定権は私とイー･テイに移されました。,"결론적으로, 당신을 채용할지 말지의 결정권은 저와 이웨이한테 넘어왔습니다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,91,残念ながら、シュンはあなたを採用しないようです。,"안타깝게도, 슌은 당신을 채용 안 할 것 같습니다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,36,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세훈 씨가 팀장을 때렸었지.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,90,結論として、あなたを採用するかどうかの決定権は私とイー･テイに移されました。,"결론적으로, 당신을 채용할지 말지의 결정권은 저와 정원임한테 넘어왔습니다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,91,残念ながら、シュンはあなたを採用しないようです。,"안타깝게도, 준은 당신을 채용 안 할 것 같습니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,37,だろうな。,그렇겠지.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,38,イファ･ヨウから散々怒られたからな。,이화 요한테 실컷 혼났었으니까.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,39,イー･テイからの印象も良くなかったはずだ……,이웨이한테도 인상이 안 좋았을 텐데……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,38,イファ･ヨウから散々怒られたからな。,여이화한테 실컷 혼났었으니까.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,39,イー･テイからの印象も良くなかったはずだ……,정원임한테도 인상이 안 좋았을 텐데……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,92,ですが、私はあなたを採用したいと思っています。,"하지만, 저는 당신을 채용하고 싶습니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,93,だからここで待っていました。,그래서 여기서 기다리고 있었어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,94,操作組へようこそ。ジェイ！,조작조에 온 걸 환영합니다. 제이!
@@ -500,7 +500,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,125,大きな会社ならよくあることかなと思って。,큰 회사면 흔히 있는 일이지 않을까 싶어서요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,106,なるほど、しかしこういった事が頻繁に起きたりはしませんよ。,"그렇군요, 하지만 이런 일이 자주 일어나지는 않아요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,107,正直に言って、彼女の行動が未だに信じられません……,"솔직히 말해서, 그 사람 행동이 아직도 믿기지 않아요……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,108,それとイー･テイが言っていた、イファが本社の怒りに触れないために組間の交流を制限してた話ですが……,"그리고 이웨이가 말했던, 이화가 본사의 노여움을 사지 않으려고 조 간 교류를 제한했다는 얘기 말인데요……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,108,それとイー･テイが言っていた、イファが本社の怒りに触れないために組間の交流を制限してた話ですが……,"그리고 정원임이 말했던, 이화가 본사의 노여움을 사지 않으려고 조 간 교류를 제한했다는 얘기 말인데요……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,41,彼は困惑と怒りが入り交じっているようだ……？,"이 사람, 당혹감과 분노가 뒤섞여 있는 것 같다……?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,109,はぁ……,하아……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,110,私には理解できない他の理由があったのでしょう。,저로서는 이해 못 할 다른 이유가 있었겠죠.
@@ -519,21 +519,21 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,118,あなたは工場内部へのアクセス権限を持ってはいますが、仕事は来週からになります。,"당신은 공장 내부 접근 권한은 있지만, 업무는 다음 주부터예요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,119,空いたこの時間を有効に使ってください。選別組に行きたいのでしたら、それも構いません。,"빈 시간을 유용하게 쓰세요. 선별조에 가고 싶으시다면, 그것도 상관없고요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,42,選別組の話になると、彼は露骨に嫌な顔をするな。,"선별조 얘기만 나오면, 이 사람 노골적으로 싫은 티를 내는군."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,131,あなたとイー･テイのことは、もったいないと思います。,"당신이랑 이웨이 사이, 아깝다고 생각해요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,131,あなたとイー･テイのことは、もったいないと思います。,"당신이랑 정원임 사이, 아깝다고 생각해요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,120,そうですね……,그러게요……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,121,昔の彼は、私の判断を信頼してくれてましたが、今は何を話しても証拠をくれと言うのです。,"예전의 그 사람은, 제 판단을 믿어줬는데, 지금은 무슨 말을 해도 증거를 달라고 해요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,122,でも説明を求められるより、私が我慢ならないのは……,"그런데 설명을 요구받는 것보다, 제가 못 참겠는 건……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,132,彼からの不信感ですか。,그쪽의 불신감인가요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,123,そうだ。,맞아.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,123,そうだ。,맞습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,124,なかなか鋭いですね。,꽤 예리하시네요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,125,昨日も、イー･テイの私への考えを言い当てていましたね。,"어제도, 이웨이가 저를 어떻게 생각하는지 정확히 맞히셨었죠."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,125,昨日も、イー･テイの私への考えを言い当てていましたね。,"어제도, 정원임이 저를 어떻게 생각하는지 정확히 맞히셨었죠."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,133,彼が自ら学ぼうとしないからですか？,그 사람이 스스로 배우려 하지 않아서인가요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,126,いいえ、そんなことはありません。ただ……,"아뇨, 그런 건 아니에요. 그냥……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,127,何故か私に突っかかってくるのです。,왜인지 저한테 자꾸 시비를 걸어와요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,134,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,128,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,129,とにかく、私はもう彼のことがわかりません……,"아무튼, 저는 이제 그 사람을 모르겠어요……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,135,何を言ってもイー･テイには無駄、ということですか？,무슨 말을 해도 이웨이한테는 소용없다는 건가요?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,135,何を言ってもイー･テイには無駄、ということですか？,무슨 말을 해도 정원임한테는 소용없다는 건가요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,130,そうですね……,그러게요……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,シュン･ゴ,131,聞く耳を持ちません。,귀담아듣질 않아요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,136,……,……
@@ -564,18 +564,18 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,183,まずは工場について話をさせてほしい。,우선 공장에 대해 얘기하게 해줘.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,184,まずイファマネージャーだけど、少しトラブルがあったようで、当分は会社に来られないそうだ。,"우선 이화 매니저인데, 약간 문제가 있었던 것 같아서, 당분간 회사에 못 나온다더라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,46,当分ではなく、永遠に来られないだろうな……,"당분간이 아니라, 영원히 못 오겠지……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,47,彼はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 사람은 이화 요에 대해, 얼마나 전해 들었을까……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,47,彼はイファ･ヨウについて、どれくらい知らされているのだろうか……,"이 사람은 여이화에 대해, 얼마나 전해 들었을까……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,185,現在サイレントは会社の規定により、各組のチーフが管理している。,"현재 사일런트는 회사 규정에 따라, 각 조의 팀장이 관리하고 있어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,186,でも操作組のチーフはとある事故により、会社に来れない状況だ。あっちは今シュン･ゴが代理で管理している。,"그런데 조작조 팀장은 어떤 사고 때문에, 회사에 못 나오는 상황이야. 거긴 지금 슌 고가 대신 관리하고 있어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,186,でも操作組のチーフはとある事故により、会社に来れない状況だ。あっちは今シュン･ゴが代理で管理している。,"그런데 조작조 팀장은 어떤 사고 때문에, 회사에 못 나오는 상황이야. 거긴 지금 오준이 대신 관리하고 있어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,48,事故？,사고?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,49,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세라 씨가 팀장을 때렸었지.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,187,結論を言うと、君を採用するかどうかの決定権は僕とシュン･ゴに移された。,"결론부터 말하면, 너를 채용할지 말지의 결정권이 나랑 슌 고한테 넘어왔어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,145,でも、あなたもシュン･ゴも私を採用する気はないと。,"그런데, 당신도 슌 고도 저를 채용할 생각은 없다고요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,49,そうだ。昨日セラさんがチーフを殴ったんだ。,맞다. 어제 세훈 씨가 팀장을 때렸었지.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,187,結論を言うと、君を採用するかどうかの決定権は僕とシュン･ゴに移された。,"결론부터 말하면, 너를 채용할지 말지의 결정권이 나랑 오준한테 넘어왔어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,145,でも、あなたもシュン･ゴも私を採用する気はないと。,"그런데, 당신도 오준도 저를 채용할 생각은 없다고요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,188,……そうだ。,……맞아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,146,それが私の不採用と何の関係があるんですか？,그게 제 불합격이랑 무슨 상관이 있는 거죠?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,189,今から説明するよ。,지금부터 설명할게.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,147,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,190,言った通り、今のサイレントは僕とシュンが管理している。だから僕たちの権限は過去よりも大きくなっている。,"말한 대로, 지금 사일런트는 나랑 슌이 관리하고 있어. 그래서 우리 권한이 예전보다 커졌어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,190,言った通り、今のサイレントは僕とシュンが管理している。だから僕たちの権限は過去よりも大きくなっている。,"말한 대로, 지금 사일런트는 나랑 준이 관리하고 있어. 그래서 우리 권한이 예전보다 커졌어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,191,君の不採用の理由は主に、イファマネージャーからの評価によるものだ。,"네 불합격 이유는 주로, 이화 매니저의 평가 때문이야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,192,僕個人としても君はこの仕事に向いていないと思う……,나 개인적으로도 너는 이 일에 안 맞는다고 생각해……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,193,だけど僕は君を採用しようと思っている。,그렇지만 나는 너를 채용하려고 해.
@@ -612,7 +612,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,215,おっ、言ったな！じゃ仕事を頼もうかな！,"오, 말했다! 그럼 일 좀 시켜볼까!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,52,うっ……,윽……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,216,ハハ、冗談だから本気にしないでくれ……,"하하, 농담이니까 진심으로 받아들이지 마……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,53,いつものイー･テイに戻った。,평소의 이웨이로 돌아왔다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,心の声,53,いつものイー･テイに戻った。,평소의 정원임로 돌아왔다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Branch,#Simple,155,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,217,それと最期にもう一つ伝えたい事がある。,그리고 마지막으로 하나 더 전하고 싶은 게 있어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,簽約室定操作還篩選,Say,イー･テイ,218,セラーについてだけど、昨日の件でセラーは今メンテナンス中なんだ。,"지하 저장고에 대해서인데, 어제 그 일 때문에 지금 점검 중이야."
@@ -662,10 +662,10 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,0,止まりなさい、これ以上は近づかないでください。,"멈추세요, 더 이상 다가오지 마세요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,1,またあなたですか。何か用です？,또 당신입니까. 무슨 용건이시죠?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,2,ここは封鎖されているので、近づかないでください。,"여기는 봉쇄되어 있으니까, 다가오지 마세요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,心の声,0,昨日メイ･ジョと一緒にいたやつだ。,어제 메이 조랑 같이 있던 녀석이다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,心の声,0,昨日メイ･ジョと一緒にいたやつだ。,어제 서유나랑 같이 있던 녀석이다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,0,ここで何を？,여기서 뭐 하고 있는 거지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,3,証拠を集めています。,증거를 모으고 있습니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,1,イファ･ヨウに会わせてくれないか？,이화 요를 만나게 해줄 수 없나?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,1,イファ･ヨウに会わせてくれないか？,여이화를 만나게 해줄 수 없나?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,4,彼女はもうここにいません。あなたもその理由を知っているはずです。,그녀는 이제 여기 없습니다. 그 이유도 당신이 알고 있을 텐데요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,2,俺は知らない。,나는 모른다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,3,わかった。,알았어.
@@ -673,7 +673,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,5,あんたには関係のないことだ。,너랑은 상관없는 일이다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,心の声,1,案の定睨まれた。,역시나 노려봤다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,5,仕事の邪魔です。お引き取り願います。,업무 방해예요. 돌아가주세요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,6,メイ･ジョはどこにいる？,메이 조는 어디 있지?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,6,メイ･ジョはどこにいる？,서유나는 어디 있지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,シソン･リク,6,お引き取りを。,돌아가주시죠.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Branch,#Simple,7,クソ野郎が。,이 자식이.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,先去阿姨辦公室門,Say,心の声,2,言い返す気はなさそうだ……,말대꾸할 생각은 없어 보인다……
@@ -694,7 +694,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,3,でもここの給料は低いって聞きました。,근데 여기 급여가 낮다고 들었어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,ジーン･ヨウ,8,まぁ、確かにね、ハハ……,"뭐, 확실히 그렇지, 하하……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,ジーン･ヨウ,9,でも、皆いい人だよ。働きやすいと思う！,"근데, 다들 좋은 사람이야. 일하기 편할 거야!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,心の声,1,イー･テイと同じことを言っている……,이 테이랑 똑같은 말을 하고 있다……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,心の声,1,イー･テイと同じことを言っている……,정원임이랑 똑같은 말을 하고 있다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,4,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,ジーン･ヨウ,10,それで、ここには何をしに？,"그래서, 여기 뭐하러 온 거야?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,5,リョウさんからお茶を入れるようにと頼まれたんです。,요 씨한테 차를 타 오라는 부탁을 받았어요.
@@ -702,7 +702,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,心の声,2,しまった……,아차……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,6,リョウさんが、入れてもらったのを忘れてたのかもしれません。,"요 씨가, 받은 걸 잊어버리셨는지도 모르죠."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,ジーン･ヨウ,12,……そうなのかな？,……그런가?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,7,ジーンさんが忘れてると思って、念のために私にも頼んだのかもしれません。,"진 씨가 잊었다고 생각하고, 혹시나 해서 저한테도 부탁하신 걸지도 몰라요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,7,ジーンさんが忘れてると思って、念のために私にも頼んだのかもしれません。,"정은 씨가 잊었다고 생각하고, 혹시나 해서 저한테도 부탁하신 걸지도 몰라요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,ジーン･ヨウ,13,もうリョウさんったら心外だな。私、そんなにドジじゃないのに。,요 씨도 참 섭섭하게. 나 그렇게 덜렁대지 않는데.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,ジーン･ヨウ,14,とにかくお茶は私が入れたから、彼のところに持っていくね。,"아무튼 차는 내가 탔으니까, 갖다줄게."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,心の声,3,な、何とかやり過ごせたようだ……,"어, 어떻게든 넘긴 것 같다……"
@@ -744,25 +744,25 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Branch,#Simple,22,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,心の声,6,彼女との会話は一苦労だな……,이 사람이랑 대화하는 건 참 고역이군……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,23,0,あの女、嫌い。,"저 여자, 싫어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,リュウセイ･チョウ,0,どうしてっすか？ジーンさんは優しいっすよ。,왜요? 진 씨는 다정하잖아요.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,リュウセイ･チョウ,0,どうしてっすか？ジーンさんは優しいっすよ。,왜요? 정은 씨는 다정하잖아요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,23,1,あんたが大きくなったら、いつかわかるよ。,"네가 크면, 언젠가 알게 될 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,23,2,ジェイ、まずは電源を切って。,"제이, 우선 전원부터 꺼."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,23,3,まあ、あんたがやらないって言うなら、それでもいいけどね。,"뭐, 네가 안 하겠다면, 그것도 상관없지만."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,到茶水間,Say,心の声,7,この状況でよくそれが言えるな……,이 상황에서 용케 그런 말이 나오네……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,0,電力の供給が復旧した音？,전력 공급이 복구된 소리?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,1,手に入れた？,손에 넣었어?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Branch,#Simple,0,ああ。,아.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Branch,#Simple,0,ああ。,그래.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,2,さすが！,역시!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Branch,#Simple,1,さあ、どうかな？,"글쎄, 어떨까?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,リュウセイ･チョウ,0,その言い方だと、手に入れたっすね！,"그 말투 보니까, 손에 넣은 거네요!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,3,おお、リュウセイも察せられるようになったね。,"오, 류세이도 눈치챌 수 있게 됐네."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,3,おお、リュウセイも察せられるようになったね。,"오, 유성도 눈치챌 수 있게 됐네."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,リュウセイ･チョウ,1,失敗したっすか？,실패한 거예요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,4,バーカ、あの言い方は、手に入れたってことよ。,"바보야, 그 말투는, 손에 넣었단 뜻이야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,リュウセイ･チョウ,2,じゃ次は、転送機をイーちゃんのパソコンに付ければいいっすか？,"그럼 다음은, 전송기를 원짱 컴퓨터에 붙이면 되는 거예요?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,阿姨辦公室出來,Say,23,5,ええ、簡単なことだけどバレないようにね。,"응, 간단한 일이긴 한데 들키지 않게 조심해."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,0,ねえ、ジェイ。ちょっと待って。,"저기, 제이. 잠깐만."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,1,聞きたいことがあるの。,물어보고 싶은 게 있어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,0,ジーンがここにいると……,진이 여기 있으면……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,0,ジーンがここにいると……,정은이 여기 있으면……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,1,転送機をパソコンに付けるのを見られてしまう。,전송기를 컴퓨터에 다는 걸 들키고 만다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,2,ジェイが給湯室から出た後、誰か入って来なかった？,"제이가 탕비실에서 나온 다음, 누구 들어온 사람 없었어?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,0,誰も来なかったと思います。,아무도 안 온 것 같습니다.
@@ -790,7 +790,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,23,1,落ち着いて、転送機さえ付けてくれれば私が処理できるから。,"진정해, 전송기만 달아주면 내가 처리할 수 있으니까."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,23,2,今は作戦通りに行動して。,지금은 작전대로 행동해.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,15,あら、ジェイ！,"어머, 제이!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,7,ジーンがここにいると……,진이 여기 있으면……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,7,ジーンがここにいると……,정은이 여기 있으면……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,8,転送機をパソコンに付けるのを見られてしまう。,전송기를 컴퓨터에 다는 걸 들키고 만다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,16,聞いたよ。操作組を選んだんだって？,들었어. 조작조를 선택했다며?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,4,そうですね。,그러게요.
@@ -806,13 +806,13 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,7,でもここの給料は低いって聞きました。,근데 여기 급여가 낮다고 들었어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,23,まぁ、確かにね、ハハ……,"뭐, 확실히 그렇지, 하하……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,24,でも、皆いい人だよ。働きやすいと思う！,"근데, 다들 좋은 사람이야. 일하기 편할 거야!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,10,イー･テイと同じことを言っている……,이 테이랑 똑같은 말을 하고 있다……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,心の声,10,イー･テイと同じことを言っている……,정원임이랑 똑같은 말을 하고 있다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,8,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,25,そうだ、ジェイ。,"아 맞다, 제이."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,26,シンホンを見なかった？,신홍 못 봤어?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,26,シンホンを見なかった？,진형 못 봤어?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,9,契約ホールの廊下で見ました。,계약홀 복도에서 봤습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,27,そう、ならよかった。,"그래, 그럼 다행이네."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,28,今日は契約担当の人が本社に駆り出されちゃったから、シンホンに代わりを頼んだの。,"오늘 계약 담당자가 본사에 불려가서, 신홍한테 대신 부탁했거든."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,28,今日は契約担当の人が本社に駆り出されちゃったから、シンホンに代わりを頼んだの。,"오늘 계약 담당자가 본사에 불려가서, 진형한테 대신 부탁했거든."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,29,でも全く返事がないから、直接会いに行こうと思ってて。,"근데 전혀 답이 없어서, 직접 만나러 가려던 참이야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,30,教えてくれてありがとうね。,알려줘서 고마워.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,10,誰も来なかったと思います。,아무도 안 온 것 같습니다.
@@ -822,7 +822,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,11,ご苦労さまです。,수고하십니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,12,何かあったんですか？,무슨 일 있었어요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,33,ううん、大した事じゃないの。,"아니, 별일 아니야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,34,今日は契約担当の人が本社に駆り出されちゃったから、シンホンに代わりを頼んだの。,"오늘 계약 담당자가 본사에 불려가서, 신홍한테 대신 부탁했거든."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,34,今日は契約担当の人が本社に駆り出されちゃったから、シンホンに代わりを頼んだの。,"오늘 계약 담당자가 본사에 불려가서, 진형한테 대신 부탁했거든."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,35,でも全く返事がないから、直接会いに行こうと思って。,"근데 전혀 답이 없어서, 직접 만나러 가려던 참이야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,13,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,36,じゃ、先に行くね。,"그럼, 먼저 갈게."
@@ -831,9 +831,9 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,23,3,お疲れ様。これなら安全に転送機を付けられるはずよ。,수고했어. 이러면 안전하게 전송기를 달 수 있을 거야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,16,何かあったんですか？,무슨 일 있었어요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,37,ううん、大した事じゃないの。,"아니, 별일 아니야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,38,今日は契約担当の人が本社に駆り出されちゃったから、シンホンに代わりを頼んだの。,"오늘 계약 담당자가 본사에 불려가서, 신홍한테 대신 부탁했거든."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,38,今日は契約担当の人が本社に駆り出されちゃったから、シンホンに代わりを頼んだの。,"오늘 계약 담당자가 본사에 불려가서, 진형한테 대신 부탁했거든."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,39,でも全く返事がないから、直接会いに行こうと思ってて。,"근데 전혀 답이 없어서, 직접 만나러 가려던 참이야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,40,それで、シンホンを見かけたかな？,"그래서, 신홍 봤어?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,40,それで、シンホンを見かけたかな？,"그래서, 진형 봤어?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Branch,#Simple,17,はい、見ました。,"네, 봤습니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,41,そう、ならよかった。,"그래, 그럼 다행이네."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,裝轉送器經過慈恩座位,Say,ジーン･ヨウ,42,教えてくれてありがとうね。,알려줘서 고마워.
