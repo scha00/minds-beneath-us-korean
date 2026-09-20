@@ -297,10 +297,10 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,49,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,50,……リン？,……린?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,132,……ごめんなさい。,……미안해.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,133,今日はツァイさんの手伝いをしてた……,오늘은 최 씨 일을 도와주고 있었어……
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,133,今日はツァイさんの手伝いをしてた……,오늘은 최순자 씨 일을 도와주고 있었어……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,134,だって、配達システムの設定で困ってたからさ！,"그치만, 배달 시스템 설정 때문에 곤란해하고 계셨단 말이야!"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,135,ツァイさんもお年寄りだし、フルーツショップは彼女一人いなくて、操作に困ってて……,"최 씨도 연세가 많으시고, 과일 가게에 혼자뿐이라 조작을 어려워하셔서……"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,136,ツァイさんの息子も全然帰ってこないから、もし自動配達システムに問題があったら、彼女一人じゃ……,"최 씨 아들도 전혀 안 돌아오니까, 만약 자동 배달 시스템에 문제 생기면, 혼자서는……"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,135,ツァイさんもお年寄りだし、フルーツショップは彼女一人いなくて、操作に困ってて……,"최순자 씨도 연세가 많으시고, 과일 가게에 혼자뿐이라 조작을 어려워하셔서……"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,136,ツァイさんの息子も全然帰ってこないから、もし自動配達システムに問題があったら、彼女一人じゃ……,"최순자 씨 아들도 전혀 안 돌아오니까, 만약 자동 배달 시스템에 문제 생기면, 혼자서는……"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,137,……ごめん。,……미안.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,138,今日の午後はちゃんと休むって約束したのに。,오늘 오후는 제대로 쉬겠다고 약속했는데.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,139,でも、それも結構の気分転換になったのよ？,"근데, 그것도 꽤 기분 전환이 됐거든?"
@@ -509,7 +509,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Branch,#Simple,15,ああ、彼女は自分の仕事に情熱を燃やしているから。,"네, 그녀는 자기 일에 열정을 쏟고 있으니까요."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,51,金儲けなだけだろう？情熱とか。,돈벌이일 뿐이잖아? 열정 같은 거.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,52,結婚もしないし、子供も産まない……,"결혼도 안 하고, 애도 안 낳고……"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,心の声,23,リュウさんも結婚してないと思うけど……,류 씨도 결혼 안 했을 텐데……
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,心の声,23,リュウさんも結婚してないと思うけど……,임기호 씨도 결혼 안 했을 텐데……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Branch,#Simple,16,あなただって……,당신도……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,53,はあ、俺はな――,"하, 나는 말이야――"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,54,結婚したくでも相手がいないんだよ！,결혼하고 싶어도 상대가 없다고!
@@ -633,7 +633,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Branch,#Simple,56,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,128,まあ、まだ若いから、頑張ってよ！,"뭐, 아직 젊으니까, 힘내라고!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,129,邪魔したな。じゃね。,방해했네. 그럼 이만.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,0,ジェイ、リュウさんと喧嘩したの？,"제이, 류 씨랑 싸운 거야?"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,0,ジェイ、リュウさんと喧嘩したの？,"제이, 임기호 씨랑 싸운 거야?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,心の声,0,全部聞かれたんだ。,다 들렸구나.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,1,それはちょっとやり過ぎよ。確かにいやな事を言われたけど、でも……,"그건 좀 심했어. 확실히 기분 나쁜 말을 듣긴 했지만, 그래도……"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,2,向こうは年上だし、それはあんまりだよ……,"저쪽은 나이도 많고, 그건 너무했어……"
@@ -642,8 +642,8 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,5,はーあ、気分までよくなった。,"하아, 기분까지 좋아졌어."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,6,今回はもうやっちゃだめだからね。よくない事だから！,이번 같은 건 이제 하면 안 돼. 좋은 일 아니니까!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,7,ストレス発散にはなるけど、お隣さんとは仲良くするべきだよ。,"스트레스는 풀리지만, 이웃끼리는 사이좋게 지내야지."
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,8,リュウさんは……もう引っ越しするから、別に大丈夫だけどね。へへ！,"류 씨는…… 이제 이사 가니까, 딱히 상관없지만. 헤헤!"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,9,リュウさんって、うるさいよね！,"류 씨, 진짜 시끄럽더라!"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,8,リュウさんは……もう引っ越しするから、別に大丈夫だけどね。へへ！,"임기호 씨는…… 이제 이사 가니까, 딱히 상관없지만. 헤헤!"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,9,リュウさんって、うるさいよね！,"임기호 씨, 진짜 시끄럽더라!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Branch,#Simple,0,うん。,응.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,10,よくそんな冷静にいられるね。カンカンになってると思ってた。,용케 그렇게 침착하네. 엄청 화났을 줄 알았는데.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,11,それに訴えるとか言ってたし……,게다가 신고한다는 말까지 하고……
@@ -660,20 +660,20 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,19,すぐにはちょっと無理かな。,당장은 좀 힘들 것 같아.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,20,でもジェイはいつも通りみたいだね……,근데 제이는 평소랑 똑같아 보이네……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,21,最初から嫌な顔をしてた。,처음부터 싫은 표정이었지.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,22,リュウさんも別に借りないとは言ってないし、ジェイがすぐ怒った。,"류 씨도 딱히 안 빌린다고는 안 했는데, 제이가 바로 화냈잖아."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,22,リュウさんも別に借りないとは言ってないし、ジェイがすぐ怒った。,"임기호 씨도 딱히 안 빌린다고는 안 했는데, 제이가 바로 화냈잖아."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,23,ほら、さっきも話題に出てたでしょう？,"그, 아까도 얘기 나왔었잖아?"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,24,でも今回、私はジェイを応援してるよ。あのリュウさんはいつもああだから。,"근데 이번엔, 나는 제이 편이야. 그 류 씨는 항상 저러니까."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,24,でも今回、私はジェイを応援してるよ。あのリュウさんはいつもああだから。,"근데 이번엔, 나는 제이 편이야. 그 임기호 씨는 항상 저러니까."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,25,強気に出ないと、後々うやむやにされるから。,"세게 나가지 않으면, 나중에 흐지부지되니까."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,26,でも、どうしてノイズなんて気にしないと言ったの？,"근데, 왜 소음 같은 거 신경 안 쓴다고 말한 거야?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,27,うちの防音も酷いんだよ？明日眠れるのかな……,우리 집 방음도 심하단 말이야? 내일 잘 수나 있을지……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,28,ノイズ減衰器を借りるかどうかを聞いとけばいいのに……,소음 감쇠기 빌리는지 아닌지만 물어봤으면 됐을 텐데……
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,29,今はルールで必ず借りることになってるけど、あのリュウさんは有名なケチだからさ……,"지금은 규정상 반드시 빌리게 돼 있는데, 그 류 씨는 소문난 구두쇠니까……"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,29,今はルールで必ず借りることになってるけど、あのリュウさんは有名なケチだからさ……,"지금은 규정상 반드시 빌리게 돼 있는데, 그 임기호 씨는 소문난 구두쇠니까……"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,30,多分減衰器をケチろうと思って、私たちの態度を伺いに来たんじゃない？,"아마 감쇠기 값 아끼려고, 우리 눈치 살피러 온 거 아닐까?"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,31,ノイズに気にしないって言ったら、リュウさんは絶対借りないよ。,"소음 신경 안 쓴다고 하면, 류 씨는 절대 안 빌려."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,31,ノイズに気にしないって言ったら、リュウさんは絶対借りないよ。,"소음 신경 안 쓴다고 하면, 임기호 씨는 절대 안 빌려."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,32,よくやった！,잘했어!
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,33,リュウさんにごまかすチャンスを与えず、はっきりしてよかったよ。,"류 씨한테 얼버무릴 틈을 안 주고, 확실히 해서 다행이야."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,33,リュウさんにごまかすチャンスを与えず、はっきりしてよかったよ。,"임기호 씨한테 얼버무릴 틈을 안 주고, 확실히 해서 다행이야."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,34,ノイズ減衰器を借りるかどうかをはっきりするのが重要なの！,소음 감쇠기 빌릴지 말지 확실히 하는 게 중요하다고!
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,35,別にリュウさんも悪い人じゃないけど、ただケチでがめつくて――,"딱히 류 씨가 나쁜 사람은 아니지만, 그냥 인색하고 욕심이 많아서――"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,35,別にリュウさんも悪い人じゃないけど、ただケチでがめつくて――,"딱히 임기호 씨가 나쁜 사람은 아니지만, 그냥 인색하고 욕심이 많아서――"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,36,しかもいつも口が悪いし、最後の冗談なんて酷すぎるよ。,"게다가 항상 말도 험하고, 마지막 농담은 너무했어."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,37,もう忘れよう！,이제 잊어버리자!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,38,とりあえず私の頼もしい彼氏はちゃんと騒音対策を聞き出したから、ありがとうね！,"아무튼 내 든든한 남자친구가 소음 대책을 제대로 받아냈으니까, 고마워!"
@@ -686,16 +686,16 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,45,私たちに損をさせようとする人だし、怒るのもしょうがないね！,"우리한테 손해 보게 하려던 사람이니까, 화내는 것도 어쩔 수 없지!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,46,とりあえず、ご苦労様！,"아무튼, 수고했어!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,47,じつは、もう少し聞くべきだなと思ったんだ。,"실은, 좀 더 캐물어야 했다고 생각해."
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,48,あのリュウさんは騒音対策をすると言ってるけど、ノイズ減衰器を借りることはあえて言わなかったの。,"그 류 씨는 소음 대책을 한다고는 했지만, 소음 감쇠기 빌린다는 말은 일부러 안 했어."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,48,あのリュウさんは騒音対策をすると言ってるけど、ノイズ減衰器を借りることはあえて言わなかったの。,"그 임기호 씨는 소음 대책을 한다고는 했지만, 소음 감쇠기 빌린다는 말은 일부러 안 했어."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,49,多分それをケチろうと、私たちの態度を見に来たんじゃないかな？,"아마 그거 아끼려고, 우리 눈치를 보러 온 게 아닐까?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,50,多分明日は借りないと思うよ……まあ、彼は最初から借りるつもりなんてないだろうけど。,"아마 내일은 안 빌릴 것 같아…… 뭐, 애초에 빌릴 생각 자체가 없었겠지만."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,51,こんな人がお隣さんだなんて、ツイてないね。,"이런 사람이 이웃이라니, 운도 없지."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,52,でも明日でおさらばだから、もう少しの辛抱だね。,"그래도 내일이면 끝이니까, 조금만 더 참으면 돼."
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,53,そうだ、今リュウさんは私たちの結婚のことについて話してたよね……？,"맞다, 아까 류 씨가 우리 결혼 얘기하고 있었지……?"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,53,そうだ、今リュウさんは私たちの結婚のことについて話してたよね……？,"맞다, 아까 임기호 씨가 우리 결혼 얘기하고 있었지……?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,54,すごいね！,대단하네!
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,55,リュウさんだって結婚してないって言い返すとは！,류 씨도 결혼 안 했으면서 라고 받아치다니!
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,55,リュウさんだって結婚してないって言い返すとは！,임기호 씨도 결혼 안 했으면서 라고 받아치다니!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,56,ちょっと酷いけど、痛いとこに突いたよ！,"좀 심하긴 했지만, 정곡을 찔렀어!"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,57,そうだ、今リュウさんは私たちの結婚のことについて話してたよね……？,"맞다, 아까 류 씨가 우리 결혼 얘기하고 있었지……?"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,57,そうだ、今リュウさんは私たちの結婚のことについて話してたよね……？,"맞다, 아까 임기호 씨가 우리 결혼 얘기하고 있었지……?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,58,「そろそろ」ってジェイが言ってたと思うけど……,'슬슬'이라고 제이가 말했던 것 같은데……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,59,だから――,그러니까――
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,60,その「そろそろ」に期待してもいいかな？,그 '슬슬'에 기대해도 될까?
@@ -707,7 +707,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,62,じゃ、私の考えすぎということで！,"그럼, 내가 너무 앞서갔던 걸로!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Branch,#Simple,5,期待してもいいけど、どうなるかは分からないよ。,"기대해도 되는데, 어떻게 될지는 몰라."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,63,もー、つまんない！,"아, 진짜, 재미없어!"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,64,それに、まさかあのリュウさんに謝らせたとは！,"게다가, 설마 그 류 씨가 사과하게 만들 줄이야!"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,64,それに、まさかあのリュウさんに謝らせたとは！,"게다가, 설마 그 임기호 씨가 사과하게 만들 줄이야!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,65,びっくりよ。いつものジェイならとっとと帰らせたのに。,놀랐어. 평소 제이라면 진작 돌려보냈을 텐데.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,66,それに一番よかったのは、ジェイが言うべきことを言ってくれた！,"그리고 제일 좋았던 건, 제이가 할 말을 확실히 해줬다는 거야!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳最終對話,Say,リン･テイ,67,あれじゃ迷惑だって誰かが言うべきよ。,그렇게 하면 민폐라고 누군가는 말해줘야지.
@@ -739,7 +739,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,2,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,3,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,4,……そうだ。,……맞다.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,5,さっきのリュウさんの言葉……,아까 류 씨가 했던 말……
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,5,さっきのリュウさんの言葉……,아까 임기호 씨가 했던 말……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,6,覚えてないと思うけど……,기억 못 할 거라고 생각하지만……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,7,「彼女に失礼」って。,'그녀한테 실례'라는 말.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,電梯對話,Say,リン･テイ,8,……嬉しいよ。,……기뻤어.
@@ -997,8 +997,8 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,7,何を言ってるんですか？,무슨 말씀 하시는 거예요?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,8,ずっと上から音がしますけど？,계속 위에서 소리가 나는데요?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,4,<color=#8f9ba1>だからジェイさんたちじゃないって。</color>,<color=#8f9ba1>그러니까 제이 씨네가 아니라니까.</color>
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,5,<color=#8f9ba1>多分向こうのリュウさんちだよ！</color>,<color=#8f9ba1>아마 저쪽 류 씨네일 거야!</color>
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,6,<color=#8f9ba1>ほら、前回そろそろ引っ越そうってリュウさんが言ってたでしょう？</color>,"<color=#8f9ba1>그, 저번에 슬슬 이사 간다고 류 씨가 그랬잖아?</color>"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,5,<color=#8f9ba1>多分向こうのリュウさんちだよ！</color>,<color=#8f9ba1>아마 저쪽 임기호 씨네일 거야!</color>
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,6,<color=#8f9ba1>ほら、前回そろそろ引っ越そうってリュウさんが言ってたでしょう？</color>,"<color=#8f9ba1>그, 저번에 슬슬 이사 간다고 임기호 씨가 그랬잖아?</color>"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,9,えっ？そうなの？,어? 그래?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,7,<color=#8f9ba1>そうだよ！</color>,<color=#8f9ba1>그렇다니까!</color>
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,10,なんではやく言ってくれないのよ！,왜 진작 말 안 해준 거야!
@@ -1026,7 +1026,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,16,<color=#8f9ba1>それはミカが失礼だから、向こうも怒ってるの……</color>,"<color=#8f9ba1>그건 아름이 무례하게 굴어서, 저쪽도 화난 거잖아……</color>"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,20,失礼もなにも、私は回りくどいのが嫌いなの！,"무례고 뭐고, 나는 빙빙 돌려 말하는 게 싫다고!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,17,<color=#8f9ba1>とりあえず、引っ越しをしてるのはジェイさんたちじゃない。</color>,"<color=#8f9ba1>아무튼, 이사하는 건 제이 씨네가 아니야.</color>"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,18,<color=#8f9ba1>隣のリュウさんだから人間違いだよ。</color>,<color=#8f9ba1>옆집 류 씨니까 사람을 착각한 거야.</color>
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,18,<color=#8f9ba1>隣のリュウさんだから人間違いだよ。</color>,<color=#8f9ba1>옆집 임기호 씨니까 사람을 착각한 거야.</color>
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,翻水瓶程芳對話,Say,リン･テイ,0,うおお！,우와!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,翻水瓶程芳對話,Say,リン･テイ,1,すごい！,대단해!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,翻水瓶程芳對話,Say,リン･テイ,2,ジェイが失敗するところを見たことないけど！,제이가 실수하는 거 본 적 없는데!
