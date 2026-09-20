@@ -4,7 +4,7 @@
 review/*.jsonl 은 scripts/build_review_data.py 가 만든 줄 단위 4개 국어 정렬 데이터다.
 
     python3 scripts/review_tool.py files                      # 파일 목록/진행 상황
-    python3 scripts/review_tool.py show 07 0 60               # 07번 파일 0~59번 줄 보기
+    python3 scripts/review_tool.py show 07 0 60               # 07번 파일 0~59번 줄 보기(끝에 en 붙이면 영어 원문도)
     python3 scripts/review_tool.py apply fixes.tsv            # 수정 적용
     python3 scripts/review_tool.py mark 07 0 60               # 0~59번 줄 검토 완료 표시
     python3 scripts/review_tool.py find 07 "패턴"              # 한국어 칸 정규식 검색(보기용, 수정 X)
@@ -69,7 +69,7 @@ def cmd_files():
         print(f"{name}\t{rows}줄\t검토 {covered}줄")
 
 
-def cmd_show(prefix, a, b):
+def cmd_show(prefix, a, b, with_en=False):
     rows = load(prefix)
     names = speaker_names()
     last_other = {}
@@ -89,8 +89,11 @@ def cmd_show(prefix, a, b):
             ln = "나" if listener == "#Simple" else names.get(listener, listener or "?")
             who = f"{nm}→{ln}"
             hist.append(role)
+        if r["ko"].strip() in ("……", "…", "...", "") or re.fullmatch(r"[A-Za-z0-9]", r["ko"].strip()):
+            continue  # 의미 없는 줄(침묵/한 글자 입력)은 화면에서만 생략
         tag = "선" if r["type"] == "Branch" else " "
-        print(f'{r["i"]}{tag}[{who}] {r["ko"]} ‖ {r["en"]} ‖ {r["ja"]}')
+        en = f' ‖ {r["en"]}' if with_en else ""
+        print(f'{r["i"]}{tag}[{who}] {r["ko"]} ‖ {r["ja"]}{en}')
 
 
 def find_csv(prefix):
@@ -159,7 +162,7 @@ if __name__ == "__main__":
     if not c or c[0] == "files":
         cmd_files()
     elif c[0] == "show":
-        cmd_show(c[1], int(c[2]), int(c[3]))
+        cmd_show(c[1], int(c[2]), int(c[3]), len(c) > 4 and c[4] == "en")
     elif c[0] == "apply":
         cmd_apply(c[1])
     elif c[0] == "mark":

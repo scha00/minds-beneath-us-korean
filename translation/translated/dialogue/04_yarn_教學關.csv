@@ -14,7 +14,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,8,兄貴の方が先に起きてたみたいんだけど。,형님이 먼저 깨어 있었던 것 같은데요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,4,兄貴って、俺のことか？,"형님이라니, 나 말이야?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,9,他に誰がいるんすか？,다른 누가 있겠어요?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,10,北区最強密輸グループのトップ、イアン･チョーの兄貴！,"북구 최강 밀수 그룹 톱, 이안 챠오 형님이잖아요!"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,10,北区最強密輸グループのトップ、イアン･チョーの兄貴！,"북구 최강 밀수 그룹 톱, 장연안 형님이잖아요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,0,こいつ、口が上手いな。,"이 녀석, 말은 청산유수네."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,5,お前、おだて上手だな。,"너, 아부 하난 잘하는구나."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,11,そりゃもちろん！,그야 당연하죠!
@@ -66,7 +66,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,42,急に疑わないでくださいよ、兄貴。,"갑자기 의심하지 마세요, 형님."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,43,自分で頭を冷やすから、大丈夫っす。,"제가 알아서 머리 식힐 테니까, 괜찮아요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,18,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,44,俺はまず状況を整理したいと思う。,나는 일단 상황부터 정리하고 싶은데.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,44,俺はまず状況を整理したいと思う。,저는 일단 상황부터 정리하고 싶은데요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,45,そんな事より、兄貴はどう思うんすか？,"그런 것보다, 형님은 어떻게 생각해요?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,46,俺らはやはり逮捕されてます？,"우리, 역시 체포된 거예요?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,19,なぜそう思うのか理解できない。,왜 그렇게 생각하는지 이해가 안 되는데.
@@ -120,14 +120,14 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,82,とりあえず、取引は順調っす。金を払ったらマサはすぐブツをくれました。,"아무튼, 거래는 순조로웠어요. 돈 내니까 마사가 바로 물건을 줬어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,83,俺もいつも通り、手に入れたものをちゃんと運びました。,"저도 평소대로, 받은 걸 제대로 옮겼고요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,84,でもその後、俺らが車に乗り込むと、サツに付けられたんす。そっからすべての調子が狂い始めましたね。,"근데 그 후, 우리가 차에 타니까, 짭새한테 걸렸어요. 거기서부터 다 꼬이기 시작했죠."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,85,警告もサイレンもなく、出会い頭にぶっ放して来たんだ。,"경고도 사이렌도 없이, 마주치자마자 갈겨댔지."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,85,警告もサイレンもなく、出会い頭にぶっ放して来たんだ。,"경고도 사이렌도 없이, 마주치자마자 갈겨댔어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,86,俺は撃ち返そうとしたが右手を打たれ、弟は奴らの通信を傍受しようとしてたけど、変なノイズしか受信しませんでした。,"저는 반격하려다 오른손을 맞았고, 동생은 저쪽 통신을 도청하려 했는데 이상한 노이즈밖에 안 잡혔어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,87,そして兄貴が……確か……,그리고 형님이…… 아마……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,88,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,89,うっ、後ははっきりと思い出せない。,"윽, 그다음은 확실히 기억이 안 나요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,5,国道に乗る込むフリをして、サツを振り切った。,"국도로 들어가는 척하다가, 경찰을 따돌렸다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,31,サツを振り切ったんだ。,짭새를 따돌린 거야.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,90,そう、そうだよ！,"맞아, 그거예요!"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,90,そう、そうだよ！,"맞아요, 그거예요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,91,いや、見事だったっす。サツらは別の人の車を追ってたんすね！,"아니, 대단했어요. 짭새들이 딴 사람 차를 쫓고 있었다니까요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,32,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,92,その後の俺らは一旦安全になって……,그 후로 우리는 일단 안전해져서……
@@ -174,18 +174,18 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,121,そうっすね、俺がネガティブすぎたかもしれない。,"그렇네요, 제가 너무 부정적으로 생각했나 봐요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,122,でも慎重に越したことはないでしょう？,그래도 신중해서 나쁠 건 없잖아요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,43,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,8,ミンはいつもより保守的だ。何か心配してるのか？,밍은 평소보다 보수적이다. 뭘 걱정하는 거지?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,8,ミンはいつもより保守的だ。何か心配してるのか？,명한은 평소보다 보수적이다. 뭘 걱정하는 거지?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,123,逮捕されてるかどうかは置いといて、これからやることは同じっす。,"체포됐는지 아닌지는 제쳐두고, 앞으로 할 일은 똑같아요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,124,この病室から離れなきゃ！,이 병실에서 벗어나야죠!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,125,俺らが起きてもう30分が経ってるけど、看護師も医者も来る形跡がありません。,"우리 깨어난 지 벌써 30분 지났는데, 간호사도 의사도 올 기미가 없어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,126,どうなってるか分かんないけど、待ち続けてもしょうがないと思うっす。,"어떻게 된 건지 모르겠지만, 계속 기다리기만 해선 안 될 것 같아요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,127,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,9,ミンは焦っているようだ。自分でも分かってないだろう。,밍은 초조해하고 있다. 자기도 눈치 못 채고 있겠지.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,9,ミンは焦っているようだ。自分でも分かってないだろう。,명한은 초조해하고 있다. 자기도 눈치 못 채고 있겠지.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,心の声,10,なるほど、弟が心配だな？,"그렇군, 동생이 걱정되는구나?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,44,弟が心配なのか？,동생이 걱정되는 거야?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,128,ちょっとは……,조금은요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,129,会って、無事をこの目で確かめたいと思ってるっす。,"만나서, 무사한지 제 눈으로 확인하고 싶어요."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,45,ミン、俺らはきっと大丈夫だ。,"밍, 우리 분명 괜찮을 거야."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,45,ミン、俺らはきっと大丈夫だ。,"명한아, 우리 분명 괜찮을 거야."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,130,はい。,네.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Say,ミン･ツァイ,131,俺はただ……待ちきれなくて……,저는 그냥…… 못 기다리겠어서요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,Start,Branch,#Simple,46,……,……
@@ -274,12 +274,12 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,39,兄貴……病室の中で付箋とかを探してみたら？,형님…… 병실 안에서 포스트잇 같은 거 찾아보면 어때요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,40,昔、俺は弟の世話をするために、よくこういうボロ病院で寝泊まりしてました。,"옛날에, 저는 동생 돌보느라, 이런 다 낡은 병원에서 자주 지냈었어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,心の声,0,弟の世話？初耳だな。,동생을 돌봤다고? 처음 듣는 얘기군.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,心の声,1,そういえば、ミンはあまり家族の事を話さなかったな。,"그러고 보니, 밍은 가족 얘기를 별로 안 했었지."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,心の声,1,そういえば、ミンはあまり家族の事を話さなかったな。,"그러고 보니, 명한은 가족 얘기를 별로 안 했었지."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Branch,#Simple,11,弟の世話とは、どういう意味だ？,"동생을 돌봤다니, 무슨 의미야?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,41,その通りの意味っすよ。,말 그대로의 의미예요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,42,弟は昔から体が弱くて、よく入院してたんす。,"동생은 옛날부터 몸이 약해서, 자주 입원했었어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,43,俺のたった一人の家族だから、世話するしかないっすよ。,"제 유일한 가족이니까, 돌볼 수밖에 없죠."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,心の声,2,ミン……俺は……,밍…… 나는……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,心の声,2,ミン……俺は……,명한…… 나는……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Branch,#Simple,12,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,44,あの病院だったら、看護師がよく制御端末のパスワードを部屋に残してたりするから、探してみると良いかもっす。,"그 병원이면, 간호사가 제어 단말 비밀번호를 방에 남겨두곤 했으니까, 찾아보면 좋을 것 같아요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到門鎖後,Say,ミン･ツァイ,45,見つからなかったら、本当に待つしかないみたいっすね。,"못 찾으면, 진짜 기다리는 수밖에 없을 것 같네요."
@@ -296,7 +296,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查鎖頭的時候用病房控制器,Say,ミン･ツァイ,4,この端末なら病室の設備を制御できるっす。もちろん扉も。,이 단말이면 병실 설비를 제어할 수 있어요. 물론 문도요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查鎖頭的時候用病房控制器,Say,ミン･ツァイ,5,だからパスワードが分かれば話が簡単だけど……,그러니까 비밀번호만 알면 얘기가 간단한데요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查鎖頭的時候用病房控制器,Say,ミン･ツァイ,6,そんなの、分かるわけないよね……,"그런 거, 알 리가 없죠……"
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查鎖頭的時候用病房控制器,Say,ミン･ツァイ,7,とりあえず、ロックを壊せるかどうかをやってみよう。,"일단, 자물쇠를 부술 수 있는지 시도해보자."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查鎖頭的時候用病房控制器,Say,ミン･ツァイ,7,とりあえず、ロックを壊せるかどうかをやってみよう。,"일단, 자물쇠를 부술 수 있는지 시도해봐요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,一直找不到問話,Say,ミン･ツァイ,0,兄貴？,형님?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,一直找不到問話,Say,ミン･ツァイ,1,見つかってない、っすよね？,못 찾은 거죠?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,一直找不到問話,Say,ミン･ツァイ,2,……,……
@@ -354,7 +354,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,病室制御端末,7,パスワードが間違っています。,비밀번호가 틀렸습니다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,病室制御端末,8,システムがロックされました。,시스템이 잠겼습니다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,病室制御端末,9,アンロックには部門主任にご連絡ください。,잠금 해제는 부서 담당자에게 연락해 주십시오.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,ミン･ツァイ,13,まじか……,진짜냐……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,ミン･ツァイ,13,まじか……,진짜예요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,ミン･ツァイ,14,兄貴……どうしよう……,형님…… 어떡해요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,ミン･ツァイ,15,俺ら……,우리……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,病房控制器對話,Say,病室制御端末,10,複数回の入力間違いがあった場合、システムがロックされます。,"여러 차례 잘못 입력할 경우, 시스템이 잠깁니다."
@@ -451,7 +451,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Branch,#Simple,3,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Branch,#Simple,4,大丈夫、お前は眠っただけだ。,"괜찮아, 넌 그냥 잠든 것뿐이야."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Say,ミン･ツァイ,8,そうか……多分疲れたんすね。,그런가…… 아마 피곤했나 봐요.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Say,ミン･ツァイ,9,でも頭が痛くて、クソ……,"근데 머리 아파, 젠장……"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Say,ミン･ツァイ,9,でも頭が痛くて、クソ……,"근데 머리 아파요, 젠장……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Say,ミン･ツァイ,10,記憶が上手くまとまらなくて、何も思い出せない……,"기억이 잘 정리가 안 돼서, 아무것도 기억이 안 나요……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Say,ミン･ツァイ,11,兄貴、適当に一つ質問をしてみてください。,"형님, 아무거나 질문 하나 해보세요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,讓阿翰冷靜起始,Branch,#Simple,5,俺らのブツは今どこにある？,우리 물건 지금 어디 있지?
@@ -787,7 +787,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,45,大切な人を死ぬと、俺が感情を制御できないから！？,"소중한 사람이 죽으면, 제가 감정 조절을 못 할 것 같아서요!?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,46,<color=#F36B6C>俺はただの足手まといだから！？</color>,<color=#F36B6C>제가 그냥 짐짝이라서요!?</color>
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,47,<color=#F36B6C>自分のことすらコントロールできない役立たずだから？</color>,<color=#F36B6C>제 자신도 통제 못 하는 쓸모없는 놈이라서요?</color>
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,48,シンが俺にとってどんなに重要か、分かってるはずだろう！,"신이 저한테 얼마나 소중한지, 아실 거잖아요!"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,48,シンが俺にとってどんなに重要か、分かってるはずだろう！,"재영이 저한테 얼마나 소중한지, 아실 거잖아요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,49,兄貴はいつも上から偉そうに……,형님은 항상 위에서 잘난 척……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,50,このっ……,이 자식이……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,看顯示器,Say,ミン･ツァイ,51,えっ？,어?
@@ -913,8 +913,8 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,20,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,21,M.B.U.……お前に欠陥があると分かった今。,M.B.U.…… 네놈에게 결함이 있다는 걸 안 지금.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,22,手短に話そう。,간단히 말하겠다.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,23,イアン･チョーとミン･ツァイの二人は、すでにシミュレーションルームで数日間過ごしていた。,"이안 챠오와 밍 차이, 이 둘은 이미 시뮬레이션 룸에서 며칠을 보냈다."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,24,二人共何度もの改造手術を受けており、お前は今イアン･チョーを意のままにコントロールできる状態だ。,"둘 다 여러 차례 개조 수술을 받았고, 네놈은 지금 이안 챠오를 마음대로 조종할 수 있는 상태다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,23,イアン･チョーとミン･ツァイの二人は、すでにシミュレーションルームで数日間過ごしていた。,"장연안과 최명한, 이 둘은 이미 시뮬레이션 룸에서 며칠을 보냈다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,24,二人共何度もの改造手術を受けており、お前は今イアン･チョーを意のままにコントロールできる状態だ。,"둘 다 여러 차례 개조 수술을 받았고, 네놈은 지금 장연안을 마음대로 조종할 수 있는 상태다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,2,コントロール？,조종?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,25,ああ、お前が今にやっていたことだ。,"그래, 네가 지금까지 하고 있던 짓이다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,26,だがM.B.U.として、お前はすべての人をコントロールできるわけではない。,"하지만 M.B.U.로서, 네놈이 모든 인간을 조종할 수 있는 건 아니다."
@@ -923,7 +923,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,29,その対象を決めるのはこっちだ。,그 대상을 정하는 건 이쪽이다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,30,お前はただの体を持たない純粋な意識である。はやめにそれを理解したようがいいだろう。,네놈은 그저 몸이 없는 순수한 의식일 뿐이다. 일찌감치 그걸 이해하는 게 좋을 거다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,心の声,1,俺が……？,내가……?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,3,でも、俺はイアンの考えが分かる。,"근데, 나는 이안의 생각을 알 수 있는데."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,3,でも、俺はイアンの考えが分かる。,"근데, 나는 연안의 생각을 알 수 있는데."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,31,それはただの潜在意識の残留だ。気にする必要はない。,그건 그저 잠재의식의 잔류물이다. 신경 쓸 필요 없다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,32,お前が体の主導権を握っている限り、そんなのはどうでもいい。,"네놈이 몸의 주도권을 쥐고 있는 한, 그런 건 아무래도 상관없다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,4,……,……
@@ -934,7 +934,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,35,お前の今の任務はその男をコントロールして、奴の立場を使って私が必要な情報を聞き出すことだ。,"네놈의 지금 임무는 그 남자를 조종해서, 그의 입장을 이용해 내가 필요로 하는 정보를 캐내는 것이다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,36,さっきの会話で、彼らは私たちが必要としている重要なものを持っていたと証明された。,"방금 그 대화로, 그들이 우리가 필요로 하는 중요한 물건을 갖고 있었다는 게 증명되었다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,37,今、そのものが<color=#E7D6A9>隠されている詳細な座標</color>を聞き出せ。,"지금, 그 물건이 <color=#E7D6A9>숨겨진 정확한 좌표</color>를 캐내라."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,38,情報を聞き出すために、こちらからミン･ツァイを起こす。,"정보를 캐내기 위해, 이쪽에서 밍 차이를 깨우겠다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,38,情報を聞き出すために、こちらからミン･ツァイを起こす。,"정보를 캐내기 위해, 이쪽에서 최명한을 깨우겠다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,39,理解したか？,이해했나?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,7,はい。,네.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,40,よくやった。,잘했다.
@@ -950,14 +950,14 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,47,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,48,ちょっと借りる。,잠깐 빌리지.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,49,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,50,ミン･ツァイのデータはここにある。,밍 차이의 데이터는 여기 있다.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,50,ミン･ツァイのデータはここにある。,최명한의 데이터는 여기 있다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,51,……見た通り、車事故で彼の8割の内臓が痛み、衰弱している。,"……보다시피, 차 사고로 그의 내장 80퍼센트가 손상되어, 쇠약해진 상태다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,52,今まだ動けるのは、13部門が再生器官の手術をしたからだ。,"지금 그나마 움직일 수 있는 건, 13부문이 재생 장기 수술을 했기 때문이다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,53,つまり、彼を生かすために我々だって対価を払っている。,"즉, 그를 살리기 위해 우리도 대가를 치르고 있다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,54,私たちはただで治療を行うつもりはない。,우리는 공짜로 치료해줄 생각은 없다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,55,だから今、2つの選択肢がある。,"그러니 지금, 두 가지 선택지가 있다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,56,1、お前が責務を全うし、私が必要としている情報を手に入れる。,"1, 네놈이 임무를 완수해, 내가 필요로 하는 정보를 손에 넣는다."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,57,成功してから、ミン･ツァイの命を助けよう。それからイアン･チョーと共に、我々の駒として社会に戻す。,"성공하면, 밍 차이의 목숨을 살려주지. 그 후 이안 챠오와 함께, 우리의 말로 사회에 돌려보낸다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,57,成功してから、ミン･ツァイの命を助けよう。それからイアン･チョーと共に、我々の駒として社会に戻す。,"성공하면, 최명한의 목숨을 살려주지. 그 후 장연안과 함께, 우리의 말로 사회에 돌려보낸다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,58,2、今すぐ彼の意識を分解し、記憶をスキャンして「もの」の場所を特定する。,"2, 지금 즉시 그의 의식을 분해해, 기억을 스캔해서 '물건'의 위치를 특정한다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,59,人間にとって、意識のスキャンは死を意味する。だから俺も使える駒を失うことになる。,"인간에게, 의식 스캔은 죽음을 의미한다. 그러니 나로서도 쓸 수 있는 말을 하나 잃게 되는 셈이다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,60,お前は不良品だったが、私はまだ期待している。,"네놈은 불량품이었지만, 나는 아직 기대하고 있다."
@@ -971,14 +971,14 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,66,目標が病室から離れようとする、または感情を制御できなくなると、「中止」するから。,"목표가 병실을 벗어나려 하거나, 혹은 감정을 제어하지 못하게 되면, '중지'시킬 것이다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,67,自分の任務にだけ専念すればいい。,네놈은 그저 자신의 임무에만 전념하면 된다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,13,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,68,準備が終わったら、私の前にある椅子に座れ。ミン･ツァイを呼び起こす。,"준비가 끝나면, 내 앞에 있는 의자에 앉아라. 밍 차이를 깨우겠다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,68,準備が終わったら、私の前にある椅子に座れ。ミン･ツァイを呼び起こす。,"준비가 끝나면, 내 앞에 있는 의자에 앉아라. 최명한을 깨우겠다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,69,始めてくれ。,시작해라.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,0,よくやった。目的情報を手に入れたな。,잘했다. 목적한 정보를 손에 넣었군.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,1,……想像以上の働きだ。,……상상 이상의 성과다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,0,俺、成功したのか？,"내가, 성공한 건가?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,1,彼の最後の言葉、何かおかしい。,"그의 마지막 말, 뭔가 이상하다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,2,そう考えるのも仕方ない。,그렇게 생각하는 것도 무리는 아니지.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,3,ミン･ツァイが言った情報は秘密事項だ。,밍 차이가 말한 정보는 기밀 사항이다.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,3,ミン･ツァイが言った情報は秘密事項だ。,최명한이 말한 정보는 기밀 사항이다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,4,お前に理解できないように細工しといた。,네놈이 이해할 수 없도록 손을 써두었지.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,2,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,5,……,……
@@ -990,7 +990,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,9,私はお前と何も約束していない。,나는 네놈과 아무 약속도 하지 않았다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,10,騙したとはならないはずだ。,속인 게 될 수는 없지.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,11,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,12,どうやら、お前はミン･ツァイが気になるようだな。,"아무래도, 네놈은 밍 차이가 신경 쓰이는 모양이군."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,12,どうやら、お前はミン･ツァイが気になるようだな。,"아무래도, 네놈은 최명한이 신경 쓰이는 모양이군."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,5,彼とは関係ない。俺はただお前に不満を持っているだけだ。,그와는 상관없다. 나는 그저 너한테 불만이 있을 뿐이야.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,13,なら、彼の命を助けようか？,"그럼, 그의 목숨을 살려줄까?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,6,彼を助けてくれ。,그를 살려줘.
@@ -1026,7 +1026,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,39,なぜ目標を外に出した？,왜 목표를 밖으로 내보냈지?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,40,では、棚の上にある<color=#F36B6C>青色の注射器</color>を確認してくれ。,"그럼, 선반 위에 있는 <color=#F36B6C>파란 주사기</color>를 확인해라."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,41,そこに書いてある番号を教えろ。,거기 적힌 번호를 말해라.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,42,ミン･ツァイにそれを注射する。,밍 차이에게 그걸 주사한다.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,42,ミン･ツァイにそれを注射する。,최명한에게 그걸 주사한다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,11,なぜそんなことを？,왜 그런 짓을?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Branch,#Simple,12,注射器の中身はなんだ？,주사기 안 내용물은 뭐지?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,校準者講評,Say,校合者,43,お前とは無関係のことだ。,네놈과는 상관없는 일이다.
@@ -1058,7 +1058,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,阿翰被打倒後對話,Say,校合者,1,有効だったな。,유효했군.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,阿翰被打倒後對話,Say,校合者,2,お前は戦闘が必要な場面では確かに有用だ。,네놈은 전투가 필요한 상황에서는 확실히 유용하군.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,阿翰被打倒後對話,Say,心の声,0,俺……が……,내……가……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,阿翰被打倒後對話,Say,校合者,3,……よし、ではまずミン･ツァイの状況を調べろ。,"……좋다, 그럼 먼저 밍 차이의 상태를 살펴봐라."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,阿翰被打倒後對話,Say,校合者,3,……よし、ではまずミン･ツァイの状況を調べろ。,"……좋다, 그럼 먼저 최명한의 상태를 살펴봐라."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,阿翰被打倒後對話,Say,校合者,4,確認したらこちらに来るように。,확인이 끝나면 이쪽으로 오도록.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Say,校合者,0,失敗したようだ。お前が成功するまでに確かめるぞ。,실패한 모양이군. 네놈이 성공할 때까지 계속 확인하겠다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Branch,#Simple,0,何をした？,뭘 한 거야?
@@ -1068,7 +1068,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Branch,#Simple,2,別に俺はまだ死んでないから。,"뭐, 나는 아직 안 죽었으니까."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Say,校合者,3,状況的に、そうかもな。,"상황상, 그럴지도 모르지."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Branch,#Simple,3,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Branch,#Simple,4,ミン･ツァイがどうなった？,밍 차이가 어떻게 된 거야?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Branch,#Simple,4,ミン･ツァイがどうなった？,최명한이 어떻게 된 거야?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Say,校合者,4,ご覧の通り、今は極めて攻撃性が高い。,"보다시피, 지금은 극도로 공격성이 높다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Say,校合者,5,だから彼を<color=#F36B6C>倒す</color>必要がある。,그러니 그를 <color=#F36B6C>쓰러뜨릴</color> 필요가 있다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,第一次失敗後要進行的對話,Say,校合者,6,それ以外は、何も知る必要がない。,"그 외에는, 알 필요 없다."
@@ -1082,7 +1082,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Branch,#Simple,0,彼は死んだ。,그는 죽었다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,1,よくやった。,잘했다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,0,もう十分だ……,이제 됐어……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,1,ミン……シン……,밍…… 신……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,1,ミン……シン……,명한…… 재영……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,2,必要なデータは手に入った。,필요한 데이터는 손에 넣었다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Branch,#Simple,1,また騙したのか。,또 속인 거냐.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,3,いや、私は彼を殺していない。,"아니, 나는 그를 죽이지 않았다."
@@ -1114,12 +1114,12 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,19,M.B.U.、何か異常は？,"M.B.U., 뭔가 이상은?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,4,なぜ俺がそんなことを……？,왜 내가 그런 말을……?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,5,俺はただ指示を受けただけで……,나는 그냥 지시를 받았을 뿐인데……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,20,イアン･チョーの感情が激しく変化している……,이안 챠오의 감정이 격하게 변화하고 있다……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,20,イアン･チョーの感情が激しく変化している……,장연안의 감정이 격하게 변화하고 있다……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,21,成年後の改造だから……安定性が悪いのか。,성인 이후의 개조라…… 안정성이 나쁜 건가.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,6,ミンや、シンの面倒を見ると俺は約束していた……,"밍이랑, 신을 챙겨주겠다고 나는 약속했었는데……"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,6,ミンや、シンの面倒を見ると俺は約束していた……,"명한이랑, 재영을 챙겨주겠다고 나는 약속했었는데……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,22,ふむ……データだと、彼は悲しんで、かなり取り乱しているようだ。,"흠…… 데이터로는, 그가 슬퍼하며, 상당히 동요하고 있는 듯하다."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,7,この手に……ミンの喉の感触がまだ残っている……,이 손에…… 밍의 목을 조른 감촉이 아직 남아 있어……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,23,どうだ？イアン･チョーはまだ反抗しているのか？,어떤가? 이안 챠오는 아직도 반항하고 있나?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,7,この手に……ミンの喉の感触がまだ残っている……,이 손에…… 명한의 목을 조른 감촉이 아직 남아 있어……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,23,どうだ？イアン･チョーはまだ反抗しているのか？,어떤가? 장연안은 아직도 반항하고 있나?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,心の声,8,殺す……こいつを殺す……,죽인다…… 이 자식을 죽인다……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Branch,#Simple,10,反抗している。,반항하고 있다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Branch,#Simple,11,彼はお前を殺そうとしている。,그는 너를 죽이려 하고 있다.
@@ -1151,7 +1151,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Branch,#Simple,12,ああ。,그래.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,40,お前……,네놈……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,41,注射器の中身を……知っていたのか？,주사기 내용물을…… 알고 있었나?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,42,ミン･ツァイを助けるために？それとも……？,밍 차이를 살리기 위해서? 아니면……?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,42,ミン･ツァイを助けるために？それとも……？,최명한을 살리기 위해서? 아니면……?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,43,……なぜそんなことをした？,……왜 그런 짓을 했지?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,44,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,45,<color=#F36B6C>お前は……本当にM.B.U.か？</color>,<color=#F36B6C>네놈은…… 정말로 M.B.U.가 맞나?</color>
@@ -1160,7 +1160,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,47,信じがたいが。,믿기 힘들지만.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,48,いずれにしよう。面倒なことをしてくれた。,어쨌든 상관없다. 성가신 짓을 해줬군.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,49,……ほかの目的があるかどうかは分からないが、そんなのはもうどうでもいい。,"……다른 목적이 있는지 없는지는 모르겠지만, 그런 건 이제 아무래도 상관없다."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,50,今、お前をミン･ツァイと共に破棄する。,"지금, 네놈을 밍 차이와 함께 폐기하겠다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,50,今、お前をミン･ツァイと共に破棄する。,"지금, 네놈을 최명한과 함께 폐기하겠다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,51,すべてはお前のせいだからな。,모든 게 네놈 탓이니까.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,52,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查完倒地阿翰以後,Say,校合者,53,……お前を13部門に戻る。M.B.U.。,……네놈을 13부문으로 돌려보내겠다. M.B.U.
@@ -1192,7 +1192,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,異常最後對話,Say,「異常」,1,これはあなたの……,이건 당신의……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,異常最後對話,Say,「異常」,2,それから彼の……,그리고 그의……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到阿翰死掉,Say,心の声,0,<color=#F36B6C>彼は死んだ……</color>,<color=#F36B6C>그는 죽었다……</color>
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到阿翰死掉,Say,心の声,1,<color=#F36B6C>ミンを……俺が……</color>,<color=#F36B6C>밍을…… 내가……</color>
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到阿翰死掉,Say,心の声,1,<color=#F36B6C>ミンを……俺が……</color>,<color=#F36B6C>명한을…… 내가……</color>
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到阿翰死掉,Say,心の声,2,<color=#F36B6C>どうして俺が……いや……</color>,<color=#F36B6C>왜 내가…… 아니……</color>
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查到阿翰死掉,Say,心の声,3,どうして……俺が……,어째서…… 내가……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,錯誤密碼區,Branch,#Simple,0,5,5
@@ -1217,7 +1217,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查物件:便利貼,Say,心の声,1,パスワードのヒント？何のパスワードだ？,비밀번호 힌트? 무슨 비밀번호지?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查物件:地上的紙,Say,心の声,0,この字……俺のと似ている……,이 글씨…… 내 글씨체와 닮았는데……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,調查物件:地上的紙,Say,心の声,1,でもこんなのを書いた覚えはない。一体……,근데 이런 걸 쓴 기억은 없다. 대체……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,0,違う……,아니야……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,0,違う……,아니에요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,1,忘れたっす……最後になってもパスワードは間違ってたんすね……,잊어버렸나 봐요…… 마지막까지도 비밀번호가 틀렸었네요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,2,兄貴、どうしてちゃんと確認してから入れないすか？,"형님, 왜 제대로 확인하고 입력하지 않으세요?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,3,これじゃチャンスを無駄にしてるだけっすよ……,이러면 기회만 낭비하는 거잖아요……
@@ -1271,11 +1271,11 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,39,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,40,弟もここにいればいいのに、こういうのが得意っすよ。,"동생도 여기 있었으면 좋았을 텐데, 얘가 이런 거 잘하거든요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,41,彼なら制御端末を何とかできたかもしれないのに。,걔라면 제어 단말을 어떻게든 했을지도 모르는데.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,42,シンは最近、頼もしくなってるっす……,"신은 요즘, 든든해지고 있어요……"
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,心の声,0,シンの事を誇りに思っているようだな。,신을 자랑스러워하는 것 같군.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,42,シンは最近、頼もしくなってるっす……,"재영은 요즘, 든든해지고 있어요……"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,心の声,0,シンの事を誇りに思っているようだな。,재영을 자랑스러워하는 것 같군.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,心の声,1,俺は……,나는……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Branch,#Simple,12,誇りに思ってるだろう？,자랑스럽지?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,43,シンのこと？,신 말이에요?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,43,シンのこと？,재영 말이에요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,44,彼はまだまだ半人前だよ！,걔 아직 한참 멀었어요!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,45,今でも何でも俺に聞くし、しかもいつも忘れ物ばかりする。,"지금도 뭐든 저한테 물어보고, 게다가 맨날 뭘 놓고 다니고요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,46,……,……
@@ -1299,7 +1299,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,63,兄貴はどう思いますか？,형님은 어떻게 생각하세요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Branch,#Simple,14,一理ある。,일리 있다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,64,でしょう？,그렇지?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,65,はあ、ほっとした。,"하아, 안심했다."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,65,はあ、ほっとした。,"하아, 안심했어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,66,どうやら今は安全みたいっすね。,아무래도 지금은 안전한 것 같네요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Branch,#Simple,15,少しは警戒した方がいいと思う。,좀 경계하는 게 낫다고 생각해.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,確認解鎖失敗,Say,ミン･ツァイ,67,え？どうしてっすか？,네? 왜요?
@@ -1355,7 +1355,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,1,その態度……俺に敵意を？,그 태도…… 나한테 적의가 있는 건가?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,2,いや、疑っていると言うべきか……,"아니, 의심하고 있다고 해야 하나……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Branch,#Simple,11,どういう意味だ？,그게 무슨 뜻이야?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,30,兄貴がシンの命を大事に思っていなさそうだから。,형님이 신 목숨을 소중히 여기지 않는 것 같아서요.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,30,兄貴がシンの命を大事に思っていなさそうだから。,형님이 재영의 목숨을 소중히 여기지 않는 것 같아서요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,3,俺はずっと大事に思っているよ。,나는 계속 소중히 여기고 있어.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,31,兄貴が保身のために俺らを見捨てるんじゃないかと、俺は思ってるっす。,"형님이 자기 몸 지키려고 우릴 버리는 게 아닐까, 저는 그렇게 생각해요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,4,そんな、俺はずっとお前ら二人の事を大事に思ってるんだ。,"그런, 나는 계속 너희 둘을 소중히 여겨왔어."
@@ -1375,7 +1375,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Branch,#Simple,18,彼らはブツ自体をそれほど重視していないかもしれない。,그놈들이 물건 자체를 그렇게 중요시하지 않을지도 몰라.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,39,それはあり得ないっす。俺らを追うために戦闘ドローンを何チームも出してました。,그건 말도 안 돼요. 우릴 쫓으려고 전투 드론을 몇 팀이나 투입했잖아요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,40,ブツがどうでもいいなわけがないっす。,물건이 어찌 되든 상관없을 리가 없어요.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,41,むしろ兄貴こそ、俺とシンの事がどうでもいいじゃないすか？,"오히려 형님이야말로, 저랑 신이 어찌 되든 상관없는 거 아니에요?"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,41,むしろ兄貴こそ、俺とシンの事がどうでもいいじゃないすか？,"오히려 형님이야말로, 저랑 재영이 어찌 되든 상관없는 거 아니에요?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,5,何の事だ！どうでもいいわけがなかろう。,무슨 소리야! 어찌 되든 상관없을 리가 없잖아.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,42,兄貴はただ、俺からブツの情報を聞き出したいだけでしょう！,"형님은 그냥, 저한테서 물건 정보 캐내고 싶은 것뿐이잖아요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Branch,#Simple,19,そんなのはどうでもいい。サツと交渉できるのは俺だけだ。,그런 건 아무래도 상관없어. 경찰이랑 협상할 수 있는 건 나뿐이야.
@@ -1391,13 +1391,13 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,47,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,48,だったらどうするべきっすか？兄貴が助けてくれると信じてればいいんすか？,그럼 어떡해야 하는데요? 형님이 도와주실 거라고 믿으면 되는 거예요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,49,兄貴が嘘をついたら？交渉が上手く行かなかったら？,형님이 거짓말하면요? 협상이 잘 안 되면요?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,50,シンに前科を残しちゃだめなんすよ！,신한테 전과 남기면 안 된다고요!
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,50,シンに前科を残しちゃだめなんすよ！,재영한테 전과 남기면 안 된다고요!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Branch,#Simple,24,俺には人脈がある、大丈夫だ。,"나한테는 인맥이 있어, 괜찮아."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,51,……,……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,52,じゃ、俺と弟はどうなんすか？,"그럼, 저랑 동생은 어떻게 되는 건데요?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,7,どういう意味だ？,그게 무슨 뜻이야?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,53,兄貴に交渉を任せたら、俺らはどうなるんすか？,"형님한테 협상 맡기면, 우린 어떻게 되는데요?"
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,8,我が身が心配か？,제 몸이 걱정되는 건가?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,8,我が身が心配か？,자기 몸이 걱정되는 건가?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,心の声,9,いや、弟の事を心配している。彼は自分の事より弟を優先するから。,"아니, 동생을 걱정하고 있는 거다. 이 녀석은 자기보다 동생을 우선하니까."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,有警察要準備談條件了,Say,ミン･ツァイ,54,教えてください。俺らはどうなるんすか？,말해주세요. 저희는 어떻게 되는 거예요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,0,大丈夫なら、今はどうするんすか？,"괜찮다면, 지금은 어떡할 거예요?"
@@ -1415,7 +1415,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,3,ダメだ。まず場所を言え。,안 돼. 먼저 위치를 말해.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,8,急にどうしたんすか？,갑자기 왜 그러세요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,4,そっちこそだ。急にどうした？,그건 내가 할 말이야. 갑자기 왜 그래?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,5,ミン、質問に答えろ。,"밍, 질문에 답해."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,5,ミン、質問に答えろ。,"명한아, 질문에 답해."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,9,今、それを話す必要がない、と思っただけっす……,"지금, 그 얘기를 할 필요가 없다고 생각했을 뿐이에요……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,10,それに、兄貴だってブツの正体を教えてくれないじゃないすか！,"게다가, 형님도 물건 정체 안 알려주셨잖아요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,11,ここまでの苦労をかけた価値があるかどうかすら、俺は分かんないすよ？,"이렇게까지 고생할 가치가 있는지 없는지조차, 저는 모르겠어요?"
@@ -1449,7 +1449,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,29,そういえば！,그러고 보니!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,30,それって何なんすか？,그게 대체 뭔데요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,2,なるほど。,그렇군.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,3,ミンはブツの価値を調べようとしている。,밍은 물건의 가치를 알아내려 하고 있다.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,3,ミンはブツの価値を調べようとしている。,명한은 물건의 가치를 알아내려 하고 있다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,4,それに俺にブツの場所を隠そうと……,게다가 나한테 물건 위치를 숨기려고……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,5,こいつ……,이 녀석……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,6,サツと交渉して、自分だけで逃げようとしてるんだな？,"경찰이랑 협상해서, 자기 혼자만 도망치려는 건가?"
@@ -1464,12 +1464,12 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,36,見捨てられるのはこっちでしょう？,버려지는 건 이쪽이잖아요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,37,ブツの在処、それは俺の唯一の手札なんすよ！,"물건 위치, 그게 제 유일한 카드라고요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,38,兄貴がもし交渉失敗したら？俺らを見捨てようとしたら？,형님이 만약 협상에 실패하면요? 우릴 버리려고 하면요?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,17,だから保身を考えたと？,그래서 제 몸부터 챙긴 거라고?
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,17,だから保身を考えたと？,그래서 내 몸부터 챙긴 거라고?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,39,違う！俺の事なんてどうでもいいっす！,아니에요! 제 일 따위 어찌 되든 상관없어요!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,40,捕まえようが、俺は気にしない！,"잡히든 말든, 저는 신경 안 써요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,41,ただ……,그냥……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,8,弟が心配なのか。,동생이 걱정되는 거군.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,9,ミンはいつもそうだ。,밍은 항상 그렇지.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,9,ミンはいつもそうだ。,명한은 항상 그렇지.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,42,俺はただ、弟を守りたいだけっす。,"저는 그냥, 동생을 지키고 싶을 뿐이에요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,43,どんな状況でも、彼だけは守りたいっす。,"어떤 상황이든, 걔만은 지키고 싶어요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,44,絶対彼に前科を残したくないっす！,절대 걔한테 전과를 남기고 싶지 않아요!
@@ -1483,26 +1483,26 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,49,でも弟だけは、どうしても彼に前科を残しちゃだめっす！,"근데 동생만큼은, 무슨 일이 있어도 전과를 남기면 안 돼요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,50,兄貴の方が分かってるでしょう！,형님이 더 잘 아시잖아요!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,51,政府のシステムに前科が残ったら、全北区企業の人事募集に彼の名が消えるんすよ。,"정부 시스템에 전과가 남으면, 북구 전체 기업 채용 명단에서 걔 이름이 사라진다고요."
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,52,シンは俺と違って……ずっとこんな仕事をしちゃだめっす！,신은 저랑 다르게…… 평생 이런 일 하면 안 돼요!
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,52,シンは俺と違って……ずっとこんな仕事をしちゃだめっす！,재영은 저랑 다르게…… 평생 이런 일 하면 안 돼요!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,53,彼は自分の生活を送って、自分の家庭を築くべきっす！,"걔는 자기 삶을 살면서, 자기 가정을 꾸려야 해요!"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,54,彼は……,걔는……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,21,シンはもう死んだ。,신은 이미 죽었어.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,21,シンはもう死んだ。,재영은 이미 죽었어.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,55,何だって？,뭐라고?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,56,今、何を……,"지금, 무슨……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,22,お前の弟は、死んだんだ。,"네 동생은, 죽었어."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,23,いや、何も言っていない。,"아니, 아무 말도 안 했어."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,57,違う……,아니야……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,58,そ……そんなの……,"그, 그런……"
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,59,冗談はやめてくださいよ？シンが……,농담은 그만하세요? 신이……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,60,シンが、本当に死んだ……？,"신이, 정말로 죽었다고……?"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,59,冗談はやめてくださいよ？シンが……,농담은 그만하세요? 재영이……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,60,シンが、本当に死んだ……？,"재영이, 정말로 죽었다고……?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,61,俺……,저는……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,24,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,62,シンは俺と違う。,신은 저랑 달라요.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,62,シンは俺と違う。,재영은 저랑 달라요.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,63,彼には普通の人生を送るチャンス……,걔한텐 평범한 인생을 살 기회가……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,64,もっと、人生がもっと公平に過ごせるはずっすよ。,"더, 인생이 더 공평하게 흘러갈 수 있었을 텐데요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,10,公平……,공평……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,心の声,11,そうね……公平ね……,그러게…… 공평이라……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,25,ミン、ブツの場所を教えてくれ。,"밍, 물건 위치를 알려줘."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,25,ミン、ブツの場所を教えてくれ。,"명한아, 물건 위치를 알려줘."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,26,お前を絶対助ける、信じてくれ。,"널 반드시 구할게, 믿어줘."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,65,俺の事はどうでもいいっすよ！問題は弟が！,제 일은 아무래도 상관없다고요! 문제는 동생이!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,27,彼はもう死んだんだ。すまない。,걔는 이미 죽었어. 미안하다.
@@ -1515,8 +1515,8 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,71,何を言ってたんすか？お、弟が……今兄貴……？,"무슨 말씀을 하신 거예요? 도, 동생이…… 방금 형님……?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,72,兄貴？どういうことっすか？,형님? 무슨 소리예요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,29,……,……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,73,冗談はやめてくださいよ？シンが……,농담은 그만하세요? 신이……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,74,シンが、本当に死んだ……？,"신이, 정말로 죽었다고……?"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,73,冗談はやめてくださいよ？シンが……,농담은 그만하세요? 재영이……
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,74,シンが、本当に死んだ……？,"재영이, 정말로 죽었다고……?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,75,俺……,저는……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,30,ブツの在処を教えてくれれば、お前らを助けられるんだ。,"물건 위치만 알려주면, 너희를 구할 수 있어."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,76,……,……
@@ -1533,7 +1533,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,34,重要なのは人脈だと言ったはずだ。,중요한 건 인맥이라고 말했을 텐데.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,84,そんなのは分かってるけど……,그건 알고 있는데요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,85,でもこのまま情報を兄貴に渡すのは……,근데 이대로 정보를 형님한테 넘기는 건……
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,35,ミン、俺らはもう安全なんだ。そう思わないか？,"밍, 우리는 이미 안전해. 그렇게 생각 안 해?"
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,35,ミン、俺らはもう安全なんだ。そう思わないか？,"명한아, 우리는 이미 안전해. 그렇게 생각 안 해?"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,86,そうだけど、ただ……,"그렇긴 한데, 그냥……"
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,36,ただ？,그냥?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,87,そんなの、誰が保証してくれるんすか？,"그런 거, 누가 보장해주는데요?"
@@ -1552,7 +1552,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,95,分かってるけど、だめです。,"알고 있지만, 안 돼요."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,96,すみません……,죄송해요……
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,42,謝る必要はない。正直に言えばいい。,사과할 필요 없어. 솔직히 말해.
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,43,信じてくれ、ミン。,"믿어줘, 밍."
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Branch,#Simple,43,信じてくれ、ミン。,"믿어줘, 명한아."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,97,俺だって信じたいっすよ！でもリスクは負えないっす！,저도 믿고 싶다고요! 근데 리스크는 못 감수해요!
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,98,もし教えても彼が逮捕されたら？,만약 알려줘도 걔가 체포되면요?
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,沒警察，可以跟我說吧？,Say,ミン･ツァイ,99,これは俺がサツと交渉できる唯一の手札っすよ。,이게 제가 경찰이랑 협상할 수 있는 유일한 카드라고요.
