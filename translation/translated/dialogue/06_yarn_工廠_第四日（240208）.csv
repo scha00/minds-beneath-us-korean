@@ -362,7 +362,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,11,
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,31,シンレイ･トンの調査の時の話ですか……,동수연 조사 때 얘기인가요……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,32,確かにそう言いましたが……,확실히 그렇게 말하긴 했는데……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,12,まさかあれは嘘だったのですか？,설마 그거 거짓말이었던 건가요?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,33,嘘じゃありません。僕はボーちゃんとは違いますから。,거짓말 아니에요. 저는 구 오빠랑은 다르니까요.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,33,嘘じゃありません。僕はボーちゃんとは違いますから。,거짓말 아니에요. 저는 구짱랑은 다르니까요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,13,じゃ、代わってくれますか？,"그럼, 바꿔주시겠어요?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,14,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,34,……,……
@@ -685,7 +685,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン･ゴ,17,実は結局マネージャーに見つかっちゃって、散々怒られたんだ。,"실은 결국 매니저한테 걸려서, 엄청 혼났어."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン･ゴ,18,俺らが扉を弄ってたところを監視カメラでばっちり見られてたみたいなんだ……,우리가 문 만지작거리던 걸 감시 카메라에 완전히 찍혔던 모양이야……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン･ゴ,19,だから……,그래서……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン･ゴ,20,俺もボーちゃんも減給だ。,나도 구 오빠도 감봉이야.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン･ゴ,20,俺もボーちゃんも減給だ。,나도 구짱도 감봉이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Branch,#Simple,6,私も減給されるべきでしたね……,저도 감봉당했어야 했네요……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Branch,#Simple,7,すみません。,미안해요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服吳晉峰換班,Say,シンホン･ゴ,21,気にするな。,신경 쓰지 마.
@@ -1238,7 +1238,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イエホ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イー･テイ,1,ハハ、やめてよ！,"하하, 그만해!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イー･テイ,2,皆、もう状況がわかったと思うけど、今日が正念場だ。,"다들, 이제 상황을 알고 있을 것 같은데, 오늘이 승부처야."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イー･テイ,3,力を貸してくれ。,힘을 빌려줘.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イー･テイ,4,ボーちゃんはデータを表にまとめて。,구 오빠는 데이터를 표로 정리해.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イー･テイ,4,ボーちゃんはデータを表にまとめて。,구짱은 데이터를 표로 정리해.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イエホン･キュウ,5,了解。,알겠어.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,イー･テイ,5,シンカは過去3年分の供給者のリストを探してくれ。,채은은 지난 3년치 공급자 리스트를 찾아줘.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_回辦公室,Say,シンカ･シェ,4,はい。,네.
@@ -1621,7 +1621,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Branch,#Simple,7,いや�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,イエホン･キュウ,2,へぇ……,허어……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Branch,#Simple,8,シンカに用事があるんだ。,채은한테 볼일이 있어서.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,イエホン･キュウ,3,どんな用事？,무슨 볼일인데?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,シンカ･シェ,11,それはボーちゃんには関係のないことだ。,그건 구 오빠랑은 상관없는 일이야.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,シンカ･シェ,11,それはボーちゃんには関係のないことだ。,그건 구짱랑은 상관없는 일이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,イエホン･キュウ,4,ふーん……,흐음……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣,Say,シンカ･シェ,12,行きましょう、ジェイ。,"가시죠, 제이."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,胖胖指引路,Say,心の声,0,あれは……,저건……
@@ -3425,7 +3425,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Branch,#Simple,5,イー･テイを探している。,정원임을 찾고 있어.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Branch,#Simple,6,この状況をなんとかしたいんだ。,이 상황을 어떻게든 해보고 싶어서.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,8,……,……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,9,まさか、まだイーちゃんと話す気なのか？,"설마, 아직도 원짱랑 얘기할 생각인 거야?"
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,9,まさか、まだイーちゃんと話す気なのか？,"설마, 아직도 원짱이랑 얘기할 생각인 거야?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,10,今更、何を話すっていうんだ……,"이제 와서, 무슨 얘길 하겠다는 거야……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,11,それに……,게다가……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Branch,#Simple,7,様子を見に来ただけだ。,그냥 상태 보러 온 거다.
@@ -3456,7 +3456,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Branch,#Simple,19,頼む
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Branch,#Simple,20,彼に断られれば、すぐ帰るつもりだ。,"거절당하면, 바로 돌아갈 생각이다."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Branch,#Simple,21,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,24,……,……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,25,僕もね、イーちゃんと話したいと思ってたんだ……,"나도 있잖아, 원짱랑 얘기하고 싶다고 생각했었어……"
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,25,僕もね、イーちゃんと話したいと思ってたんだ……,"나도 있잖아, 원짱이랑 얘기하고 싶다고 생각했었어……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,26,でも今は、僕自身もめちゃくちゃだからさ。,"근데 지금은, 나 자신도 엉망진창이라서 말이야."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,27,彼と話しても事をややこしくするだけだと思う。,걔랑 얘기해봤자 일만 더 복잡해질 것 같아.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,球球指引路,Say,イエホン･キュウ,28,だからこんなところに隠れて悩んでたんだ。バカだよね……,그래서 이런 데 숨어서 고민하고 있었어. 바보 같지……
@@ -4062,7 +4062,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,イエホ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,イエホン･キュウ,1,遅いよ！,늦었잖아!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,イエホン･キュウ,2,ピザがもう冷めちゃったよ！,피자 벌써 식어버렸어!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Branch,#Simple,0,いつの間にピザなんか頼んだんだ？,언제 피자 같은 걸 시킨 거야?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,シンカ･シェ,0,結果がわからないのに、ボーちゃんが頼んだんです！,"결과도 모르는데, 구 오빠가 시켰어요!"
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,シンカ･シェ,0,結果がわからないのに、ボーちゃんが頼んだんです！,"결과도 모르는데, 구짱이 시켰어요!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,イエホン･キュウ,3,大丈夫。上手くいくに決まってるもん！,괜찮아. 잘될 게 뻔하니까!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,イエホン･キュウ,4,イーちゃんを信じてるからさ。,원짱을 믿으니까 말이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組勝利慶功宴,Say,タイミン･ソウ,0,そうだな。,그렇지.
@@ -4801,7 +4801,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,イエホン�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,タイミン･ソウ,9,奢ってもられるんだから、そんなのどうでもいいだろ……,"얻어먹는 주제에, 그런 게 뭐가 중요해……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,イエホン･キュウ,10,いや、重要だ！店によって、期待値を調整する必要があるんだ！,"아니, 중요하다고! 가게에 따라서, 기대치를 조정할 필요가 있단 말이야!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,タイミン･ソウ,10,こいつ……,이 녀석……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,イー･テイ,7,ハハハ、ボーちゃんが大好きな店だよ。,"하하하, 구 오빠가 엄청 좋아하는 가게야."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,イー･テイ,7,ハハハ、ボーちゃんが大好きな店だよ。,"하하하, 구짱이 엄청 좋아하는 가게야."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,イエホン･キュウ,11,やった！さすがイーちゃん！,됐다! 역시 원짱!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,イー･テイ,8,とにかくご苦労様。僕は席に戻るね。,아무튼 다들 수고했어요. 나는 자리로 돌아갈게.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選組失敗結局,Say,シンカ･シェ,5,……,……
@@ -5119,9 +5119,9 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,6,後で見せてあげるから。技術面でも交流しようぜ！,나중에 보여줄 테니까. 기술 쪽으로도 교류하자고!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,パン･ロウ,1,お、おお。,"오, 오오."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,タイミン･ソウ,1,そうだ。ジェイ、料理も届いていますよ！,"맞다. 제이, 음식도 도착했어요!"
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,7,そうそう！イーちゃんとシュン･ゴの奢りね！,맞아 맞아! 원짱랑 오준이 쏘는 거야!
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,7,そうそう！イーちゃんとシュン･ゴの奢りね！,맞아 맞아! 원짱이랑 오준이 쏘는 거야!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,8,好きなだけ食べていいってよ！,먹고 싶은 만큼 먹어도 된대!
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,シンホン･ゴ,0,ボーちゃんが変なものばっかり頼んだけどな……,구 오빠가 이상한 것만 잔뜩 시켰지만……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,シンホン･ゴ,0,ボーちゃんが変なものばっかり頼んだけどな……,구짱이 이상한 것만 잔뜩 시켰지만……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,ギイ･カー,0,流石に多過ぎますよ。絶対に残りますって！,아무래도 너무 많아요. 분명 남을 거라니까요!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,9,はぁ？もう弱音を吐いてるのか？,하? 벌써 엄살이야?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,10,操作組の胃袋ってそんなもんなの～？,조작조 위장은 그 정도밖에 안 되는 거야~?
@@ -5158,7 +5158,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,タイミ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,19,そうだな。,그렇지.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,カエ･チン,2,選別組はいつもこんなに賑やかなの……？,선별조는 항상 이렇게 시끌벅적해……?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,20,まあ、そんな感じだね。,"뭐, 그런 느낌이지."
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,シンカ･シェ,2,主にボーちゃんがうるさいだけです。,주로 구 오빠가 시끄러운 것뿐이에요.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,シンカ･シェ,2,主にボーちゃんがうるさいだけです。,주로 구짱이 시끄러운 것뿐이에요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,21,ひどっ！,너무해!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,22,ほら、ジェイももっと食べな！,"자, 제이도 더 먹어!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,イエホン･キュウ,23,今日はもう仕事は終わりだよ！,오늘은 이제 일 끝났어!
@@ -9272,7 +9272,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,7,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,11,シュンさんに、渡すべきではないと思います。,"준 씨한테, 넘겨서는 안 된다고 생각해요."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,12,工場閉鎖の件ですでに落ち込んでいる選別組の皆に、私までそんなことをしたら……,"공장 폐쇄 건으로 이미 침울해진 선별조 사람들한테, 저까지 그런 짓을 하면……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,0,そんなことって何？,그런 짓이라니 뭔데?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,13,ボーちゃん！？,구 오빠!?
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,13,ボーちゃん！？,구짱!?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,1,シンカが泣きそうになってるじゃないか！どうりで、さっきから変だと思ってたんだ。,"채은이 울려고 하잖아! 어쩐지, 아까부터 이상하다 했어."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,2,ジェイ、シンカに何を言ったんだ……？,"제이, 채은한테 무슨 말을 한 거야……?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,心の声,1,敵意を含んだ言い方だ。,적의가 담긴 말투다.
@@ -9283,11 +9283,11 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,9,これ
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,10,教える気はない。,말해줄 생각 없어.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,4,いいから、教えるんだ！,"됐으니까, 말해!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,5,シンカを困らせてどうする気だ！,채은을 곤란하게 만들어서 뭘 어쩌자는 거야!
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,14,ボーちゃん！,구 오빠!
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,14,ボーちゃん！,구짱!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,6,シンカは黙ってて！彼の口から聞かないと、気が済まない！,"채은은 가만히 있어! 이 녀석 입으로 직접 들어야, 성에 차겠어!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,15,私の問題なのに、どうして私が黙らないといけないんですか！,"제 문제인데, 왜 제가 가만히 있어야 하는 거예요!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,7,それは……,그건……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,16,ジェイ、あなたが私に言ったことをボーちゃんにも教えます。,"제이, 저한테 말한 걸 구 오빠한테도 말할게요."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,16,ジェイ、あなたが私に言ったことをボーちゃんにも教えます。,"제이, 저한테 말한 걸 구짱한테도 말할게요."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,17,私は彼の意見が聞きたい。いいですね？,저는 그의 의견을 듣고 싶어요. 괜찮죠?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,11,だめだ。彼には言うな。,안 돼. 그에게는 말하지 마.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,18,じゃ、この件はお断りします。,"그럼, 이 건은 거절할게요."
@@ -9297,7 +9297,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,13,わ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,20,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,21,わかりました。,알겠습니다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,8,は？結局何なんだよ……？,뭐? 대체 뭔데……?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,22,行きましょう、ボーちゃん。,"가요, 구 오빠."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,22,行きましょう、ボーちゃん。,"가요, 구짱."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,9,うん……,응……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,心の声,3,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,心の声,4,失敗した……,실패했다……
@@ -9316,10 +9316,10 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,24,工場閉鎖後の後処理のために、供給者の個人情報が必要なんですよ。,"공장 폐쇄 후 후속 처리를 위해서, 공급자 개인정보가 필요한 거예요."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,15,中途解約されたマイナーたちに補償金を出すためか？,중도 해지된 마이너들한테 보상금을 주기 위해서인가?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,25,うん。,응.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,26,ボーちゃんはどう思います？,구 오빠는 어떻게 생각해요?
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,26,ボーちゃんはどう思います？,구짱은 어떻게 생각해요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,16,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,17,そんなのクソ食らえだ！,그딴 거 엿이나 먹으라 그래!
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,27,ボーちゃん……,구 오빠……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,27,ボーちゃん……,구짱……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,20,今のは操作組に言ったのか？,방금 건 조작조한테 한 말이야?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,18,もちろん。,물론이지.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,19,君にもね！,너한테도!
@@ -9343,8 +9343,8 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,28,彼�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,29,君にその意図はなくても、事実、そうだろう？,"너한테 그럴 의도가 없어도, 사실은, 그렇잖아?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,29,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,30,だんまりか？,묵비권 행사냐?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,28,ボーちゃん……,구 오빠……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,29,ボーちゃん！私は利用されていません。ジェイはただ……,구 오빠! 저는 이용당하는 거 아니에요. 제이는 그냥……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,28,ボーちゃん……,구짱……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,29,ボーちゃん！私は利用されていません。ジェイはただ……,구짱! 저는 이용당하는 거 아니에요. 제이는 그냥……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,31,シンカは黙ってて、こいつはね……,"채은은 가만있어, 이 자식은 말이야……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,30,こいつは、何だ？,"이 자식이, 뭐?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,32,クソッ……,젠장……
@@ -9437,7 +9437,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,55,俺たちに他に選択肢なんてないだろ。,우리한테 다른 선택지가 없잖아.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,57,俺たち？,우리?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,58,君はもう仲間じゃない！,너는 이제 우리 편 아니야!
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,64,ボーちゃん！,구 오빠!
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,64,ボーちゃん！,구짱!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,65,いい加減にして！,적당히 좀 해요!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,59,フンッ！,흥!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,66,ジェイ、話はわかりました。,"제이, 얘기는 알겠어요."
@@ -9455,7 +9455,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,73,工場閉鎖はもう避けられません。私たちにできることは、被害を最小限に留めることです。,"공장 폐쇄는 이제 피할 수 없어요. 저희가 할 수 있는 건, 피해를 최소한으로 줄이는 거예요."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,74,感情に任せて操作組の邪魔をしても、問題を複雑にさせるだけです。,"감정에 휘둘려서 조작조를 방해해봤자, 문제만 더 복잡해질 뿐이에요."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,75,……,……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,76,ボーちゃん！返事は！,구 오빠! 대답은요!
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,76,ボーちゃん！返事は！,구짱! 대답은요!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,62,わ、わかったよ！,"아, 알았어!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,63,ちゃんとわかってるよ……,제대로 알고 있다고……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,64,シンカが正しいことくらい……,채은이 옳다는 것 정도는……
@@ -9475,7 +9475,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,61,シ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,70,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,62,そんなに俺のことが嫌いなのか？,그렇게 내가 싫은 거야?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,71,今はね！,지금은!
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,81,ボーちゃん！,구 오빠!
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,81,ボーちゃん！,구짱!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,63,俺が操作組に行っても、何も変わらないと言ってくれたのにか？,"내가 조작조로 가도, 아무것도 안 변한다고 말해줬었잖아?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,72,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,73,僕だってこんなの嫌だよ……,나도 이런 거 싫다고……
@@ -9530,7 +9530,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,105,僕は……,나는……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,106,納得ができないんだ。,납득이 안 돼.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,107,ジェイのせいじゃないことくらいわかってる。ごめん……,제이 탓이 아니라는 건 알고 있어. 미안……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,77,気にしないでくれ。ボーちゃんの気持ちはわかる。,신경 쓰지 마. 구 오빠 마음은 이해해.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,77,気にしないでくれ。ボーちゃんの気持ちはわかる。,신경 쓰지 마. 구짱 마음은 이해해.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,78,気にするな。,신경 쓰지 마.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,108,うん……,응……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Branch,#Simple,79,……,……
@@ -9569,7 +9569,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,96,彼も苦しんでいるはずです。,그도 괴로워하고 있을 거예요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,118,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,119,そんなにシュン･ゴを信じたいなら、僕も言うことはないよ。,"그렇게 오준을 믿고 싶으면, 나도 더 할 말은 없어."
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,97,ボーちゃん……,구 오빠……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,97,ボーちゃん……,구짱……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,120,だって僕は彼のことをよく知らない！その状態で、どうやって信じろって言うんだよ！,"왜냐면 나는 그를 잘 몰라! 그런 상태로, 어떻게 믿으라는 거야!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,98,……そうでしたね。ごめんなさい。,……그랬죠. 미안해요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,121,……,……
@@ -9578,7 +9578,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,124,でも例え、シュン･ゴに対しての見方が変わったとしても……,"근데 설령, 오준에 대한 시각이 바뀌었다 해도……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,125,やっぱり工場閉鎖はクソみたいな考えだと思う！,역시 공장 폐쇄는 개똥 같은 생각이라고 생각해!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,99,……,……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,100,ボーちゃん……,구 오빠……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,100,ボーちゃん……,구짱……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,126,僕はドリンクを買いに行く！今日は三缶飲んでやる！,나는 음료수 사러 갈 거야! 오늘은 세 캔 마셔버릴 거야!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,イエホン･キュウ,127,今日はクソみたいな一日だからね！,오늘은 완전 개떡 같은 하루니까!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服謝采欣2,Say,シンカ･シェ,101,……,……
