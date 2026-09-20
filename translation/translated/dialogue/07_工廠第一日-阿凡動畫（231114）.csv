@@ -386,7 +386,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨開始跟主角搭話,Say,イフ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨開始跟主角搭話,Branch,#Simple,7,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨開始跟主角搭話,Say,イファ･ヨウ,17,まあ、余談はここまでにしよう。,"뭐, 딴 얘기는 여기까지 하지."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨開始跟主角搭話,Say,イファ･ヨウ,18,こちらへ。,이쪽으로.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,0,貴方がジェイ･ダイね。,당신이 제이 다이군.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,0,貴方がジェイ･ダイね。,당신이 최제이군.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,0,そうです。,그래요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Say,イファ･ヨウ,1,よろしい。,좋아.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,阿姨跟主角正式對話,Branch,#Simple,1,……,……
@@ -918,7 +918,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Branch,#Simp
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,2,トランス状態にして、その脳を演算ネットワークにリンクさせるんです。,"트랜스 상태로 만들어서, 그 뇌를 연산 네트워크에 연결시키는 겁니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,3,その方法で、AI設備の不足を補っています。,"그 방법으로, AI 설비 부족을 보충하고 있습니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,心の声,0,はぁ……,하아……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,22,タイミンの言う通り！,타이밍 말이 맞아!
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,22,タイミンの言う通り！,태민 말이 맞아!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,23,AIがほとんどの仕事を熟しているこのご時世、私たちの仕事はとても重要よ。,"AI가 대부분의 일을 해내는 요즘 같은 시대에, 우리 일은 아주 중요해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Branch,#Simple,6,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,24,面接、契約とは、演算力供給に応募しに来た人たちを見極める仕事なの。,"면접, 계약이라는 건, 연산력 공급에 지원하러 온 사람들을 판별하는 일이야."
@@ -953,7 +953,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Branch,#Simple,15,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,7,つまり、今から行う面接の采配は明暗を分けるってことです。,"즉, 지금부터 할 면접의 재량이 성패를 가른다는 겁니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,8,選択を間違えれば、この選別組に受かるチャンスは0に近いでしょうね。,"선택을 잘못하면, 이 선별조에 붙을 확률은 0에 가까울 겁니다."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,39,タイミン、あまり驚かさないで。,"타이밍, 너무 겁주지 마."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,39,タイミン、あまり驚かさないで。,"태민, 너무 겁주지 마."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,9,別に間違ったことは言っていません。,딱히 틀린 말은 안 했습니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,ジーン･ヨウ,40,……そうね。,……그렇지.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,葉慈恩在座位前說明,Say,タイミン･ソウ,10,気をつけて、ばあさんはよく誘導尋問するから。,"조심하세요, 할머니는 유도 심문을 자주 하니까요."
@@ -1231,7 +1231,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,心の声,1,肝と�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,心の声,2,失業して生計に困っている人たちは、なりふり構わず仕事を受けるしかない……,"실직해서 생계가 곤란한 사람들은, 체면 가릴 것 없이 일을 받을 수밖에 없다……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,64,こういう脳の機能を吸い上げる工程を、演算力供給と呼んでいる。まあ、僕たちはブレインマイニング、略してブレマイと呼んでるけどね。,"이런 뇌 기능을 뽑아내는 공정을, 연산력 공급이라고 불러. 뭐, 우리는 브레인 마이닝, 줄여서 브레마이라고 부르지만."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,65,この工場、むしろ万象自体が、この「スパコン」を貸し出すサービスをしている。,"이 공장, 아니 완상 자체가, 이 「슈퍼컴퓨터」를 빌려주는 서비스를 하고 있어."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,66,細かい話は、タイミンに聞きな。,"자세한 얘기는, 타이밍한테 물어봐."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,66,細かい話は、タイミンに聞きな。,"자세한 얘기는, 태민한테 물어봐."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,67,彼はマイナーたちとの交渉を担当してる。,그가 마이너들과의 교섭을 담당하고 있어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,タイミン･ソウ,10,ちょっと。,잠깐.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問球球問題,Say,イエホン･キュウ,68,何だよ。姉貴には聞こえないだろう？,뭐야. 누나는 못 듣잖아?
@@ -3093,7 +3093,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,0,よっ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,1,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,0,何か問題ありましたか？,무슨 문제 있으세요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,2,あんたの仕事は？,네 일은 뭐야?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,1,タイミンと同じく、面接官っす。,"타이밍이랑 마찬가지로, 면접관이에요."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,1,タイミンと同じく、面接官っす。,"태민이랑 마찬가지로, 면접관이에요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,2,一応ジェイさんの先輩に当たるのかな？,일단은 제이 씨 선배뻘 되려나요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,3,冗談っすよ。僕も入社したばかりなんすから！,농담이에요. 저도 막 입사한 지 얼마 안 됐거든요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,3,選別のコツを教えてくれないか？,선별하는 요령 좀 알려줄래?
@@ -5711,7 +5711,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,工作人員逃難進簽約室2,Say,セ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,工作人員逃難進簽約室2,Say,セイ･リン,2,包丁を振り回して……わ、私……,"칼을 휘두르면서…… 저, 저……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,工作人員逃難進簽約室2,Say,イー･テイ,3,大丈夫だから、落ち着いて。,"괜찮으니까, 진정해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,工作人員逃難進簽約室2,Say,イー･テイ,4,ここで待ってて、様子を見てくる。,"여기서 기다리고 있어, 상황 좀 보고 올게."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,イー･テイ,0,……タイミンが、時間を間違えた？,"……타이밍이, 시간을 착각했다고?"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,イー･テイ,0,……タイミンが、時間を間違えた？,"……태민이, 시간을 착각했다고?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,イー･テイ,1,彼は仕事を後回しにするタイプだけど、遅刻は一度もなかった……,"그는 일을 미루는 타입이긴 하지만, 지각은 한 번도 없었는데……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,イー･テイ,2,遅刻の理由については何か聞いてる？,지각한 이유에 대해서는 뭔가 들었어?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,0,いいや、ただ時間を間違えたって言ってただけっす。,"아뇨, 그냥 시간을 착각했다고만 했거든요."
