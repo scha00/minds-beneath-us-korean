@@ -2588,7 +2588,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Say,セイワ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Branch,#Simple,22,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Branch,#Simple,23,はい、私も聞きました。,"네, 저도 들었습니다."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Say,セイワ･ゲン,74,そうだろうな。,그렇겠지.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Say,セイワ･ゲン,75,この件の担当であるジョ隊長と先程会っていたようだからな。,이 건의 담당인 조 대장이랑 방금 만났던 것 같으니까 말이야.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Say,セイワ･ゲン,75,この件の担当であるジョ隊長と先程会っていたようだからな。,이 건의 담당인 서 대장이랑 방금 만났던 것 같으니까 말이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Say,セイワ･ゲン,76,オペレーションコアの件で君から話を伺ったのだろう？,오퍼레이션 코어 건으로 자네한테서 얘기를 들으려 했던 거겠지?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Branch,#Simple,24,いいえ。,아니.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,操作路線_見執行長,Say,セイワ･ゲン,77,ほう？じゃ何のためだ？,허? 그럼 뭘 위해서였지?
@@ -5382,7 +5382,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,イチ･カク
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,イチ･カク,5,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,イチ･カク,6,何でだろうな……？,글쎄 왜일까……?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,心の声,1,何なんだこいつは？,뭐야 이 자식은?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,イチ･カク,7,ブツはチョウに渡しといてくれ。,물건은 챠오한테 전해줘.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,イチ･カク,7,ブツはチョウに渡しといてくれ。,물건은 장 씨한테 전해줘.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,イチ･カク,8,あそこのソファで寝てるやつだ。,저기 소파에서 자고 있는 놈이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,調查:施工牌,Say,心の声,0,廃棄されたビルか……,폐기된 빌딩인가……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,調查:施工牌,Say,心の声,1,ほとんど沈没予定エリアで見られる光景だ。,거의 침몰 예정 구역에서나 볼 수 있는 광경이다.
@@ -6142,7 +6142,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Say,�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Branch,#Simple,16,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Branch,#Simple,17,はい、私も聞きました。,"네, 저도 들었습니다."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Say,セイワ･ゲン,52,そうだろうな。,그렇겠지.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Say,セイワ･ゲン,53,この件の担当であるジョ隊長と先程会っていたようだからな。,이 건의 담당인 조 대장이랑 방금 만났던 것 같으니까 말이야.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Say,セイワ･ゲン,53,この件の担当であるジョ隊長と先程会っていたようだからな。,이 건의 담당인 서 대장이랑 방금 만났던 것 같으니까 말이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Say,セイワ･ゲン,54,オペレーションコアの件で君から話を伺ったのだろう？,오퍼레이션 코어 건으로 자네한테서 얘기를 들으려 했던 거겠지?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Branch,#Simple,18,違います。,아니에요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,篩選路線_執行長獨自說話,Say,セイワ･ゲン,55,ほう？じゃ何のためだ？,허? 그럼 뭘 위해서였지?

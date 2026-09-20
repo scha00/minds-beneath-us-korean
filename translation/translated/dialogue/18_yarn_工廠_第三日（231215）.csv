@@ -4432,7 +4432,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈恩突襲廖哥簽約,Say,ジーン･ヨウ,20,じゃあね。,안녕히.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈恩突襲廖哥簽約,Branch,#Simple,18,お疲れ様でした。,수고하셨습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈恩突襲廖哥簽約,Branch,#Simple,19,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈恩突襲廖哥簽約,Say,心の声,9,イー･テイからリョウさんの監視を任されたのか……？,이 테이한테 요 씨 감시를 맡은 건가……?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈恩突襲廖哥簽約,Say,心の声,9,イー･テイからリョウさんの監視を任されたのか……？,정원임한테 요 씨 감시를 맡은 건가……?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,葉慈恩突襲廖哥簽約,Say,心の声,10,一体何だったんだ……,대체 뭐였던 거지……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥離開簽約室後,Say,心の声,0,質問をするだけして、行ってしまったな……,"질문만 하고, 가버렸네……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥離開簽約室後,Branch,#Simple,0,23号、この件をどう見る？,"23호, 이 건 어떻게 보나?"
@@ -5911,7 +5911,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,6,フルネームでお願いします。,풀네임으로 부탁드립니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,5,IDを見せるから、勝手に確認しろ！,"ID를 보여줄 테니까, 알아서 확인해!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,7,あ、はい。,"아, 네."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,8,シュクヘイ･ソウ……,슈쿠헤이 소우……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,8,シュクヘイ･ソウ……,장숙현……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,9,……あの？,……저기요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,10,今、チンって言いませんでした……？,"방금, 친이라고 하지 않으셨어요……?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,6,言い間違いだ。,말실수다.
@@ -6031,8 +6031,8 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,12,ここに入るには許可が必要ですし、普段はほとんど誰も来ない場所です。,"여기 들어오려면 허가가 필요하고, 평소엔 거의 아무도 안 오는 곳이에요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,13,上司は、監察員に装ってる人がいるとか言ってましたが……,"상사는, 감찰원인 척하는 사람이 있다고 했었는데……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,14,絶対デマ情報ですよ。はぁ……仕事が増えて嫌になりますよ……,절대 헛소문일 거예요. 하……일만 늘어나서 짜증 나요……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,15,だからさっき、ジェイさんがソウさんを監察員だと言った時はびっくりしました。,"그래서 아까, 제이 씨가 소우 씨를 감찰원이라고 했을 때 깜짝 놀랐어요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,3,ソウさん？あ、リュウセイの偽の名前か。,"소우 씨? 아, 유성 가명이었지."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,15,だからさっき、ジェイさんがソウさんを監察員だと言った時はびっくりしました。,"그래서 아까, 제이 씨가 장 씨를 감찰원이라고 했을 때 깜짝 놀랐어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,3,ソウさん？あ、リュウセイの偽の名前か。,"장 씨? 아, 유성 가명이었지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,16,うわ、本当に来たって思いました！,"우와, 진짜로 왔다고 생각했다니까요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,4,そうだ……,맞아……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,5,俺たちがデータを盗みにくることを、万象は知っていたのか……？,"우리가 데이터를 훔치러 올 걸, 완샹이 알고 있었던 건가……?"
@@ -6919,7 +6919,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Branch,#Simple,21,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,27,あらゆる人脈を使って、見つけ出した。,"모든 인맥을 동원해서, 찾아냈다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,28,お前の情報が正確だったため、すぐ見つけることができた。,"네 정보가 정확했던 덕분에, 바로 찾아낼 수 있었다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,29,イアン･チョー、今はフウコ･チョーと名乗っている。,"장연안, 지금은 후코 장라고 자칭하고 있다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,29,イアン･チョー、今はフウコ･チョーと名乗っている。,"장연안, 지금은 장후경이라고 자칭하고 있다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,30,ラーメン屋を隠れ蓑に、裏で武器の密輸をしている。,"라면집을 위장막으로 삼아서, 뒤로 무기 밀수를 하고 있다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,31,しかも、この町にいる。,"게다가, 이 마을에 있다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第二次陳木海搭話(地窖停車場),Say,ムカイ･チン,32,お前も彼の店に行ったことがあるはずだ。,너도 그놈 가게에 가본 적이 있을 거다.
