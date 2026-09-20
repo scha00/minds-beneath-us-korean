@@ -37,12 +37,12 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,16,意味わかんない……,무슨 말인지 모르겠어……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,17,そんなのは私のシャワー終わってからにして！,그런 건 내 샤워 끝나고 나서 해!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Branch,#Simple,5,実は、ハードディスクを見つけたって言ったんだ。,"실은, 하드디스크 찾았다고 말한 거였어."
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,18,なるほど。,그렇군.
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,18,なるほど。,그렇구나.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,19,適当なジョークを言わないでよ。もー！,아무 말이나 하지 마. 아 진짜!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,20,見つかったならよかった。後で渡して。,찾았으면 다행이네. 이따가 줘.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,21,ありがとう！,고마워!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Branch,#Simple,6,大丈夫。,괜찮아.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,22,はーい！,네—!
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,22,はーい！,응—!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Branch,#Simple,7,一緒に入ってもいい？,같이 들어가도 돼?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,23,えっ？,어?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,洗澡敲門,Say,リン･テイ,24,……急にどうしたの？,……갑자기 왜 그래?
@@ -144,7 +144,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,8,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,9,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,10,いや、聞かないことにして。,"아니, 못 들은 걸로 해줘."
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,33,なるほど。,그렇군.
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,33,なるほど。,그렇구나.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,11,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,34,とりあえず、後で渡してね。,"아무튼, 이따가 줘."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,35,はあ……,하아……
@@ -224,7 +224,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,36,ちょっとは、気になるよ。,"조금은, 신경 쓰여."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,76,そう……,그래……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,77,ごめんね。ジェイだと喧嘩になるんじゃないかなって。,미안해. 제이가 가면 싸움이 나지 않을까 싶어서.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,78,チンさんもあんな性格で、話がきついからさ。,"친 씨도 그런 성격이라, 말이 세잖아."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,78,チンさんもあんな性格で、話がきついからさ。,"진 씨도 그런 성격이라, 말이 세잖아."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,79,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,80,とりあえず、今度はちゃんとジェイに相談してから決めるから。,"아무튼, 다음번엔 제대로 제이한테 상의하고 정할게."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,81,ごめんね。,미안해.
@@ -236,14 +236,14 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,83,そう……,그래……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,84,私、この前に結構きついことを言ってたからさ。,"나, 저번에 꽤 세게 말했었잖아."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,85,ジェイは私と性格が真逆だから。,제이는 나랑 성격이 정반대니까.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,86,あの時、チンさんと喧嘩になりそうだから、止めないと！って思ったの。,"그때, 친 씨랑 싸움 날 것 같아서, 말려야 해! 하고 생각했어."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,86,あの時、チンさんと喧嘩になりそうだから、止めないと！って思ったの。,"그때, 진 씨랑 싸움 날 것 같아서, 말려야 해! 하고 생각했어."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,87,私に任せばよかったのに。,나한테 맡기면 됐을 텐데.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,88,チンさんもあんな性格で、話がきついからさ。,"친 씨도 그런 성격이라, 말이 세잖아."
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,88,チンさんもあんな性格で、話がきついからさ。,"진 씨도 그런 성격이라, 말이 세잖아."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,89,ジェイに任せてたら大変なことになってたかもしれない……,제이한테 맡겼으면 큰일 났을지도 몰라……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,90,ジェイは、融通が利かないからさ。,"제이는, 융통성이 없으니까."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,41,俺、そう思われてるのか？,"나, 그렇게 보이는 거야?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,91,そうだよ。前回さ、お隣さんが親切で停電を知らせてくれた時のこと、覚えてる？,"그렇다니까. 저번에, 이웃분이 친절하게 정전 알려주러 왔을 때, 기억나?"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,92,チンさんがあなたの怖い顔にかなり驚いてたよ。ふふっ。,친 씨가 네 무서운 얼굴 보고 꽤 놀랐었어. 후훗.
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,92,チンさんがあなたの怖い顔にかなり驚いてたよ。ふふっ。,진 씨가 네 무서운 얼굴 보고 꽤 놀랐었어. 후훗.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,93,ジェイって、猛犬注意って書かれてる犬みたいだね！,"제이는, 꼭 '맹견 주의'라고 써 붙인 개 같아!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,42,俺はただ警戒してただけで……,나는 그냥 경계했을 뿐인데……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,94,よーし、いい子よ。,"옳지, 착하다."
@@ -251,7 +251,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,96,知らない人に気をつけてるのは分かってる。それは悪いことではないよ。,"모르는 사람 조심하는 거, 알아. 나쁜 건 아니야."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,97,私は簡単に人を信じちゃうからさ。ちょうど良いバランスじゃない？,나는 사람을 쉽게 믿어버리니까. 딱 좋은 균형 아니야?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,43,ワン！,멍!
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,98,ちょっ、なんだ？,"잠, 뭐야?"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,98,ちょっ、なんだ？,"잠깐, 뭐야?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,99,可愛いからって私が許すとでも？,귀엽다고 내가 봐줄 것 같아?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,100,私は猫派だからね！,나는 고양이파거든!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,101,でも、朴念仁のジェイが冗談を言うなんて……,"근데, 무뚝뚝한 제이가 농담을 하다니……"
@@ -297,10 +297,10 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,49,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Branch,#Simple,50,……リン？,……린?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,132,……ごめんなさい。,……미안해.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,133,今日はツァイさんの手伝いをしてた……,오늘은 차이 씨 일을 도와주고 있었어……
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,133,今日はツァイさんの手伝いをしてた……,오늘은 최 씨 일을 도와주고 있었어……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,134,だって、配達システムの設定で困ってたからさ！,"그치만, 배달 시스템 설정 때문에 곤란해하고 계셨단 말이야!"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,135,ツァイさんもお年寄りだし、フルーツショップは彼女一人いなくて、操作に困ってて……,"차이 씨도 연세가 많으시고, 과일 가게에 혼자뿐이라 조작을 어려워하셔서……"
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,136,ツァイさんの息子も全然帰ってこないから、もし自動配達システムに問題があったら、彼女一人じゃ……,"차이 씨 아들도 전혀 안 돌아오니까, 만약 자동 배달 시스템에 문제 생기면, 혼자서는……"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,135,ツァイさんもお年寄りだし、フルーツショップは彼女一人いなくて、操作に困ってて……,"최 씨도 연세가 많으시고, 과일 가게에 혼자뿐이라 조작을 어려워하셔서……"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,136,ツァイさんの息子も全然帰ってこないから、もし自動配達システムに問題があったら、彼女一人じゃ……,"최 씨 아들도 전혀 안 돌아오니까, 만약 자동 배달 시스템에 문제 생기면, 혼자서는……"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,137,……ごめん。,……미안.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,138,今日の午後はちゃんと休むって約束したのに。,오늘 오후는 제대로 쉬겠다고 약속했는데.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,程芳坐上桌子後,Say,リン･テイ,139,でも、それも結構の気分転換になったのよ？,"근데, 그것도 꽤 기분 전환이 됐거든?"
@@ -415,7 +415,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,調查物件:戒指,Say,心の声,2,なくしたらまずいし……？,잃어버리면 큰일이니까……?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,調查物件:戒指,Say,心の声,3,リンも今日はもう探す時間がないと思うし、先に下ろしても反則にはならない……よね？,"린도 오늘은 이제 찾을 시간 없을 테니, 미리 내려놔도 반칙은 아니지…… 그렇지?"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,調查物件:戒指,Say,心の声,4,やっぱ明日でいいっか……,역시 내일 해도 되겠다……
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,說過要拿沐浴乳了,Say,リン･テイ,0,はーい！,네—!
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,說過要拿沐浴乳了,Say,リン･テイ,0,はーい！,응—!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,說過要拿沐浴乳了,Say,リン･テイ,1,じゃ、後でもらうね。ありがとう！,"그럼, 이따가 받을게. 고마워!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,0,ジェイさん！,제이 씨!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,鄰居搬家對話,Say,ハン･リュウ,1,どーも、どーも――,"안녕, 안녕――"
@@ -729,7 +729,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Branch,#Simple,0,ああ。,그래.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Say,リン･テイ,1,レッツゴー！,레츠고!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Branch,#Simple,1,もう少し待って。,조금만 더 기다려.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Say,リン･テイ,2,分かった。,알겠다.
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Say,リン･テイ,2,分かった。,알겠어.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Say,リン･テイ,3,何をしてんの！,뭐 하는 거야!
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Say,リン･テイ,4,何度も、何度も！,"몇 번이고, 몇 번이고!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,門前確認,Say,リン･テイ,5,私はゲームNPCじゃないからね！,나는 게임 NPC가 아니거든!
@@ -779,7 +779,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Say,リン･テイ,4,はあ、見つかってよかったよ。,"하아, 찾아서 다행이야."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Say,リン･テイ,5,なくしたら大変なことになっちゃうから。,잃어버리면 큰일 나니까.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Branch,#Simple,1,これからは気をつけてね。,앞으로는 조심해.
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Say,リン･テイ,6,はーい。,네—.
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Say,リン･テイ,6,はーい。,응—.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Branch,#Simple,2,……,……
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Say,リン･テイ,7,うん、ジェイ、もうちょっと待って。,"응, 제이, 조금만 더 기다려."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,吹頭髮對話1,Branch,#Simple,3,当ててみて？,맞혀볼래?
@@ -983,7 +983,7 @@ scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.b
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Branch,#Simple,0,お二人は？,누구시죠?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,1,はあ？どういうことですか？,네? 그게 무슨 말이에요?
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ミカ･チュー,2,知らんぷり？,모르는 척하는 거예요?
-scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,1,ミカ、ちょっと待ちなって！,"미카, 잠깐만 기다려봐!"
+scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,1,ミカ、ちょっと待ちなって！,"아름아, 잠깐만 기다려봐!"
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,2,すみません。階下の住人ですけど。,죄송합니다. 아래층 사는 사람인데요.
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Say,ユウ･ヨウ,3,ここに引っ越ししてきたのは先月で、確かに挨拶に伺ったはずですが。,"여기 이사 온 게 지난달이고, 분명 인사드리러 왔었을 텐데요."
 scene_demo_scenes_mbu_s1_mp1+2_t1_walkthrough_78aa0b103a7289282cf2c94f7343088b.bundle,先調查到硬碟，鄰居跑來,Branch,#Simple,1,おやすみなさい。,안녕히 주무세요.
