@@ -936,7 +936,7 @@ scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,37,今、そのものが<color=#E7D6A9>隠されている詳細な座標</color>を聞き出せ。,"지금, 그 물건이 <color=#E7D6A9>숨겨진 정확한 좌표</color>를 캐내라."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,38,情報を聞き出すために、こちらからミン･ツァイを起こす。,"정보를 캐내기 위해, 이쪽에서 최명한을 깨우겠다."
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,39,理解したか？,이해했나?
-scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,7,はい。,네.
+scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,7,はい。,그래.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,40,よくやった。,잘했다.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Branch,#Simple,8,いいえ。,아니.
 scene_demo_scenes_mbu_s0_sh_walkthrough_6dfb3bdc59755e008ecd3c5f76c94225.bundle,過去校準者那裏後,Say,校合者,41,彼らが密輸していたのは、私のところから盗んだものだった。,"그들이 밀수하던 것은, 내 쪽에서 훔친 물건이었다."

@@ -183,7 +183,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Say,タイミン･�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Say,タイミン･ソウ,24,こんな時に喧嘩をしてどうするのですか！,이런 때에 싸워서 뭐하려고요!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Say,タイミン･ソウ,25,僕らがここで喧嘩をしても何もなりません！！言い合いたいなら別の場所でやってください！,저희가 여기서 싸워봤자 아무것도 안 돼요!! 말싸움하고 싶으면 다른 데 가서 하세요!
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Say,イエホン･キュウ,45,すまない。,미안하다.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Branch,#Simple,22,はい。,네.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Branch,#Simple,22,はい。,응.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Branch,#Simple,23,……,……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Branch,#Simple,24,そっちだって、選別組の洗脳を受けているだろ？,"그쪽도, 선별조한테 세뇌당한 거잖아?"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,到篩選辦公室,Say,イエホン･キュウ,46,……,……
@@ -7852,7 +7852,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Say,ヤオ･リー,2,な�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Branch,#Simple,0,子どもたちの居場所はどこだ？,애들 있는 곳이 어디지?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Say,ヤオ･リー,3,あんた……,너……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Say,ヤオ･リー,4,噂を聞いたのね？,소문 들었구나?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Branch,#Simple,1,はい。,네.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Branch,#Simple,1,はい。,응.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Say,ヤオ･リー,5,ふーん、新人なのに情報が速いのね。,"흐음, 신입인데 정보가 빠르네."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Branch,#Simple,2,噂？,소문?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟陳莉堯,Say,ヤオ･リー,6,実はね……,실은 있잖아……
