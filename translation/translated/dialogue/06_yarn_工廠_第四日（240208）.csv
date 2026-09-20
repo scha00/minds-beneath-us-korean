@@ -359,7 +359,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,10,わかりました。,알겠습니다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,30,すみません。,미안해요.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,11,何かあったら、手伝ってくれるって言ってましたよね？,"무슨 일 있으면, 도와준다고 말씀하셨었죠?"
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,31,シンレイ･トンの調査の時の話ですか……,신레이 통 조사 때 얘기인가요……
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,31,シンレイ･トンの調査の時の話ですか……,동신영 조사 때 얘기인가요……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,32,確かにそう言いましたが……,확실히 그렇게 말하긴 했는데……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Branch,#Simple,12,まさかあれは嘘だったのですか？,설마 그거 거짓말이었던 건가요?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,說服曹泰銘換班,Say,タイミン･ソウ,33,嘘じゃありません。僕はボーちゃんとは違いますから。,거짓말 아니에요. 저는 구 오빠랑은 다르니까요.
@@ -5167,7 +5167,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,心の声,2
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,雙贏路線回辦公室,Say,心の声,3,皆にどこにいるか聞いてみよう。,다들한테 어디 있는지 물어봐야겠다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,心の声,0,ここは駐車場か？ここが地上なのか、地下なのかもわからない……,"여기는 주차장인가? 여기가 지상인지, 지하인지도 모르겠다……"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,リュウセイ･チョウ,0,ここはどこっすか？,여기 어디예요?
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,23,0,ヨウエビル地下七階の駐車場よ。,요우에 빌딩 지하 7층 주차장이야.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,23,0,ヨウエビル地下七階の駐車場よ。,여운 빌딩 지하 7층 주차장이야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,23,1,ここは本来デパートが建つはずだったけど、ここが沈没予定エリアになったことで中止になったの。,"여기는 원래 백화점이 들어설 예정이었는데, 여기가 침몰 예정 구역이 되면서 중단됐어."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,23,2,今は無数の未完成建築の一つよ。,지금은 수많은 미완성 건축물 중 하나야.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,下車討論作戰,Say,スイ･ニン,0,近年は、沈没予定エリアにあるこれらの未完成建築は、ヤクザのアジドになっている。,"요즘, 침몰 예정 구역에 있는 이런 미완성 건축물들은, 야쿠자 아지트가 되어 있다."
@@ -5356,7 +5356,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,給毒品對話,Say,シギョウ･チ�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,給毒品對話,Say,シギョウ･チョウ,12,わかったら、とっとと失せろ。,"알았으면, 냉큼 꺼져."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,23,0,よし。侵入できたね。,좋아. 침입 성공했네.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,23,1,バレちゃうから、こっからはうちとの会話に返事しないで。,"들키니까, 지금부터는 나랑 얘기해도 대답하지 마."
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,23,2,それと、今のあんたの名前はシシン･マよ。,"그리고, 지금 네 이름은 시신 마야."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,23,2,それと、今のあんたの名前はシシン･マよ。,"그리고, 지금 네 이름은 마시안이야."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Say,心の声,0,何だその変な名前は……,뭐야 그 이상한 이름은……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Branch,#Simple,0,変な名前だ……,이상한 이름이네……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,23指示開始調查,Branch,#Simple,1,侵入する前に教えといてくれ。,침입하기 전에 미리 알려줘.
@@ -5422,7 +5422,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュン�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュンユ･リュウ,11,……はぁ？,……하?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュンユ･リュウ,12,あんたバカなの？,너 바보야?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュンユ･リュウ,13,聞いて損した……,물어본 내가 손해네……
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Branch,#Simple,2,シシン･マだ。,시신 마다.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Branch,#Simple,2,シシン･マだ。,마시안이다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュンユ･リュウ,14,そう。,그래.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュンユ･リュウ,15,自己紹介しに来ただけ？,자기소개하러 온 거야?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟爆乳女流氓對話,Say,ジュンユ･リュウ,16,他に用は？,다른 볼일은?
@@ -5512,7 +5512,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Branch,#Simple,8,そう�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Say,ゲンシュン･フォン,18,もうこれ以上、見んなよ！,"이제 더 이상, 보지 마!"
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Branch,#Simple,9,わかりました。,알겠습니다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Say,ゲンシュン･フォン,19,気をつけろ。,조심해.
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Branch,#Simple,10,俺はシシン･マだ。,나는 시신 마다.
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Branch,#Simple,10,俺はシシン･マだ。,나는 마시안이다.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Say,ゲンシュン･フォン,20,はぁ？だからなんだよ？,뭐? 그래서 뭐?
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Branch,#Simple,11,何者だと聞かれたから。,뭐 하는 놈이냐고 물어봤으니까.
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟蝦情侶黨,Say,ゲンシュン･フォン,21,はぁ……？,허……?
@@ -5748,7 +5748,7 @@ d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Say,心の声,3,だが�
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Say,モー･カー,7,先程、出会った兄弟だ。,"방금, 만난 형제다."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Say,トラさん,1,ほう、お前は新人か。,"허, 너는 신입인가."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Say,トラさん,2,確か、シシンだったか……？,"분명, 시신이었나……?"
-d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Branch,#Simple,4,ああ、シシン･マだ。,"그래, 시신 마다."
+d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Branch,#Simple,4,ああ、シシン･マだ。,"그래, 마시안이다."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Say,トラさん,3,じゃ、シシンと呼ばせてもらう。,"그럼, 시신이라고 부르마."
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Branch,#Simple,5,まだそこまでの親しい間柄じゃないと思うが……,아직 그렇게 친한 사이는 아닌 것 같은데……
 d0e81a4acd55cfac60c2aa1bec155c08.bundle,跟黑面搭話,Say,トラさん,4,男同士だろう？細かいことは気にするな！,남자끼리잖아? 세세한 건 신경 쓰지 마!
