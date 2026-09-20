@@ -100,7 +100,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,35,……だ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,36,親しい人たちに迷惑を掛けたくないの。それに、あなたもここで働くことになるし……,"친한 사람들한테 폐 끼치고 싶지 않아. 게다가, 너도 여기서 일하게 될 거고……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,37,私の悩み、理解してくれるでしょう？,"내 고민, 이해해주겠지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,11,彼女を困らせたようだ……,그녀를 곤란하게 한 모양이다……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,14,ごめん、ヤキモチ焼いてた。,"미안, 질투했었다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,14,ごめん、ヤキモチ焼いてた。,"미안, 질투했었어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,38,……！？,……!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,39,そ、そうなの？,"그, 그런 거야?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,心の声,12,……リンが、嬉しそう？,"……린이, 기뻐 보이는 건가?"
@@ -180,7 +180,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,9,効率的なやり方だね。,효율적인 방식이네.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,31,効率とリスクは、紙一重よ。,"효율이랑 위험은, 종이 한 장 차이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,32,効率が悪いのは嫌いけど、それより手に負えないリスクの方が怖いわ。,"효율이 나쁜 건 싫지만, 그보다 감당 못 할 위험 쪽이 더 무서워."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,10,同感だ。,동감이다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,10,同感だ。,동감이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,33,ふふ、そうだと思った。,"후후, 그럴 줄 알았어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,11,手に負えたらリスクじゃないと思うけど。,감당할 수 있으면 위험이 아니라고 생각하는데.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,34,……,……
@@ -199,7 +199,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,42,でもやめとこう、警報が鳴ったら大変だから。,"근데 그만두자, 경보가 울리면 큰일이니까."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,17,馬鹿らしい。,어이없네.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,18,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,19,なんて面倒くさい設計だ。,정말 귀찮은 설계다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,19,なんて面倒くさい設計だ。,정말 귀찮은 설계야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,43,ここの職員になれば、こういうことばかりよ。ハハッ……,"여기 직원이 되면, 이런 것투성이야. 하핫……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,20,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,44,そうだ、仕事が終わったら私の予定に付き合ってほしいの！,"맞다, 일 끝나면 내 일정에 같이 있어줬으면 해!"
@@ -1013,7 +1013,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,9,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,10,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,21,ありゃ、僕の方が年下か！じゃ、今後はジェイの兄貴と呼ばせてもらうっす！,"어라, 내가 더 어린가! 그럼, 앞으로는 제이 형님이라고 부를게요!"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,11,ジェイでいい。,제이면 된다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,11,ジェイでいい。,제이면 돼.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,22,了解っす！,알겠어요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Branch,#Simple,12,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生主動拍謝,Say,リュウセイ･チョウ,23,んで、ジェイさんはどうしてこの仕事に？,"그래서, 제이 씨는 왜 이 일을 하게 됐어요?"
@@ -3108,7 +3108,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,心の声,0,自信�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,5,ありがとう。,고마워.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,10,どうってことないっすよ！,별거 아니에요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,6,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,7,いや、大丈夫だ。,"아니, 괜찮다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Branch,#Simple,7,いや、大丈夫だ。,"아니, 괜찮아."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,11,オッケーっす！,오케이예요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問隆生問題,Say,リュウセイ･チョウ,12,他に何かあります？,다른 거 또 있어요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,問慈恩問題,Branch,#Simple,0,どうも。,안녕하세요.
@@ -3196,7 +3196,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Say,リュウセイ･チョウ,9,また怒られる。クビにされないといいけど……,또 혼나겠네요. 잘리지만 않으면 좋겠는데……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Say,心の声,0,リュウセイから間違った情報を教えた件についてマネージャーから説教を受けるのだろう。,유성이 잘못된 정보를 알려준 건에 대해 매니저한테 잔소리를 듣게 되겠지.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Say,心の声,1,俺が言わなかったら、彼は怒られずに済んだかもしれない……,"내가 말 안 했으면, 얘는 안 혼나도 됐을지도 몰라……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Branch,#Simple,2,すまない。もしかしたら俺のせいだ。,미안하다. 어쩌면 내 탓일지도.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Branch,#Simple,2,すまない。もしかしたら俺のせいだ。,미안해. 어쩌면 내 탓일지도.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Say,リュウセイ･チョウ,10,え？どうして？,어? 왜?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Branch,#Simple,3,リュウセイが助言をくれたことをマネージャーに話したから。,유성이 조언해준 걸 매니저한테 말해버려서.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,隆生撞見剛出阿姨辦公室的主角,Branch,#Simple,4,若い人を優先して選ぶのは間違いらしい。,젊은 사람을 우선으로 뽑는 건 잘못된 거라나 봐.
@@ -4307,7 +4307,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,1,�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,0,ジェイ！そっちはもう終わった？,제이! 거긴 벌써 끝났어?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,2,リンに契約室での出来事を伝えるべきか？,린한테 계약실에서 있었던 일을 전해야 하나?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,3,でも心配を掛けたくない……,근데 걱정을 끼치고 싶지 않다……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,0,ああ、もう終わった。,"그래, 이미 끝났다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,0,ああ、もう終わった。,"그래, 이미 끝났어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,1,やった！丁度いいね！,됐다! 마침 잘됐네!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,2,エレベーターの権限をあげるから、,"엘리베이터 권한 줄 테니까,"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,3,1Fのホールに来て。,1층 홀로 와.
@@ -4322,7 +4322,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,3,�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,4,リン、実は伝えたいことがあるんだ。,"린, 실은 전하고 싶은 얘기가 있어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,9,どうしたの？,왜 그래?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,5,さっき、工場に侵入者が入ってきて、包丁で何人か刺した。,"아까, 공장에 침입자가 들어와서, 식칼로 몇 명 찔렀어."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,6,俺もやられそうだった。,나도 당할 뻔했다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,6,俺もやられそうだった。,나도 당할 뻔했어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,10,何ですって！？,뭐라고!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,11,そんな……,그럴 수가……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,12,待って、ちょっと確認する……,"잠깐, 좀 확인해볼게……"
@@ -4333,17 +4333,17 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,7,�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,13,ジェイは怪我してないよね！？,제이는 안 다쳤지!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,8,早い！？,빠르네!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,9,もう状況を把握したのか……,벌써 상황을 파악한 건가……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,7,怪我一つないさ。,상처 하나 없다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,8,大丈夫、無事だ。,"괜찮아, 무사하다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,7,怪我一つないさ。,상처 하나 없어.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,8,大丈夫、無事だ。,"괜찮아, 무사해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,9,どこまでわかったんだ？,어디까지 안 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,14,そんなのどうでもいいから、ちゃんと質問に答えて！,"그런 건 아무래도 상관없으니까, 제대로 질문에 답해!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,15,怪我はない！？,다친 데 없어!?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,10,怪我一つないさ。,상처 하나 없다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,11,大丈夫、無事だ。,"괜찮아, 무사하다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,10,怪我一つないさ。,상처 하나 없어.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,11,大丈夫、無事だ。,"괜찮아, 무사해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,16,本当？嘘つかないでよ！,정말? 거짓말하지 마!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,12,ああ、本当に大丈夫だ。,"그래, 정말 괜찮다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,12,ああ、本当に大丈夫だ。,"그래, 정말 괜찮아."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,17,ならいいけど……,그럼 다행이지만……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,13,手と足が二本ずつついてる。どこも減ってないさ。,손이랑 발도 두 개씩 다 달려있다. 어디 하나 안 없어졌어.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,13,手と足が二本ずつついてる。どこも減ってないさ。,손이랑 발도 두 개씩 다 달려있어. 어디 하나 안 없어졌어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,18,こんな時に冗談言わないで！,이런 때에 농담하지 마!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,14,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,19,もう、心配したのよ！,"정말, 걱정했단 말이야!"
@@ -4356,7 +4356,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,17,
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,23,もう二度とそんなことをしないで。私、心配なの……,"이제 두 번 다시 그런 짓 하지 마. 나, 걱정된단 말이야……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,10,リンが泣きそうになってる……,린이 울 것 같다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,24,お願い、もうしないって約束して。,"부탁이야, 이제 안 한다고 약속해줘."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,18,でも、誰かが彼を止めないと。,"하지만, 누군가는 그를 막아야 했다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,18,でも、誰かが彼を止めないと。,"하지만, 누군가는 그를 막아야 했어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,リン･テイ,25,それはあなたじゃなくてもいいでしょう！,그게 꼭 너일 필요는 없잖아!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Say,心の声,11,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳打電話過來,Branch,#Simple,19,わかった。約束する。,알았어. 약속할게.
@@ -4486,39 +4486,39 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,35,今日はどうだったの？,오늘은 어땠어?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,6,採用する前に研修が必要だとか。,채용 전에 연수가 필요하다더군.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,36,うわぁ、イファさんは徹底してるね。,"우와, 이화 씨는 철저하네."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,7,だから今日は選別組の普段の仕事を全部体験した。,그래서 오늘은 선별조의 평소 업무를 전부 체험했다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,7,だから今日は選別組の普段の仕事を全部体験した。,그래서 오늘은 선별조의 평소 업무를 전부 체험했어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,37,大変だったでしょ。まだ何もわからないのに。,힘들었겠다. 아직 아무것도 모를 텐데.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,38,まさか初日に全部やらせるとは、さすがイファさんね。,"설마 첫날부터 전부 시킬 줄이야, 역시 이화 씨답네."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,39,で、彼女と話してどんな人だと思った？,"그래서, 그녀랑 얘기해보고 어떤 사람이라고 생각했어?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,8,ポリシーを持っている人だ。,신념이 있는 사람이다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,8,ポリシーを持っている人だ。,신념이 있는 사람이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,40,そう、そうなの！私もそう思った。,"맞아, 맞아! 나도 그렇게 생각했어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,41,今日でわかったと思うけど、この仕事はね、時に難しい選択をしないといけないの。,"오늘 겪어봐서 알겠지만, 이 일은 말이야, 때로는 어려운 선택을 해야 해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,42,彼女みたいに自分の考えを貫ける人はかなり珍しい。,그녀처럼 자기 생각을 관철할 수 있는 사람은 꽤 드물어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,43,ジェイの話を聞く限りだと、彼女をいいマネージャーだと思ってるのかな？,"제이 얘기를 들어보면, 그녀를 좋은 매니저라고 생각하는 건가?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,9,良い上司だと思う。,좋은 상사라고 생각한다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,9,良い上司だと思う。,좋은 상사라고 생각해.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,44,それなら良かったね。,그럼 다행이네.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,10,悪くないかな。,나쁘지 않은 것 같다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,10,悪くないかな。,나쁘지 않은 것 같아.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,45,言わされてる感があるな！,억지로 말하는 느낌인데!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,11,どうも思ってない。ただ彼女がうざいと思っただけだ。,딱히 아무 생각 없다. 그냥 그녀가 성가시다고 생각했을 뿐이다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,11,どうも思ってない。ただ彼女がうざいと思っただけだ。,딱히 아무 생각 없어. 그냥 그녀가 성가시다고 생각했을 뿐이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,46,ハハハ！,하하하!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,47,それは、聞かなかったことにしておきましょう。,"그건, 못 들은 걸로 해둘게."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,12,自分の基準を持ち出すことで他人を困らせたい人。,자기 기준을 들이대서 남을 곤란하게 하고 싶은 사람이다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,12,自分の基準を持ち出すことで他人を困らせたい人。,자기 기준을 들이대서 남을 곤란하게 하고 싶은 사람이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,48,えっと、私もそれは覚えがあるかも……,"음, 나도 그건 짐작 가는 데가 있는 것 같은데……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,49,大変だったのね。,힘들었겠네.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,13,彼女は良い人だが、態度が気に食わない。,"그녀는 좋은 사람이지만, 태도가 마음에 안 든다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,13,彼女は良い人だが、態度が気に食わない。,"그녀는 좋은 사람이지만, 태도가 마음에 안 들어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,50,それじゃ採用されても大変でしょ？,그럼 채용돼도 힘들겠네?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,14,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,51,そうだ。一番重要な事！,맞다. 제일 중요한 거!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,52,あなた……,당신……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,53,採用された？,채용됐어?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,15,さっきの襲撃事件のせいで、まだ結果は聞かされていない。,"아까 그 습격 사건 때문에, 아직 결과는 못 들었다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,15,さっきの襲撃事件のせいで、まだ結果は聞かされていない。,"아까 그 습격 사건 때문에, 아직 결과는 못 들었어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,54,ああ……,아……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,55,そうだよね。イファさんは今対応に追われてると思うし。,그렇지. 이화 씨는 지금 대응하느라 정신없을 테니까.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,16,まだわからない。明日に教えてくれるらしい。,아직 모른다. 내일 알려준다고 하더라.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,16,まだわからない。明日に教えてくれるらしい。,아직 몰라. 내일 알려준다고 하더라.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,56,そう。,그래.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,57,あれ？じゃ明日も来ないといけないの？,어라? 그럼 내일도 와야 하는 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,17,ああ、今日は選別組の研修しかしてないから。,"그래, 오늘은 선별조 연수밖에 안 했으니까."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,18,明日は操作組の研修をしないといけない。,내일은 조작조 연수를 해야 한다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,18,明日は操作組の研修をしないといけない。,내일은 조작조 연수를 해야 해.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,58,え、ちょっと待って！,"어, 잠깐만!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,59,確かジェイが採用されたのは操作組だったよね？,분명 제이가 채용된 건 조작조였잖아?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,60,何で明日……？,왜 내일……?
@@ -4529,7 +4529,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simp
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,21,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,63,歳が上の人って、AIに決められることをあまり良く思ってないのよね。,"나이 드신 분들은, AI가 결정하는 걸 별로 안 좋아하는 것 같아."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,64,でも両方の部署を試せるなら、それはそれでチャンスかもね！,"근데 두 부서 다 시험해볼 수 있으면, 그것대로 기회일지도 몰라!"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,22,簡単に言えば、どちらにも入れるチャンスがあるってことだ。,"간단히 말하면, 둘 다 들어갈 기회가 있다는 거다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,22,簡単に言えば、どちらにも入れるチャンスがあるってことだ。,"간단히 말하면, 둘 다 들어갈 기회가 있다는 거야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,65,良いことじゃない！,좋은 일이잖아!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,66,頑張って！信じてるから！,힘내! 믿고 있으니까!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,67,……,……
@@ -4542,8 +4542,8 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,72,私がやっていること……,내가 하고 있는 일……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,73,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,74,演算力産業は、弱き者を搾取していると思う……？,"연산력 산업은, 약자를 착취하고 있다고 생각해……?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,23,そう思う。,그렇게 생각한다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,24,違うと思う。,아니라고 생각한다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,23,そう思う。,그렇게 생각해.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,24,違うと思う。,아니라고 생각해.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,25,それは一言で答えられる質問じゃない。,그건 한마디로 답할 수 있는 질문이 아니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,75,……そう。,……그렇구나.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,26,急にどうしたんだ？,갑자기 왜 그래?
@@ -4567,7 +4567,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,90,もし、私がやめたいって言ったらどうする？,"만약, 내가 그만두고 싶다고 하면 어떻게 할 거야?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,91,いつかちゃんと答えを見つけて、でもその代償にこの仕事をやめるとしたら？,"언젠가 제대로 답을 찾고, 근데 그 대가로 이 일을 그만두게 된다면?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,12,リンがどうしようと、どんな考えだろうと、俺はずっと側にいたい……,"린이 어떤 선택을 하든, 어떤 생각을 하든, 나는 계속 곁에 있고 싶다……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,27,リンがどんな決断を出しても応援する。苦労することになっても俺は大丈夫だ。,린이 어떤 결단을 내리든 응원한다. 고생하게 되더라도 나는 괜찮아.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,27,リンがどんな決断を出しても応援する。苦労することになっても俺は大丈夫だ。,린이 어떤 결단을 내리든 응원해. 고생하게 되더라도 나는 괜찮아.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,28,リンがそう望むなら、俺は側に居るよ。,"린이 그걸 원한다면, 나는 곁에 있을게."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,92,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,93,ありがとう。,고마워.
@@ -4601,7 +4601,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,113,でも、この問題を改善したいの……,"근데, 이 문제를 개선하고 싶은걸……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,114,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,115,今の私の行動が、事態を悪化させてないかって心配なの。,"지금 내 행동이, 사태를 악화시키고 있는 건 아닌지 걱정돼."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,34,リンは精一杯頑張っている。,린은 최선을 다해 애쓰고 있다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,34,リンは精一杯頑張っている。,린은 최선을 다해 애쓰고 있어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,116,それはわかってるよ。,그건 알고 있어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,117,私は……,나는……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,118,根本的な事を間違えてるんじゃないかって、心配なの……,"근본적인 걸 잘못하고 있는 게 아닌가 싶어서, 걱정돼……"
@@ -4611,7 +4611,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,121,演算力供給、この業界、万象グループ、私……,"연산력 공급, 이 업계, 완샹 그룹, 나……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,122,この全ての存在を許し、さらにそれの手助けすることは正しいことなの？,"이 모든 걸 용인하고, 게다가 그걸 돕는 게 옳은 일인 걸까?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,16,あまりにも俺とは無関係の話すぎて、考えと言われても……,"너무나 나랑은 상관없는 얘기라서, 생각을 말해보라고 해도……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,36,そういうのは、俺には無関係だと思う。,"그런 건, 나랑은 상관없다고 생각한다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,36,そういうのは、俺には無関係だと思う。,"그런 건, 나랑은 상관없다고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,123,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,124,そうね……,글쎄……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,125,ジェイはこんなこと考えないもんね。,제이는 이런 거 생각 안 하지.
@@ -4627,7 +4627,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,40,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,132,気にしないで。今のジェイも大好きだよ。それで終わり！,신경 쓰지 마. 지금 제이도 정말 좋아해. 그걸로 끝!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,133,急に変なこと話してごめんね。私が悪いの。,갑자기 이상한 얘기해서 미안. 내가 나빴어.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,41,ごめん。俺がリンの質問にちゃんと答えてあげないからだ。,미안. 내가 린의 질문에 제대로 답을 안 해줘서 그런 거다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,41,ごめん。俺がリンの質問にちゃんと答えてあげないからだ。,미안. 내가 린의 질문에 제대로 답을 안 해줘서 그런 거야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,134,ううん、これは私の問題よ。,"아니, 이건 내 문제야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,135,この問題を解決できるのは私だけだから。,이 문제를 해결할 수 있는 건 나뿐이니까.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,136,ジェイに押しつけちゃだめだったね。,제이한테 떠넘기면 안 되는 거였는데.
@@ -4638,23 +4638,23 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,43,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,44,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,140,こんな事に関わっている私は正しいと思う？,"이런 일에 관여하고 있는 나, 옳다고 생각해?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,45,正しいと思う。これは必要悪だ。,옳다고 생각한다. 이건 필요악이다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,45,正しいと思う。これは必要悪だ。,옳다고 생각해. 이건 필요악이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,141,必要悪？,필요악?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,46,演算産業自体が消えてしまったら、この業界に関わる人たちが生きられなくなる。,"연산 산업 자체가 사라져버리면, 이 업계에 관련된 사람들이 살아갈 수 없게 된다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,46,演算産業自体が消えてしまったら、この業界に関わる人たちが生きられなくなる。,"연산 산업 자체가 사라져버리면, 이 업계에 관련된 사람들이 살아갈 수 없게 돼."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,142,でも、この貧困のおおもとは万象のような大企業なのよ？,"근데, 이 빈곤의 근본 원인은 완샹 같은 대기업이잖아?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,143,彼らがAIと自動化技術を大幅に推し進めたから、人間は多くの仕事を失い、,"그들이 AI와 자동화 기술을 대대적으로 밀어붙였으니까, 인간은 수많은 일자리를 잃고,"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,144,稼ぐことができなくなった。,돈을 벌 수 없게 됐어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,145,この問題を生み出した彼らが責任を取るべきじゃない？,이 문제를 만들어낸 그들이 책임을 져야 하는 거 아니야?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,47,残酷だが、これは自由競争の結果だと思う。,"잔혹하지만, 이건 자유 경쟁의 결과라고 생각한다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,47,残酷だが、これは自由競争の結果だと思う。,"잔혹하지만, 이건 자유 경쟁의 결과라고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,146,私もそれはわかってる……だから絶望してるし……,나도 그건 알고 있어……그래서 절망하고 있고……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,147,罪悪感が……,죄책감이……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,48,確かに彼らは責任をとるべきだ。,확실히 그들은 책임을 져야 한다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,48,確かに彼らは責任をとるべきだ。,확실히 그들은 책임을 져야 해.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,148,でも万象も他の企業も皆同じ。,근데 완샹도 다른 기업도 다 똑같아.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,149,節税対策ばかりで、契約対象から最大限に搾取し続けているだけ。,"절세 대책만 세우면서, 계약 대상한테서 최대한 착취를 계속하고 있을 뿐이야."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,49,社会機能を維持するのに演算力が必要だから、仕方ない。,"사회 기능을 유지하는 데 연산력이 필요하니까, 어쩔 수 없다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,49,社会機能を維持するのに演算力が必要だから、仕方ない。,"사회 기능을 유지하는 데 연산력이 필요하니까, 어쩔 수 없어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,150,だからって、あの人たちが犠牲になってもいいの？,"그렇다고, 저 사람들이 희생돼도 되는 거야?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,151,社会のためなら、搾取されてもいいの？,"사회를 위해서라면, 착취당해도 되는 거야?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,50,彼らはそもそも生計を立てられない。これは彼らを助けている措置とも見える。,그들은 애초에 생계를 꾸릴 수가 없다. 이건 그들을 돕고 있는 조치로도 볼 수 있다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,50,彼らはそもそも生計を立てられない。これは彼らを助けている措置とも見える。,그들은 애초에 생계를 꾸릴 수가 없어. 이건 그들을 돕고 있는 조치로도 볼 수 있어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,51,演算力供給は強制ではない。彼らは選択の自由がある。,연산력 공급은 강제가 아니다. 그들한테는 선택의 자유가 있다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,152,他に何を選べるって言うの？,다른 뭘 선택할 수 있다는 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,153,彼らには演算力供給という唯一の選択肢しかない。万象はそこを利用して利益を上げてるの。,그들한테는 연산력 공급이라는 유일한 선택지밖에 없어. 완샹은 그걸 이용해서 이익을 올리고 있는 거야.
@@ -4680,8 +4680,8 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,24,二人で過ごしたいと言ったのは、このためか……,"둘이서 시간을 보내고 싶다고 한 게, 이것 때문이었나……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,164,ジェイはどう思う？,제이는 어떻게 생각해?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,25,俺は絶対に参加しない。リンにもあんな危ないデモに参加してほしくない！,나는 절대 참가 안 한다. 린도 그런 위험한 시위에 참가 안 했으면 좋겠어!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,54,参加したくない。,참가하고 싶지 않다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,55,参加しないし、リンにも参加してほしくない。,"참가 안 하고, 린도 참가 안 했으면 좋겠다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,54,参加したくない。,참가하고 싶지 않아.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,55,参加しないし、リンにも参加してほしくない。,"참가 안 하고, 린도 참가 안 했으면 좋겠어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,165,ちょ、ちょっと待ってよ！確かに一度話したと思うけど……,"자, 잠깐만! 분명 한 번 얘기했던 것 같은데……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,26,以前話したなら、どうして蒸し返す……？,"예전에 얘기했다면, 왜 다시 꺼내는 거지……?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,166,ジェイがあの時、危ないと思っちゃったのは、ジェイがまだ何も知らなかったからよ！,"제이가 그때, 위험하다고 생각해버렸던 건, 제이가 아직 아무것도 몰랐기 때문이야!"
@@ -4709,7 +4709,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,58,わかった。信じるよ、リン。,"알았어. 믿을게, 린."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,178,ありがとう。,고마워.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,179,あなたにこんな思いをさせてごめんなさい……,너한테 이런 기분을 느끼게 해서 미안해……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,59,信じられない。,못 믿겠다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,59,信じられない。,못 믿겠어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,180,でも私……！,근데 나……!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,181,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,182,信じてって言える立場じゃないけど、本当に最初はそう思ってなかったの……,"믿어달라고 말할 입장은 아니지만, 정말로 처음엔 그렇게 생각 안 했었어……"
@@ -4721,7 +4721,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,61,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,186,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,187,例え信じてくれなかったとしても、これだけははっきり言わせて……,"설령 안 믿어준다 해도, 이것만은 확실히 말하게 해줘……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,62,信じたとしても、気分は最悪だ。,"믿는다 해도, 기분은 최악이다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,62,信じたとしても、気分は最悪だ。,"믿는다 해도, 기분은 최악이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,188,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,189,ごめんなさい。こんな思いをさせるつもりはなかったの。,미안해. 이런 기분을 느끼게 할 생각은 없었어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,190,嫌な気持ちにさせてごめんなさい……,불쾌하게 만들어서 미안해……
@@ -4736,7 +4736,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,195,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,196,もう一度確認したかったの。,다시 한번 확인하고 싶었어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,197,こういう話を、ジェイは一度も認めたことがなかったから……,"이런 얘기를, 제이는 한 번도 인정한 적이 없었으니까……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,65,リンに決断を強制するつもりはないけど、やっぱり認めることはできない。,"린한테 결단을 강요할 생각은 없지만, 역시 인정할 수는 없다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,65,リンに決断を強制するつもりはないけど、やっぱり認めることはできない。,"린한테 결단을 강요할 생각은 없지만, 역시 인정할 수는 없어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,66,デモに参加してもいいよ。,시위에 참가해도 돼.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,198,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,199,ありがとう。,고마워.
@@ -4755,7 +4755,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,207,でも皆がそう判断してしまったら、誰が問題を解決するの？,"근데 다들 그렇게 생각해버리면, 누가 문제를 해결하는데?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,40,世の中には彼女みたいに立ち上がろうとしている人は沢山いる。それは彼女が一番わかっているはずだ。,세상에는 그녀처럼 나서려는 사람이 많다. 그건 그녀가 제일 잘 알고 있을 텐데.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,41,こういうのは彼らに任せばいい。リンが身の安全を脅かしてまでする必要はない……,이런 건 그들한테 맡기면 된다. 린이 신변의 안전을 위협받으면서까지 할 필요는 없다……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,70,必ず誰かが立ち上がり問題を解決してくれる。それは、リンが一番わかってるはずだ。,"분명 누군가가 나서서 문제를 해결해줄 거다. 그건, 린이 제일 잘 알고 있을 텐데."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,70,必ず誰かが立ち上がり問題を解決してくれる。それは、リンが一番わかってるはずだ。,"분명 누군가가 나서서 문제를 해결해줄 거야. 그건, 린이 제일 잘 알고 있을 텐데."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,208,そう。でもジェイ。あなたが今していることを思い出して！,그래. 근데 제이. 네가 지금 하고 있는 걸 떠올려봐!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,209,私を諦めさせようと、他人に関心を持たないように説得している。,"나를 포기시키려고, 남한테 관심을 갖지 말라고 설득하고 있잖아."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,210,これは立ち上がろうとする人、皆がぶつかる問題なの。,"이건 나서려는 사람, 모두가 부딪히는 문제야."
@@ -4773,11 +4773,11 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,45,そんなことよりリンの方が大事だからだ！,그런 것보다 린이 더 소중하니까 그래!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,72,そんなことよりリンの方が大事だからだ！,그런 것보다 린이 더 소중하니까 그래!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,218,ジェイ、私は……,"제이, 나는……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,73,リンはいつも他人のことばかりで、自分のことをちっとも考えない。,"린은 항상 남 걱정만 하고, 자기 걱정은 조금도 안 한다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,73,リンはいつも他人のことばかりで、自分のことをちっとも考えない。,"린은 항상 남 걱정만 하고, 자기 걱정은 조금도 안 해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,219,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,74,リンがいつも危険に巻き込まれても大丈夫と言うからだ！,린이 항상 위험에 휘말려도 괜찮다고 말하니까 그런 거다!
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,74,リンがいつも危険に巻き込まれても大丈夫と言うからだ！,린이 항상 위험에 휘말려도 괜찮다고 말하니까 그런 거야!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,220,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,75,俺は、リンを失うのが怖いんだ！,"나는, 린을 잃는 게 무서운 거다!"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,75,俺は、リンを失うのが怖いんだ！,"나는, 린을 잃는 게 무서운 거야!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,221,私は……,나는……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,76,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,77,……,……
@@ -4797,7 +4797,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,231,ジェイ、今はどう思ってる？,"제이, 지금은 어떻게 생각해?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,48,彼女を危険な場所に行かせるなんて……,그녀를 위험한 곳에 보내다니……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,49,俺にはできない。,나는 못 한다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,80,リンがやりたいことをするのを止めるつもりはもうない。,린이 하고 싶은 일을 하는 걸 막을 생각은 이제 없다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,80,リンがやりたいことをするのを止めるつもりはもうない。,린이 하고 싶은 일을 하는 걸 막을 생각은 이제 없어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,50,俺は何を言ってるんだ……！？,나 지금 무슨 소릴 하는 거지……!?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,51,だけど……,근데……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,52,俺はずっとその言葉を言いたかったのかもしれない……,나는 계속 그 말을 하고 싶었던 걸지도 모른다……
@@ -4806,23 +4806,23 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simp
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,233,うん、もう自分を顧みないようなことはしない。,"응, 이제 나 자신을 안 돌보는 짓은 안 할게."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,234,ジェイが悲しむから、でしょう？,"제이가 슬퍼할 테니까, 그렇지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,82,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,83,俺の考えも変わってない。危険に巻き込まれる行為を応援できない。,내 생각도 안 바뀌었다. 위험에 휘말리는 행위를 응원할 수 없다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,83,俺の考えも変わってない。危険に巻き込まれる行為を応援できない。,내 생각도 안 바뀌었어. 위험에 휘말리는 행위를 응원할 수 없어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,235,うん、わかってる……,"응, 알고 있어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,236,お互いの考えがいつも一致するとは限らないしね。,서로 생각이 항상 일치하는 건 아니니까.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,84,ごめん。俺は自分の立場を変えられない。,미안. 나는 내 입장을 바꿀 수 없다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,84,ごめん。俺は自分の立場を変えられない。,미안. 나는 내 입장을 바꿀 수 없어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,237,うん、私もそう。,"응, 나도 그래."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,238,でも、私たちは互いに誠実で、互いの考えを尊重できる……,"근데, 우리는 서로한테 성실하고, 서로 생각을 존중할 수 있어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,85,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,239,でも……,근데……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,240,自分より、自分のことを大切にしてくれる人がいてくれてよかった。,"나 자신보다, 나를 소중히 여겨주는 사람이 있어줘서 다행이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,241,ありがとう、ジェイ。,"고마워, 제이."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,86,リンに決断を強制するつもりはないけど、やっぱり認めることはできない。,"린한테 결단을 강요할 생각은 없지만, 역시 인정할 수는 없다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,86,リンに決断を強制するつもりはないけど、やっぱり認めることはできない。,"린한테 결단을 강요할 생각은 없지만, 역시 인정할 수는 없어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,242,私を無理矢理止めずに、尊重してくれてるのはわかる……,"나를 억지로 막지 않고, 존중해주고 있는 건 알아……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,243,でも、やっぱり認めてほしいな。,"근데, 역시 인정해줬으면 좋겠어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,87,それは欲張りだよ。,그건 욕심이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,244,わかってる……,알고 있어……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,245,でも……,근데……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,88,リンが危険なことに首を突っ込むことを認めることはできない。,린이 위험한 일에 끼어드는 걸 인정할 수는 없다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,88,リンが危険なことに首を突っ込むことを認めることはできない。,린이 위험한 일에 끼어드는 걸 인정할 수는 없어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,246,そっか……,그런가……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,89,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,247,……,……
@@ -4834,13 +4834,13 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,250,でも、だからってその悪を容認し続けて、より良い形を目指さないのは違うと思う。,"근데, 그렇다고 그 악을 계속 용인하면서, 더 나은 형태를 지향하지 않는 건 아니라고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,251,私は、この問題に社会の目を向けさせるには、自分から声を上げるしかないと思ってるの。社会がこの問題について討論を始めれば、全てが少しずつ改善され始めると思う。,"나는, 이 문제에 사회의 시선을 돌리려면, 스스로 목소리를 내는 수밖에 없다고 생각해. 사회가 이 문제에 대해 토론을 시작하면, 모든 게 조금씩 나아지기 시작할 거라고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,心の声,53,だがら、その声を上げる行為自体が危ないんだよ……,"그러니까, 그 목소리를 내는 행위 자체가 위험한 거라고……"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,93,そういうデモに参加するのは、とても危ないことだ。,"그런 시위에 참가하는 건, 굉장히 위험한 일이다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,93,そういうデモに参加するのは、とても危ないことだ。,"그런 시위에 참가하는 건, 굉장히 위험한 일이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,252,わかってるよ。でも、これはやるべきことだと思う。,"알고 있어. 근데, 이건 해야 할 일이라고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,94,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,253,ジェイは、デモの参加に賛成してくれる？,"제이는, 시위 참가에 찬성해줄 거야?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,95,これは間違いだと思う。搾取だ。,이건 잘못됐다고 생각한다. 착취다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,95,これは間違いだと思う。搾取だ。,이건 잘못됐다고 생각해. 착취야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,254,どうしてそう思うの？,왜 그렇게 생각하는 거야?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,96,演算力供給者への扱いがあまりに酷すぎる。,연산력 공급자에 대한 대우가 너무나 심하다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,96,演算力供給者への扱いがあまりに酷すぎる。,연산력 공급자에 대한 대우가 너무나 심해.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,255,だからといって、彼らの待遇を良くすれば問題は解決すると思う？,"그렇다고, 그들 대우를 좋게 하면 문제가 해결된다고 생각해?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,97,うん。最低限にはね。,응. 최소한은 말이지.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,256,でもいくら福利厚生と報酬金の額を改善したところで……,근데 아무리 복리후생이랑 보상금 액수를 개선해봤자……
@@ -4848,21 +4848,21 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,98,仕事だってそうじゃないか？,일이라는 게 다 그런 거 아닌가?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,258,それもそうね。,그건 그렇네.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,99,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,100,問題は、演算力産業の礎となる人力資源があまりに廉価すぎることだ。,"문제는, 연산력 산업의 초석이 되는 인력 자원이 너무나 헐값이라는 거다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,100,問題は、演算力産業の礎となる人力資源があまりに廉価すぎることだ。,"문제는, 연산력 산업의 초석이 되는 인력 자원이 너무나 헐값이라는 거야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,259,一日目でそこまでわかったとは、さすがね。,"첫날에 거기까지 알아채다니, 역시네."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,260,ならば、その問題を万象自らが解決することはないことも、理解できるでしょ？,"그렇다면, 그 문제를 완샹 스스로 해결하는 일은 없을 거라는 것도, 이해되지?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,261,企業は利益を求めるものだから……,기업은 이익을 추구하는 존재니까……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,101,人間を電脳の代替品にするのは人道的じゃない。,인간을 전뇌의 대체품으로 삼는 건 인도적이지 않다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,101,人間を電脳の代替品にするのは人道的じゃない。,인간을 전뇌의 대체품으로 삼는 건 인도적이지 않아.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,262,それは、彼らへの待遇が酷すぎるから？それとも人間をものとして扱うのが問題？,"그건, 그들에 대한 대우가 너무 심해서? 아니면 인간을 물건 취급하는 게 문제인 거야?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,102,主に待遇の問題だ。,주로 대우 문제다.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,103,人間をものとして扱う問題だ。,인간을 물건 취급하는 문제다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,102,主に待遇の問題だ。,주로 대우 문제야.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,103,人間をものとして扱う問題だ。,인간을 물건 취급하는 문제야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,263,うん……,응……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,264,IT産業はいつもそう。この時代で人間を数値化できたとしても、労働者を軽視する問題は昔からずっと存在していた。,"IT 산업은 항상 그래. 이 시대에 인간을 수치화할 수 있게 됐다 해도, 노동자를 경시하는 문제는 옛날부터 계속 존재했었어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,265,でもこの時代みたいに酷くなったのは初めてだよ……,근데 이 시대처럼 심해진 건 처음이야……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,266,演算力供給は、人一人の価値を正確に計算できる。,"연산력 공급은, 사람 한 명의 가치를 정확하게 계산할 수 있어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,267,技術が進みすぎたせいで、その数値の裏にいるのは生きた人間だとは経営者たちはもう思えないでしょうね……,"기술이 너무 발전한 탓에, 그 수치 뒤에 있는 게 살아있는 인간이라고는 경영자들이 이제 생각하지 못하겠지……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,268,そのせいで、彼らの考えが冷酷になり、行動までが影響を受けると思う。,"그 탓에, 그들의 사고방식이 냉혹해지고, 행동까지 영향을 받는다고 생각해."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,104,両者ともだ。,둘 다다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,104,両者ともだ。,둘 다야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,269,でもこの二つの問題は、解決しようがないの……,"근데 이 두 가지 문제는, 해결할 방법이 없어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,270,演算力産業の礎となる人力資源があまりに廉価すぎるから……,연산력 산업의 초석이 되는 인력 자원이 너무나 헐값이니까……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,271,彼らの待遇を改善するとコストが高くなり、会社の経営自体が傾いてしまう。,"그들 대우를 개선하면 비용이 높아져서, 회사 경영 자체가 기울어져버려."
@@ -4876,11 +4876,11 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,106,もし大多数を助けることが社会の発展の妨げになる場合は？,만약 대다수를 돕는 게 사회 발전을 방해하는 경우엔?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,278,それは、もちろんバランスを考えなくちゃいけないと思う。,"그건, 물론 균형을 생각해야 한다고 생각해."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,279,でも実際のところ、国と企業が利益を独り占めをして、一般大衆が苦しんでいる状況よ。,"근데 실제로는, 국가랑 기업이 이익을 독차지하고, 일반 대중이 고통받고 있는 상황이야."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,107,自由とはそもそも競争がつきもので、競争があれば勝ち負けがある。,"자유라는 건 애초에 경쟁이 따라붙는 거고, 경쟁이 있으면 승패가 있는 법이다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,107,自由とはそもそも競争がつきもので、競争があれば勝ち負けがある。,"자유라는 건 애초에 경쟁이 따라붙는 거고, 경쟁이 있으면 승패가 있는 법이야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,280,そうだね。,그렇겠지.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,281,でも自由を求める理由は、そもそも大多数を幸せにするためなんじゃないの？,"근데 자유를 추구하는 이유는, 애초에 대다수를 행복하게 하기 위한 거 아니야?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,282,所謂、今の自由競争なんて、ただの企業搾取の理由に成り下がっている気がする。,"이른바, 지금의 자유 경쟁이란 게, 그냥 기업 착취의 명분으로 전락한 것 같아."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,108,共産主義でも広めたいように聞こえる。,공산주의라도 퍼뜨리고 싶은 것처럼 들린다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,108,共産主義でも広めたいように聞こえる。,공산주의라도 퍼뜨리고 싶은 것처럼 들려.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,283,そんな、そこまでやる気はないよ。,그렇게까지 할 생각은 없어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,109,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,284,私が言いたいのは、自由には競争が伴い、そこには敗者が現れるってことなの。,"내가 하고 싶은 말은, 자유에는 경쟁이 따르고, 거기엔 패자가 생긴다는 거야."
@@ -4890,7 +4890,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,110,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,288,私は、社会福祉を発展させたい側に立ってた。,"나는, 사회 복지를 발전시키고 싶은 쪽에 서 있었어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,289,でも、自分が間違った立場を選んだんじゃないかと、今更ながら疑ってるの。,"근데, 내가 잘못된 입장을 선택한 게 아닐까, 이제 와서 의심하고 있어."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,111,リンの話はよく理解できない。,린 얘기는 잘 이해가 안 된다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Branch,#Simple,111,リンの話はよく理解できない。,린 얘기는 잘 이해가 안 돼.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,290,演算力供給は低い給料で多くの人の人生を奪った。,연산력 공급은 낮은 급여로 많은 사람의 인생을 빼앗았어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,291,でもそれと同時に、彼らは選べる権利も与えられている。,"근데 그와 동시에, 그들은 선택할 권리도 부여받고 있어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,程芳在頂樓觀景位置,Say,リン･テイ,292,彼らは演算力供給のおかげで、最も窮地に立たされた苦痛な時間を味わうことなく、むしろその時間をスキップできるようになった。,"그들은 연산력 공급 덕분에, 가장 궁지에 몰린 고통스러운 시간을 겪지 않고, 오히려 그 시간을 건너뛸 수 있게 됐어."
@@ -5726,7 +5726,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,心の声,1,それ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,6,さっき、ばあさんに呼び出されて散々怒られたんすよ。,"아까, 할머니한테 불려가서 실컷 혼났거든요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,7,とりあえず、本当にすみませんでした。,"아무튼, 정말 죄송했습니다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,8,後でちゃんとお詫びさせてください。,나중에 제대로 사과드리게 해주세요.
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,0,大丈夫だ。気にするな。,괜찮다. 신경 쓰지 마.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,0,大丈夫だ。気にするな。,괜찮아. 신경 쓰지 마.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,9,ありがとうございます。これは一つ借りにさせてください！,감사합니다. 이건 하나 빚진 걸로 해주세요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,10,困った時はいつでも言ってくださいっす。すぐ駆けつけますんで。,곤란할 때는 언제든지 말씀해주세요. 바로 달려갈 테니까요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,1,これからは大口を叩くなよ。,앞으로는 큰소리치지 마.
@@ -5754,7 +5754,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,心の声,4,こいつ、義理に熱い人間だな……,"이놈, 의리에 뜨거운 놈이군……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,26,ジェイの兄貴が絶対受かるって保障はないけど、この件での被害はそんなに無いはずっす。,"제이 형님이 무조건 붙는다는 보장은 없지만, 이 건으로 인한 피해는 그렇게 없을 거거든요."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,27,その……許してくれますか……？,그……용서해주시는 건가요……?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,4,ああ、俺は最初から気にしてない。,"그래, 나는 처음부터 신경 안 썼다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,4,ああ、俺は最初から気にしてない。,"그래, 나는 처음부터 신경 안 썼어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,28,そうっすか！よかった！,그런가요! 다행이다!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,29,ジェイの兄貴はいい人っすね！,제이 형님은 좋은 사람이네요!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,心の声,5,心から喜んでるようだ。,진심으로 기뻐하는 것 같다.
@@ -5764,7 +5764,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,6,誠意
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,30,じゃ、こうしましょう！,"그럼, 이렇게 하죠!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,31,これは借りにさせてください。,이건 빚진 걸로 해주세요.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,32,今後、何か手伝ってほしいことがあったら、いつでも言ってください。,"앞으로, 뭔가 도와줬으면 하는 일이 있으면, 언제든지 말씀해주세요."
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,7,それは別に。,그건 됐다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,7,それは別に。,그건 됐어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,33,大丈夫、大丈夫っす！,"괜찮아요, 괜찮아요!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,8,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,34,これでこの件は終わりにしましょう！,이걸로 이 건은 끝내죠!
@@ -5784,10 +5784,10 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,40,イーさんのために、皆で頑張ってレアなチケットまで手に入れたのに……,"원임 씨를 위해서, 다 같이 애써서 희귀한 티켓까지 구했는데……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,41,結果は？,결과는요?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,42,イーさんはデートに全然誘わないんすよ！,원임 씨는 데이트 신청을 전혀 안 하거든요!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,11,さっき後押しをした。,아까 등을 밀어줬다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,11,さっき後押しをした。,아까 등을 밀어줬어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,43,まじすか！で、どうでした？,"진짜요!? 그래서, 어땠어요?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,12,当ててみたらどうだ？,맞혀보는 게 어때?
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,13,チーフが適当にごまかした。,팀장이 적당히 얼버무렸다.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Branch,#Simple,13,チーフが適当にごまかした。,팀장이 적당히 얼버무렸어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,44,まじかよ、イーさん……,"진짜냐고요, 원임 씨……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,イー･テイ,11,な、何がだよ……！,"무, 뭐가 말이야……!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,被鄭緯叫醒2,Say,リュウセイ･チョウ,45,え？まじでごまかしたっすか！？,네? 진짜로 얼버무린 거예요!?

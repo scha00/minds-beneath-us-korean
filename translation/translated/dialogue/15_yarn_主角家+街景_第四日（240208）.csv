@@ -33,11 +33,11 @@ fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,1,あん�
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,1,いや、でも勝手に入るのは失礼かなって……,"아뇨, 근데 마음대로 들어가는 건 실례일까 싶어서……"
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,2,……,……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,2,スイ姉が今日の作戦について話し合いたいみたいっす。,은영 누나가 오늘 작전에 대해 얘기하고 싶어 하는 것 같아요.
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,3,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,3,わかった。,알았어.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,4,結果はどうなんだ？,결과는 어떻게 됐지?
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,3,結果？,결과요?
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,5,オペレーションコアの解析はもう終わったんだろう？,오퍼레이션 코어 분석은 이미 끝났잖아?
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,6,俺らが昨日持ち帰ったデータのことだ。,우리가 어제 가져온 데이터 말이다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Branch,#Simple,6,俺らが昨日持ち帰ったデータのことだ。,우리가 어제 가져온 데이터 말이야.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,4,それが……,그게……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,5,解析は終わってるみたいけど、僕には何も教えてくれなくて。,"분석은 끝난 것 같은데, 저한테는 아무것도 안 알려주셔서요."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,幫隆生開門,Say,リュウセイ･チョウ,6,多分、後で説明してくれると思うっす。,"아마, 나중에 설명해주실 것 같아요."
@@ -71,7 +71,7 @@ fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テ�
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,18,ここまでのリスクを冒してまで、サイレントに行く意味はないと思うの。,"이렇게까지 위험을 무릅쓰면서, 사일런트에 갈 의미는 없다고 생각해."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,19,……,……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,20,だからジェイ、約束してくれる？今日で最後にするって。,"그러니까 제이, 약속해줄래? 오늘로 마지막이라고."
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,6,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,6,わかった。,알았어.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,21,ありがとう、ジェイ。,"고마워, 제이."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Branch,#Simple,7,他に手はないわけだしな。,다른 방법이 있는 것도 아니고.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,跟程芳說是隆生,Say,リン･テイ,22,……,……
@@ -202,7 +202,7 @@ fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･�
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,6,どれくらい時間がかかるんだ？,얼마나 시간이 걸리는 거지?
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,9,わからない。,모르겠다.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,23,4,すぐは無理でしょうね。,금방은 무리겠지.
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,7,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,7,わかった。,알았어.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,8,……,……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リン･テイ,1,もしあなたたちが作戦時間までに戻らなかったら？,만약 당신들이 작전 시간까지 안 돌아오면?
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,10,……,……
@@ -218,11 +218,11 @@ fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,カイ･�
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,16,……,……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,スイ･ニン,17,リュウセイ、ジェイ、先にサイレントに向かってくれ。別々で行動することを忘れるな。,"유성, 제이, 먼저 사일런트로 향해라. 따로따로 행동하는 거 잊지 말고."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,1,じゃ、僕はバイクで行くから、選別組のオフィスで落ち合いましょう。,"그럼, 저는 오토바이로 갈 테니까, 선별조 사무실에서 만나요."
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,9,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,9,わかった。,알았어.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,10,乗せてくれないのか？,안 태워주는 거야?
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,2,スイ姉から別々で行動するように、言われたばっかりっすよ？,은영 누나한테 따로 행동하라고 방금 들었잖아요?
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,11,そうだな、すまない。,"그렇지, 미안하다."
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,12,わかった。,알겠다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,11,そうだな、すまない。,"그렇지, 미안해."
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,12,わかった。,알았어.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,13,……,……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Branch,#Simple,14,……,……
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫2_2,Say,リュウセイ･チョウ,3,じゃ、先に行くっす。,"그럼, 먼저 갈게요."
@@ -422,7 +422,7 @@ fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,2
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,36,無理。,무리야.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,37,できない事はないけど、唐突にシフトが変更になった人がきっとあんたを疑うはずよ。,"못 하는 건 아닌데, 갑자기 시프트가 바뀐 사람이 분명 너를 의심할 거야."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,38,他に質問は？,다른 질문은?
-fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,22,もう大丈夫だ。,이제 됐다.
+fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Branch,#Simple,22,もう大丈夫だ。,이제 됐어.
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,39,ジェイは操作組だから、面談を担当できないのよね。,"제이는 조작조니까, 면담을 담당할 수 없단 말이지."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,23,40,でも、少しでも協力してくれそうな人を見つけるためにも、今日のリュウセイの面談をジェイに代わってもらおうと思うの。,"근데, 조금이라도 협력해줄 것 같은 사람을 찾기 위해서라도, 오늘 유성 면담을 제이한테 대신 맡기려고 해."
 fb6d4d4cc2d60bcc548ac4d95e2c4b1f.bundle,說明第四日計畫_2,Say,リュウセイ･チョウ,21,……でもそれじゃ、結局一人からしか話を聞けない。,"……근데 그러면, 결국 한 명한테서밖에 얘기를 못 듣잖아요."

@@ -16,7 +16,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Branch,#Simple,2,…�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Say,リュウセイ･チョウ,9,23姉はスイ姉の指示で戻ってくるみたいっすね。,23 누나는 은영 누나 지시로 돌아오는 것 같아요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Say,リュウセイ･チョウ,10,……ここに僕一人なのが心配なんすかね。,……여기에 저 혼자 있는 게 걱정되나 봐요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Branch,#Simple,3,まだまだ未熟だからな。,아직 한참 미숙하니까.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Branch,#Simple,4,それは考えすぎだ。,그건 너무 앞서간 생각이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Branch,#Simple,4,それは考えすぎだ。,그건 너무 앞서간 생각이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Say,リュウセイ･チョウ,11,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Branch,#Simple,5,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,回到司徒基地,Say,リン･テイ,2,それで……,그래서……
@@ -593,7 +593,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,スイ･ニン,278,
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,リン･テイ,65,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,リン･テイ,66,あなたたちの言う通りかもしれない。,너희 말이 맞을지도 모르겠네.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,リン･テイ,67,この件はここまでにしましょう。,이 얘기는 여기까지 하자.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Branch,#Simple,93,わかった。スイ･ニン、教えてくれ。,"알았다. 주은영, 알려줘."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Branch,#Simple,93,わかった。スイ･ニン、教えてくれ。,"알았어. 주은영, 알려줘."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Branch,#Simple,94,俺にだけ話すことはできないのか？,나한테만 얘기하는 건 안 되나?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,スイ･ニン,279,お勧めはしない。,권하지는 않는다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,リン･テイ,68,待ってよ、ジェイ。私だって聞きたいわ。,"잠깐만, 제이. 나도 듣고 싶어."
@@ -609,7 +609,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,スイ･ニン,285,
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,スイ･ニン,286,彼には余計な負担を与えたくない。,그한테는 쓸데없는 부담을 주고 싶지 않다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,リン･テイ,70,そうね。,그러게.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,心の声,23,二人が俺を睨んでる……,둘이 나를 노려보고 있다……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Branch,#Simple,97,大丈夫だ。俺は言わない。,괜찮다. 나는 말 안 한다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Branch,#Simple,97,大丈夫だ。俺は言わない。,괜찮아. 나는 말 안 해.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,スイ･ニン,287,ありがとう。,고맙다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Branch,#Simple,98,さて、どうしようか。,"자, 어떻게 할까."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談,Say,スイ･ニン,288,……,……
@@ -763,7 +763,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,7,ハハ、それはそ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,イアン･チョー,6,けっ！,쳇!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,リュウセイ･チョウ,1,あの、23姉。明日のこともあるから、僕は飲まないでおくっす……,"저기, 23 누나. 내일도 있고 하니까, 저는 안 마실게요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,0,俺も。,나도.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,1,俺は飲む。,나는 마신다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,1,俺は飲む。,나는 마셔.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,2,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,8,は？,뭐?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,9,別にあんたらのために買った酒じゃないけど？,딱히 너희를 위해서 산 술은 아닌데?
@@ -779,7 +779,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,15,また仕事の話？,
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,4,重要な話だと思うが？,중요한 얘기라고 생각하는데?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,16,今は大事な話じゃなくて、どうでもいい話がいいの！,"지금은 중요한 얘기 말고, 아무래도 상관없는 얘기가 좋다고!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,5,俺は知りたいんだが……,나는 알고 싶은데……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,6,すまない。,미안하다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,6,すまない。,미안해.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,17,謝って済むなら、警察はいらないのよ！,"사과로 끝날 거면, 경찰이 필요 없지!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,18,あれ、うちらが警察じゃん！,"어, 우리가 경찰이잖아!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,19,はいはい～,네네~
@@ -983,7 +983,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,154,彼にとってスイ
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,155,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,41,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,リュウセイ･チョウ,29,ジェイの兄貴、他の話にしましょう！,"제이 형, 다른 얘기 해요!"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,42,特に話したいことはない。,특별히 하고 싶은 얘기는 없다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Branch,#Simple,42,特に話したいことはない。,특별히 하고 싶은 얘기는 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,156,そう。じゃ、いいわよ。,"그래. 그럼, 됐어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,23,157,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤4,Say,リュウセイ･チョウ,30,……,……
@@ -1412,10 +1412,10 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,10,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,11,僕は、ずっとスイ姉をヒーローだと思ってたっす。,"저는, 계속 은영 누나를 영웅이라고 생각했었어요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,12,でも、それは間違いなんじゃないかって思い始めて…,"근데, 그게 틀린 게 아닌가 싶어지기 시작해서…"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,4,確かにそれは間違っている。,확실히 그건 틀렸다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,4,確かにそれは間違っている。,확실히 그건 틀렸어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,13,……どうしてっすか？,……왜요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,5,完璧な人間は存在しない。,완벽한 인간은 존재하지 않는다.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,6,誰かを崇拝すると、物事の本質を見抜けなくなる。,"누군가를 숭배하면, 사물의 본질을 꿰뚫어 볼 수 없게 된다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,5,完璧な人間は存在しない。,완벽한 인간은 존재하지 않어.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,6,誰かを崇拝すると、物事の本質を見抜けなくなる。,"누군가를 숭배하면, 사물의 본질을 꿰뚫어 볼 수 없게 돼."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,14,それは……,그건……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,15,問題はそこじゃないと思うっす……！,문제는 그게 아니라고 생각해요……!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,1,……,……
@@ -1462,8 +1462,8 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,47,スイ姉の行動……,은영 누나의 행동……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,48,かなり保守的だと思わないっすか？,꽤 보수적이라고 생각하지 않아요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,16,それについては、スイ･ニンが説明したはずだ。,"그것에 대해서는, 주은영이 설명했을 텐데."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,17,そう思わなくもないが、そうする理由も理解できる。,"그렇게 생각 안 되는 것도 아니지만, 그렇게 하는 이유도 이해된다."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,18,そうは思わない。,그렇게 생각 안 한다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,17,そう思わなくもないが、そうする理由も理解できる。,"그렇게 생각 안 되는 것도 아니지만, 그렇게 하는 이유도 이해돼."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,18,そうは思わない。,그렇게 생각 안 해.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,49,じゃ、なんでリンさんのホログラムを手に入れた時、すぐに万象を殺人の容疑で訴えないっすか？,"그럼, 왜 린 씨 홀로그램을 손에 넣었을 때, 바로 완샹을 살인 혐의로 고소하지 않은 거예요?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,19,そんなことをしても、セイワ･ゲンしか捕まえられないからだ。,"그래봤자, 엄승환밖에 못 잡으니까."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,50,セイワ･ゲンを捕まえられれば、十分じゃないっすか！,"엄승환을 잡을 수 있으면, 충분하잖아요!"
@@ -1473,7 +1473,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,21,セイワ･ゲンを逮捕しても、万象にダメージを与えることはできない。,"엄승환을 체포해도, 완샹한테 타격을 줄 수는 없어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,22,そして他の悪事の証拠をすべてもみ消し、万象は存続し続ける。,"그리고 다른 악행 증거를 전부 은폐하고, 완샹은 계속 존속하겠지."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,53,それは……,그건……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,23,あの時の俺らの目的は、万象を殺人の容疑にかけることではなく、マイナーたちを守ることだった。,"그때 우리 목적은, 완샹을 살인 혐의로 걸어넣는 게 아니라, 마이너들을 지키는 거였다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,23,あの時の俺らの目的は、万象を殺人の容疑にかけることではなく、マイナーたちを守ることだった。,"그때 우리 목적은, 완샹을 살인 혐의로 걸어넣는 게 아니라, 마이너들을 지키는 거였어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,24,リンが殺されそうになったことだけじゃ、万象の陰謀を止めることはできない。,"린이 죽을 뻔했다는 것만으로는, 완샹의 음모를 막을 수 없어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,25,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,54,それは、僕だってわかってるけど……,"그건, 저도 알고 있는데……"
@@ -1502,14 +1502,14 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,35,そして今
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,36,不確定の状態で行動するわけにもいかないだろう？,불확실한 상태로 행동할 수는 없잖아?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,37,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,67,はい……,네……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,38,セラーの件は何年も前から続いていることだ。今回の件と比べれば緊急性はない。,지하실 건은 몇 년 전부터 계속돼온 일이다. 이번 건이랑 비교하면 긴급성은 없어.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,38,セラーの件は何年も前から続いていることだ。今回の件と比べれば緊急性はない。,지하실 건은 몇 년 전부터 계속돼온 일이야. 이번 건이랑 비교하면 긴급성은 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,68,緊急性はない？それ酷くないっすか？,긴급성이 없다고요? 그거 너무한 거 아니에요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,39,子どもたちの人身売買を見逃す方が酷いと思わないか？,아이들 인신매매를 못 본 척하는 쪽이 더 심하다고 생각 안 해?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,69,……,……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,40,「比べれば」と言っただけで、重要じゃないとは言っていない。,"「비교하면」이라고 했을 뿐이지, 중요하지 않다고는 안 했다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,40,「比べれば」と言っただけで、重要じゃないとは言っていない。,"「비교하면」이라고 했을 뿐이지, 중요하지 않다고는 안 했어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,70,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,71,……,……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,41,スイ･ニンもいろんな制限を受けている。,주은영도 여러 제약을 받고 있다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,41,スイ･ニンもいろんな制限を受けている。,주은영도 여러 제약을 받고 있어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,42,あんたが望むやり方をしなかっただけで、彼女が保守的になったわけじゃない。,"네가 바라는 방식대로 안 했다고 해서, 그 사람이 보수적이 된 건 아니야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,43,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,72,……,……
@@ -1521,22 +1521,22 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,77,あんなクズを見逃すなんて……,그런 쓰레기를 봐준다니……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,78,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,79,……まさかジェイの兄貴も万象との交渉に賛成っすか？,……설마 제이 형도 완샹이랑의 협상에 찬성이에요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,45,悪いが、俺も彼女の計画に賛成だ。,"미안하지만, 나도 그 사람 계획에 찬성이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,45,悪いが、俺も彼女の計画に賛成だ。,"미안하지만, 나도 그 사람 계획에 찬성이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,46,それ以外に方法はない。,그것 말고 다른 방법은 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,80,ジェイの兄貴まで……,제이 형까지……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,81,さっきはスイ姉のことを保守的だって言ってくれたのに……,아까는 은영 누나를 보수적이라고 해줬으면서……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,47,確かに保守的だが、万象との交渉は仕方のないことだ。,"확실히 보수적이지만, 완샹이랑 협상하는 건 어쩔 수 없는 일이다."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,48,保守的と言っただけで、彼女が間違っているとは言っていない。,"보수적이라고 했을 뿐이지, 그 사람이 틀렸다고는 안 했다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,47,確かに保守的だが、万象との交渉は仕方のないことだ。,"확실히 보수적이지만, 완샹이랑 협상하는 건 어쩔 수 없는 일이야."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,48,保守的と言っただけで、彼女が間違っているとは言っていない。,"보수적이라고 했을 뿐이지, 그 사람이 틀렸다고는 안 했어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,82,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,83,どういうことっすか……？,무슨 뜻이에요……?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,49,被害者のためを考えるなら、こうするしか方法はない。,"피해자를 생각한다면, 이렇게 하는 수밖에 없다."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,50,完璧な解決法ではないが、最も成功率が高い方法ではある。,"완벽한 해결책은 아니지만, 성공률이 가장 높은 방법이긴 하다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,49,被害者のためを考えるなら、こうするしか方法はない。,"피해자를 생각한다면, 이렇게 하는 수밖에 없어."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,50,完璧な解決法ではないが、最も成功率が高い方法ではある。,"완벽한 해결책은 아니지만, 성공률이 가장 높은 방법이긴 해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,51,俺とリンの安全を保証するにはその方法しかない。,나랑 린의 안전을 보장하려면 그 방법밖에 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,84,そんな……,그럴 수가……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,85,じゃ、リンさんが殺されそうになったことは？何も追及しないっすか？,"그럼, 린 씨가 죽을 뻔했던 건요? 아무것도 안 따지는 거예요?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,86,セイワ･ゲンとホワイトリザードは平然と今まで通りの生活を送るっすよ？,엄승환이랑 화이트 리저드는 태연하게 지금까지처럼 살아간다고요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,52,俺はただリンを守りたいだけだ。,나는 그냥 린을 지키고 싶을 뿐이야.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,53,俺たちが元の生活を取り戻せるなら、追及しない。,"우리가 원래 생활을 되찾을 수 있다면, 안 따진다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,53,俺たちが元の生活を取り戻せるなら、追及しない。,"우리가 원래 생활을 되찾을 수 있다면, 안 따져."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,87,そんな……,그럴 수가……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,54,俺だって、彼らにしかるべき代償を払わせたい。,"나도, 그놈들한테 마땅한 대가를 치르게 하고 싶어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,88,じゃ、なんで！？,"그럼, 왜요!?"
@@ -1546,9 +1546,9 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,56,復讐する
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,57,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,90,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,91,でも……,근데……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,58,俺も納得していない。,나도 납득 못 하고 있다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,58,俺も納得していない。,나도 납득 못 하고 있어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,92,やっぱりそうっすよね！,역시 그렇죠!
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,59,正直に言うと、どちらでもいいと思っている。,"솔직히 말하면, 어느 쪽이든 상관없다고 생각한다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,59,正直に言うと、どちらでもいいと思っている。,"솔직히 말하면, 어느 쪽이든 상관없다고 생각해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,93,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,94,でも兄貴は黙認してたっすよね……？,근데 형은 묵인하고 있었잖아요……?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,95,本当に反対してるなら、あの場で声を上げてたはずっす……,"정말로 반대하는 거라면, 그 자리에서 목소리를 냈을 텐데요……"
@@ -1578,7 +1578,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,112,でも、これは必要なことっす。,"그래도, 이건 필요한 일이에요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,67,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,68,結局正義とは何なんだ？,결국 정의란 뭐지?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,69,理解はできる。,이해는 된다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,69,理解はできる。,이해는 돼.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,113,でも、ジェイの兄貴はスイ姉の計画に賛成っすよね？,"근데, 제이 형은 은영 누나 계획에 찬성이잖아요?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,114,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,115,嬉しいっす。,기뻐요.
@@ -1588,16 +1588,16 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,119,すべての悪人にしかるべき罰を下すことっす。,모든 악인한테 마땅한 벌을 내리는 거예요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,120,すべての悪の源は悪人が存在していることっす。だから彼らを排除することが最も重要っす。,모든 악의 근원은 악인이 존재한다는 거예요. 그러니까 그들을 제거하는 게 가장 중요해요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,121,そう考えるのは間違ってるっすか？,그렇게 생각하는 게 틀렸어요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,70,間違ってない。それに俺もその考えには賛成だ。,틀리지 않았다. 게다가 나도 그 생각에는 찬성이야.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,70,間違ってない。それに俺もその考えには賛成だ。,틀리지 않았어. 게다가 나도 그 생각에는 찬성이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,122,めちゃくちゃ嬉しいっす！,완전 기뻐요!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,71,間違ってはいないが、この世界はそんなに単純じゃない。,"틀리지는 않았지만, 이 세상은 그렇게 단순하지 않아."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,72,悪いが、俺はそう思わない。,"미안하지만, 나는 그렇게 생각 안 해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,123,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,124,じゃ、兄貴にとっての正義って？,"그럼, 형한테 정의란요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,73,すべての人が公平に扱われることだ。,모든 사람이 공평하게 대우받는 거다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,73,すべての人が公平に扱われることだ。,모든 사람이 공평하게 대우받는 거야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,125,公平に扱われる……？,공평하게 대우받는다……?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,126,どういう意味っすか？,무슨 뜻이에요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,74,加害者を罰するより、被害者を守ることの方が重要ということだ。,"가해자를 벌하는 것보다, 피해자를 지키는 쪽이 더 중요하다는 거다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,74,加害者を罰するより、被害者を守ることの方が重要ということだ。,"가해자를 벌하는 것보다, 피해자를 지키는 쪽이 더 중요하다는 거야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,75,復讐は重要ではないってことだ。,복수는 중요하지 않다는 거지.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,127,でも被害者を守る一番の方法は、加害者を根絶やしにすることっすよね？,"근데 피해자를 지키는 가장 좋은 방법은, 가해자를 뿌리 뽑는 거잖아요?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,128,まさか、加害者に罰を与えることすらしないつもりっすか？,"설마, 가해자한테 벌을 주는 것조차 안 할 생각이에요?"
@@ -1611,14 +1611,14 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,80,あんたは
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,81,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,82,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,131,……,……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,83,この世界によりプラスの影響を与えることこそが正義だ。,이 세상에 더 긍정적인 영향을 주는 것이야말로 정의다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,83,この世界によりプラスの影響を与えることこそが正義だ。,이 세상에 더 긍정적인 영향을 주는 것이야말로 정의야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,132,万象みたいなクズ企業に代償を払わせることが、一番プラスじゃないっすか？,"완샹 같은 쓰레기 기업한테 대가를 치르게 하는 게, 가장 긍정적이지 않아요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,84,それは同時に、大きくマイナスの影響も受けることになる。,"그건 동시에, 큰 부정적 영향도 받게 된다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,84,それは同時に、大きくマイナスの影響も受けることになる。,"그건 동시에, 큰 부정적 영향도 받게 돼."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,85,あんたはプラスの影響しか見ていない。,너는 긍정적인 영향밖에 안 보고 있어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,86,あんたにとってはプラスなだけで、社会にとってはそうじゃない可能性もあるだろ。,"너한테는 긍정적일 뿐이지, 사회 입장에선 그렇지 않을 가능성도 있잖아."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,133,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,134,……殺される人たちのことを言ってるっすか。,……죽게 될 사람들을 말하는 거예요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,87,そうだ。,그렇다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,87,そうだ。,그래.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,88,それは理解しているんだな。,그건 이해하고 있는 거네.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,135,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,136,でも万象を潰せば、社会全体にプラスの影響をもたらせる。,"근데 완샹을 무너뜨리면, 사회 전체에 긍정적인 영향을 줄 수 있어요."
@@ -1627,9 +1627,9 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,89,万象を潰
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,138,あんなに酷いことをしている企業なのに……？,그렇게 심한 짓을 하는 기업인데……?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,90,万象の職員たちはどうなる？,완샹 직원들은 어떻게 되는데?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,139,選別組の皆は……,선별조 사람들은……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,91,問題は、この社会が万象無しでは成り立たないことだ。,"문제는, 이 사회가 완샹 없이는 굴러가지 않는다는 거다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,91,問題は、この社会が万象無しでは成り立たないことだ。,"문제는, 이 사회가 완샹 없이는 굴러가지 않는다는 거야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,140,もし万象が潰れれば、多くの社会機能が止まる……,"만약 완샹이 무너지면, 많은 사회 기능이 멈춘다……"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,92,万象が潰れても、他の企業が引き続き、悪事を働くだけだ。,"완샹이 무너져도, 다른 기업이 계속, 나쁜 짓을 할 뿐이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,92,万象が潰れても、他の企業が引き続き、悪事を働くだけだ。,"완샹이 무너져도, 다른 기업이 계속, 나쁜 짓을 할 뿐이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,141,……サンライズのように。,……선라이즈처럼.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,142,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,143,言いたいことはなんとなくわかったっす……,하고 싶은 말은 대충 알겠어요……
@@ -1637,7 +1637,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,145,それでも……！,그래도……!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,93,だからと言って、罪のない人間を苦しめるべきじゃない。,"그렇다고 해서, 죄 없는 사람을 괴롭혀서는 안 돼."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,146,苦しめる……？,괴롭힌다고요……?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,94,例えば一人を殺すことで、三人を幸せにするとかだ。,"예를 들면 한 사람을 죽여서, 세 사람을 행복하게 하는 것 같은 거다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,94,例えば一人を殺すことで、三人を幸せにするとかだ。,"예를 들면 한 사람을 죽여서, 세 사람을 행복하게 하는 것 같은 거야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,147,べ、別に人を殺すつもりはないっすよ……！？,"따, 딱히 사람을 죽일 생각은 없거든요……!?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,95,あんたが殺していなくても、あんたの選択でたくさんの人が死ぬ。,"네가 안 죽였어도, 네 선택으로 많은 사람이 죽어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,96,人を殺すことだけが、苦しめることじゃない。,"사람을 죽이는 것만이, 괴롭히는 게 아니야."
@@ -1652,12 +1652,12 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,152,言いたいことはなんとなくわかったっす……,하고 싶은 말은 대충 알겠어요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,153,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,154,それでも……,그래도……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,101,正義とは主流となっている意見だ。,정의란 주류가 된 의견이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,101,正義とは主流となっている意見だ。,정의란 주류가 된 의견이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,155,じゃ、万象のようなクズ企業を倒すことには……,"그럼, 완샹 같은 쓰레기 기업을 무너뜨리는 것에는……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,156,誰もが賛成すると思うっす。,다들 찬성할 거라고 생각해요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,157,それに大衆は、悪事を働いたやつらに代償を払わせるのを望んでいるっすよ。,"게다가 대중은, 나쁜 짓을 한 놈들한테 대가를 치르게 하길 바란다고요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,158,違いますか？,아닌가요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,102,でも大衆は、被害者を犠牲にすべきではないと思うはずだ。,"근데 대중은, 피해자를 희생시켜서는 안 된다고 생각할 거다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,102,でも大衆は、被害者を犠牲にすべきではないと思うはずだ。,"근데 대중은, 피해자를 희생시켜서는 안 된다고 생각할 거야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,159,それは……,그건……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,103,リュウセイ、あんたの意見は主流の意見じゃない。,"유성, 네 의견은 주류 의견이 아니야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,160,そんなのわかってるっす……！,그런 건 알고 있어요……!
@@ -1673,7 +1673,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,109,かもしれないと言っただけだ。,그럴지도 모른다고 했을 뿐이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,110,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,165,……,……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,111,問題は、大衆の考えを知ることは不可能ってことだ。,"문제는, 대중의 생각을 아는 게 불가능하다는 거다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,111,問題は、大衆の考えを知ることは不可能ってことだ。,"문제는, 대중의 생각을 아는 게 불가능하다는 거야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,112,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,166,でもそんなことを言ったら……,근데 그런 말을 하면……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,167,誰なら主流の意見がわかるっすか？それに、その主流の意見が正しいって誰が保証を？,"그럼 누가 주류 의견을 알 수 있는데요? 게다가, 그 주류 의견이 옳다는 걸 누가 보증하는데요?"
@@ -1684,7 +1684,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,170,それにそういう人たちに、一般人の考えなんてわかるはずないっすよ……,"게다가 그런 사람들이, 일반인 생각 같은 걸 알 리가 없잖아요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,171,僕には……,저한테는……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,172,主流の意見こそが正義とは思えないっす……,주류 의견이야말로 정의라고는 생각 안 돼요……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,115,さあな、俺には答えられない。,"글쎄, 나는 대답 못 하겠다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,115,さあな、俺には答えられない。,"글쎄, 나는 대답 못 하겠어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,173,考えたことないっすか？,생각해본 적 없어요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,116,普通の人はそんなことを考えないだろ。,보통 사람은 그런 걸 생각 안 하지.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,117,そんな簡単に説明できるものじゃないだろ。,그렇게 간단히 설명할 수 있는 게 아니잖아.
@@ -1704,7 +1704,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,186,僕たちはすべての被害者のために、彼らに復讐しなければならない……,"저희는 모든 피해자를 위해서, 그놈들한테 복수해야만 해요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,187,兄貴、最後に聞きたいっす……,"형, 마지막으로 묻고 싶어요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,188,僕と一緒に、スイ姉の計画に反対してくれますか？,"저랑 같이, 은영 누나 계획에 반대해줄래요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,119,いいだろう。,좋다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,119,いいだろう。,좋아.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,2,かなり驚いているようだ。,꽤 놀란 것 같다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,189,でもさっきはスイ姉の計画に賛成してたっすよね？,근데 아까는 은영 누나 계획에 찬성했었잖아요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,190,考えを変えてくれたっすか？,생각을 바꿔주신 거예요?
@@ -1714,7 +1714,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,194,本当に一緒に反対してくれるっすか？,정말로 같이 반대해주는 거예요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,120,ああ。,그래.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,195,よかった……,다행이다……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,121,すまない、やっぱり無理だ。,"미안, 역시 무리다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,121,すまない、やっぱり無理だ。,"미안, 역시 무리야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,196,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,197,じゃ、なんで最初は同意してくれたっすか……,"그럼, 왜 처음엔 동의해줬던 거예요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,3,かなりショックを受けている。,꽤 충격을 받은 상태다.
@@ -1722,7 +1722,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,199,正義に対するの僕たちの考えは同じだし、当然と言えば当然なのかもしれないっすね！,"정의에 대한 우리 생각은 같으니까, 당연하다면 당연한 걸지도 모르겠네요!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,200,正義に対するの僕たちの考えは違ったけど、この計画に関しては同じ考えでよかったっす。,"정의에 대한 우리 생각은 달랐지만, 이 계획에 관해서는 같은 생각이라 다행이었어요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,201,それなら……,그렇다면……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,122,反対はしない。,반대는 안 한다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,122,反対はしない。,반대는 안 해.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,4,リュウセイが驚いた顔で俺を見ている。,유성이 놀란 얼굴로 나를 보고 있다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,202,でもさっきはスイ姉の計画に賛同できないって言ってたっすよね？,근데 아까는 은영 누나 계획에 동의 못 한다고 했었잖아요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,203,それに、ジェイの兄貴の正義に対する考えは僕と同じだったはずっす……！,"게다가, 제이 형의 정의에 대한 생각은 저랑 같았을 텐데요……!"
@@ -1731,7 +1731,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,123,あんた�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,124,俺の正義とあんたの正義は違う。,내 정의랑 네 정의는 달라.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,205,でも……,근데……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,206,一緒にスイ姉の計画に反対するくらいは……,같이 은영 누나 계획에 반대하는 정도는……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,125,リンのためだ。,린을 위해서다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,125,リンのためだ。,린을 위해서야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,207,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,5,リュウセイの顔から怒りが伺える。,유성의 얼굴에서 분노가 엿보인다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,126,彼女を守るために、スイ･ニンの計画に賛成しないことは間違いだと言いたいのか？,"그 사람을 지키기 위해서, 주은영의 계획에 찬성하지 않는 게 잘못이라고 말하고 싶은 거냐?"
@@ -1739,10 +1739,10 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,209,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,210,はい。,네.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,211,僕、間違ってるっすか？,"저, 틀렸어요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,127,別に間違ってはいないと思う。,딱히 틀리지는 않았다고 생각한다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,127,別に間違ってはいないと思う。,딱히 틀리지는 않았다고 생각해.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,128,確かに俺はリンさえ守れれば、他のことはどうでもいいと思ってる。,"확실히 나는 린만 지킬 수 있으면, 다른 건 아무래도 상관없다고 생각해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,129,……,……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,130,何と言われようと、これが俺の選択だ。,"뭐라고 하든, 이게 내 선택이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,130,何と言われようと、これが俺の選択だ。,"뭐라고 하든, 이게 내 선택이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,212,そんな……,그럴 수가……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,213,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,214,わかりました。僕も疲れたっす……,알겠어요. 저도 지쳤어요……
@@ -1792,7 +1792,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,247,誰も認めてくれないっす……,아무도 인정해주질 않아요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,248,スイ姉や23姉は、僕の動機が復讐だと思ってる。,"은영 누나랑 23 누나는, 제 동기가 복수라고 생각해요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,249,……本当にそう見えるっすか？,……정말 그렇게 보여요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,141,あんたは確かに人助けより復讐の方が重要に見える。,너는 확실히 사람 돕는 것보다 복수 쪽이 더 중요해 보인다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,141,あんたは確かに人助けより復讐の方が重要に見える。,너는 확실히 사람 돕는 것보다 복수 쪽이 더 중요해 보여.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,250,ぼ、僕はただ、悪人に払うべき代償を払わせたいだけで……,"저, 저는 그냥, 악인한테 마땅한 대가를 치르게 하고 싶을 뿐이고……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,142,あんたは本当にそう思ってるのか？,너는 정말 그렇게 생각하는 거냐?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,143,そうかもしれないな。,그럴지도 모르겠네.
@@ -1800,15 +1800,15 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,144,……,…�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,251,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,252,例え本当に僕の動機が復讐のためだったとして……,설령 정말로 제 동기가 복수를 위해서였다고 해도……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,253,……それって悪いことっすかね？,……그게 나쁜 건가요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,145,復讐をして何を得たいかによる。,복수해서 뭘 얻고 싶은지에 따라 다르다.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,146,あんたの選択の良し悪しはあんた自身が決めるものだ。,네 선택이 옳은지 그른지는 너 자신이 정하는 거다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,145,復讐をして何を得たいかによる。,복수해서 뭘 얻고 싶은지에 따라 달라.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,146,あんたの選択の良し悪しはあんた自身が決めるものだ。,네 선택이 옳은지 그른지는 너 자신이 정하는 거야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,254,……僕の選択。,……제 선택.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,147,それは、あんたの選択によって殺された人たちに聞け。,"그건, 네 선택 때문에 죽은 사람들한테 물어봐라."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,255,僕だって……,저도……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,148,それはよくないことだ。,그건 좋지 않은 일이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,148,それはよくないことだ。,그건 좋지 않은 일이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,256,ど、どうしてっすか……？,"왜, 왜인 거예요……?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,149,リュウセイ、あんたは一体何を求めている？,"유성, 너는 대체 뭘 원하는 거지?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,150,復讐を果たしても、あんたは犠牲にしてきた人たちへの罪悪感に押しつぶされるだけだ。,"복수를 이뤄도, 너는 희생시켜온 사람들에 대한 죄책감에 짓눌릴 뿐이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,150,復讐を果たしても、あんたは犠牲にしてきた人たちへの罪悪感に押しつぶされるだけだ。,"복수를 이뤄도, 너는 희생시켜온 사람들에 대한 죄책감에 짓눌릴 뿐이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,257,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,258,そうかもしれないっす……,그럴지도 모르겠네요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,259,……,……
@@ -1860,7 +1860,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,167,なら、�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,288,確かにそうだけど……,확실히 그렇지만……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,168,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,289,もし彼らが、本当に命を捨ててまで復讐を望んでいたとしたらどうするっすか？,"만약 그 사람들이, 정말로 목숨을 버리면서까지 복수를 원했다면 어떡할 거예요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,169,そうだとしても、それは彼ら自身が決めることだ。,"설령 그렇다 해도, 그건 그 사람들 스스로가 정할 일이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,169,そうだとしても、それは彼ら自身が決めることだ。,"설령 그렇다 해도, 그건 그 사람들 스스로가 정할 일이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,170,本当に望んでいるかを、今のあんたに確認できるのか？,"정말로 원하는지를, 지금 네가 확인할 수 있나?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,290,……そうっすね。,……그렇네요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,291,……,……
@@ -1880,7 +1880,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,302,僕はただ、正義を建前に僕の行為を正当化しようとしただけっす……,"저는 그냥, 정의를 명분 삼아 제 행동을 정당화하려 했을 뿐이에요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,303,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,174,今のあんたはどう思ってるんだ？,지금 너는 어떻게 생각하는 거지?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,175,自分の過ちに気づき、省みることができるのは素晴らしいことだ。,"자신의 잘못을 깨닫고, 돌아볼 수 있는 건 훌륭한 일이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,175,自分の過ちに気づき、省みることができるのは素晴らしいことだ。,"자신의 잘못을 깨닫고, 돌아볼 수 있는 건 훌륭한 일이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,304,……ありがとうございます。,……감사합니다.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,305,今の僕にとっては、その言葉が何よりも有難いっす。,"지금 저한테는, 그 말이 무엇보다 고마워요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,306,最近は指摘されてばかりっすから……,요즘 지적만 당하고 있어서요……
@@ -1903,12 +1903,12 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,320,万象のクズたちに苦しみを味わわせたいと思ってしまうっす。,완샹 쓰레기들한테 고통을 맛보여주고 싶다고 생각하게 돼요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,321,簡単に頭から捨て去ることはできないっす。ジェイの兄貴、どうすれば……？,"쉽게 머리에서 떨쳐낼 수가 없어요. 제이 형, 어떡하면……?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,9,苦笑いとともに、目には困惑が伺える……,"쓴웃음과 함께, 눈에는 곤혹스러움이 엿보인다……"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,177,復讐をすればいい。,복수하면 된다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,177,復讐をすればいい。,복수하면 돼.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,322,それは……,그건……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,323,……正義じゃないっすよね？,……정의는 아니잖아요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,178,正義じゃないと、だめなのか？,"정의가 아니면, 안 되는 거냐?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,324,え、ええ……？,"어, 어……?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,179,重要なのはあんたが何を求めているかだ。,중요한 건 네가 뭘 원하는가다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,179,重要なのはあんたが何を求めているかだ。,중요한 건 네가 뭘 원하는가야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,325,僕が、求めているもの……？,"제가, 원하는 것……?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,180,あんたはどんな未来を求める？,너는 어떤 미래를 원해?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,326,……,……
@@ -1916,53 +1916,53 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,328,僕はやっぱりできるだけ多くの人を助けたいっす。,저는 역시 되도록 많은 사람을 돕고 싶어요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,329,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,10,自分が発した言葉に驚いているようだ。,자기가 뱉은 말에 놀란 것 같다.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,181,正義なんかのために、自分を犠牲にする必要はない。,"정의 따위를 위해서, 자신을 희생할 필요는 없다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,181,正義なんかのために、自分を犠牲にする必要はない。,"정의 따위를 위해서, 자신을 희생할 필요는 없어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,330,でも、それは利己的な考えじゃ……,"근데, 그건 이기적인 생각이……"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,182,人間は皆、利己的だ。,"인간은 다들, 이기적이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,182,人間は皆、利己的だ。,"인간은 다들, 이기적이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,331,確かにそうっすね……,확실히 그렇네요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,332,一般的に見ると、利己的は悪いことだとも言われるけど、普遍的に存在している……,"일반적으로 보면, 이기적인 건 나쁘다고들 하지만, 보편적으로 존재하는데……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,333,もしかしたら僕はそんなに悩まずに……,어쩌면 저는 그렇게 고민하지 않아도……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,334,自分のやりたいことをすればよかったのかもしれない……,하고 싶은 대로 했으면 됐던 걸지도 모르겠어요……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,183,利己的に生きるか、正義に生きるか、それはあんたが選ぶことだ。,"이기적으로 살 건지, 정의롭게 살 건지, 그건 네가 선택할 일이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,183,利己的に生きるか、正義に生きるか、それはあんたが選ぶことだ。,"이기적으로 살 건지, 정의롭게 살 건지, 그건 네가 선택할 일이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,335,……,……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,184,悪人は皆、利己的だ。なんであんただけが正義を貫かないといけないんだ？,"악인은 다들, 이기적이다. 왜 너만 정의를 관철해야 하는 거지?"
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,184,悪人は皆、利己的だ。なんであんただけが正義を貫かないといけないんだ？,"악인은 다들, 이기적이야. 왜 너만 정의를 관철해야 하는 거지?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,336,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,337,そうっすね。なんで僕だけが……,그렇네요. 왜 저만……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,338,もしかしたら僕はそんなに悩まずに……,어쩌면 저는 그렇게 고민하지 않아도……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,339,自分のやりたいことをすればよかったのかもしれない……,하고 싶은 대로 했으면 됐던 걸지도 모르겠어요……
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,185,思っているだけなら自由だ。実際に行動を起こさなければ問題ない。,생각만 하는 거라면 자유다. 실제로 행동에 옮기지만 않으면 문제없어.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,185,思っているだけなら自由だ。実際に行動を起こさなければ問題ない。,생각만 하는 거라면 자유야. 실제로 행동에 옮기지만 않으면 문제없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,340,……でも頭の中にその考えはあるのに、行動できないのは辛いっすよ。,"……근데 머릿속에 그 생각은 있는데, 행동으로 못 옮기는 건 괴로워요."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,186,今は捨て去れないだろうが、時間が解決してくれる。,"지금은 못 버리겠지만, 시간이 해결해줄 거다."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,187,正しい道を貫くのは大変だ。,옳은 길을 지키는 건 힘든 일이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,186,今は捨て去れないだろうが、時間が解決してくれる。,"지금은 못 버리겠지만, 시간이 해결해줄 거야."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,187,正しい道を貫くのは大変だ。,옳은 길을 지키는 건 힘든 일이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,341,そうっすね……,그렇네요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,342,ハハ……現実から目を背けたくなるっすね。,하하…… 현실에서 눈을 돌리고 싶어지네요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,343,でもいつも理性的なスイ姉なら、こんなことに悩むことすらないだろうな。,"근데 항상 이성적인 은영 누나라면, 이런 걸로 고민할 일조차 없겠죠."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,188,それはどうだろうな。彼女もいろいろ悩んでいるように見える。,그건 글쎄다. 그 사람도 이런저런 고민이 있는 것처럼 보이는데.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,188,それはどうだろうな。彼女もいろいろ悩んでいるように見える。,그건 글쎄. 그 사람도 이런저런 고민이 있는 것처럼 보이는데.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,344,……そうっすかね？,……그런가요?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,345,そんな一面、一度も見たことないっす。,"그런 모습, 한 번도 본 적 없어요."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,189,彼女は多くを経験したことで、今の理性的な自分を手に入れたんだ。,"그 사람은 많은 걸 경험해서, 지금의 이성적인 자기 자신을 얻은 거다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,189,彼女は多くを経験したことで、今の理性的な自分を手に入れたんだ。,"그 사람은 많은 걸 경험해서, 지금의 이성적인 자기 자신을 얻은 거야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,346,つまり、僕はまだまだってことっすね……,"그러니까, 저는 아직 멀었다는 거네요……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,190,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,347,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,348,なんとなく、わかった気がするっす。,"왠지, 알 것 같은 느낌이 들어요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,349,ジェイの兄貴、本当に感謝するっす。,"제이 형, 정말 감사해요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,350,話せて本当によかったっす。,얘기할 수 있어서 정말 다행이었어요.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,191,大したことはしていない。,별거 안 했다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,191,大したことはしていない。,별거 안 했어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,351,僕にとっては大したことっすよ。おかげで大分整理がついたっす。,저한테는 큰일이었어요. 덕분에 많이 정리가 됐어요.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,192,俺も話せてよかった。,나도 얘기할 수 있어서 다행이었다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,192,俺も話せてよかった。,나도 얘기할 수 있어서 다행이었어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,352,それならよかったっす。,그럼 다행이네요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,193,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,353,まだ混乱してるけど、方向が見えた気がするっす。,"아직 혼란스럽지만, 방향이 보이는 것 같아요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,11,目から意志を感じる……,눈에서 의지가 느껴진다……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,心の声,12,どうやら良い方向にいったようだ。,아무래도 좋은 방향으로 간 것 같다.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,194,それはあんた自身に問うしかない。,그건 너 자신한테 물어볼 수밖에 없다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,194,それはあんた自身に問うしかない。,그건 너 자신한테 물어볼 수밖에 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,354,その答えが出ないから聞いてるっす……,그 답이 안 나오니까 물어보는 거예요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,195,俺に何を聞きたいんだ？,나한테 뭘 묻고 싶은 거지?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,355,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,356,スイ姉たちが言うように……,은영 누나들이 말하는 것처럼……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,357,僕が本当に正義のためではなく、復讐のために行動していたとして……,"제가 정말로 정의를 위해서가 아니라, 복수를 위해서 행동했었다고 쳐도……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,358,……それって悪いことっすかね？,……그게 나쁜 건가요?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,196,それでも問い続けるしかない。,그래도 계속 물을 수밖에 없다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,196,それでも問い続けるしかない。,그래도 계속 물을 수밖에 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,197,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,359,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,360,わかったっす。もう少し自分で考えてみるっす。,알겠어요. 좀 더 스스로 생각해볼게요.
@@ -1970,7 +1970,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,198,あんた�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,361,はい……,네……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,199,自分自身も信じてないようだな。,자기 자신도 안 믿는 것 같군.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,362,……信じてないって、何がっすか？,"……안 믿는다니, 뭐가요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,200,自分が正義のために行動していることだ。,자신이 정의를 위해서 행동하고 있다는 거다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,200,自分が正義のために行動していることだ。,자신이 정의를 위해서 행동하고 있다는 거야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,201,あんた自身も、自分が復讐をしたいだけなのをわかっている。,"너 자신도, 스스로가 복수하고 싶을 뿐이라는 걸 알고 있어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,202,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,363,……,……
@@ -1987,22 +1987,22 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,373,今のは忘れてください。,방금 건 잊어주세요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,204,説明できないだけで、俺に考えがないわけじゃない。,"설명을 못 할 뿐이지, 나한테 생각이 없는 건 아니다."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,374,じゃ、ジェイの兄貴はどう思ってるっすか？僕の考えはやっぱり正義ではないっすか？,"그럼, 제이 형은 어떻게 생각해요? 제 생각은 역시 정의가 아닌 거예요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,205,それでも、あんたの考えを聞かせてほしい。,"그래도, 네 생각을 들려줬으면 한다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,205,それでも、あんたの考えを聞かせてほしい。,"그래도, 네 생각을 들려줬으면 해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,206,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,375,……ジェイの兄貴は、正義について議論しても意味がないって言ってたっすもんね。,"……제이 형은, 정의에 대해 논해봤자 의미 없다고 했었죠."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,376,この質問はすべきじゃなかったっす……,이 질문은 하지 말았어야 했어요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,377,今のは忘れてください。,방금 건 잊어주세요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,378,兄貴だって悪人に代償を払わせることが正義だって……,형도 악인한테 대가를 치르게 하는 게 정의라고……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,379,さっき認めたじゃないっすか！,아까 인정했잖아요!
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,207,俺はスイ･ニンに反対したくないだけだ。,나는 주은영한테 반대하고 싶지 않을 뿐이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,207,俺はスイ･ニンに反対したくないだけだ。,나는 주은영한테 반대하고 싶지 않을 뿐이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,380,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,381,リンさんの安全のためっすか……,린 씨 안전을 위해서요……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,208,ああ。,그래.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,209,それが一番重要だ。,그게 가장 중요하다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,209,それが一番重要だ。,그게 가장 중요해.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,210,それにスイ･ニンに隠れて小細工をしても、良い結果にはならない。,"게다가 주은영한테 숨어서 잔재주를 부려봤자, 좋은 결과가 나오지는 않아."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,382,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,383,わかったっす。,알겠어요.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,211,言ったはずだ。あんたが拘っているのは正義ではなく、自分の復讐だ。,"말했을 텐데. 네가 집착하는 건 정의가 아니라, 자기 복수다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,211,言ったはずだ。あんたが拘っているのは正義ではなく、自分の復讐だ。,"말했을 텐데. 네가 집착하는 건 정의가 아니라, 자기 복수야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,384,僕は……,저는……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,212,あんたは認めたはずだろう。,너는 인정했을 텐데.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,213,まさか、自覚してすらないのか？,"설마, 자각조차 못 하고 있는 건가?"
@@ -2011,9 +2011,9 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,386,僕って、利己的の人間っすか……？,"저는, 이기적인 인간인 거예요……?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,215,違う。あんたはただ復讐と正義を混同しただけだ。,아니다. 너는 그냥 복수랑 정의를 혼동했을 뿐이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,387,混同……？,혼동……?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,216,まずは、あんたが求めているものをはっきりさせるべきだ。,"우선, 네가 원하는 걸 명확히 해야 한다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,216,まずは、あんたが求めているものをはっきりさせるべきだ。,"우선, 네가 원하는 걸 명확히 해야 해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,217,あんたは本当に悪人を裁くことこそが、正しいと思っているのか？,"너는 정말로 악인을 심판하는 것이야말로, 옳다고 생각하는 거냐?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,218,ほとんどの人が利己的な考えを持っている。別に気にする必要はない。,대부분의 사람이 이기적인 생각을 갖고 있다. 딱히 신경 쓸 필요 없어.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,218,ほとんどの人が利己的な考えを持っている。別に気にする必要はない。,대부분의 사람이 이기적인 생각을 갖고 있어. 딱히 신경 쓸 필요 없어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,388,そうっすよね……皆、利己的っすよね……,"그렇죠…… 다들, 이기적이죠……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,389,一般的に見ると、利己的は悪いことだとも言われるけど、普遍的に存在している……,"일반적으로 보면, 이기적인 건 나쁘다고들 하지만, 보편적으로 존재하는데……"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,390,もしかしたら僕はそんなに悩まずに……,어쩌면 저는 그렇게 고민하지 않아도……
@@ -2045,21 +2045,21 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,408,大丈夫、彼女には絶対にバレないっすよ。,"괜찮아요, 그 사람한테는 절대 안 들켜요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,409,例えバレたとしても、すべて僕の責任で大丈夫っす。,"설령 들킨다 해도, 전부 제 책임으로 하면 괜찮아요."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,410,兄貴は何も知らずに手伝わされていたってことで。,형은 아무것도 모르고 도와줬던 걸로 하고요.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,227,いや、大丈夫だ。,"아니, 괜찮다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,227,いや、大丈夫だ。,"아니, 괜찮아."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,411,はい。,네.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,412,兄貴は、僕の味方っすよね？,"형은, 제 편이죠?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,228,ああ。,그래.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,413,よっしゃー！,좋았어!
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,229,悪いが、スイ･ニンに内緒でやる気はない。,"미안하지만, 주은영 몰래 할 생각은 없다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,229,悪いが、スイ･ニンに内緒でやる気はない。,"미안하지만, 주은영 몰래 할 생각은 없어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,414,そんな……,그럴 수가……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,415,……わかったっす！,……알겠어요!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,416,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,417,……このこと、スイ姉に言わないでくれますか？,"……이거, 은영 누나한테 말하지 말아줄래요?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,230,ああ、俺はこの件に関わらない。,"그래, 나는 이 건에 관여 안 한다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,230,ああ、俺はこの件に関わらない。,"그래, 나는 이 건에 관여 안 해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,418,それならいいっす。,그럼 됐어요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,419,……最初からジェイの兄貴を巻き込むべきではなかったっすね。,……처음부터 제이 형을 끌어들이면 안 됐었네요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,420,今までのは全部忘れてください。,지금까지 한 얘기는 전부 잊어주세요.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,231,すまないが、リンには話すと思う。,"미안하지만, 린한테는 말할 것 같다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,231,すまないが、リンには話すと思う。,"미안하지만, 린한테는 말할 것 같아."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,421,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,422,おやすみなさいっす。,안녕히 주무세요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,232,ああ。,그래.
@@ -2101,7 +2101,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,445,僕はもう少しこの辺りを歩いて帰るっす。,저는 이 근처를 좀 더 걷다가 돌아갈게요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,446,夜の町が好きなんすよ。集中して考えられるから。,밤거리를 좋아하거든요. 집중해서 생각할 수 있으니까.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,447,安心してくださいっす。僕もすぐ戻るから。,안심하세요. 저도 금방 돌아갈 거니까.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,243,わかった。おやすみ。,알았다. 잘 자.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,243,わかった。おやすみ。,알았어. 잘 자.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Branch,#Simple,244,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,448,おやすみなさいっす。,안녕히 주무세요.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,到樓下,Say,リュウセイ･チョウ,449,長々と話したこと、リンさんに謝っといてください！,"길게 얘기한 거, 린 씨한테 대신 사과해주세요!"
@@ -2239,7 +2239,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,83,はぁ……,하아……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,84,今の私はナーバスだから、そういうのはやめて！,"지금 나 예민하니까, 그런 거 하지 마!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Branch,#Simple,44,わかったよ、ごめん。,"알았어, 미안."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Branch,#Simple,45,わかった。,알겠다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Branch,#Simple,45,わかった。,알았어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,85,フンッ……！,흥……!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,86,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,心の声,2,リンの表情が暗くなった……,린의 표정이 어두워졌다……
@@ -2286,7 +2286,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テ�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,117,だからあなたを選んだ。,그래서 당신을 선택한 거야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,118,それでもなお、あなたに罪悪感を持つのは、私に失礼だからね！,"그런데도, 당신이 죄책감을 갖는 건, 나한테 실례니까!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,119,わかった？,알았어?
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Branch,#Simple,55,わかった。,알겠다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Branch,#Simple,55,わかった。,알았어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,120,よろしい！,좋아!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Branch,#Simple,56,でも俺はリンの人生を縛りたくない。,근데 나는 린 인생을 옭아매고 싶지 않아.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,第四日程芳談話,Say,リン･テイ,121,……,……
@@ -2320,7 +2320,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Say,23,1,うん。,응.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Say,23,2,何か用？,무슨 볼일이야?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Branch,#Simple,2,スイ･ニンの怪我の様子を見に来ただけだ。,주은영 상처 상태 좀 보러 온 것뿐이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Say,23,3,見かけによらず優しいのね。,보기와는 다르게 다정하네.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Branch,#Simple,3,いや、見に来ただけだ。,"아니, 그냥 보러 온 것뿐이다."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Branch,#Simple,3,いや、見に来ただけだ。,"아니, 그냥 보러 온 것뿐이야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Say,23,4,アハハ、この暇人が！,"아하하, 이 한가한 놈 같으니!"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Say,23,5,今はちょっと立て込んでるから、また明日話そう？,"지금은 좀 바쁘니까, 내일 다시 얘기하자?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門,Say,23,6,じゃ、おやすみ！,"그럼, 잘 자!"
@@ -2696,8 +2696,8 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,リン･テイ,8,�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,心の声,4,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,リン･テイ,9,大丈夫？,괜찮다고?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,リン･テイ,10,ジェイってば！,제이 좀!
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Branch,#Simple,2,ああ、大丈夫だ。,"그래, 괜찮다."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Branch,#Simple,3,少しぼーっとしてただけだ。,잠깐 멍했을 뿐이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Branch,#Simple,2,ああ、大丈夫だ。,"그래, 괜찮아."
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Branch,#Simple,3,少しぼーっとしてただけだ。,잠깐 멍했을 뿐이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,リン･テイ,11,……,……
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,リン･テイ,12,スイさん、これは……？,"은영 씨, 이건……?"
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,司徒單獨談2,Say,スイ･ニン,26,……,……
@@ -3295,7 +3295,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門3,Say,23,3,そんなに酷い怪
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門3,Say,23,4,だからもうノックしないでね！,그러니까 이제 노크하지 마!
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門3,Say,23,5,明日はもっと大変なんだから、もう寝なさい。,"내일은 더 힘드니까, 이제 그만 자."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門4,Say,23,0,いい加減にしてよ。,적당히 좀 해.
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門4,Branch,#Simple,0,すまない。スイ･ニンと話したいことがある。,미안하다. 주은영이랑 얘기하고 싶은 게 있어.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門4,Branch,#Simple,0,すまない。スイ･ニンと話したいことがある。,미안해. 주은영이랑 얘기하고 싶은 게 있어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門4,Say,23,1,悪いけど、明日にして。,"미안한데, 내일로 해."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門4,Branch,#Simple,1,何がだ？,뭐가?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,敲23門4,Say,23,2,ノックを止めてってことよ。,노크 그만하라는 거야.
@@ -4309,7 +4309,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,リュウセイ･チョウ,1
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,1,この店にはよく来るの？,이 가게 자주 와?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,0,よくリンと来ている。,린이랑 자주 오는 곳이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,2,じゃ、店長もあんたたちを知ってるの？,"그럼, 사장님도 너희 알아?"
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,1,そんな感じだ。,그런 느낌이다.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,1,そんな感じだ。,그런 느낌이야.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,2,それはわからない。,그건 모르겠어.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,3,なぜそんなことを聞く？,왜 그런 걸 묻는 거지?
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,3,ただ聞いてみただけよ。,그냥 물어본 것뿐이야.
@@ -4352,7 +4352,7 @@ c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,23,とにかく昔は、�
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,24,でもそれも、全国規模のデモ運動が勃発するまでの話よ。,"근데 그것도, 전국 규모 시위 운동이 터지기 전까지의 얘기야."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,25,最終的にその運動は、武装闘争にまで発展したの。,"결국 그 운동은, 무장 투쟁으로까지 발전했어."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,26,政府は鎮圧部隊を出動したけど、一年間も戒厳体制が続いた。,"정부는 진압 부대를 출동시켰는데, 일 년 동안이나 계엄 체제가 이어졌어."
-c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,15,思い出した。あの蘭花運動か。,생각났다. 그 난화 운동인가.
+c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,15,思い出した。あの蘭花運動か。,생각났어. 그 난화 운동인가.
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,27,よかった、知ってるみたいね。,"다행이다, 아는 것 같네."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Branch,#Simple,16,思い出した、あの蘭花暴動か。,"생각났어, 그 난화 폭동인가."
 c93dee5141b63d08d3d8b0514cdfd4fb.bundle,麵攤,Say,23,28,え、暴動？,"어, 폭동?"
