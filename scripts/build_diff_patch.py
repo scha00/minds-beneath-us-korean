@@ -63,6 +63,27 @@ def main():
         s = os.path.getsize(os.path.join(OUT, name + ".xd"))
         total += s
         print(f"{name[:48]:48s} {s // 1024:6d} KB", flush=True)
+    # 게임 본체 데이터 파일(level0, sharedassets0.assets): 번들이 아니라 파일 자체를 diff 한다.
+    player_src = os.path.join(ROOT, "install", "player")
+    for name in ("level0", "sharedassets0.assets"):
+        newp = os.path.join(player_src, name)
+        if not os.path.exists(newp):
+            print(f"[건너뜀] {newp} 없음 — patch_player_data.py 먼저 실행")
+            continue
+        origp = os.path.join(RESOURCE, "player", name)
+        if not os.path.exists(origp):
+            origp = os.path.join("/Volumes/Extreme SSD/mbu_data/MindsBeneathUs_Data", name)
+        xd = os.path.join(TMP, "x.xd")
+        subprocess.run(["xdelta3", "-e", "-9", "-S", "none", "-B", "1073741824", "-W", "67108864",
+                        "-f", "-s", origp, newp, xd], check=True, capture_output=True)
+        os.replace(xd, os.path.join(OUT, name + ".xd"))
+        lines = ["kind=raw", "target=data",
+                 f"orig_sha256={sha256(open(origp, 'rb').read())}",
+                 f"new_sha256={sha256(open(newp, 'rb').read())}"]
+        open(os.path.join(OUT, name + ".meta"), "w", encoding="utf-8", newline="\n").write("\n".join(lines) + "\n")
+        s = os.path.getsize(os.path.join(OUT, name + ".xd"))
+        total += s
+        print(f"{name:48s} {s // 1024:6d} KB", flush=True)
     for x in ("so", "sn"):
         p = os.path.join(TMP, x)
         if os.path.exists(p):

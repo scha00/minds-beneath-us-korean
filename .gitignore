@@ -24,3 +24,4 @@
 
 # 번들 파일(원본 데이터가 통째로 들어있음)은 절대 커밋 금지. diff(install/patches/*.xd)만 커밋.
 /install/*.bundle
+/install/player/

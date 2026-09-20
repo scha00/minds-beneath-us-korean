@@ -39,14 +39,17 @@ if (-not $gameRoot) {
 
 $targetDir = Join-Path $gameRoot "MindsBeneathUs_Data\StreamingAssets\aa\StandaloneWindows64"
 $backupDir = Join-Path $targetDir "_originals_backup"
+$dataDir = Join-Path $gameRoot "MindsBeneathUs_Data"
+$playerBackupDir = Join-Path $dataDir "_originals_backup_player"
 
-if (-not (Test-Path $backupDir)) {
+if (-not (Test-Path $backupDir) -and -not (Test-Path $playerBackupDir)) {
     Write-Host "백업 폴더가 없습니다: $backupDir" -ForegroundColor Red
     Write-Host "패치가 설치되어 있지 않거나 이미 제거된 것 같습니다."
     exit 1
 }
 
-$backupFiles = Get-ChildItem -Path $backupDir -Filter "*.bundle"
+$backupFiles = @()
+if (Test-Path $backupDir) { $backupFiles = Get-ChildItem -Path $backupDir -Filter "*.bundle" }
 $restored = 0
 
 foreach ($file in $backupFiles) {
@@ -56,7 +59,17 @@ foreach ($file in $backupFiles) {
     Write-Host "  [복원됨] $($file.Name)"
 }
 
-Remove-Item -Path $backupDir -Recurse -Force
+if (Test-Path $backupDir) { Remove-Item -Path $backupDir -Recurse -Force }
+
+# 게임 본체 데이터 파일(level0, sharedassets0.assets) 원본 복원 (v0.4 이후 설치본)
+if (Test-Path $playerBackupDir) {
+    foreach ($file in (Get-ChildItem -Path $playerBackupDir)) {
+        Copy-Item -Path $file.FullName -Destination (Join-Path $dataDir $file.Name) -Force
+        $restored++
+        Write-Host "  [복원됨] $($file.Name)"
+    }
+    Remove-Item -Path $playerBackupDir -Recurse -Force
+}
 
 Write-Host ""
 Write-Host "완료: $restored 개 파일 원본으로 복원됨. 백업 폴더 삭제됨." -ForegroundColor Green
