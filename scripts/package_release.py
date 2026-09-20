@@ -1,83 +1,46 @@
 """
-1. install/*.bundle 파일들을 install/korean.pat 하나로 묶고, 낱개 .bundle 파일은 지운다.
-2. install/install.ps1, uninstall.ps1, INSTALL.md, korean.pat 을 전부 다시
-   dist/MindsBeneathUsKorean.zip 하나로 묶는다 (GitHub Release에 파일 하나만 올리면 되게).
+배포용 zip 만들기 (v0.4 diff 방식).
 
-patch_workbook.py / patch_dialogue.py 로 install/ 에 번들을 다 만든 다음 마지막에 이걸 실행할 것.
+파이프라인:
+  1) python3 scripts/patch_workbook.py && python3 scripts/patch_dialogue.py   -> install/*.bundle (로컬 임시물)
+  2) python3 scripts/build_diff_patch.py                                       -> install/patches/*.xd,*.meta
+  3) python3 scripts/package_release.py                                        -> dist/MindsBeneathUsKorean.zip
 
-install/ 안에는 최종적으로 install.ps1, uninstall.ps1, INSTALL.md, korean.pat 만 남는다.
-dist/MindsBeneathUsKorean.zip 이 실제로 Release에 올리는 파일 (이 zip 안에 위 4개 파일이 그대로 들어있음,
-사용자가 풀면 install.ps1 등이 바로 나옴 — 감싸는 폴더 없음).
-
-korean.pat 은 확장자만 다를 뿐 내용은 그냥 zip 파일이다 (install.ps1 이 임시로 .zip 으로
-바꿔서 Expand-Archive로 푼다). 확장자를 .zip이 아니게 한 이유는 사용자가 탐색기에서 실수로
-더블클릭해서 풀어버리는 걸 방지하기 위함 — install.ps1을 통해서만 설치되도록 유도.
-dist/MindsBeneathUsKorean.zip 은 반대로 진짜 .zip 이 맞음 — 이건 사용자가 직접 풀어야 하는 배포 파일.
+zip 에는 install.ps1, uninstall.ps1, INSTALL.md, patches/, tools/(xdelta3.exe + 라이선스)만 들어간다.
+원본 게임 데이터나 통째 번들은 들어가지 않는다(안전장치: .bundle 이 있으면 중단).
+이 스크립트는 3)만 수행하며, 1)·2)는 각각 실행해둬야 한다.
 """
 import os
 import zipfile
-import glob
 
-PROJECT_ROOT = "/Users/sahncha/Projects/MindsBeneathUsKorean"
-INSTALL_DIR = os.path.join(PROJECT_ROOT, "install")
-PAT_PATH = os.path.join(INSTALL_DIR, "korean.pat")
-
-DIST_DIR = os.path.join(PROJECT_ROOT, "dist")
-DIST_ZIP_PATH = os.path.join(DIST_DIR, "MindsBeneathUsKorean.zip")
-
-DIST_FILES = ["install.ps1", "uninstall.ps1", "INSTALL.md", "korean.pat"]
-
-
-def package_bundles():
-    bundle_paths = sorted(glob.glob(os.path.join(INSTALL_DIR, "*.bundle")))
-
-    if not bundle_paths:
-        if os.path.exists(PAT_PATH):
-            print("install/ 안에 낱개 .bundle이 없지만 korean.pat이 이미 있음 — 번들 내용은 그대로 두고 dist zip만 다시 묶음")
-            print("(install.ps1/INSTALL.md 등 스크립트만 바뀌었을 때 이 경로를 탐. 번들 내용 자체를 바꾸려면")
-            print(" patch_workbook.py / patch_dialogue.py 를 먼저 실행할 것.)")
-            return True
-        print("install/ 안에 .bundle 파일도 korean.pat도 없음 — 먼저 patch_workbook.py / patch_dialogue.py 실행할 것.")
-        return False
-
-    with zipfile.ZipFile(PAT_PATH, "w", zipfile.ZIP_DEFLATED) as zf:
-        for path in bundle_paths:
-            arcname = os.path.basename(path)
-            zf.write(path, arcname)
-            print(f"  담음(korean.pat): {arcname}")
-
-    for path in bundle_paths:
-        os.remove(path)
-
-    print(f"저장 완료: {PAT_PATH} ({os.path.getsize(PAT_PATH)} bytes, {len(bundle_paths)}개 파일)")
-    print(f"낱개 .bundle 파일 {len(bundle_paths)}개 삭제함 — install/ 안엔 이제 korean.pat만 있음.")
-    return True
-
-
-def package_dist_zip():
-    os.makedirs(DIST_DIR, exist_ok=True)
-
-    missing = [f for f in DIST_FILES if not os.path.exists(os.path.join(INSTALL_DIR, f))]
-    if missing:
-        print(f"오류: install/ 안에 없는 파일: {missing}")
-        return
-
-    # ZIP_STORED for korean.pat (이미 압축된 zip이라 다시 압축해봐야 의미 없음), 나머지는 압축.
-    with zipfile.ZipFile(DIST_ZIP_PATH, "w") as zf:
-        for fname in DIST_FILES:
-            src = os.path.join(INSTALL_DIR, fname)
-            method = zipfile.ZIP_STORED if fname.endswith(".pat") else zipfile.ZIP_DEFLATED
-            zf.write(src, fname, compress_type=method)
-            print(f"  담음(dist zip): {fname}")
-
-    print()
-    print(f"배포용 zip 저장 완료: {DIST_ZIP_PATH} ({os.path.getsize(DIST_ZIP_PATH)} bytes)")
-    print("이 파일 하나를 GitHub Release에 올리면 됨 (gh release upload ... dist/MindsBeneathUsKorean.zip --clobber)")
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+INSTALL = os.path.join(ROOT, "install")
+DIST = os.path.join(ROOT, "dist", "MindsBeneathUsKorean.zip")
+TOP = ["install.ps1", "uninstall.ps1", "INSTALL.md"]
 
 
 def main():
-    if package_bundles():
-        package_dist_zip()
+    files = [(os.path.join(INSTALL, f), f) for f in TOP]
+    for sub in ("patches", "tools"):
+        d = os.path.join(INSTALL, sub)
+        if not os.path.isdir(d):
+            raise SystemExit(f"install/{sub}/ 가 없음")
+        for name in sorted(os.listdir(d)):
+            files.append((os.path.join(d, name), f"{sub}/{name}"))
+    missing = [a for a, _ in files if not os.path.exists(a)]
+    if missing:
+        raise SystemExit(f"없는 파일: {missing}")
+    if not any(n == "tools/xdelta3.exe" for _, n in files):
+        raise SystemExit("tools/xdelta3.exe 가 없음")
+    bad = [n for _, n in files if n.endswith((".bundle", ".pat"))]
+    if bad:
+        raise SystemExit(f"통째 번들이 배포물에 들어가려 함: {bad}")
+    os.makedirs(os.path.dirname(DIST), exist_ok=True)
+    with zipfile.ZipFile(DIST, "w", zipfile.ZIP_DEFLATED) as zf:
+        for src, arc in files:
+            zf.write(src, arc)
+            print("  담음:", arc)
+    print(f"\n{DIST} ({os.path.getsize(DIST)} bytes)")
 
 
 if __name__ == "__main__":

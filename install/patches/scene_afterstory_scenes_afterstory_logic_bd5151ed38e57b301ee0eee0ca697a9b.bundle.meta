@@ -1,0 +1,10 @@
+orig_sha256=8c57a7d5510b8d7e3daf03bc7e10e8db25424f389c44e2c8989898c8af3358c0
+stream_sha256=1659f9d5b82f68d1ca5ea4cfe691542179cc7c2ed156175ef516c0530042bbc8
+stream_size=36094784
+version=8
+player=5.x.x
+engine=2022.3.62f2
+node	4	22220608	CAB-88b37827bb60df378de49dee73b1d40e.sharedAssets
+node	0	8889840	CAB-88b37827bb60df378de49dee73b1d40e.sharedAssets.resS
+node	4	4853104	CAB-88b37827bb60df378de49dee73b1d40e
+node	0	131232	CAB-88b37827bb60df378de49dee73b1d40e.resS
