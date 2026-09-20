@@ -1711,9 +1711,9 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,心の声,5,兄貴と言っていましたが、名前までは……,"형님이라고 했었는데, 이름까지는……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,20,詳しくは覚えていませんが、兄貴と言っていました。,"자세히는 기억 안 나는데, 형님이라고 했었어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,イー･テイ,25,つまり、男なんだね。,"그러니까, 남자였구나."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,21,ラの兄貴です。,라 형님입니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,21,ラの兄貴です。,나 형님입니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,22,チンの兄貴です。,친 형님입니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,23,リーの兄貴です。,리 형님입니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,23,リーの兄貴です。,이 형님입니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,イー･テイ,26,わかった。,알았어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,イー･テイ,27,他に変なことは？,그 외에 이상한 건?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,24,途中でジーンが状況を確認しに来ました。,중간에 정은이 상황을 확인하러 왔었어요.
@@ -1759,10 +1759,10 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,37,彼の名前を知っています。,그 사람 이름을 알고 있어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,イー･テイ,47,そうなの？何て名前？,그래? 이름이 뭔데?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,心の声,9,俺は知っているのか……？,내가 알고 있는 건가……?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,38,エン･シュウです。,엔 슈입니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,39,ロク･シュウです。,로쿠 슈입니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,40,テイ･シュウです。,테이 슈입니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,41,ラク･シュウです。,라쿠 슈입니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,38,エン･シュウです。,주엔호입니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,39,ロク･シュウです。,주한성입니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,40,テイ･シュウです。,주정우입니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Branch,#Simple,41,ラク･シュウです。,주라훈입니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,イー･テイ,48,……知らない人だな。,……모르는 사람이네.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,タイミン･ソウ,19,僕もです。,저도요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥被抓後回去找阿緯,Say,イー･テイ,49,どこで知ったの？,어디서 안 거야?
@@ -2090,9 +2090,9 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Branch,#Simple,26,同僚とは誰だ？,동료가 누군데?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,メイ･ジョ,26,実は情報管理部門に、私に借りがある同僚がいるの。,"실은 정보관리부문에, 나한테 빚이 있는 동료가 있어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,メイ･ジョ,27,この件で借りを返してもらおうと思ってね。,이 건으로 빚을 갚게 하려고.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,2,きっとジヘイ･リンのことね。,분명 지헤이 린을 말하는 거네.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,3,ジヘイはもう一人の隊長で、メイ･ジョのライバル的存在よ。,"지헤이는 또 다른 대장으로, 서유나의 라이벌 같은 존재야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,4,多分ジヘイをこの件を巻き込んで、後で脅そうとしてるのよ。,"아마 지헤이를 이 건에 끌어들여서, 나중에 협박하려는 거야."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,2,きっとジヘイ･リンのことね。,분명 임재훈을 말하는 거네.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,3,ジヘイはもう一人の隊長で、メイ･ジョのライバル的存在よ。,"재훈은 또 다른 대장으로, 서유나의 라이벌 같은 존재야."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,4,多分ジヘイをこの件を巻き込んで、後で脅そうとしてるのよ。,"아마 재훈을 이 건에 끌어들여서, 나중에 협박하려는 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,5,私たちにはなんら影響はないし、いいんじゃない？,"우리한테는 아무 영향도 없고, 괜찮지 않아?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,心の声,14,よく調べ上げたな……,잘도 조사해냈네……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,請徐媛開地窖電梯權限,Say,23,6,今、うちのこと凄いと思ったでしょう？,"지금, 나 대단하다고 생각했지?"
@@ -2669,11 +2669,11 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,64,その取締役についてだけど、君が教えてくれた名前から手がかりが見つかった。,"그 이사에 대해서인데, 네가 알려준 이름에서 단서를 찾았어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,65,ロク･シュウだ。この人物に関する情報はほとんどない上に、万象の公開データバンクは真っ白だったんだ。,"주한성이야. 이 인물에 관한 정보는 거의 없는 데다, 완샹의 공개 데이터뱅크는 텅 비어 있었어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,66,でも、彼が政府の調査部門に勤めていたことがわかった。,"근데, 그 사람이 정부 조사 부서에서 일했었다는 걸 알아냈어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,67,彼の当時の上司は、シュウカ･リーだ。,"그 사람 당시 상사는, 슈카 리야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,タイミン･ソウ,17,シュウカ･リーって、まさか……,"슈카 리라면, 설마……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,67,彼の当時の上司は、シュウカ･リーだ。,"그 사람 당시 상사는, 이수경야."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,タイミン･ソウ,17,シュウカ･リーって、まさか……,"이수경라면, 설마……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,68,ああ、大臣を退任後、万象の取締役になっている。,"그래, 장관 퇴임 후, 완샹 이사가 됐어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Branch,#Simple,47,つまり、どの取締役が工場閉鎖に反対しているのかわかったってことですね。,"그러니까, 어느 이사가 공장 폐쇄에 반대하는지 알아냈다는 거네요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Branch,#Simple,48,つまり、シュウカ･リーがロク･シュウを万象に招いたかもしれないってことですね。,"그러니까, 슈카 리가 주한성을 완샹으로 데려왔을지도 모른다는 거네요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Branch,#Simple,48,つまり、シュウカ･リーがロク･シュウを万象に招いたかもしれないってことですね。,"그러니까, 이수경이 주한성을 완샹으로 데려왔을지도 모른다는 거네요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,69,それに君はリョウさんの電話の相手はリーという人だと言っていたしね。,게다가 네가 요 씨의 통화 상대가 리라는 사람이었다고 했었잖아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Say,イー･テイ,70,合理的な推測だと思う。,합리적인 추측이라고 생각해.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,最後回去跟阿緯討論廖哥事件,Branch,#Simple,49,……,……
@@ -4373,12 +4373,12 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約第一組人離開後,Say,チキョウ･リョウ,9,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約第一組人離開後,Branch,#Simple,12,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約第一組人離開後,Say,チキョウ･リョウ,10,電話をする。,전화하겠다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,0,もしもし……リーさんですか。,여보세요……리 씨입니까.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,0,もしもし……リーさんですか。,여보세요……이 씨입니까.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,1,……手当……の金……立場が……,……수당……돈……입장이……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,心の声,0,会話の内容があまり聞こえないな……,대화 내용이 잘 안 들리는군……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,2,……はい……そうです。,……네……그렇습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,3,でも……帳簿が……,근데……장부가……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,4,リーさん……場所を……変えましょう……,리 씨……장소를……옮기죠……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,4,リーさん……場所を……変えましょう……,이 씨……장소를……옮기죠……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,5,……はい、問題ありません。,"……네, 문제없습니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,チキョウ･リョウ,6,俺はトイレに行く。ここで待ってろ。,나는 화장실 갔다 오겠다. 여기서 기다려.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,廖哥簽約室打電話,Say,心の声,1,顔が真っ青だ……,얼굴이 새파랗게 질렸다……
@@ -5096,7 +5096,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,2,ジェイさん、この前の情報についてですが……,"제이 씨, 지난번 정보 말인데요……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,0,自分で判断すると言ったはずだ。,내가 알아서 판단한다고 했을 텐데.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,3,……では、あなたの考えは？,"……그럼, 당신 생각은요?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,1,あの捜査員は、シュウカ･リーの部下だと思う。,"그 수사원은, 슈카 리의 부하라고 생각한다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,1,あの捜査員は、シュウカ･リーの部下だと思う。,"그 수사원은, 이수경의 부하라고 생각한다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,4,ほ、本当ですか！？,"저, 정말인가요!?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,5,それは……,그건……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,6,これは重要な情報です！きっと隊長のお力になれます！,이건 중요한 정보예요! 분명 대장님한테 도움이 될 거예요!
@@ -5110,7 +5110,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,10,と、とりあえず取引はこれで終了です！,"그, 그럼 거래는 이걸로 끝이에요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,5,まだ考えている。,아직 생각 중이다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,11,……わかった。,……알았어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,6,あの捜査員は、シュウカ･リーの部下だと思う。,"그 수사원은, 슈카 리의 부하라고 생각한다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,6,あの捜査員は、シュウカ･リーの部下だと思う。,"그 수사원은, 이수경의 부하라고 생각한다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,7,すまないが、まだ新しい情報はないんだ。,"미안하지만, 아직 새로운 정보는 없다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Branch,#Simple,8,後で話す。,나중에 얘기하지.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟莊詩妍搭電梯去找徐媛,Say,シェーン･ソウ,12,……わかった。,……알았어.
@@ -5151,7 +5151,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Say,メイ･ジョ,5,お？,오?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Branch,#Simple,1,ドリンクを買う代わりに情報をくれるはずだったのに、くれなかった。,"음료 사주는 대신 정보를 주기로 했었는데, 안 줬어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Branch,#Simple,2,あんたの部下が仕事中に飲み物を飲んでいた。,네 부하가 근무 중에 음료를 마시고 있었어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Say,メイ･ジョ,6,その件なら、もうセキスウから報告を受けた。,"그 건이라면, 이미 세키스한테서 보고받았어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Say,メイ･ジョ,6,その件なら、もうセキスウから報告を受けた。,"그 건이라면, 이미 석우한테서 보고받았어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Say,メイ･ジョ,7,然るべき罰を与えたよ。,합당한 벌을 줬어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Say,メイ･ジョ,8,飲み物？それなら、誰なのか心当たりがある。,"음료? 그거라면, 누군지 짚이는 데가 있네."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟徐媛首次交換情報,Say,メイ･ジョ,9,彼女には罰を与えておく。,그 애한테는 벌을 줘두지.
@@ -5449,7 +5449,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,17,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,18,うちはこの件を偽装か、マネーローンダリングだと思ってる。,"나는 이 건이 위장이거나, 자금세탁이라고 생각해."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,9,23号……,23호……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,19,スイ、最後まで聞いて。,"스이, 끝까지 들어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,19,スイ、最後まで聞いて。,"은영, 끝까지 들어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,20,この可能性を考えざるを得ないの。万象が沢山の演算力を生産していたというデータは、最初から偽造なのよ。,"이 가능성을 생각 안 할 수가 없어. 완샹이 많은 연산력을 생산하고 있었다는 데이터는, 처음부터 위조인 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,10,それはありえない。万象が演算力を提供している数多の企業がそれに気づかないわけがない。,그건 있을 수 없어. 완샹이 연산력을 제공하고 있는 수많은 기업들이 그걸 눈치 못 챌 리가 없다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,21,そんなことない。今はすべての中小企業が演算力競争に陥っている。,그렇지 않아. 지금은 모든 중소기업이 연산력 경쟁에 빠져있어.
@@ -5473,17 +5473,17 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,19,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,20,23号に任せる。,23호한테 맡기겠다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,21,君が同意しない限り、私たちは行動しない。,"네가 동의하지 않는 한, 우리는 움직이지 않는다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,31,スイ、こんなの間違ってるよ……,"스이, 이런 건 잘못됐어……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,23,31,スイ、こんなの間違ってるよ……,"은영, 이런 건 잘못됐어……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,22,わかっている。だから私は責任を負うと決めた。,알고 있다. 그래서 나는 책임을 지기로 했다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果2,Say,スイ･ニン,23,次は君の番だ。,다음은 네 차례다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,0,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,1,わかった。オペレーションコアに潜入しよう。,알았어. 오퍼레이션 코어에 잠입하자.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,0,スイ･ニンがほっとした表情を見せた。,스이닝이 안도한 표정을 보였다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,0,スイ･ニンがほっとした表情を見せた。,주은영이 안도한 표정을 보였다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,2,でも条件がある。,근데 조건이 있어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,3,スイは今回の行動に関与しないで。,스이는 이번 작전에 관여하지 마.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,3,スイは今回の行動に関与しないで。,은영은 이번 작전에 관여하지 마.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,4,今回も自分でやるつもりでしょう？,이번에도 직접 할 생각이지?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,0,だめだ。リュウセイとジェイにそこまでの危険を負わせるわけにはいかない。私が……,안 돼. 류성이랑 제이한테 그렇게까지 위험을 지게 할 순 없어. 내가……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,5,スイが行くのはダメ……,스이가 가는 건 안 돼……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,0,だめだ。リュウセイとジェイにそこまでの危険を負わせるわけにはいかない。私が……,안 돼. 유성이랑 제이한테 그렇게까지 위험을 지게 할 순 없어. 내가……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,5,スイが行くのはダメ……,은영이 가는 건 안 돼……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,6,身元がバレればフクロウにも知られてしまうのよ、わかるでしょ？,"신원이 들키면 부엉이한테도 알려지고 만다고, 알잖아?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,1,知られる？彼女たちはそもそもフクロウのメンバーのはずだ……,알려진다고? 이 사람들은 애초에 부엉이 멤버일 텐데……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,0,待て。フクロウに知られるとはどういうことだ？,잠깐. 부엉이한테 알려진다는 게 무슨 소리야?
@@ -5494,13 +5494,13 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,1,まさか、万象の調査ってフクロウの正式な調査じゃないの……？,"설마, 완샹 조사가 부엉이의 정식 조사가 아닌 거야……?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,0,なんのことですか？,무슨 얘기죠?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,1,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,7,スイ、ここまでね……,"스이, 여기까지네……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,7,スイ、ここまでね……,"은영, 여기까지네……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,2,ああ、わかってる。,"그래, 알고 있어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,3,リンの言う通りだ。騙してすまない。,린 말이 맞아. 속여서 미안하다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,3,なんのことですか？,무슨 얘기죠?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,1,待ってほしいっす！本当っすか！？,잠깐만요! 진짜예요!?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,4,リュウセイも知らなかったのか……,류성도 몰랐던 건가……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,8,リュウセイ、スイの話しを聞いて。,"류성, 스이 얘기 들어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,4,リュウセイも知らなかったのか……,유성도 몰랐던 건가……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,8,リュウセイ、スイの話しを聞いて。,"유성, 은영 얘기 들어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,4,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,5,今回の調査は、私と23号がフクロウには内密に進めていた。,"이번 조사는, 나랑 23호가 부엉이 몰래 진행하고 있었어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,2,だから調査中に急に別の任務に駆り出されていたのね。,그래서 조사 중에 갑자기 다른 임무에 불려 다녔던 거구나.
@@ -5529,11 +5529,11 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,3,確かに「あなたたち」には、良いことみたいね。,"확실히 '당신들'한테는, 좋은 일인 것 같네."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,5,とげのある言い方だ……,가시 돋친 말투다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,14,……すまない、今のは撤回する。,"……미안, 방금 건 취소할게."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,3,待てくれっす。つまりスイ姉たちは打倒万象のために、組織を裏切るリスクを負ってまで、調査をしてたってことっすか？,"잠깐만요. 그러니까 스이 누나는 완샹 타도를 위해서, 조직을 배신할 위험까지 감수하면서, 조사를 했다는 거예요?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,3,待てくれっす。つまりスイ姉たちは打倒万象のために、組織を裏切るリスクを負ってまで、調査をしてたってことっすか？,"잠깐만요. 그러니까 은영 누나는 완샹 타도를 위해서, 조직을 배신할 위험까지 감수하면서, 조사를 했다는 거예요?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,15,そうだ。だが私たちの目的は打倒万象ではないが……,그래. 근데 우리 목적은 완샹 타도가 아니지만……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,4,か、格好良いっす！やっぱそう来なくっちゃ！,"머, 멋있어요! 역시 그래야죠!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,5,組織と敵対してもなお、クズ企業を倒す！それこそ僕の知ってるスイ姉っす！,"조직이랑 적대해서라도, 쓰레기 기업을 무너뜨린다! 그게 바로 제가 아는 스이 누나예요!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,16,リュウセイ、これは正当化できることではない！,"류성, 이건 정당화될 수 있는 일이 아니야!"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,5,組織と敵対してもなお、クズ企業を倒す！それこそ僕の知ってるスイ姉っす！,"조직이랑 적대해서라도, 쓰레기 기업을 무너뜨린다! 그게 바로 제가 아는 은영 누나예요!"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,16,リュウセイ、これは正当化できることではない！,"유성, 이건 정당화될 수 있는 일이 아니야!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,17,今回の調査の目的は、セラーの供給者を守ることだ。万象を倒すことではない。,"이번 조사의 목적은, 저장고 공급자들을 지키는 거야. 완샹을 무너뜨리는 게 아니라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,6,そうですか……,그런가요……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,18,とにかく隠していたことは事実だ。すまなかった。,아무튼 숨기고 있었던 건 사실이야. 미안했다.
@@ -5561,15 +5561,15 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,18,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,15,それで、どうするの？オペレーションコアに潜入しないと約束してくれる？,"그래서, 어떡할 거야? 오퍼레이션 코어에 잠입 안 하겠다고 약속해줄 거야?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,24,えっと……,그게……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,25,私が行かないのならば、リュウセイとジェイが一緒に行動する必要がある。,"내가 안 간다면, 류성이랑 제이가 같이 움직여야 해."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,25,私が行かないのならば、リュウセイとジェイが一緒に行動する必要がある。,"내가 안 간다면, 유성이랑 제이가 같이 움직여야 해."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,26,二人が力を合わせられれば、私も安心だ。,"둘이서 힘을 합칠 수 있으면, 나도 안심이야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,27,リュウセイ、行ってくれるか？,"류성, 가줄 수 있겠어?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,27,リュウセイ、行ってくれるか？,"유성, 가줄 수 있겠어?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,8,もちろんす！今日はそもそも僕が行くはずだったっすから！,물론이죠! 오늘은 애초에 제가 갈 예정이었으니까요!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,28,ジェイはそうだ？,제이는 어때?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,19,俺はどっちでもいい。,나는 어느 쪽이든 상관없어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,7,スイ･ニンがリンを見つめている。彼女の同意を求めているのか？,스이닝이 린을 바라보고 있다. 그녀의 동의를 구하는 건가?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,7,スイ･ニンがリンを見つめている。彼女の同意を求めているのか？,주은영이 린을 바라보고 있다. 그녀의 동의를 구하는 건가?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,10,ジェイがいいって言うなら、私も反対はしない。,"제이가 좋다고 하면, 나도 반대 안 해."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,11,私たちも選択肢が残されていないし、もしスイさんが見つかったら、私とジェイも大変なことになる。,"우리도 선택지가 남아 있지 않고, 만약 스이 씨가 들키면, 나랑 제이도 큰일이 나니까."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,11,私たちも選択肢が残されていないし、もしスイさんが見つかったら、私とジェイも大変なことになる。,"우리도 선택지가 남아 있지 않고, 만약 은영 씨가 들키면, 나랑 제이도 큰일이 나니까."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,20,オペレーションコアへの潜入は危険なのか？,오퍼레이션 코어 잠입은 위험한 거야?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,12,見つかる確率は高いけど、命の危険はないはずよ。,"들킬 확률은 높지만, 목숨이 위험하진 않을 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リン･テイ,13,私の知る限り、そこに警備員はいなくて、自動監視システムしかないはずよ。,"내가 아는 한, 거긴 경비원이 없고, 자동 감시 시스템뿐일 거야."
@@ -5584,7 +5584,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,32,では決まりだ。後は作戦をどうするかだ。,그럼 결정됐다. 이제 남은 건 작전을 어떻게 짤지야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,33,データを盗むのは簡単だから、前と同じやり方で問題ない。,"데이터를 훔치는 건 간단하니까, 전이랑 같은 방식으로 문제없어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,16,オペレーションコアに入って、うちのハックユニットを接続すればいいから。,"오퍼레이션 코어에 들어가서, 우리 해킹 유닛을 연결하면 되니까."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,17,リュウセイ、前に渡したのまだ残ってるよね？,"류성, 전에 준 거 아직 남아 있지?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,17,リュウセイ、前に渡したのまだ残ってるよね？,"유성, 전에 준 거 아직 남아 있지?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,9,残ってるけど、ハックにどれくらい時間がかかるっすか？,"남아 있긴 한데, 해킹에 시간이 얼마나 걸리는데요?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,18,3分。最初の30秒でファイヤーウォールの解除をする。,3분. 처음 30초 만에 방화벽을 해제해.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,10,ハックすれば、内部データが見れるっすか？,"해킹하면, 내부 데이터를 볼 수 있는 거예요?"
@@ -5612,9 +5612,9 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,29,理にかなった身分だと思うけど？,이치에 맞는 신분이라고 생각하는데?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,25,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,42,私は、執行官直属の監察員に偽造しようと思う。,"나는, 집행관 직속 감찰관으로 위조하려고 해."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,9,執行官？セイワ･ゲンか？,집행관? 성화인가?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,9,執行官？セイワ･ゲンか？,집행관? 엄승환인가?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,43,監察員はすべてのエリアに入る権限を持っている上に、普通の社員であれば、彼らに寄りつかないはずだ。,"감찰관은 모든 구역에 들어갈 권한을 갖고 있는 데다, 보통 사원이라면, 그들한테 다가가지 않을 거야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,26,俺とリュウセイのどちらも監察員になるのか？,나랑 류성 둘 다 감찰관이 되는 거야?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,26,俺とリュウセイのどちらも監察員になるのか？,나랑 유성 둘 다 감찰관이 되는 거야?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,27,監察員ふりをしないといけないのか？,감찰관인 척해야 하는 거야?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,44,その必要はない。,그럴 필요는 없어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,28,……,……
@@ -5635,10 +5635,10 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,33,オペレーションコアのセキュリティーが厳重すぎて、誰かが進入したら必ず通報されるのよ。,"오퍼레이션 코어 보안이 너무 삼엄해서, 누군가 진입하면 반드시 신고가 들어가."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,34,通報までの時間を延ばせはするけど、長くは保たない。,"신고까지의 시간은 늦출 수 있지만, 오래는 못 버텨."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,35,つまりこの方法を使うと、時間の制限があるのよ。,"즉 이 방법을 쓰면, 시간제한이 있는 거야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,36,でも今はこの方法しかないと思う。スイはどう思う？,근데 지금은 이 방법밖에 없다고 생각해. 스이는 어떻게 생각해?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,36,でも今はこの方法しかないと思う。スイはどう思う？,근데 지금은 이 방법밖에 없다고 생각해. 은영은 어떻게 생각해?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,50,それで行こう。時間の制限があるとはいえ、十分に時間はあるはずだ。,"그걸로 가자. 시간제한이 있다고 해도, 충분히 시간은 있을 거야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,10,もしかしたらメイ･ジョに頼めるかもしれない。彼女には貸しがある……,혹시 메이 조한테 부탁할 수 있을지도 모른다. 그 여자한테는 빚이 있으니까……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,32,メイ･ジョに頼めるかもしれない。,메이 조한테 부탁할 수 있을지도 몰라.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,10,もしかしたらメイ･ジョに頼めるかもしれない。彼女には貸しがある……,혹시 서유나한테 부탁할 수 있을지도 모른다. 그 여자한테는 빚이 있으니까……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,32,メイ･ジョに頼めるかもしれない。,서유나한테 부탁할 수 있을지도 몰라.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,37,情報セキュリティー部の隊長に？,정보 보안부 대장으로?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,38,確かに彼女は権限を持っている上に、彼女から権限を与えられれば、調査という大義名分もつく。,"확실히 그 여자는 권한도 갖고 있는 데다, 그쪽에서 권한을 받으면, 조사라는 대의명분도 생기고."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,51,なぜ彼女が手伝ってくれると思った？,왜 그 여자가 도와줄 거라고 생각한 거지?
@@ -5673,17 +5673,17 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,45,ああ。,아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,61,わかった。試す価値はありそうだ。,알았다. 시도해볼 가치는 있을 것 같군.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,46,実は俺は彼女に情報を提供していたんだ。,실은 내가 그 여자한테 정보를 주고 있었거든.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,62,23号、メイ･ジョは今どこにいる？,"23호, 메이 조는 지금 어디 있지?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,62,23号、メイ･ジョは今どこにいる？,"23호, 서유나는 지금 어디 있지?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,23,42,1階の行政ホール。もうジェイに権限を与えたよ。,1층 행정 홀. 이미 제이한테 권한 넘겨줬어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,心の声,15,まだあの場所にいるのか。,아직 그곳에 있는 건가.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,63,では、ジェイ。頼んだぞ。,"그럼, 제이. 부탁한다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,64,オペレーションコアへの権限を手に入れたら、リュウセイと次の作戦に移る。,"오퍼레이션 코어 권한을 손에 넣으면, 류성이랑 다음 작전으로 넘어간다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,64,オペレーションコアへの権限を手に入れたら、リュウセイと次の作戦に移る。,"오퍼레이션 코어 권한을 손에 넣으면, 유성이랑 다음 작전으로 넘어간다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,47,わかった。,알았어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,48,もしメイ･ジョに断られたら、どうする？,"만약 메이 조가 거절하면, 어떡할 거지?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,48,もしメイ･ジョに断られたら、どうする？,"만약 서유나가 거절하면, 어떡할 거지?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,65,その場合は、本来の計画で行く。,"그 경우엔, 원래 계획대로 간다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,49,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,50,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,66,ジェイが先にセラーのエレベーターに乗ってくれ。リュウセイは少し時間を置いてから乗るんだ。,제이가 먼저 저장고 엘리베이터를 타줘. 류성은 시간을 좀 두고 타고.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,66,ジェイが先にセラーのエレベーターに乗ってくれ。リュウセイは少し時間を置いてから乗るんだ。,제이가 먼저 저장고 엘리베이터를 타줘. 유성은 시간을 좀 두고 타고.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,51,わかった。,알았어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Branch,#Simple,52,それはなぜ？,그건 왜죠?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,67,そっちの方が自然だからだ。一緒に行動すると疑われやすくなる。,그쪽이 더 자연스러우니까. 같이 움직이면 의심받기 쉬워져.
@@ -5702,12 +5702,12 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,15,了解っす！,알겠습니다!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,スイ･ニン,73,よっし、作戦開始だ。,"좋아, 작전 개시다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回車上聽地窖數據結果3,Say,リュウセイ･チョウ,16,ジェイの兄貴！また後で！,제이 형님! 또 봐요!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,0,まさかスイ姉がIDの偽造をミスるなんて。,설마 스이 누나가 ID 위조를 실수하다니.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,0,まさかスイ姉がIDの偽造をミスるなんて。,설마 은영 누나가 ID 위조를 실수하다니.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,0,真面目そうな彼女もこういうミスをするんだな。,꼼꼼해 보이는 그녀도 이런 실수를 하는군.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,1,スーパー！,완전!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,2,スーパー真面目っすよ。,완전 꼼꼼해요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,1,誰だってミスはするだろう？,누구든 실수는 하는 거지?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,3,でもスイ姉がミスしたところなんて、一度も見たことないっすよ。,"근데 스이 누나가 실수하는 거, 한 번도 본 적 없어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,3,でもスイ姉がミスしたところなんて、一度も見たことないっすよ。,"근데 은영 누나가 실수하는 거, 한 번도 본 적 없어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,2,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,4,初めてこのエレベーターに乗ったけど、絶景っすね。,"이 엘리베이터 처음 타보는데, 절경이네요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,5,まさか地下深くにこんな膨大な施設を作っていたとは……,설마 지하 깊은 곳에 이런 거대한 시설을 만들어놨을 줄이야……
@@ -5731,23 +5731,23 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,11,わかりません。,모르겠어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,13,え？お先真っ暗っすか？,네? 앞날이 캄캄한 거예요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,14,何も考えてない僕みたいっすね！,아무 생각 없는 저 같네요!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,2,そういえば、リュウセイはサイレント以外に何の仕事をしているんだ。,"그러고 보니, 류세이는 사일런트 말고 무슨 일을 하고 있는 거지."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,12,リュウセイはサイレント以外に何の仕事をしているんだ？,류세이는 사일런트 말고 무슨 일을 하고 있는 거지?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,15,スイ姉たちの手伝いっす！,스이 누나 일행 돕는 거예요!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,2,そういえば、リュウセイはサイレント以外に何の仕事をしているんだ。,"그러고 보니, 유성은 사일런트 말고 무슨 일을 하고 있는 거지."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,12,リュウセイはサイレント以外に何の仕事をしているんだ？,유성은 사일런트 말고 무슨 일을 하고 있는 거지?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,15,スイ姉たちの手伝いっす！,은영 누나 일행 돕는 거예요!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,16,ちゃんと給料はもらってるっすよ。しかも結構お高い！,제대로 월급도 받고 있어요. 게다가 꽤 비싸게!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,17,ハハハ！,하하하!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,13,確かに何も考えてない、あんたみたいだな。,"확실히 아무 생각 없는, 너 같은 거네."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,18,ちょ、ちょっと待ってください！そう言われるとちょっと傷つくっす！,"자, 잠깐만요! 그렇게 말하면 좀 상처받아요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,19,昨日の夜にも言ったじゃないっすか！,어젯밤에도 말했잖아요!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,20,僕はフクロウに入るために頑張ってる途中っす！,저는 프쿠로우에 들어가려고 노력하는 중이라고요!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,14,なぜフクロウに入りたいんだ？,왜 프쿠로우에 들어가고 싶은 거지?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,20,僕はフクロウに入るために頑張ってる途中っす！,저는 부엉이에 들어가려고 노력하는 중이라고요!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,14,なぜフクロウに入りたいんだ？,왜 부엉이에 들어가고 싶은 거지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,21,格好いいからっすね！,멋있으니까요!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,22,もちろん、それだけじゃないっすけどね、ハハハ！,"물론, 그게 다는 아니지만요, 하하하!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,15,フクロウには頑張れば入れるものか？,프쿠로우는 노력하면 들어갈 수 있는 건가?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,23,さあ、でも私たちと行動を共にしていれば、いずれチャンスが来るってスイ姉が言ってたっす。,"글쎄요, 근데 저희랑 같이 행동하다 보면, 언젠가 기회가 온다고 스이 누나가 말했었어요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,3,スイ･ニンのやつ、彼を利用しているんじゃ……,"스이 닌 저 사람, 얘를 이용하고 있는 거 아닌가……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,15,フクロウには頑張れば入れるものか？,부엉이는 노력하면 들어갈 수 있는 건가?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,23,さあ、でも私たちと行動を共にしていれば、いずれチャンスが来るってスイ姉が言ってたっす。,"글쎄요, 근데 저희랑 같이 행동하다 보면, 언젠가 기회가 온다고 은영 누나가 말했었어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,3,スイ･ニンのやつ、彼を利用しているんじゃ……,"주은영 저 사람, 얘를 이용하고 있는 거 아닌가……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Branch,#Simple,16,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,24,僕は何度かフクロウに助けられているので、憧れがあるっす。,"저는 몇 번이나 프쿠로우한테 도움받은 적이 있어서, 동경하고 있어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,24,僕は何度かフクロウに助けられているので、憧れがあるっす。,"저는 몇 번이나 부엉이한테 도움받은 적이 있어서, 동경하고 있어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,4,助けられた？,도움을 받았다고?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,25,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,26,実は僕も昔、家族に連れて行かれて、演算力供給をしたことがあるっす。,"실은 저도 옛날에, 가족한테 끌려가서, 연산력 공급을 한 적이 있어요."
@@ -5769,11 +5769,11 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,7,マンセント、確か万象の競争相手だ……,"만센트, 확실히 완샹의 경쟁사인데……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,34,たったの二週間だけだし、すぐ終わるはずでした。でも、大きな設備故障が起きて……,"겨우 2주뿐이고, 금방 끝날 예정이었어요. 근데, 큰 설비 고장이 일어나서……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,35,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,8,リュウセイが黙り込んだ……,류세이가 입을 다물었다……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,8,リュウセイが黙り込んだ……,유성이 입을 다물었다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,36,僕の家族は皆、あの事故で死んだっす。僕も半身不随だったっすけどね。,"제 가족은 다들, 그 사고로 죽었어요. 저도 반신불수가 됐었지만요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,37,マンセントはすべてをもみ消すために、僕までも死なせようとしたっす。,"만센트는 모든 걸 은폐하려고, 저까지도 죽이려고 했어요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,38,でもそこにスイ姉が現れて、僕を救っただけでなく、マンセントの悪行を暴いてくれた。,"근데 거기 스이 누나가 나타나서, 저를 구해줬을 뿐만 아니라, 만센트의 악행을 폭로해줬어요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,39,だから僕はずっとスイ姉に憧れていて、感謝しているっす。,"그래서 저는 계속 스이 누나를 동경하고, 감사하게 생각하고 있어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,38,でもそこにスイ姉が現れて、僕を救っただけでなく、マンセントの悪行を暴いてくれた。,"근데 거기 은영 누나가 나타나서, 저를 구해줬을 뿐만 아니라, 만센트의 악행을 폭로해줬어요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,39,だから僕はずっとスイ姉に憧れていて、感謝しているっす。,"그래서 저는 계속 은영 누나를 동경하고, 감사하게 생각하고 있어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,心の声,9,それは……,그건……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中,Say,リュウセイ･チョウ,40,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,0,それは申し訳ない。,그건 미안하네.
@@ -5784,23 +5784,23 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,2,こ、この話のポイントは！,"이, 이 얘기의 포인트는요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,3,マンセントみたいなクズ企業が沢山あって、誰も太刀打ちできないってことっす！,"만센트 같은 쓰레기 기업들이 잔뜩 있고, 아무도 맞서지 못한다는 거예요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,4,事実上、マンセントはまだ、存在しているわけですし……,"사실상, 만센트는 아직, 존재하고 있는 거고……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,5,彼らを揺るがすことができるのは、スイ姉たちみたいな存在だけっす。,"그들을 흔들 수 있는 건, 스이 누나 같은 존재뿐이에요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,3,それはスイ･ニンの力なのか、それともフクロウの力か？,"그건 스이 닌의 힘인가, 아니면 프쿠로우의 힘인가?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,6,僕もスイ姉に同じ質問をしたことがあったっす。,저도 스이 누나한테 똑같은 질문을 한 적이 있었어요.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,5,彼らを揺るがすことができるのは、スイ姉たちみたいな存在だけっす。,"그들을 흔들 수 있는 건, 은영 누나 같은 존재뿐이에요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,3,それはスイ･ニンの力なのか、それともフクロウの力か？,"그건 주은영의 힘인가, 아니면 부엉이의 힘인가?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,6,僕もスイ姉に同じ質問をしたことがあったっす。,저도 은영 누나한테 똑같은 질문을 한 적이 있었어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,7,彼女は……,그 사람은……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,8,それは重要じゃない。,그건 중요하지 않아.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,9,「目標の達成には多くの手段が存在する。フクロウに所属すれば、権力と物資の支援を得られる」,"「목표 달성에는 많은 수단이 존재한다. 프쿠로우에 소속되면, 권력과 물자 지원을 얻을 수 있다」"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,10,「所属することで制限はあるものの、全体で見れば、フクロウに入ったことは目的の達成に間違いなく役立った」,"「소속됨으로써 제약은 있지만, 전체적으로 보면, 프쿠로우에 들어간 게 목적 달성에 틀림없이 도움이 됐다」"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,9,「目標の達成には多くの手段が存在する。フクロウに所属すれば、権力と物資の支援を得られる」,"「목표 달성에는 많은 수단이 존재한다. 부엉이에 소속되면, 권력과 물자 지원을 얻을 수 있다」"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,10,「所属することで制限はあるものの、全体で見れば、フクロウに入ったことは目的の達成に間違いなく役立った」,"「소속됨으로써 제약은 있지만, 전체적으로 보면, 부엉이에 들어간 게 목적 달성에 틀림없이 도움이 됐다」"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,4,回りくどい言い方だな。,돌려 말하는 거 참.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,11,ハハ、彼女らしいっすよね？,"하하, 그 사람답죠?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,5,結果論だな。,결과론이군.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,12,かもしれないっす。,그럴지도 몰라요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,6,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,7,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,13,でも、それも僕がフクロウに入りたい動機っす。,"근데, 그것도 제가 프쿠로우에 들어가고 싶은 동기예요."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,13,でも、それも僕がフクロウに入りたい動機っす。,"근데, 그것도 제가 부엉이에 들어가고 싶은 동기예요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,14,バカげた考えに聞こえるかもしれないっすけど……,바보 같은 생각으로 들릴지도 모르지만……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,15,僕は「正しいことができる力」がほしいっす。,저는「올바른 일을 할 수 있는 힘」이 갖고 싶어요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,16,もしジェイの兄貴がフクロウのメンバーだったら、リンさんを守れていたかもしれない……,"만약 제이 형이 프쿠로우 멤버였다면, 린 씨를 지킬 수 있었을지도 몰라요……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,16,もしジェイの兄貴がフクロウのメンバーだったら、リンさんを守れていたかもしれない……,"만약 제이 형이 부엉이 멤버였다면, 린 씨를 지킬 수 있었을지도 몰라요……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,17,そんなふうにも思えませんか……？,그렇게 생각되지 않아요……?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,心の声,0,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,8,それとこれとは別だ。,그거랑 이건 별개다.
@@ -5821,7 +5821,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,14,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,26,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,27,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,15,リュウセイにも守りたい人がいるのか？,류세이도 지키고 싶은 사람이 있나?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,15,リュウセイにも守りたい人がいるのか？,유성도 지키고 싶은 사람이 있나?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,28,今すっか？多分いない……っすね。,지금이요? 아마 없는……거 같아요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,29,でも僕はやっぱり、誰かに何かをしてあげたいっす。だって僕が誰かに助けられてきたから。,"근데 저는 역시, 누군가한테 뭔가 해주고 싶어요. 왜냐면 저도 누군가한테 도움을 받아왔으니까요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,16,具体的に、どんなことをしてあげたいんだ？,"구체적으로, 어떤 걸 해주고 싶은 거지?"
@@ -5833,14 +5833,14 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,33,そりゃ絶対に間違ってるっすよ。,그거야 절대 잘못됐죠.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,34,確かに多くの人間を生かしているのも事実だけど、それ以上の悲劇をもたらしてるっす。,"확실히 많은 사람을 먹여 살리는 것도 사실이지만, 그 이상의 비극을 불러오고 있어요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,35,同時に、多くの恨みの種を生んだ。僕もその一人っす……,"동시에, 많은 원한의 씨앗을 만들었죠. 저도 그중 하나고요……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,36,スイ姉は僕にその考えを捨てさせたいみたいっすけど……,스이 누나는 저한테 그 생각을 버리게 하고 싶은 것 같지만……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,36,スイ姉は僕にその考えを捨てさせたいみたいっすけど……,은영 누나는 저한테 그 생각을 버리게 하고 싶은 것 같지만……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,37,僕はやっぱり、演算力産業のすべてが憎い。,"저는 역시, 연산력 산업 전부가 미워요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,19,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,20,なるほどね。,그렇군요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,38,でしょう？,그치?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,21,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Branch,#Simple,22,演算力産業に恨みがあるのか？,연산력 산업에 원한이 있나?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,39,スイ姉は僕にその考えを捨てさせたいみたいっすけど……,스이 누나는 저한테 그 생각을 버리게 하고 싶은 것 같지만……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,39,スイ姉は僕にその考えを捨てさせたいみたいっすけど……,은영 누나는 저한테 그 생각을 버리게 하고 싶은 것 같지만……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,40,でも、僕はやっぱり演算力産業が憎いっす。,"근데, 저는 역시 연산력 산업이 미워요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,41,あっ、でも選別組のことは恨んでないっすよ！,"아, 근데 선별조를 원망하는 건 아니에요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,跟隆生搭地窖電梯中2,Say,リュウセイ･チョウ,42,どんなクズな組織の中にも、いい人はいるっす。,"아무리 쓰레기 같은 조직 안에도, 좋은 사람은 있으니까요."
@@ -5870,14 +5870,14 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Branch,#Simple,0,監察員の案内をしているんだ。,감찰원 안내를 하고 있다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,ユウ･ショウ,3,監察員！？,감찰원!?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,2,かなり驚いているようだが、どうしたんだ？,"꽤 놀란 것 같은데, 무슨 일이지?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,3,しまった！スイ･ニンが用意したIDはプロジェクトマネージャーだ！,아차! 스이 닌이 준비한 ID는 프로젝트 매니저잖아!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,3,しまった！スイ･ニンが用意したIDはプロジェクトマネージャーだ！,아차! 주은영이 준비한 ID는 프로젝트 매니저잖아!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,ユウ･ショウ,4,こちらの方が、監察員の方ですか？,"이분이, 감찰원분이신가요?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,4,……リュウセイを知らないみたいだな。,……류세이를 모르는 것 같군.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,4,……リュウセイを知らないみたいだな。,……유성을 모르는 것 같군.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,ユウ･ショウ,5,まさか本物……,설마 진짜……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,リュウセイ･チョウ,0,待ちなさい！私は監察員ではない。,잠깐! 나는 감찰원이 아니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Branch,#Simple,1,この方と一緒に来たんだ。,이분이랑 같이 왔다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,ユウ･ショウ,6,こちらの方は、どなたですか？,"이분은, 누구시죠?"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,5,……リュウセイを知らないみたいだな。,……류세이를 모르는 것 같군.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,心の声,5,……リュウセイを知らないみたいだな。,……유성을 모르는 것 같군.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,リュウセイ･チョウ,1,初めまして。,처음 뵙겠습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Branch,#Simple,2,なぜあんたがここにいるんだ？,왜 네가 여기 있는 거지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛2,Say,ユウ･ショウ,7,まずはこちらの質問に答えてください！,먼저 저희 질문에 답해주세요!
@@ -5900,7 +5900,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,3,では、お名前をお願いします。,"그럼, 성함 부탁드립니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,1,……僕？,……저요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,2,わ、私は……,"저, 저는……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,1,やばい、リュウセイは偽の名前を確認していない……,"큰일이다, 류성은 가짜 이름을 확인 안 했어……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,1,やばい、リュウセイは偽の名前を確認していない……,"큰일이다, 유성은 가짜 이름을 확인 안 했어……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,0,悪いが、プロジェクトマネージャーは急いでいるんだ。,"미안하지만, 프로젝트 매니저님은 급하셔."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,4,申し訳ございません、これは規則です。,"죄송합니다, 이건 규칙이라서요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,1,マネージャー、IDを直接お見せしたらどうですか。,"매니저님, ID를 직접 보여드리는 건 어떨까요."
@@ -5954,13 +5954,13 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,6,おいおい、アドリブが効かないな。,"이봐 이봐, 애드리브가 안 통하네."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,11,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,19,か、帰ったら、お前の上司にクレームを入れるからな！,"도, 돌아가면, 네 상사한테 항의할 테니까!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,7,ん？ユウ･ショウが動揺している。,응? 유 쇼가 동요하고 있다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,7,ん？ユウ･ショウが動揺している。,응? 소명훈이 동요하고 있다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,20,よくもこの私の時間を無駄にしたな！,감히 이 몸의 시간을 낭비하게 하다니!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,21,そしてそこの警備員！私を怒らせて、どうなるかわかっているのか？,"그리고 거기 경비원! 나를 화나게 하면, 어떻게 되는지 알고 있나?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,23,……えっと、どうなるのですか？,"……저, 어떻게 되는데요?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,22,わ、私は……,"저, 저는……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,23,その……えっと……,그……저기……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,24,ジェイ･ダイ！私を怒らせたやつらが、どうなるのか教えてやれ！,"제이 다이! 나를 화나게 한 놈들이, 어떻게 되는지 알려줘라!"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,24,ジェイ･ダイ！私を怒らせたやつらが、どうなるのか教えてやれ！,"최제이! 나를 화나게 한 놈들이, 어떻게 되는지 알려줘라!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,8,急に、俺に投げてきた！？,"갑자기, 나한테 떠넘겼다!?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,12,土下座させられます！,무릎 꿇고 사죄하게 됩니다!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,24,土下座！？,무릎 꿇고 사죄요!?
@@ -5976,20 +5976,20 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,13,ナイスフォロー！,나이스 서포트!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,14,逆らったやつらを皆、クビにします！,"거역한 놈들은 전부, 해고합니다!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,27,そうだ！私はいつもそうしている！,맞아! 나는 항상 그렇게 하고 있다!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,14,ユウ･ショウがかなり動揺している。,유 쇼가 꽤 동요하고 있다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,14,ユウ･ショウがかなり動揺している。,소명훈이 꽤 동요하고 있다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,15,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,28,あ、あまりの恐ろしさに言葉が出ないのか！それなら、この私が教えてやろう！,"너, 너무 무서워서 말이 안 나오는 건가! 그렇다면, 이 몸이 알려주지!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,29,……スクワット百回だ！,……스쿼트 백 개다!
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,15,何を言ってるんだ……,무슨 소리를 하는 거야……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,27,た、体罰、ですか……？,"체, 체벌, 인가요……?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,28,しかも百回……！？,게다가 백 개……!?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,16,ユウ･ショウはかなり動揺している。いけそうか？,유 쇼가 꽤 동요하고 있다. 될 것 같나?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,16,ユウ･ショウはかなり動揺している。いけそうか？,소명훈이 꽤 동요하고 있다. 될 것 같나?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,29,ま、待ってください！！！,"자, 잠깐만요!!!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,30,わ、わかりました……,"아, 알겠습니다……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,31,IDがあるなら、問題はないはずです。,"ID가 있으시면, 문제없을 겁니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,32,どうぞ中にお入りください。,부디 안으로 들어가세요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,17,ふぅ、成功だ。,"휴, 성공이다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,30,そうか。では、ジェイ･ダイ。外で待っててくれ。,"그런가. 그럼, 제이 다이. 밖에서 기다려."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,30,そうか。では、ジェイ･ダイ。外で待っててくれ。,"그런가. 그럼, 최제이. 밖에서 기다려."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,心の声,18,なに？作戦と違う。,뭐? 작전이랑 다르잖아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,16,マネージャー、私も中で手伝います。,"매니저님, 저도 안에서 돕겠습니다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,31,いや、いいんだ。外で待っててくれ。,"아니, 됐다. 밖에서 기다려."
@@ -6004,7 +6004,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Branch,#Simple,21,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,リュウセイ･チョウ,33,では、行ってくる。,"그럼, 다녀오겠다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛3,Say,ユウ･ショウ,35,かしこまりました。,알겠습니다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,0,リュウセイ、何をする気だ……,"류세이, 뭘 하려는 거지……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,0,リュウセイ、何をする気だ……,"유성, 뭘 하려는 거지……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,0,はぁ、怖かった。,"하, 무서웠다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,1,あのマネージャー、かなり乱暴ですね。,"그 매니저, 꽤 거칠던데요."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Branch,#Simple,0,ああ、彼を通したのは正解だったな。,"그래, 그를 통과시킨 게 정답이었군."
@@ -6032,7 +6032,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,13,上司は、監察員に装ってる人がいるとか言ってましたが……,"상사는, 감찰원인 척하는 사람이 있다고 했었는데……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,14,絶対デマ情報ですよ。はぁ……仕事が増えて嫌になりますよ……,절대 헛소문일 거예요. 하……일만 늘어나서 짜증 나요……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,15,だからさっき、ジェイさんがソウさんを監察員だと言った時はびっくりしました。,"그래서 아까, 제이 씨가 소우 씨를 감찰원이라고 했을 때 깜짝 놀랐어요."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,3,ソウさん？あ、リュウセイの偽の名前か。,"소우 씨? 아, 류세이 가명이었지."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,3,ソウさん？あ、リュウセイの偽の名前か。,"소우 씨? 아, 유성 가명이었지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,16,うわ、本当に来たって思いました！,"우와, 진짜로 왔다고 생각했다니까요!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,4,そうだ……,맞아……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,5,俺たちがデータを盗みにくることを、万象は知っていたのか……？,"우리가 데이터를 훔치러 올 걸, 완샹이 알고 있었던 건가……?"
@@ -6057,11 +6057,11 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,ユウ･ショウ,26,じゃ、私はこれで。,"그럼, 저는 이만."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,9,どうなることかと思ったが、とりあえず上手くいったか……,"어떻게 될까 싶었는데, 일단 잘 넘어간 건가……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,10,俺もオペレーションコアに入るべきか？,나도 운영 코어에 들어가야 하나?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,11,いや、IDを持っているのはリュウセイだから、入れないか。,"아니, ID를 가지고 있는 건 류세이니까, 못 들어가겠지."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,11,いや、IDを持っているのはリュウセイだから、入れないか。,"아니, ID를 가지고 있는 건 유성니까, 못 들어가겠지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,12,今は待つしかない……,지금은 기다릴 수밖에……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,13,一体どういうつもりなんだ。後で詳しく聞かないとな。,대체 무슨 생각인 거지. 나중에 자세히 물어봐야겠군.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,14,それとユウの最後の言葉……,그리고 유의 마지막 말……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛5,Say,心の声,0,リュウセイ、かなり時間がかかっているな……,"류세이, 시간이 꽤 걸리는군……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛4,Say,心の声,14,それとユウの最後の言葉……,그리고 명훈의 마지막 말……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛5,Say,心の声,0,リュウセイ、かなり時間がかかっているな……,"유성, 시간이 꽤 걸리는군……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛5,Say,心の声,1,23号が言ってた3分を超えている。,23호가 말했던 3분을 넘겼다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛5,Say,心の声,2,23号の計測ミスか……？,23호가 측정을 잘못한 건가……?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,在運算核心遇到警衛5,Say,リュウセイ･チョウ,0,よし、データを手に入れたっす。行きましょう。,"좋아, 데이터 확보했어요. 가시죠."
@@ -6097,7 +6097,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,傭兵�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,傭兵遭遇戰2,Branch,#Simple,2,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,傭兵遭遇戰2,Say,リュウセイ･チョウ,3,とにかく、早くここから出るっす。そうじゃないと……,"아무튼, 빨리 여기서 나가요. 안 그러면……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,スイ･ニン,0,通信が戻った。,통신이 복구됐다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,スイ･ニン,1,ジェイ、リュウセイ、無事か？,"제이, 류세이, 무사한가?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,スイ･ニン,1,ジェイ、リュウセイ、無事か？,"제이, 유성, 무사한가?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,23,0,データは？,데이터는?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,リュウセイ･チョウ,0,ぼ、僕たち、襲われたっす。急に傭兵らしき人たちが現れて……,"저, 저희, 습격당했어요. 갑자기 용병 같은 사람들이 나타나서……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,スイ･ニン,2,怪我の状況は？,부상 상태는?
@@ -6105,7 +6105,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,スイ･ニン,3,了解。,알겠습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,逃亡電梯出來,Say,リュウセイ･チョウ,2,行こう、ジェイの兄貴。,"가자, 제이 형."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛進簽約室遇吳鄭,Say,イー･テイ,0,ジェイ、ここに座って。,"제이, 여기 앉아."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛進簽約室遇吳鄭,Say,心の声,0,シュン･ゴもいるのか？,슌 고도 있는 건가?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛進簽約室遇吳鄭,Say,心の声,0,シュン･ゴもいるのか？,준 고도 있는 건가?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛進簽約室遇吳鄭,Say,シュン･ゴ,0,お疲れ様です。,수고하십니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛進簽約室遇吳鄭,Say,イー･テイ,1,ジェイ、ここに座って。,"제이, 여기 앉아."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,剛進簽約室遇吳鄭,Say,心の声,1,重いたい空気だ……,무거운 분위기다……
@@ -6123,8 +6123,8 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,2,そっちのサポートをするのは当たり前じゃん。,그쪽 지원하는 건 당연한 거잖아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,1,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,3,今日は工場内を自由に行動できるみたいね。よかった。,오늘은 공장 안을 자유롭게 돌아다닐 수 있는 모양이네. 다행이다.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,4,スイはまだ帰って来てないけど、作戦を開始してもいいと思うよ。,"스이는 아직 안 돌아왔지만, 작전 시작해도 될 것 같아."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,5,あ、リュウセイも着いたみたい。繋げとくね。なんか申し訳なさそうにしてるけど……,"아, 류세이도 도착한 것 같네. 연결해둘게. 뭔가 미안해하는 것 같은데……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,4,スイはまだ帰って来てないけど、作戦を開始してもいいと思うよ。,"은영은 아직 안 돌아왔지만, 작전 시작해도 될 것 같아."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,5,あ、リュウセイも着いたみたい。繋げとくね。なんか申し訳なさそうにしてるけど……,"아, 유성도 도착한 것 같네. 연결해둘게. 뭔가 미안해하는 것 같은데……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,0,うっ……,윽……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,1,……もしもし？,……여보세요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,6,なに？なんかあったの？,뭐야? 무슨 일 있었어?
@@ -6132,12 +6132,12 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,7,それで？,그래서요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,3,だから僕はしばらくサイレントから離れることになるっす。す、すみません……,"그래서 저는 당분간 사일런트에서 떨어져 있게 됐어요. 죄, 죄송합니다……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,8,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,9,スイ！！！！！！！,스이!!!!!!!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,10,リュウセイがまたヘマをした！！！！！！！,류세이가 또 사고 쳤어!!!!!!!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,4,え？僕が早退したのは、スイ姉と23姉に呼び出されたからっすよね！？,"네? 제가 조퇴한 건, 스이 누나랑 23호 누나가 불러서 그런 거잖아요!?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,9,スイ！！！！！！！,은영!!!!!!!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,10,リュウセイがまたヘマをした！！！！！！！,유성이 또 사고 쳤어!!!!!!!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,4,え？僕が早退したのは、スイ姉と23姉に呼び出されたからっすよね！？,"네? 제가 조퇴한 건, 은영 누나랑 23호 누나가 불러서 그런 거잖아요!?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,0,落ち着いて。少し考えるから。,진정해. 좀 생각해볼 테니까.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,1,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,2,ジェイ･ダイ、君に任せる。,"제이 다이, 너한테 맡기겠다."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,2,ジェイ･ダイ、君に任せる。,"최제이, 너한테 맡기겠다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,2,俺が操作組に潜入するのか？,내가 조작조에 잠입하는 건가?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,3,ああ。,아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,3,わかった。,알았어.
@@ -6165,18 +6165,18 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,9,ジェイの兄貴、操作組を選んだっすか……,"제이 형, 조작조를 선택하셨구나……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,19,人生の選択に口を出すな。,인생 선택에 참견하지 마.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,リュウセイ･チョウ,10,はい……,네……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,10,とにかくまずは、イファ･ヨウのオフィスを目指してくれ。,"아무튼 먼저, 이화 요의 사무실로 향해라."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,10,とにかくまずは、イファ･ヨウのオフィスを目指してくれ。,"아무튼 먼저, 여이화의 사무실로 향해라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,11,くれぐれも、目立つ行動はするな。,"부디, 눈에 띄는 행동은 하지 마라."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,心の声,3,そういえばさっき、イファのオフィスの外に人がいたな。,"그러고 보니 아까, 이화의 사무실 밖에 사람이 있었지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,7,了解。,알겠습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,8,ああ。,아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,9,今、イファのオフィスの前に人がいるはずだ。,"지금, 이화의 사무실 앞에 사람이 있을 거다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,12,どんな人物だ？,어떤 인물이지?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,10,イファ･ヨウを調べていた捜査員だ。,이화 요를 조사하고 있던 수사원이다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,10,イファ･ヨウを調べていた捜査員だ。,여이화를 조사하고 있던 수사원이다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,11,背が高くてイケメンの男だ。,키 크고 잘생긴 남자다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,13,その人物の身分を聞いているんだ……,그 인물의 신원을 묻고 있는 거야……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,23,20,ハハハ、ジェイはユーモアたっぷりね！,"하하하, 제이는 유머 감각이 넘치네!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,12,イファ･ヨウを調べていた捜査員だ。,이화 요를 조사하고 있던 수사원이다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,12,イファ･ヨウを調べていた捜査員だ。,여이화를 조사하고 있던 수사원이다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Branch,#Simple,13,おそらく捜査員だ。,아마도 수사원일 거다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,14,了解。,알겠습니다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,決定組後23通話,Say,スイ･ニン,15,だが、すでにいない可能性もあるから、もう一度行ってみてくれ。,"하지만, 이미 없을 가능성도 있으니까, 다시 한번 가봐라."
@@ -6196,10 +6196,10 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,2,うん、問題ないでしょう？,"응, 문제없지?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Branch,#Simple,1,ああ、準備完了だ。,"그래, 준비 완료다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,3,良い返事！ますます気に入った！,좋은 대답이야! 점점 더 마음에 드는데!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,4,あー、でも、リュウセイが嫉妬しちゃうかも。,"아, 근데, 류세이가 질투할지도."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,4,あー、でも、リュウセイが嫉妬しちゃうかも。,"아, 근데, 유성이 질투할지도."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,リュウセイ･チョウ,0,しないっすよ……！,안 해요……!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Branch,#Simple,2,リュウセイはまだ来れないのか？,류세이는 아직 못 오는 건가?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,5,リュウセイさん？,류세이 씨?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Branch,#Simple,2,リュウセイはまだ来れないのか？,유성은 아직 못 오는 건가?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,5,リュウセイさん？,유성 씨?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,リュウセイ･チョウ,1,えっと……今、番号札を取ってるところで……,"저기……지금, 번호표 뽑고 있는 중이라서……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,6,無理ね。,무리네.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,7,ジェイ、任せた。,"제이, 맡길게."
@@ -6213,7 +6213,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,リュウセイ･チョウ,2,でもそれだと記録が残るっすよね？,근데 그러면 기록이 남잖아요?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,13,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,14,うん、でも……,"응, 근데……"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,リュウセイ･チョウ,3,スイ姉も記録が残ることは避けるべきだって……,스이 누나도 기록 남는 건 피해야 한다고……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,リュウセイ･チョウ,3,スイ姉も記録が残ることは避けるべきだって……,은영 누나도 기록 남는 건 피해야 한다고……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,15,わかったよ！もう一度彼女に確認すればいいでしょう……,알았어! 다시 한번 그녀한테 확인하면 되잖아……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,16,後でちゃんと彼女に聞く。でも今は任務中みたいなのよ……,나중에 제대로 그녀한테 물어볼게. 근데 지금은 임무 중인 것 같아서……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,0,……,……
@@ -6229,7 +6229,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,5,……,……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,6,わかった。,알았어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,7,……,……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,8,リュウセイではなく、ジェイが行動しているなら、痕跡を残さずに行動するのは無理だろう。,"류세이가 아니라, 제이가 움직이고 있다면, 흔적을 안 남기고 행동하는 건 무리겠지."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,8,リュウセイではなく、ジェイが行動しているなら、痕跡を残さずに行動するのは無理だろう。,"유성이 아니라, 제이가 움직이고 있다면, 흔적을 안 남기고 행동하는 건 무리겠지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,20,それで何をしてたの……？,그래서 뭘 하고 있었던 거야……?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,9,転送機を使ってエレベーターの権限を与えてもいい。,전송기를 써서 엘리베이터 권한을 줘도 좋다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,21,はぁ、これで大分楽になる。,"하, 이걸로 훨씬 편해지겠다."
@@ -6238,7 +6238,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,スイ･ニン,12,「清掃員」が来たから、そろそろ行く。,"「청소원」이 왔으니까, 슬슬 가겠다."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,心の声,2,清掃員……？,청소원……?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,22,わかった。じゃあね～,알았어. 그럼 안녕~
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,23,そういうことだけど、スイが言ったとおり、他の案があるなら試してみてもいいから。,"그렇다는 얘기인데, 스이가 말한 대로, 다른 방법이 있으면 시도해봐도 되니까."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,23,そういうことだけど、スイが言ったとおり、他の案があるなら試してみてもいいから。,"그렇다는 얘기인데, 은영이 말한 대로, 다른 방법이 있으면 시도해봐도 되니까."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,24,ないなら、そのままエレベーターに向かって。権限は私が与える。,"없으면, 그냥 엘리베이터로 가. 권한은 내가 줄게."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,回座位確定要去地窖偷資料,Say,23,25,以上。,이상.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,0,ジェイ！,제이!
@@ -6261,18 +6261,18 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,4,そうだ。,맞아.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,12,じゃ、問題ないじゃん！,"그럼, 문제없잖아!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,5,ボーちゃんのためにこっちを選びました。,구짱 때문에 이쪽을 선택했어요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,13,ハハハ！それタイミンにも聞かせてやってよね。,하하하! 그거 타이밍한테도 들려줘라.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,13,ハハハ！それタイミンにも聞かせてやってよね。,하하하! 그거 태민한테도 들려줘라.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,6,私は操作組を選びました。,저는 조작조를 선택했어요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,14,そうですか……,그런가요……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,14,そうですか……,그런가……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,15,ちょっと意外だったな。,좀 의외였어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,16,どうして操作組に？,왜 조작조로 간 거야?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,7,主に経済的な理由ですね。,주로 경제적인 이유예요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,8,人と接する仕事があまり好きじゃないので。,사람 상대하는 일을 별로 안 좋아해서요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,17,なるほどね。,그렇군요.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,17,なるほどね。,그렇구나.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,18,まあ、君が選んだことだしね！頑張って！,"뭐, 네가 선택한 거니까! 힘내!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,19,それにイーちゃんが選別組のオフィスを開放したから、これからは両組の交流も増えるだろうし。,"게다가 원짱이 선별조 사무실을 개방했으니까, 앞으로는 두 조 교류도 늘어날 거고."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,20,また会えるさ！,또 만날 수 있을 거야!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,9,タイミンとシンホンもそう言っていました。,타이밍이랑 신홍도 그렇게 말했어요.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,9,タイミンとシンホンもそう言っていました。,태민이랑 진형도 그렇게 말했어요.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,21,じゃ、今度皆で話そうよ。,"그럼, 다음에 다 같이 얘기하자."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Say,イエホン･キュウ,22,これはこれでいいかもしれない！君が操作組でスパイをしてくれれば有り難いし……フフフッ。,이것도 이거대로 괜찮을지도! 네가 조작조에서 스파이 노릇 해주면 고맙고……흐흐흣.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,現在才遇到球球,Branch,#Simple,10,断る！,거절할게요!
@@ -6315,7 +6315,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,發現�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,心の声,0,本当に誰もいない……,정말로 아무도 없다……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,心の声,1,何をすればいいんだ？,뭘 하면 되지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Branch,#Simple,0,23号、入ったぞ。,"23호, 들어왔다."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,23,0,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,23,0,了解。,알았어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Branch,#Simple,1,何をすればいい？,뭘 하면 되지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,23,1,操作組には、自動棚上げシステムを修理する部屋があるはずよ。,"조작조에는, 자동 선반 시스템을 수리하는 방이 있을 거야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,心の声,2,昨日、俺が棚上げしてた部屋か……,"어제, 내가 선반 정리했던 방인가……"
@@ -6328,12 +6328,12 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,23,5,それで上がれば着くと思う。,그걸로 올라가면 도착할 거야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,23,6,あ、ジェイ！,"아, 제이!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,23聯絡確定沒人,Say,23,7,システムの電源供給が切られているから、隣にある制御台から起動させて。,"시스템 전원 공급이 끊겨 있으니까, 옆에 있는 제어대에서 기동시켜."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,巧遇何跳想法,Say,心の声,0,あれは、レイカ･ホウ……？,"저건, 레이카 호……?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,巧遇何跳想法,Say,心の声,0,あれは、レイカ･ホウ……？,"저건, 하연수……?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,リン･テイ,0,サ、サプライズ……！,"서, 서프라이즈……!"
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,0,リン！？それにスイ･ニンも？,린!? 게다가 스이닝까지?
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,0,リン！？それにスイ･ニンも？,린!? 게다가 주은영까지?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,0,ちょっと、リンリン。もっと元気にやらないと！,"야, 린린. 더 힘차게 해야지!"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,0,リン？どうしてこんなところにいるんだ？,린? 여긴 왜 있는 거야?
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,リン･テイ,1,スイさんが連れて来てくれたの。,스이 씨가 데려와줬어.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,リン･テイ,1,スイさんが連れて来てくれたの。,은영 씨가 데려와줬어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,1,リン。,린.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,リン･テイ,2,ヘヘッ。,헤헷.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,2,……,……
@@ -6345,8 +6345,8 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,3,ちなみに、うちは運転席にいるよ。後ろは狭すぎるからね。,"참고로, 나는 운전석에 있어. 뒤는 너무 좁으니까."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,4,誰かさんが大きな車を買ってくれないのよ。,누구 씨가 큰 차를 안 사줘서 말이야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,1,私の経費で君の設備交換をした気がするな。,내 경비로 네 장비 교체를 해준 것 같은데.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,5,スイさん大好き！,스이 씨 사랑해!
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,1,スイ･ニンはさっきまで危険な任務に行ってたはずだが……,스이닝은 방금까지 위험한 임무를 하고 있었을 텐데……
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,5,スイさん大好き！,은영 씨 사랑해!
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,1,スイ･ニンはさっきまで危険な任務に行ってたはずだが……,주은영은 방금까지 위험한 임무를 하고 있었을 텐데……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,5,来るのが速かったな。,오는 게 빨랐네.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,6,さっきまで任務だったんだろ？,방금까지 임무 중이었잖아?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,2,ギャングからの逃亡者を追うだけの簡単な任務だ。すぐ終わらせた。,갱단에서 도망친 자를 쫓는 간단한 임무였어. 금방 끝냈지.
@@ -6375,7 +6375,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,15,23号、見えるか？,"23호, 보여?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,6,うん。,응.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,23,7,ちょっと時間がかかりそうね。,시간이 좀 걸릴 것 같네.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,16,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,16,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,17,しばらく待つしかないようだ。,당분간 기다릴 수밖에 없는 것 같다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,18,では……,그럼……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,19,ジェイ、大丈夫か？,"제이, 괜찮아?"
@@ -6386,36 +6386,36 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,17,俺の人生がめっちゃくちゃだ。,내 인생이 완전 엉망진창이야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,18,大手企業が俺の彼女を殺そうとしている。,대기업이 내 여자친구를 죽이려 하고 있어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,リン･テイ,3,ジェイ……,제이……
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,19,リュウセイのせいで、今日の任務を俺一人でやった。,"류성 때문에, 오늘 임무를 나 혼자 했어."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,19,リュウセイのせいで、今日の任務を俺一人でやった。,"유성 때문에, 오늘 임무를 나 혼자 했어."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,20,特に理由はない。,딱히 이유는 없어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,22,わかりました。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,22,わかりました。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,21,どういう意味だ？,무슨 뜻이야?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,23,君はさっきまで潜入任務を行っていたからな。君の精神状態を知りたいんだ。,너는 방금까지 잠입 임무를 하고 있었으니까. 네 정신 상태를 알고 싶어서.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,24,昨日と今日で、君は二度もメイ･ジョと接触していた……,"어제랑 오늘, 너는 두 번이나 메이 조랑 접촉했었지……"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,24,昨日と今日で、君は二度もメイ･ジョと接触していた……,"어제랑 오늘, 너는 두 번이나 서유나랑 접촉했었지……"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,4,23号がセラーでの出来事を伝えたのか。,23호가 저장고에서 있었던 일을 전한 건가.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,25,メイ･ジョについて、君はどう思っている？,"메이 조에 대해서, 너는 어떻게 생각해?"
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,25,メイ･ジョについて、君はどう思っている？,"서유나에 대해서, 너는 어떻게 생각해?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,5,面倒くさい女だと思っているな……,귀찮은 여자라고 생각하고 있군……
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,22,特になにも。,딱히 아무것도.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,26,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,26,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,23,利用できる人間だと思っている。,이용할 수 있는 사람이라고 생각해.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,27,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,27,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,6,俺の答えが気に入ったみたいだ。,내 대답이 마음에 든 것 같다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,24,彼女は脅威だ。それ以上でも、それ以下でもない。,"그 여자는 위협이야. 그 이상도, 그 이하도 아니야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,28,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,28,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,25,彼女は万象の操り人形だ。,그 여자는 완샹의 꼭두각시야.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,29,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,29,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,30,では、さっきまでの潜入任務についてはどう思う？,"그럼, 방금까지의 잠입 임무에 대해선 어떻게 생각해?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,心の声,7,目標の達成のためには、やらざるを得ないこと。,"목표 달성을 위해서는, 안 할 수 없는 일이지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,26,これは俺の仕事ではなかった。,이건 내 일이 아니었어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,27,危険、刺激的、挑戦的？,"위험하고, 짜릿하고, 도전적이었달까?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,28,目標の達成のためには、やらざるを得ないこと。,"목표 달성을 위해서는, 안 할 수 없는 일이지."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,29,特に考えはない。,딱히 생각은 없어.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,31,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,31,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,32,それと。,그리고.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,33,君はさっき、私に人を殺したかと聞いた。それはなぜ？,"너는 아까, 나한테 사람을 죽였냐고 물었지. 그건 왜야?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,30,ただの好奇心だ。,그냥 호기심이야.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,31,わかりません。,모르겠어요.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,34,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,34,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,32,自分がどんなやつと一緒に働いているのか、知りたかっただけだ。,"내가 어떤 녀석이랑 같이 일하고 있는지, 알고 싶었을 뿐이야."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,35,ではさっきの質問で、それはわかったのか？,"그럼 아까 그 질문으로, 그걸 알았어?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,33,人を殺したかどうかはどうでもいい。俺はただあんたの反応が見たかっただけだ。,사람을 죽였는지 아닌지는 상관없어. 나는 그냥 네 반응이 보고 싶었을 뿐이야.
@@ -6430,13 +6430,13 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,41,ならば、正しいことになるのか？,"그럼, 옳은 일이 되는 건가?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,37,正しいと思う。,옳다고 생각해.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,38,正しいとは言えないが、間違いとも言えない。,"옳다고는 못 하지만, 잘못이라고도 못 해."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,42,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,42,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,39,なんだと？,뭐라고?
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,43,つまり、そういった場合での殺人は、正しいことになるのか？,"그러니까, 그런 경우의 살인은, 옳은 일이 된다는 거야?"
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,40,ああ、殺人は間違いだ。,"그래, 살인은 잘못됐어."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,44,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,44,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,41,少なくとも俺にとって殺人は、間違いだ。,"적어도 나한테 살인은, 잘못된 일이야."
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,45,了解。,알겠습니다.
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,45,了解。,알았다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,42,そう思う。,그렇게 생각해.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,46,聞き方を変えよう。,질문 방식을 바꿔볼게.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,43,心理テストでもしているのか？,심리 테스트라도 하는 거야?
@@ -6454,7 +6454,7 @@ scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一�
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,51,ここまでにしよう。,여기까지 하자.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,52,君は急な潜入任務を見事にやり遂げた。ご苦労様。,너는 갑작스러운 잠입 임무를 훌륭하게 해냈어. 수고했다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,53,そうだ。,맞아.
-scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,54,君は、自分でイファ･ヨウのオフィスを開ける方法を見つけたみたいだね。,"너는, 스스로 이화 요의 사무실을 여는 방법을 찾아낸 것 같더군."
+scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,54,君は、自分でイファ･ヨウのオフィスを開ける方法を見つけたみたいだね。,"너는, 스스로 여이화의 사무실을 여는 방법을 찾아낸 것 같더군."
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,55,それとセラーへ行く方法も見つけたと23号から聞いた。,그리고 저장고로 가는 방법도 찾아냈다고 23호한테서 들었어.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Say,スイ･ニン,56,よくやった。,잘했다.
 scene_day3_scenes_fab_day3_logic_6346ee10c065ccc051a489a1ecff7695.bundle,第一次進貨車,Branch,#Simple,49,他人の手を借りただけだ。,다른 사람 손을 빌렸을 뿐이야.
