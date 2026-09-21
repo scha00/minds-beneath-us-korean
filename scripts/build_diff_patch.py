@@ -9,6 +9,8 @@ install/patches/ 에 <번들명>.xd + <번들명>.meta 를 만든다. 원본 게
 번들 폴더에는 patch_workbook.py / patch_dialogue.py 가 만든 *.bundle 이 있어야 한다.
 """
 import glob
+import json
+import re
 import hashlib
 import os
 import subprocess
@@ -21,6 +23,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESOURCE = os.path.join(ROOT, "resource")
 OUT = os.path.join(ROOT, "install", "patches")
 TMP = os.path.join(ROOT, "review", "_tmp_diff")
+
+
+CRC_MAP = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "bundle_crc.json")))
 
 
 def sha256(data):
@@ -38,6 +43,21 @@ def main():
         orig_raw = open(orig_path, "rb").read()
         o = bundlefs.parse(orig_path)
         n = bundlefs.parse(path)
+        # Addressables 카탈로그에서 CRC 검사가 켜진 번들이면, 스트림에 4바이트를 끼워 CRC32 를 원본과 맞춘다.
+        m = re.search(r"([0-9a-f]{32})\.bundle$", name)
+        want_crc = CRC_MAP.get(m.group(1)) if m else None
+        if want_crc:
+            nodes = list(n["nodes"])
+            k = max(i for i, nd in enumerate(nodes) if nd[3].endswith(".resS"))
+            pos = nodes[k][0] + nodes[k][1]
+            n["stream"] = bundlefs.forge_crc(n["stream"], pos, want_crc)
+            fixed, cur = [], 0
+            for i, (_o, sz, f, nm) in enumerate(nodes):
+                sz2 = sz + 4 if i == k else sz
+                fixed.append((cur, sz2, f, nm))
+                cur += sz2
+            n["nodes"] = fixed
+            print(f"  [CRC 맞춤] {name[:40]}: {want_crc} ({nodes[k][3]} 뒤 4바이트)", flush=True)
         off = 0
         for noff, nsz, _f, _n in n["nodes"]:
             assert noff == off, f"{name}: 노드 오프셋이 연속이 아님"

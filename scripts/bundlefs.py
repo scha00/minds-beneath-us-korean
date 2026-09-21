@@ -113,3 +113,55 @@ def build(info, stream, out_path):
         f.write(head)
         f.write(body)
         f.write(comp_bi)
+
+
+# ---- CRC32 맞추기 (Addressables CRC 검사 통과용) ----
+import zlib
+
+
+def _crc(data):
+    return zlib.crc32(data) & 0xFFFFFFFF
+
+
+def forge_crc(stream, pos, target):
+    """stream 의 pos 위치에 4바이트를 끼워 넣어 전체 CRC32 가 target 이 되게 만든다.
+
+    CRC32 는 GF(2) 위에서 선형이라, 4바이트를 0으로 채운 CRC 와 각 비트만 1로 켠 CRC 들의 차이(32개)로
+    연립방정식을 풀면 필요한 4바이트를 구할 수 있다.
+    """
+    head, tail = stream[:pos], stream[pos:]
+    st = zlib.crc32(head)  # CRC 이어 붙이기(chaining)로 큰 스트림 복사 없이 계산
+
+    def crc_with(x):
+        return zlib.crc32(tail, zlib.crc32(x, st)) & 0xFFFFFFFF
+
+    base = crc_with(bytes(4))
+    cols = []
+    for bit in range(32):
+        x = bytearray(4)
+        x[bit // 8] = 1 << (bit % 8)
+        cols.append(crc_with(bytes(x)) ^ base)
+    want = target ^ base
+    # 가우스 소거: sum_i x_i * cols[i] = want
+    rows = list(cols)  # rows[i] = 열 벡터(32비트), 미지수 i
+    basis = []         # (벡터, 조합 마스크)
+    for i, v in enumerate(rows):
+        mask = 1 << i
+        for bv, bm in basis:
+            if v ^ bv < v:
+                v ^= bv
+                mask ^= bm
+        if v:
+            basis.append((v, mask))
+            basis.sort(key=lambda t: -t[0])
+    v, mask = want, 0
+    for bv, bm in basis:
+        if v ^ bv < v:
+            v ^= bv
+            mask ^= bm
+    if v != 0:
+        raise ValueError("CRC 맞추기 실패(해가 없음)")
+    xb = bytes((mask >> (8 * k)) & 0xFF for k in range(4))
+    out = head + xb + tail
+    assert _crc(out) == target, "CRC 검증 실패"
+    return out
