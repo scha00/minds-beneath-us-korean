@@ -82,11 +82,11 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Branch,#Simple,13,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,19,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,20,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,21,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,22,ショウさんが覚えてなかったことに怒ってるの？,소 씨가 기억 못 한 거 때문에 화난 거야?
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,22,ショウさんが覚えてなかったことに怒ってるの？,소명훈 씨가 기억 못 한 거 때문에 화난 거야?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,23,さっきのジェイは、ちょっと険悪だった……,"아까 제이는, 좀 험악했어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,24,まさかこんなことで感情的になるとは、知らなかったよ。,"설마 이런 걸로 감정적이 될 줄은, 몰랐네."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,25,こういうのは鈍感だと思ってた……,이런 건 둔감할 거라고 생각했었는데……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,26,まさかショウさんを知ってたとはね。,설마 소 씨를 알고 있었을 줄이야.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,26,まさかショウさんを知ってたとはね。,설마 소명훈 씨를 알고 있었을 줄이야.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,27,でも……そっか！,근데……아 맞다!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,28,前は同じセキュリティ会社に勤めてたから、知ってても不思議じゃないか！,"전에는 같은 보안 회사에 다녔었으니까, 알아도 이상할 게 없지!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,29,……,……
@@ -131,7 +131,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,56,はぁ…�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,57,まあいいや！今考えてもしょうがないよね！,뭐 됐어! 지금 생각해봤자 소용없지!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,58,仕事、仕事！,"일하자, 일!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,59,さっきジェイも私たちがチョウアンに住んでることを言ったよね！,아까 제이도 우리가 쵸안에 산다고 말했었지!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,60,ショウさんはいい人だね。,소 씨는 좋은 사람이네.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,60,ショウさんはいい人だね。,소명훈 씨는 좋은 사람이네.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,Start,Say,リン･テイ,61,よっし、仕事、仕事！,"좋아, 일하자, 일!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,0,そんな急がないで。,그렇게 서두르지 마.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,1,興奮してるの？,흥분한 거야?
@@ -154,7 +154,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,14,昔の北区はほとんど万象システムに頼ってたけど、今では少しずつ需要を他の集団に任せるようになったの。,"예전 북구는 대부분 완샹 시스템에 의존했었지만, 지금은 조금씩 수요를 다른 집단한테 맡기게 됐어."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,15,本社が、一度この工場を閉鎖しようとしたの……,"본사가, 한 번은 이 공장을 폐쇄하려고 했었어……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,心の声,1,俺は沈みかかった船に乗ったのか……,나는 침몰하려던 배에 탄 건가……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,16,でもマネージャーのヨウさんが来て、工場の生産効率を何倍にも上げたの！,"근데 매니저 여 씨가 와서, 공장 생산 효율을 몇 배나 올렸어!"
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,16,でもマネージャーのヨウさんが来て、工場の生産効率を何倍にも上げたの！,"근데 매니저 여이화 씨가 와서, 공장 생산 효율을 몇 배나 올렸어!"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,3,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Say,リン･テイ,17,とりあえず、とてもやり手のリーダーなんだよ。,"아무튼, 굉장히 유능한 리더야."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟程芳等電梯對話,Branch,#Simple,4,彼女はどんな人なんだ？,그 사람은 어떤 사람이지?
@@ -1925,7 +1925,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Branch,#Simple,23,
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Say,心の声,8,なぜ俺はこんなことを？,왜 나는 이런 소리를……?
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Branch,#Simple,24,あなたがどうしてそんな悪い議員に票を入れるのかわかりません。,당신이 왜 그런 나쁜 의원한테 표를 주는지 이해가 안 갑니다.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Say,ユウセイ･ダイ,42,悪い議員とはなんだ？支持した人間の面倒をちゃんと見てくれる議員だぞ！,나쁜 의원이라니 뭐가! 지지한 사람 뒤를 제대로 봐주는 의원이라고!
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Say,ユウセイ･ダイ,43,大したことない俺の家にだって、行事の際にはコミンさんは必ず来てくれる。,"별거 아닌 우리 집에도, 행사 때는 코민 씨가 꼭 와준다."
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Say,ユウセイ･ダイ,43,大したことない俺の家にだって、行事の際にはコミンさんは必ず来てくれる。,"별거 아닌 우리 집에도, 행사 때는 하민호 씨가 꼭 와준다."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Say,ユウセイ･ダイ,44,あなたこそ、自分が支持した議員に会ったことあるのか？話したことすらないだろう？,"당신이야말로, 자기가 지지한 의원 만나본 적 있어? 얘기해본 적조차 없잖아?"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Say,心の声,9,確かにその通りだ……,확실히 맞는 말이다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,戴勇誠政治爆氣,Branch,#Simple,25,そうですね。,그러네요.
@@ -2697,7 +2697,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Branch,#Simp
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,イファ･ヨウ,46,確かにこう言った喧嘩は、往々にして討論から派生するものだ。,"확실히 이런 싸움은, 종종 토론에서 파생되는 법이지."
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,イファ･ヨウ,47,喧嘩にならず、討論出来るほどのコミュニケーション能力が貴方にあると期待していたが……,"싸움으로 안 번지고, 토론이 가능할 만큼의 소통 능력이 당신한테 있을 거라 기대했지만……"
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Branch,#Simple,14,……,……
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,イファ･ヨウ,48,貴方の能力不足のせいでダイさんは帰ってしまった。,당신의 능력 부족 탓에 최 씨는 돌아가버렸어.
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,イファ･ヨウ,48,貴方の能力不足のせいでダイさんは帰ってしまった。,당신의 능력 부족 탓에 최정용 씨는 돌아가버렸어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,イファ･ヨウ,49,貴方は面接の仕事を成し遂げられなかった。,당신은 면접이라는 일을 완수하지 못했어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,心の声,11,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,跟阿姨說自己要選誰,Say,イファ･ヨウ,50,それと、最後の面接者、ハン･リュウとの喧嘩も見ていた。,"그리고, 마지막 면접자, 류한명과의 싸움도 봤어."
@@ -4394,7 +4394,7 @@ c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テ�
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Branch,#Simple,1,リンに会ってから教えようと思ったんだ。,린 만나고 나서 알려주려고 했어.
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テイ,5,ダメ！今度はすぐ知らせて！,안 돼! 다음엔 바로 알려줘!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テイ,6,他の人づてに聞いた時、どんなに焦ったと思う？,"다른 사람 통해서 들었을 때, 내가 얼마나 놀랐는지 알아?"
-c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テイ,7,ゲンさんが止めなかったら……あなたに会いに下に行ってたのよ！,엄 씨가 안 말렸으면……너 만나러 아래로 내려갔을 거야!
+c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テイ,7,ゲンさんが止めなかったら……あなたに会いに下に行ってたのよ！,엄승환 씨가 안 말렸으면……너 만나러 아래로 내려갔을 거야!
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,心の声,1,声が震えてる……,목소리가 떨리고 있다……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テイ,8,……,……
 c56402ff2d4caa5bf2fe6bc1fb1eff21.bundle,大廳和程芳說話,Say,リン･テイ,9,大丈夫なの？本当に心配してるのよ……,괜찮은 거야? 진짜 걱정했단 말이야……
